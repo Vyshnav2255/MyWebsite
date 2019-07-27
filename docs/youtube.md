@@ -6,7 +6,7 @@ weight: 4
 ---
 
 # **Youtube**
-{% include elements/button.html link="https://github.com/" text="Subscribe" block="true" style="danger" %}
+{% include elements/button.html link="https://www.youtube.com/channel/UCtwn-uWVXKNahgpwuzGqLSw?view_as=subscriber?sub_confirmation=1" text="Subscribe" block="true" style="danger" %}
 
 {% include elements/video.html id="gLcB8vd1iKA" %}
 ##### Sodayum Vellavum Bloopers Final Vyshnav Gangadharan Ajay t Jose
