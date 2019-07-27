@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Vyshnav Gangadharan
 description         : >-                               # >- means to ignore newlines until "url:"
                       I turn coffee into code,
                       use tabs over spaces
@@ -12,7 +12,7 @@ repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on 
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Vyshnav Gangadharan
   image             : https://bit.ly/2KCvgVJ
   behance           : your_username
 # dribbble          : your_username
