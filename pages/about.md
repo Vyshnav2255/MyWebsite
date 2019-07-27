@@ -22,6 +22,18 @@ A 20-year-old Graphic designer currently pursuing B.Tech (Chemical engineering) 
 
 </div>
 
+<p class="text-center">
+{% include elements/button.html link="" text="WORK EXPERIENCE" style="danger" %}
+</p>
+
+<div class="row">
+{% include about/edu-time.html %}
+</div>
+
+<p class="text-center">
+{% include elements/button.html link="" text="EDUCATION" style="danger" %}
+</p>
+
 <div class="row">
 {% include about/timeline.html %}
 </div>
