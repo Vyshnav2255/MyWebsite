@@ -1,7 +1,7 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: Film Direction
+  percentage: 85
+  color: danger
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Scrip Writting
+  percentage: 85
+  color: danger

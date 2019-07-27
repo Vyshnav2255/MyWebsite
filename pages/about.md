@@ -8,11 +8,18 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}**,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A 20-year-old Graphic designer currently pursuing B.Tech (Chemical engineering) in National Institute of Technology, Calicut. I started using Photoshop at the age of 14. As a design enthusiast, I have good experience in working with many kinds of graphic designing software and have experience designing a logo to motion graphics. I also love writing script for short film as well as direction. 
+
+<p class="text-center">
+{% include elements/button.html link="https://github.com/" text="Download CV" size="lg" style="warning" %} {% include elements/button.html link="mailto:vyshnav003@gmail.com" text="Hire Me" size="lg" style="outline-warning" %}
+<p>
 
 <div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Designing Skills" source=site.data.designing-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+
+
 </div>
 
 <div class="row">
