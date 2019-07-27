@@ -9,6 +9,7 @@ weight: 4
 
 {% include elements/video.html id="gLcB8vd1iKA" %}
 ##### Sodayum Vellavum Bloopers Final Vyshnav Gangadharan Ajay t Jose
-{% include elements/button.html link="" text="ShortFilm" size="sm" % style="color:#fff"}
-{% include elements/button.html link="" text="Malayalam" size="sm" %}
-{% include elements/button.html link="" text="Sodayum Vellavum" size="sm" %}
+{% include elements/tag.html data="ShortFilm" %}
+{% include elements/tag.html data="Malayalam" %}
+{% include elements/tag.html data="Sodayum Vellavum" %}
+
