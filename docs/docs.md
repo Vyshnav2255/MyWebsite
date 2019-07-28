@@ -5,7 +5,7 @@ permalink: /Freebies/
 weight: 5
 ---
 
-# Freebies
+# **Freebies**
 
 <div class="card" style="width: 18rem;">
   <img class="card-img-top" src="https://cdn.dribbble.com/users/2181690/screenshots/6802502/shot-cropped-1563435554537.png" alt="Card image cap">
