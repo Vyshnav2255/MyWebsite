@@ -48,15 +48,23 @@ collections:
     output: true
     permalink: /projects/:name
 
+  freebies:
+    output: true 
+    permalink: /freebies/:name
+
 
 ### Defaults for collections ###
 defaults:
   - scope:
       path: ""
       type: "projects"
-    values:
+      values:
+      layout: "page"     
+  - scope:
+      path: ""
+      type: "freebies"
+      values:
       layout: "page"
-
 
 ### Exclude from processing ###
 exclude:
