@@ -9,7 +9,7 @@ behance:
 dribbble:
   url   : https://dribbble.com/
   icon  : fab fa-dribbble
-  color : 444444
+  color : ea4c89
 
 email:
   url   : "mailto:"
@@ -34,7 +34,7 @@ gitlab:
 instagram:
   url   : https://www.instagram.com/
   icon  : fab fa-instagram
-  color : 405de6
+  color : C13584
 
 linkedin:
   url   : https://www.linkedin.com/in/
