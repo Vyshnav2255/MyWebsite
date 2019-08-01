@@ -11,7 +11,7 @@ Hi I am **{{ site.author.name }}**,<br>
 A 20-year-old Graphic designer currently pursuing B.Tech (Chemical engineering) in National Institute of Technology, Calicut. I started using Photoshop at the age of 14. As a design enthusiast, I have good experience in working with many kinds of graphic designing software and have experience designing a logo to motion graphics. I also love writing script for short film as well as direction. 
 
 <p class="text-center">
-{% include elements/button.html link="http://drive.google.com/uc?export=view&id=1xTUQS3q5q7NwCZHlPheGKwnOlpT6FvEv" text="Download CV" size="lg" style="success" %} {% include elements/button.html link="https://forms.gle/MnF1VwhAobHHCxiX6" text="Hire Me" size="lg" style="outline-success" %}
+{% include elements/button.html link="http://drive.google.com/uc?export=view&id=1xTUQS3q5q7NwCZHlPheGKwnOlpT6FvEv" text="Download CV" size="lg" style="success" %} {% include elements/button.html link="mailto:vyshnav003@gmail.com" text="Hire Me" size="lg" style="outline-success" %}
 <p>
 
 <div class="row">
