@@ -19,28 +19,48 @@ weight: 4
 {% include elements/tag.html data="ShortFilm" %}
 {% include elements/tag.html data="Malayalam" %}
 {% include elements/tag.html data="Sodayum Vellavum" %}
+{% include elements/tag.html data="Bloopers" %}
 
-{% include elements/video.html id="gLcB8vd1iKA" %}
-##### Sodayum Vellavum Bloopers Final Vyshnav Gangadharan Ajay t Jose
+{% include elements/video.html id="gXBhMexZ3_U" %}
+##### Sodayum Vellavum Bloopers Day 2 Vyshnav Gangadharan Ajay t Jose
+{% include elements/tag.html data="ShortFilm" %}
+{% include elements/tag.html data="Malayalam" %}
+{% include elements/tag.html data="Sodayum Vellavum" %}
+{% include elements/tag.html data="Bloopers" %}
+
+{% include elements/video.html id="227jzMh_44Y" %}
+##### Sodayum Vellavum Bloopers Day 1 Vyshnav Gangadharan Ajay t Jose
+{% include elements/tag.html data="ShortFilm" %}
+{% include elements/tag.html data="Malayalam" %}
+{% include elements/tag.html data="Sodayum Vellavum" %}
+{% include elements/tag.html data="Bloopers" %}
+
+{% include elements/video.html id="p570nH3HLx8" %}
+##### Sodayum Vellavum Malayalam Comedy Shortfilm 2019 Vyshnav Gangadharan Ajay T Jose Aromal Jaison
 {% include elements/tag.html data="ShortFilm" %}
 {% include elements/tag.html data="Malayalam" %}
 {% include elements/tag.html data="Sodayum Vellavum" %}
 
-{% include elements/video.html id="gLcB8vd1iKA" %}
-##### Sodayum Vellavum Bloopers Final Vyshnav Gangadharan Ajay t Jose
+{% include elements/video.html id="ibN8NX7xzew" %}
+##### Sodayum Vellavum Official Trailer Malayalam Shortfilm 2019
 {% include elements/tag.html data="ShortFilm" %}
 {% include elements/tag.html data="Malayalam" %}
 {% include elements/tag.html data="Sodayum Vellavum" %}
 
-{% include elements/video.html id="gLcB8vd1iKA" %}
-##### Sodayum Vellavum Bloopers Final Vyshnav Gangadharan Ajay t Jose
+{% include elements/video.html id="A6n9uZ9b-4c" %}
+##### Sodayum Vellavum Official Teaser Malayalam Shortfilm 2019
 {% include elements/tag.html data="ShortFilm" %}
 {% include elements/tag.html data="Malayalam" %}
 {% include elements/tag.html data="Sodayum Vellavum" %}
 
-{% include elements/video.html id="gLcB8vd1iKA" %}
-##### Sodayum Vellavum Bloopers Final Vyshnav Gangadharan Ajay t Jose
+{% include elements/video.html id="EaEUe6YZ3Zo" %}
+##### Start Camera Action Logo Reveal
 {% include elements/tag.html data="ShortFilm" %}
 {% include elements/tag.html data="Malayalam" %}
-{% include elements/tag.html data="Sodayum Vellavum" %}
+{% include elements/tag.html data="Film Distribution" %}
 
+{% include elements/video.html id="g_M225C4oeo" %}
+##### Story of My First Kiss - A Malayalam Short film
+{% include elements/tag.html data="ShortFilm" %}
+{% include elements/tag.html data="Malayalam" %}
+{% include elements/tag.html data="Kiss" %}
