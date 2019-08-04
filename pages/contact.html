@@ -26,10 +26,12 @@ weight: 5
             .form-control {
                 border: none;
                 outline: none;
-                border: 1px solid ;
+                border: 1px;
                 font-size: 18px;
                 display: flex;
                 justify-content: center;
+                border-radius: 20px;
+                background-color: rgb(221, 221, 221);
                 }
             .form-submit {
                 background: crimson;
@@ -64,15 +66,15 @@ weight: 5
           <div class="form-container">
             <form action="https://docs.google.com/forms/d/e/1FAIpQLScn081JOZQTbi1_VnJ8o4hno_h9DCisbLuhoRwnibSl_tXGZw/formResponse" method="post" style="text-align: center" target="hidden_iframe" onsubmit="submitted=true;">
 
-                <input class="form-control" type="text" placeholder="Name" name="entry.2005620554" required><br>
+                <input class="form-control" type="text" placeholder="Name*" name="entry.2005620554" required><br>
             
-                <input class="form-control" type="email" placeholder="Email address" name="entry.1045781291" required><br>
+                <input class="form-control" type="email" placeholder="Email address*" name="entry.1045781291" required><br>
 
                 <input class="form-control" type="phone" placeholder="Phone Number" name="entry.1166974658"><br>
               
-                <input class="form-control" type="text" placeholder="Subject" name="entry.918727397" required><br>
+                <input class="form-control" type="text" placeholder="Subject*" name="entry.918727397" required><br>
               
-                <textarea class="form-control" rows="5" placeholder="Message" name="entry.839337160" required></textarea><br>
+                <textarea class="form-control" rows="5" placeholder="Message*" name="entry.839337160" required></textarea><br>
                 <input type="hidden" name="_next" value="/thankyou.html" />
                 <button class="form-submit" style="color: white" type="submit">Send</button>
                 
