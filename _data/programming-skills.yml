@@ -1,7 +1,11 @@
 - name: HTML5/CSS3
-  percentage: 20
+  percentage: 35
   color: info
 
 - name: Python
   percentage: 10
+  color: info
+
+- name: Github
+  percentage: 75
   color: info
