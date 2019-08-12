@@ -2,8 +2,7 @@
 title               : Vyshnav Gangadharan
 description         : >-                               # >- means to ignore newlines until "url:"
                       An engineer who loves
-                      Graphics Designing & 
-                      Film making
+                      Graphics Designing, Film making & Coding.
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : "/"                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
