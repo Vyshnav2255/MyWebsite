@@ -8,7 +8,7 @@ external_url:
 ## **Notion Icons Png**
 ---
 
-![alt text](/images/bies/9999.jpg "Building Image")
+![alt text](https://drive.google.com/uc?export=view&id=1ZptOcixMDIuoR9Iwx-YcCwtgQTg4fvmD "Notion Icons Png")
 
 
 
