@@ -4,17 +4,17 @@
     "description": "Designer",
     "icons": [
       {
-        "src": "/Icons/icons-192.png",
+        "src": "/Icons/icon-192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/Icons/icons-512.png",
+        "src": "/Icons/icon-512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
     ],
-    "start_url": "https://vyshnavgangadharan.me",
+    "start_url": "/?source=pwa",
     "background_color": "#3367D6",
     "display": "standalone",
     "scope": "/",
