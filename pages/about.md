@@ -6,7 +6,7 @@ weight: 3
 ---
 
 # **About Me**
-
+<link rel="manifest" href="/manifest.json">
 Hi I am **{{ site.author.name }}**,<br>
 A 20-year-old Graphic designer currently pursuing B.Tech (Chemical engineering) in National Institute of Technology, Calicut. I started using Photoshop at the age of 14. As a design enthusiast, I have good experience in working with many kinds of graphic designing software and have experience designing a logo to motion graphics. I also love writing script for short film as well as direction. 
 
