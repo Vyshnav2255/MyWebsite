@@ -20,6 +20,15 @@
   <!-- Custom CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" type="text/css">
   <link rel="manifest" href="/manifest.json">
+  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+  <script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "b3c4dfb4-6e5b-4252-a310-9ca0774d6015",
+    });
+  });
+  </script>
   <script>
     // Check that service workers are supported
     if ('serviceWorker' in navigator) {
