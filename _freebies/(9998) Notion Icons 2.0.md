@@ -16,7 +16,6 @@ These are the **updated** version of my last Icon pack. And as always it will ma
 
 ![alt text](https://github.com/Vyshnav2255/Vyshnav2255.github.io/blob/master/Images/Bies/9998-1.jpg?raw=true "Notion Icons 2.0")
 And guys it also supports Notion **dark mode**. **Follow my social media for updates.**
-You can download this icon pack by going to my Dribbble page.
 
 
 <p class="text-center">
