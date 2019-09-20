@@ -15,7 +15,7 @@ A 20-year-old Graphic designer currently pursuing B.Tech (Chemical engineering) 
 <p>
 
 <div class="row">
-{% include about/skills.html title="Designing Skills" source=site.data.designing-skills %}
+{% include about/skills.html title="Software Skills" source=site.data.software-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 
