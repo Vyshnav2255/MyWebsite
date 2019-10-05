@@ -48,7 +48,7 @@ collections:
 
   freebies:
     output: true 
-    permalink: /freebies/:name
+    permalink: /blog/:name
 
 
 ### Defaults for collections ###
