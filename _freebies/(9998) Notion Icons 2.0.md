@@ -21,6 +21,3 @@ And guys it also supports Notion **dark mode**. **Follow my social media for upd
 <p class="text-center">
 {% include elements/button.html link="https://dribbble.com/shots/7170942-Notion-Icons-2-0" text="Download Here" style="danger" %}
 </p>
-<p class="text-center">
-{% include elements/button.html link="https://forms.gle/4fqkdbDvpKUz8oCV8" text="Request Icons" style="primary" %}
-</p>
