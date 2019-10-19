@@ -12,7 +12,7 @@ external_url:
 
 
 
-These are some Icons which I made for my **Notion workspace**. These are bright, vibrant and modern icons that I made using **Adobe Photoshop** and **Google Icon Library**. This pack is **free** and easy to use PNG icons, which will make your Notion workspace more colorful and modern. This pack will be updated every month. **Follow my social media for updates.**
+These are some Icons which I made for my **Notion workspace**. These are bright, vibrant and modern icons that I made using **Adobe Photoshop** and **Google Icon Library**. This pack is **free** and easy to use PNG icons, which will make your Notion workspace more colorful and modern.**Follow my social media for updates.**
 
 You can download this icon pack by going to my Dribbble page.
 
