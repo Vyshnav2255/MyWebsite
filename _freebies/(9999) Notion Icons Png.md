@@ -8,7 +8,7 @@ external_url:
 ## **Notion Icons Png**
 ---
 
-![alt text](https://github.com/Vyshnav2255/MyWebsite/blob/master/Images/Bies/9999.jpg?raw=true"Notion Icons Png")
+![alt text](/Images/Bies/9999.jpg"Notion Icons Png")
 
 
 
