@@ -21,6 +21,7 @@ And guys it also supports Notion **dark mode**. **Follow my social media for upd
 <p class="text-center">
 {% include elements/button.html link="https://dribbble.com/shots/7170942-Notion-Icons-2-0" text="Download Here" style="danger" %}
 </p>
+
 {% if page.comments %}
 
 <div id="disqus_thread"></div>
