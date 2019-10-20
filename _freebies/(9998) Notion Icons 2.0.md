@@ -4,6 +4,7 @@ tools: [photoshop, Icons, Duo-Tone]
 image: /Images/Bies/9998.jpg
 description: Create a more vibrant and modern workspace.
 external_url:
+comments: true
 ---
 ## **Notion Icons 2.0**
 ---
