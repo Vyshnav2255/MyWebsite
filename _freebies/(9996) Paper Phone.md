@@ -17,7 +17,7 @@ Paper Phone helps you have a little break away from your digital world by printi
 
 #### **Setup**
 ![alt text](/Images/Bies/9996-2.jpg "3")
-Select the features you want. you can even add a paper app, which gives some useful information, some are paper games. After that click print and export as pdf or print directly from your phone.
+Select the features you want. you can even add a paper app, which gives some useful information and some paper games. After that click print and export as pdf or print directly from your phone.
 #### **Video**
 Here is a video showing how it works.
 {% include elements/video.html id="mAKzUcM0w_s" %}
