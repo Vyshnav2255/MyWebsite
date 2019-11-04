@@ -6,6 +6,9 @@ weight: 5
 ---
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
         .abme{
             font-weight: 10px;
@@ -19,28 +22,24 @@ weight: 5
     <p class="text-center">
      {% include elements/button.html link="/assets/Resume.pdf" text="Download CV" size="lg" style="success" %} {% include elements/button.html link="mailto:vyshnav003@gmail.com" text="Hire Me" size="lg" style="outline-success" %}
     <p>
-            <div class="row">
-                    {% include about/skills.html title="Software Skills" source=site.data.software-skills %}
-                    {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-                    {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+        <div class="row">
+        {% include about/skills.html title="Software Skills" source=site.data.software-skills %} {% include about/skills.html title="Other Skills" source=site.data.other-skills %} {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+        </div>
+        <!--Experience-->
+        <p class="text-center">
+        {% include elements/button.html link="" text="WORK EXPERIENCE" style="danger" %}
+        </p>
                     
+        <div class="row">
+        {% include about/edu-time.html %}
+        </div>
                     
-                    </div>
+        <p class="text-center">
+        {% include elements/button.html link="" text="EDUCATION" style="danger" %}
+        </p>
                     
-                    <p class="text-center">
-                    {% include elements/button.html link="" text="WORK EXPERIENCE" style="danger" %}
-                    </p>
-                    
-                    <div class="row">
-                    {% include about/edu-time.html %}
-                    </div>
-                    
-                    <p class="text-center">
-                    {% include elements/button.html link="" text="EDUCATION" style="danger" %}
-                    </p>
-                    
-                    <div class="row">
-                    {% include about/timeline.html %}
-                    </div>
+        <div class="row">
+        {% include about/timeline.html %}
+        </div>
 </body>
 </html>
