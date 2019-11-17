@@ -13,30 +13,56 @@ weight: 5
         .abme{
             font-weight: 10px;
         }
+        .d{
+            margin: 0px auto;
+            text-align: center;
+        }
+        .d1{
+            font-size: 30px;
+            text-align: center;
+            font-weight: bolder;
+            color: crimson;
+        }
+        .d2{
+            font-size: 30px;
+            text-align: center;
+            font-weight: bolder;
+            color: rgb(220, 110, 20);
+        }
+        .button1{
+            background-color: #0059ff;
+            color: white;
+            padding: 15px 28px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 26px;
+            border-radius: 10px;
+        }
     </style>
 </head>
 <body>
     <div class="abme" ><h2>About Me</h2></div>
     Hi I am <b>{{ site.author.name }},</b><br>
-    A 20-year-old Graphic designer currently pursuing B.Tech (Chemical engineering) in National Institute of Technology, Calicut. I started using Photoshop at the age of 14. As a design enthusiast, I have good experience in working with many kinds of graphic designing software and have experience designing a logo to motion graphics. I also love writing script for short film as well as direction. 
-    <p class="text-center">
-     {% include elements/button.html link="/assets/Resume.pdf" text="Download CV" size="lg" style="success" %} {% include elements/button.html link="mailto:vyshnav003@gmail.com" text="Hire Me" size="lg" style="outline-success" %}
-    <p>
+    A 20-year-old Graphic designer currently pursuing B.Tech (Chemical engineering) in National Institute of Technology, Calicut. I started using Photoshop at the age of 14. As a design enthusiast, I have good experience in working with many kinds of graphic designing software and have experience designing a logo to motion graphics. I also love writing script for short film as well as direction.
+        <div class="d">
+            <a href="/assets/Resume.pdf" class="btn btn-outline-success btn-md active"><i class="far fa-file"></i> Download CV</a>
+            <a href="mailto:vyshnav003@gmail.com" class="btn btn-outline-success btn-md"><i class="far fa-envelope"></i> Hire me</a>
+        </div><br>
         <div class="row">
         {% include about/skills.html title="Software Skills" source=site.data.software-skills %} {% include about/skills.html title="Other Skills" source=site.data.other-skills %} {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
         </div>
         <!--Experience-->
-        <p class="text-center">
-        {% include elements/button.html link="" text="WORK EXPERIENCE" style="danger" %}
-        </p>
-                    
+        <div class="d1">
+            <i class="fas fa-briefcase"></i> Work Experience
+        </div>
         <div class="row">
         {% include about/edu-time.html %}
         </div>
                     
-        <p class="text-center">
-        {% include elements/button.html link="" text="EDUCATION" style="danger" %}
-        </p>
+        <div class="d2">
+                <i class="fas fa-graduation-cap"></i> Education
+        </div>
                     
         <div class="row">
         {% include about/timeline.html %}
