@@ -3,6 +3,7 @@
 	background-color: $light;
 	border-radius: 0 $rounded-borders $rounded-borders 0;
     padding: 5px 0;
+	font-size: 15px;
     
 	&:after {
         // Left Border
@@ -33,13 +34,13 @@
         }
         
 		.content {
-			margin: 40px; 
-			padding-bottom: 20px;
+			margin: 30px; 
+			padding-bottom: 8px;
             border-bottom: 1px dashed $dark;
 
             .date {
                 margin-top: -5px;
-                margin-bottom: 15px;
+                margin-bottom: 12px;
                 color: #6c757d;
             }
 		}
