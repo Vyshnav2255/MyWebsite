@@ -59,7 +59,7 @@ weight: 5
         /* filter: url(filters.svg#grayscale); Firefox 3.5+ */
             filter: rgb(163, 163, 163); /* IE5+ */
             -webkit-filter: grayscale(1); /* Webkit Nightlies & Chrome Canary */
-            -webkit-transition: all .3s ;  
+            -webkit-transition: all .02s ;  
         }
 
         img:hover {
@@ -105,12 +105,11 @@ weight: 5
             <div class="d3">
                     <h4><b>Other Skills</b></h4>
             </div>
-                <div class="d">
-                    {% include elements/tag.html data="Film Direction" %}
-                    {% include elements/tag.html data="Script Writing" %}
-                    {% include elements/tag.html data="Cinematography" %}
+                <div class="grid-container">
+                    <div class="grid-item"><img src="/Images/Skills/dir.svg" class="imr">Film Direction</div>
+                    <div class="grid-item"><img src="/Images/Skills/script.svg" class="imr">Script Writing</div>
+                    <div class="grid-item"><img src="/Images/Skills/cine.svg" class="imr">Cinematography</div>
                 </div>
-
 
         <div class="d1">
             <i class="fas fa-briefcase"></i> Work Experience
