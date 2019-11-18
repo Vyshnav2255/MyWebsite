@@ -32,35 +32,28 @@ weight: 5
             color: rgb(220, 110, 20);
         }
         .d3{
-            font-size: 28px;
+            font-size: 20px;
             text-align: center;
             font-weight: bolder;
             color: rgb(88, 88, 88);
-        }
-        .button1{
-            background-color: #0059ff;
-            color: white;
-            padding: 15px 28px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 26px;
-            border-radius: 10px;
-        }
-        .skills{
-            justify-items: center;
+            margin: 30px 20px;
         }
         .imr{
-            height: 50px;
-            width: 50px;
-            margin: 13px;
-
+            max-height: 60px;
+            max-width: 60px;
         }
-        .tag{
-            padding: 5px 10px;
-            background-color: #d8d8d8;
-            margin: 15px;
-            border-radius: 6px;
+        .grid-container {
+            display: grid;
+            grid-column-gap: 15px;
+            grid-template-columns: auto auto auto;
+            padding: 7px;
+        }
+
+        .grid-item {
+            padding: 5px;
+            font-size: 15px;
+            text-align: center;
+            font-weight: bolder;
         }
     </style>
 </head>
@@ -77,32 +70,34 @@ weight: 5
         <div class="d3">
                 <h4><b>Known Softwares</b></h4>
             </div>
-        <div class="skills">
-            <div class="row">
-                <img src="/Images/Skills/photoshop.svg" class="imr">
-                <img src="/Images/Skills/pr.svg" alt="..." class="imr">
-                <img src="/Images/Skills/aftereffects.svg" class="imr">
-                <img src="/Images/Skills/illustrator.svg" class="imr">
-                <img src="/Images/Skills/audition.svg" class="imr">
-                <img src="/Images/Skills/figma.png" class="imr">
-                <img src="/Images/Skills/fcp.png" class="imr">
-            </div>
-        </div>
-
-
-
-
-
+        <div class="grid-container">
+            <div class="grid-item"><img src="/Images/Skills/photoshop.svg" class="imr">Adobe Photoshop</div>
+            <div class="grid-item"><img src="/Images/Skills/pr.svg" alt="..." class="imr">Adobe Premiere Pro</div>
+            <div class="grid-item"><img src="/Images/Skills/aftereffects.svg" class="imr">Adobe After Effects</div>
+            <div class="grid-item"><img src="/Images/Skills/illustrator.svg" class="imr">Adobe Illustrator</div>
+            <div class="grid-item"><img src="/Images/Skills/audition.svg" class="imr">Adobe Audition</div>
+            <div class="grid-item"><img src="/Images/Skills/figma.png" class="imr">Figma</div>
+            <div class="grid-item"><img src="/Images/Skills/fcp.png" class="imr">Final Cut Pro</div>
+          </div>
+        
         <div class="d3">
-            <h4><b>Other Skills</b></h4>
+                <h4><b>Programming Skills</b></h4>
         </div>
-        <div class="row">
-            <div class="d">
-                <span class="tag">Film Direction</span>
-                <span class="tag">Script Writing</span>
-                <span class="tag">Cinematography</span>
+            <div class="grid-container">
+                <div class="grid-item"><img src="/Images/Skills/html5.png" class="imr">HTML 5</div>
+                <div class="grid-item"><img src="/Images/Skills/CSS3.svg" alt="..." class="imr">CSS 3</div>
+                <div class="grid-item"><img src="/Images/Skills/material.png" class="imr">Material Design</div>
+                <div class="grid-item"><img src="/Images/Skills/Git.png" class="imr">Git</div>
             </div>
-        </div>
+
+            <div class="d3">
+                    <h4><b>Other Skills</b></h4>
+            </div>
+                <div class="d">
+                    {% include elements/tag.html data="Film Direction" %}
+                    {% include elements/tag.html data="Script Writing" %}
+                    {% include elements/tag.html data="Cinematography" %}
+                </div>
 
 
         <div class="d1">
