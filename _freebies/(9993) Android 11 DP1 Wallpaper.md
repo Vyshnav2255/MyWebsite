@@ -1,19 +1,22 @@
 ---
-name: Google Pixel 4a Wallpaper
+name: Android 11 DP1 Wallpaper
 tools: [Android, Apps, Recommendation]
-image: /Images/Bies/9994.jpg
-description: Wallpers from Pixel 4a
+image: /Images/Bies/9993.jpg
+description: Wallpapers inspired from latest Android 11 DP1
 external_url:
 comments: true
 ---
-## **Google Pixel 4a Wallpaper**
+## **Android 11 DP1 Wallpaper**
 ---
-![alt text](/Images/Bies/9994.jpg "1")
+![alt text](/Images/Bies/9993.jpg "1")
 
-Google is teasing its upcoming Pixel phone in public places. And they have also showcased some new wallpapers before launch. And you don't need to wait for the wallpaper. You can download it from here. The pack contains 8 wallpaper. Enjoy Guys.
+As Google has recently released its first developer preview of its latest Android OS, they showcased the new easter egg of the new Android version. So I created some wallpaper inspired by that easter egg. And I hope many of you will like these wallpapers.
+
+### **Resolution**
+These wallpaper are made in 4K resolution. I have tested these wallpapers on many devices and had no issues, they work perfectly. And if any of you have any issues please comment below or DM me on any of my social media accounts.
 
 <p class="text-center">
-{% include elements/button.html link="https://drive.google.com/open?id=1vQEhqFxENlAvB4UUrSF1SbNnPr8OhCPx" text="Download Here" style="danger" %}
+{% include elements/button.html link="https://drive.google.com/open?id=1W4_lNDpmWFZhIbA1Fw7aAb5UalpcHPtd" text="Download Here" style="danger" %}
 </p>
 
 {% if page.comments %}
