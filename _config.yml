@@ -57,6 +57,9 @@ defaults:
     values:
       layout: "page"
 
+plugins:
+  - jemoji
+
 ### Exclude from processing ###
 exclude:
 - README.md
