@@ -33,15 +33,6 @@ author:
   youtube           : startcameraaction
 
 
-### Pagination ###
-paginate: 6
-paginate_path: "/articles/page-:num/"
-
-
-### Posts Permalink ###
-permalink: articles/:title
-
-
 ### Collections ###
 collections:
   projects:
