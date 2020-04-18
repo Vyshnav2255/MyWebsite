@@ -1,11 +1,14 @@
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js');
+self.addEventListener('install', (event) => {
+  console.log('👷', 'install', event);
+  self.skipWaiting();
+});
 
-if (workbox) {
-  console.log(`Yay! Workbox is loaded 🎉`);
-} else {
-  console.log(`Boo! Workbox didn't load 😬`);
-}
-workbox.routing.registerRoute(
-  /\.js$/,
-  new workbox.strategies.NetworkFirst()
-);
+self.addEventListener('activate', (event) => {
+  console.log('👷', 'activate', event);
+  return self.clients.claim();
+});
+
+self.addEventListener('fetch', function(event) {
+  // console.log('👷', 'fetch', event);
+  event.respondWith(fetch(event.request));
+});
