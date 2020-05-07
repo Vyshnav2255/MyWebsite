@@ -11,7 +11,9 @@ weight: 5
 </h1>
 <div style="text-align:center">
 {% include elements/highlight.html text="Inspired by uses.tech." %}
-WORK IN PROGRESS
 </div>
 
 * Hardware
+<h1>
+<div style="text-align:center"> &#128679; <b>WORK IN PROGRESS</b> &#128679; </div>
+</h1>
