@@ -1,6 +1,5 @@
 ---
 layout: default
-title: More
 permalink: /more/
 weight: 5
 ---
