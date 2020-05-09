@@ -13,4 +13,3 @@ permalink: /uses/
 ---
 
 * [Hardware](/hardware.md)
-* [Apps](/apps.md)
