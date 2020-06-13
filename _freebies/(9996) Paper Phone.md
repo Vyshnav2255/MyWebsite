@@ -5,8 +5,10 @@ image: /Images/Bies/9996.jpg
 description: A unique way of using a smartphone
 external_url:
 comments: true
+date: 2019-10-24
+layout: post
 ---
-## **Paper Phone**
+
 ---
 ![alt text](/Images/Bies/9996.jpg "1")
 >By Special Projects

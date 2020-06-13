@@ -5,8 +5,10 @@ image: /Images/Bies/9993.jpg
 description: Wallpapers inspired from latest Android 11 DP1
 external_url:
 comments: true
+date: 2020-03-12
+layout: post
 ---
-## **Android 11 DP1 Wallpaper**
+
 ---
 ![alt text](/Images/Bies/9993.jpg "1")
 

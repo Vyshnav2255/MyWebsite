@@ -5,8 +5,10 @@ image: /Images/Bies/9992.jpg
 description:
 external_url:
 comments: true
+date: 2020-04-14
+layout: post
 ---
-## **Emoji not working Elementary OS Fix**
+
 ---
 ![alt text](/Images/Bies/9992.jpg "1")
 > This method will work on almost all linux distros.

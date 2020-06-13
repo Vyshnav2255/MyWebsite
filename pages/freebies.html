@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-permalink: /Blog/
+permalink: /blog/
 weight: 2
 ---
   <h2 style="text-align:center; color: #3a3a3a">
@@ -9,7 +9,7 @@ weight: 2
   </h2>
 
 <div class="card-columns m-3 mt-5">
-    {% for freebie in site.freebies %}
+    {% for freebie in site.freebies reversed %}
     
         {% if freebie.external_url %}
           {% assign freebie_url = freebie.external_url %}
@@ -28,6 +28,9 @@ weight: 2
             <span class="badge badge-pill text-danger border border-danger">{{ tool }}</span>
             {% endfor %}
           </p>
+        </div>
+        <div class="card-footer {{ text_style }}">
+          {{ freebie.date | date_to_long_string }}
         </div>
       </a>
     </div>

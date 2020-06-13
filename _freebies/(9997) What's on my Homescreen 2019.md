@@ -5,8 +5,10 @@ image: /Images/Bies/9997.jpg
 description: This is what my setup looks like. Read more...
 external_url:
 comments: true
+date: 2019-10-08
+layout: post
 ---
-## **What's on my Smartphone?**
+
 ---
 ![alt text](/Images/Bies/9997.jpg "1")
 #### **Setup**

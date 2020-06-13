@@ -5,8 +5,10 @@ image: /Images/Bies/9994.jpg
 description: Wallpers from Pixel 4a
 external_url:
 comments: true
+date: 2020-03-11
+layout: post
 ---
-## **Google Pixel 4a Wallpaper**
+
 ---
 ![alt text](/Images/Bies/9994.jpg "1")
 
