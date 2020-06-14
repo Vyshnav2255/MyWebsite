@@ -8,6 +8,7 @@ weight: 2
     <b>Blog</b>
   </h2>
 
+  {% include post/search.html %}
 <div class="card-columns m-3 mt-5">
     {% for freebie in site.freebies reversed %}
     
@@ -24,8 +25,8 @@ weight: 2
           <h5 class="card-title">{{ freebie.name }}</h5>
           <p class="card-text">{{ freebie.description }}</p>
           <p class="card-text">
-            {% for tool in freebie.tools %}
-            <span class="badge badge-pill text-danger border border-danger">{{ tool }}</span>
+            {% for tag in freebie.tags %}
+            <span class="badge badge-pill text-danger border border-danger">{{ tag }}</span>
             {% endfor %}
           </p>
         </div>

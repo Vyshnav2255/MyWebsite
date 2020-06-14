@@ -60,7 +60,6 @@ defaults:
 plugins:
   - jemoji
   - jekyll-seo-tag
-  - jekyll-include-cache
 
 ### Exclude from processing ###
 exclude:

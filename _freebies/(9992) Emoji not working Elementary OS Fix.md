@@ -1,6 +1,6 @@
 ---
 name: Emoji not working Elementary OS Fix
-tools: [Fix, ElementaryOS, Linux]
+tags: [Fix, ElementaryOS, Linux]
 image: /Images/Bies/9992.jpg
 description:
 external_url:

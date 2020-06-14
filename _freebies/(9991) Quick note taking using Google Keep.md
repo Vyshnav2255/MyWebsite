@@ -1,6 +1,6 @@
 ---
 name: Quick note taking using Google Keep
-tools: [Apps, Google, Productivity]
+tags: [Apps, Google, Productivity]
 image: /Images/Bies/9991.jpg
 description: A simple trick for quickly taking notes.
 external_url:

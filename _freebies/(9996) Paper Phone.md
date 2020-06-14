@@ -1,6 +1,6 @@
 ---
 name: Paper Phone
-tools: [Android, Apps, Smartphone]
+tags: [Android, Apps, Smartphone]
 image: /Images/Bies/9996.jpg
 description: A unique way of using a smartphone
 external_url:

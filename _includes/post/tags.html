@@ -1,0 +1,31 @@
+<!-- Collect tags from all posts -->
+{%- assign tags = blank -%}
+{%- for freebie in site.freebies -%}
+  {%- assign freebie_tags = freebie.tags | join:'|' | append:'|' -%}
+  {%- if freebie_tags != '|' -%}
+    {%- assign tags = tags | append:freebie_tags -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign tags = tags | split:'|' | uniq | sort -%}
+
+<!-- List tags & related posts -->
+{% for tag in tags %}
+<div class="py-3">
+  <h4 id="{{ tag | slugify }}">{{ tag }}</h4>
+  <ol>
+  {% for freebie in site.freebies %}
+    {%- if freebie.tags contains tag -%}
+      {%- if freebie.external_url -%}
+        {%- assign url = freebie.external_url -%}
+      {%- else -%}
+        {%- assign url = freebie.url | relative_url -%}
+      {%- endif -%}
+    <a href="{{ url }}"><li>{{ freebie.name }}</li></a>
+    <small class="text-muted"> - {{ freebie.date | date_to_long_string }}</small>
+    <br/>
+    {%- endif -%}
+  {% endfor %}
+  </ol>
+</div>
+<hr class="bg-light">
+{% endfor %}

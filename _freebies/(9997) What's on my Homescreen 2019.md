@@ -1,6 +1,6 @@
 ---
 name: What's on my Smartphone?
-tools: [Android, Apps, Smartphone]
+tags: [Android, Apps, Smartphone]
 image: /Images/Bies/9997.jpg
 description: This is what my setup looks like. Read more...
 external_url:

@@ -1,0 +1,15 @@
+---
+layout: null
+permalink: /search.json
+---
+[
+  {% for freebie in site.freebies %}
+    {
+      "title"    : "{{ freebie.name | escape }}",
+      "category" : "{{ freebie.category }}",
+      "tags"     : "{{ freebie.tags | join: ', ' }}",
+      "url"      : "{{ freebie.external_url | default: freebie.url | relative_url }}",
+      "date"     : "{{ freebie.date }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

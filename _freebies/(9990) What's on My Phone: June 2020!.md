@@ -1,6 +1,6 @@
 ---
 name: What's on My Phone June 2020!
-tools: [Android, Apps, Smartphone]
+tags: [Android, Apps, Smartphone]
 image: /Images/Bies/9990.jpg
 description: This is how my quarantine setup looks like.
 external_url:
