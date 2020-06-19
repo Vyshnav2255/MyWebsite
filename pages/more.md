@@ -13,4 +13,3 @@ weight: 5
 
 * [Uses](/uses.md)
 * [Spotify Study Playlist](https://open.spotify.com/playlist/6mtQxnGRYzAzILoJBPPcey?si=9Q8hWMgVSVWNEnyordHkyQ)
-* [Books](vyshnav)
