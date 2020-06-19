@@ -2,7 +2,6 @@ const filesToCache = [
     '/',
     '/about/index.html',
     '/assets/css/style.css',
-    'index.html',
     '/works/index.html',
     '/404.html'
   ];
