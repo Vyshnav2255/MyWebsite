@@ -95,3 +95,8 @@ telegram:
   url   : https://t.me/
   icon  : fab fa-telegram
   color : 0088cc
+
+goodreads:
+  url   : https://www.goodreads.com/
+  icon  : fab fa-goodreads
+  color : 382110
