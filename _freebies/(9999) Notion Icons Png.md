@@ -1,6 +1,6 @@
 ---
 name: Notion Icons Png
-tags: [photoshop, Icons, Material]
+tags: [Photoshop, Icons, Material]
 image: /Images/Bies/9999.jpg
 description: Make your workspace more colorful.
 external_url:
