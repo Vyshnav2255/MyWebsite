@@ -65,7 +65,7 @@ In a paper, book, or smartphone, list out all the things you want to do that day
 
 ![alt text](/Images/Bies/9989-6.jpg "7")
 &nbsp;
-### **7. Avoid smartphones before bed**.
+### **7. Avoid smartphones before bed**
 
 Try to avoid smartphones or laptops one hour before going to bed. It can affect your sleep cycle, and you will not get proper and healthy sleep. Try using Do not disturb mode. It is available on almost all devices. Try reading books instead.
 
