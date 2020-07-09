@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h2 style="text-align:center; color: #3a3a3a">
+<h2 style="text-align:center; color: #ffc107">
     <div>
        <i class="twa twa-gift"></i> <b>Referrals</b>
     </div>
