@@ -30,23 +30,27 @@ weight: 6
                 font-size: 15px;
                 display: flex;
                 justify-content: center;
-                border-radius: 16px;
+                border-radius: .25rem;
                 background-color: #f0f0f5;
                 }
             .form-submit {
                 background: #ffc107;
-                width: 90px;
-                border-color: transparent;
-                border-radius: 50px;
-                height: 35px;
-                font-size: 20px;
-                font-weight: bold;
-                letter-spacing: 2px;
-                margin-top: 20px;
-            }
-            .form-submit:hover {
-                background-color:#daa300;
-                cursor: pointer;    
+                border-color: #ffc107;
+                color: #212529;
+                border: 1px solid transparent;
+                border-radius: .25rem;
+                font-size: 1rem;
+                font-weight: 400;
+                line-height: 1.5;
+                padding: .375rem .75rem;
+                text-align: center;
+                vertical-align: middle;
+                display: inline-block;
+                margin-bottom: 8px;
+                margin-left: 4px;
+                margin-right: 4px;
+                user-select: none;
+
             }
         </style>
     </head>
@@ -74,7 +78,7 @@ weight: 6
               
                 <textarea class="form-control" rows="5" placeholder="Message*" name="entry.839337160" required></textarea><br>
                 <input type="hidden" name="_next" value="/thankyou.html" />
-                <button class="form-submit" style="color: white" type="submit">Send</button>
+                <button class="form-submit" type="submit"><i class="far fa-paper-plane"></i>&nbsp;&nbsp;Send</button>
                 
 
             </form>
