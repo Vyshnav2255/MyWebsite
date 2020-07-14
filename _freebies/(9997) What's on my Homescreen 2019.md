@@ -9,7 +9,6 @@ date: 2019-10-08
 layout: post
 ---
 
----
 ![alt text](/Images/Bies/9997.jpg "1")
 #### **Setup**
 This is what my setup looks like. The apps which you see on my home screen are my most used apps, these are the applications that I use almost all day. Most of them are productivity apps and it helps me to be more productive. Thanks to all the developers who are behind these apps. Usually, I don't use social media that much. And I'm trying to post more content there.
