@@ -9,7 +9,6 @@ date: 2020-03-11
 layout: post
 ---
 
----
 ![alt text](/Images/Bies/9994.jpg "1")
 
 Google is teasing its upcoming Pixel phone in public places. And they have also showcased some new wallpapers before launch. And you don't need to wait for the wallpaper. You can download it from here. The pack contains 8 wallpaper. Enjoy Guys.
