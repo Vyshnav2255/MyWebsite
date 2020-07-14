@@ -9,7 +9,6 @@ date: 2020-04-14
 layout: post
 ---
 
----
 ![alt text](/Images/Bies/9992.jpg "1")
 > This method will work on almost all linux distros.
 
