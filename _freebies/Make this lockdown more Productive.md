@@ -24,7 +24,7 @@ Try to wake up in the morning around 6 am as it can help you to be more producti
 - Brush your teeth immediately after waking up
 - Drink a glass of water after brushing the teeth
 
-![alt text](/Images/Bies/9989-1.jpg "2")
+![alt text](/Images/Bies/9989-1.png "2")
 
 ### **2. Drink a glass of water**
 
