@@ -1,7 +1,7 @@
 ---
 name: What's on My Phone June 2020!
 tags: [Android, Apps, Smartphone]
-image: /Images/Bies/9990.jpg
+image: /Images/Bies/9990.png
 description: This is how my quarantine setup looks like.
 external_url:
 comments: true
@@ -9,7 +9,7 @@ date: 2020-06-11
 layout: post
 ---
 
-![alt text](/Images/Bies/9990.jpg "1")
+![alt text](/Images/Bies/9990.png "1")
 
 #### **Introduction**
 
