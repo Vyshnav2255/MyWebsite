@@ -1,7 +1,7 @@
 ---
 name: Social media Detox
 tags: [Health, Productivity, Life, Apps]
-image: /Images/Bies/9988.jpg
+image: /Images/Bies/9988.png
 description: Take a break.
 external_url:
 comments: true
@@ -9,7 +9,7 @@ date: 2020-07-13
 layout: post
 ---
 
-![alt text](/Images/Bies/9988.jpg "1")
+![alt text](/Images/Bies/9988.png "1")
 &nbsp;
 Being away from all social media is not an easy task. You will always be tempted to use it because it has become your daily routine. To make a good habit, you need 30 days and to break a bad habit also you need 30 days. So I took 30 days away from social media. And here I am going to tell you how I did that and my experience after doing that. I got inspired to do this after watching a video by Matt D'Avella. I will link his video here in case if you want to watch.
 
