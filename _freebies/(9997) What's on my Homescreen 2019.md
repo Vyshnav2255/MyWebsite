@@ -1,7 +1,7 @@
 ---
 name: What's on my Smartphone?
 tags: [Android, Apps, Smartphone]
-image: /Images/Bies/9997.jpg
+image: /Images/Bies/9997.png
 description: This is what my setup looks like. Read more...
 external_url:
 comments: true
@@ -9,22 +9,22 @@ date: 2019-10-08
 layout: post
 ---
 
-![alt text](/Images/Bies/9997.jpg "1")
+![alt text](/Images/Bies/9997.png "1")
 #### **Setup**
 This is what my setup looks like. The apps which you see on my home screen are my most used apps, these are the applications that I use almost all day. Most of them are productivity apps and it helps me to be more productive. Thanks to all the developers who are behind these apps. Usually, I don't use social media that much. And I'm trying to post more content there.
 
-![alt text](/Images/Bies/9997-001.jpg "2")
+![alt text](/Images/Bies/9997-001.png "2")
 #### **Launcher & Widgets**
 The launcher which I'm using is [Lawnchair Launcher](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah). Which is the best launcher which you can find in the Play store which is near to Pixel Launcher and it offers more than that, for me, this is the best Launcher which is free and provides all the features which a paid launcher give.
 The widgets I am using one is from the [Instinct for KWGT](https://play.google.com/store/apps/details?id=instinctkwgt.kustom.pack) Pack which is a recently released pack that is free and provides a great collection of awesome widgets. And the other one is a custom made widget by me.
 
 #### **Wallpaper**
 The wallpaper is from Resplash & Walli app.
-![alt text](/Images/Bies/9997-002.jpg "3")
+![alt text](/Images/Bies/9997-002.png "3")
 
 #### **Apps**
 These are the apps that I use the most. These apps make my daily life more productive and easier.
-![alt text](/Images/Bies/9997-003.jpg "4")
+![alt text](/Images/Bies/9997-003.png "4")
 
 **Twitter -** As you all know Twitter is one of the best social media apps and I use it regularly for news about tech and seeing the work of other people. If you are not following me there please follow me.
 
