@@ -1,7 +1,7 @@
 ---
 name: Google Pixel 4a Wallpaper
 tags: [Android, Google, Wallpaper]
-image: /Images/Bies/9994.jpg
+image: /Images/Bies/9994.png
 description: Wallpers from Pixel 4a
 external_url:
 comments: true
@@ -9,7 +9,7 @@ date: 2020-03-11
 layout: post
 ---
 
-![alt text](/Images/Bies/9994.jpg "1")
+![alt text](/Images/Bies/9994.png "1")
 
 Google is teasing its upcoming Pixel phone in public places. And they have also showcased some new wallpapers before launch. And you don't need to wait for the wallpaper. You can download it from here. The pack contains 8 wallpaper. Enjoy Guys.
 
