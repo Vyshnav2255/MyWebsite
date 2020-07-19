@@ -1,7 +1,7 @@
 ---
 name: Android 11 DP1 Wallpaper
 tags: [Android, Google, Wallpaper]
-image: /Images/Bies/9993.jpg
+image: /Images/Bies/9993.png
 description: Wallpapers inspired from latest Android 11 DP1
 external_url:
 comments: true
@@ -9,7 +9,7 @@ date: 2020-03-12
 layout: post
 ---
 
-![alt text](/Images/Bies/9993.jpg "1")
+![alt text](/Images/Bies/9993.png "1")
 
 As Google has recently released its first developer preview of its latest Android OS, they showcased the new easter egg of the new Android version. So I created some wallpaper inspired by that easter egg. And I hope many of you will like these wallpapers.
 
