@@ -25,7 +25,7 @@ It contains Phone, Camera, Google Chrome, Gmail, and Google Keep quick note shor
 
 #### **First Page**
 
-![alt text](/Images/Bies/9990-1.jpg "1")
+![alt text](/Images/Bies/9990-1.png "1")
 
 The launcher I am using is the stock OnePlus launcher. Which does the job, and also it is close to the stock android launcher. The icon pack is Candycons Unwrapped, and the wallpaper is from Zheano Blog. The date widget is from OnePlus.
 
@@ -65,7 +65,7 @@ It helps me to keep track of all the books I am reading.
 
 #### **Second Page**
 
-![alt text](/Images/Bies/9990-2.jpg "1")
+![alt text](/Images/Bies/9990-2.png "1")
 
 #### **Widget**
 
