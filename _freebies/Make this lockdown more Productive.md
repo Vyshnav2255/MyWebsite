@@ -37,34 +37,34 @@ Immediately after brushing your teeth, drink a glass of water. Drinking water fi
 - Healthy Digestion
 - Boosts your Immune System
 
-![alt text](/Images/Bies/9989-2.jpg "3")
+![alt text](/Images/Bies/9989-2.png "3")
 
 ### **3. Workout**
 
 Try to work out for 30 minutes. It will make you more energetic throughout the day. It helps you to focus on your task. It helps you lose weight. If you can't do big workouts, at least walk or go cycling for 30 minutes. If you are lazy or don't have the mood to do anything, a 1-minute workout is excellent. Do some pushups or pullups.
 
-![alt text](/Images/Bies/9989-3.jpg "4")
+![alt text](/Images/Bies/9989-3.png "4")
 
 ### **4. Take a bath**
 
 A morning bath can make you more alert and help to get rid of the sleep mood. Try to take a cold shower as it has more health benefits than regular water. It helps you to lose more calories, and it is better for your skin. And also, it will increase brain activities.
 
-![alt text](/Images/Bies/9989-4.jpg "5")
+![alt text](/Images/Bies/9989-4.png "5")
 
 ### **5. Read books**
 
 Try to read books in the morning as it is the time of fewer distractions. Read at least ten pages daily. It will help you in your personal growth. The benefits of reading books are endless. Try reading self-help books, and if you get bored quickly, then read fiction. This lockdown is the perfect time for reading self-help books.
 
-![alt text](/Images/Bies/9989-5.jpg "6")
+![alt text](/Images/Bies/9989-5.png "6")
 
 ### **6. Plan the Day**
 
 In a paper, book, or smartphone, list out all the things you want to do that day and prioritize all. Doing this will give an excellent clarity of the day. And it will also help you to use the time more effectively. Try to do this before going to bed the day before, as it will help you save time in the morning. Doing this before going to bed will also help you to sleep better. If you are doing this before going to bed, I suggest using a paper or book, as the light from a smartphone can harm you.
 
-![alt text](/Images/Bies/9989-6.jpg "7")
+![alt text](/Images/Bies/9989-6.png "7")
 
 ### **7. Avoid smartphones before bed**
 
 Try to avoid smartphones or laptops one hour before going to bed. It can affect your sleep cycle, and you will not get proper and healthy sleep. Try using Do not disturb mode. It is available on almost all devices. Try reading books instead.
 
-![alt text](/Images/Bies/9989-7.jpg "8")
+![alt text](/Images/Bies/9989-7.png "8")
