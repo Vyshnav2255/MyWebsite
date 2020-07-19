@@ -29,4 +29,4 @@ Press and hold Google Keep icon to open app shortcuts. There you find an optionÂ
 
 If you don't like the icon, you can press and hold the shortcut and click on customize ( which is available in most launchers) and choose the icon which you prefer.
 
-![alt text](/Images/Bies/9991-2.jpg "3")
+![alt text](/Images/Bies/9991-2.png "3")
