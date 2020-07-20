@@ -13,4 +13,4 @@ weight: 5
 
 * [Uses](https://www.dropbox.com/scl/fi/9ilykj3dmttw2ej8fy5k3/_-Uses.paper?dl=0&rlkey=mz34u6jmzlq7ikclfs9zqq9ok)
 * [Spotify Study Playlist](https://open.spotify.com/playlist/6mtQxnGRYzAzILoJBPPcey?si=9Q8hWMgVSVWNEnyordHkyQ)
-* [Referrals](/referrals.md)
+* [Referrals](https://www.dropbox.com/scl/fi/021476fxjca3zkbzt2oeo/_Referrals.paper?dl=0&rlkey=tksjribz3bil4x6ah5t1d0h8y)
