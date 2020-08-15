@@ -4,6 +4,7 @@ title: More
 permalink: /more/
 weight: 5
 ---
+<meta name="description" content="Resources & Other Stuffs">
 <h2 style="text-align:center; color: #ffc107">
     <div>
         <b>More</b>
