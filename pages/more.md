@@ -1,15 +1,14 @@
 ---
 layout: default
-title: More
-permalink: /more/
+title: Resources
+permalink: /resources/
 weight: 5
 ---
 <h2 style="text-align:center; color: #ffc107">
     <div>
-        <b>More</b>
+        <b>Resources</b>
     </div>
 </h2>
-<p style="text-align: center;">Resources & Other Stuffs</p>
 ---
 
 * [Spotify Study Playlist](https://open.spotify.com/playlist/6mtQxnGRYzAzILoJBPPcey?si=9Q8hWMgVSVWNEnyordHkyQ)
