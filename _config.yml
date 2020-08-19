@@ -68,11 +68,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
-feed:
-  collections:
-    freebies:
-      path: "/blog.xml"
-
 ### Exclude from processing ###
 exclude:
 - README.md
