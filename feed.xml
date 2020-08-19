@@ -18,13 +18,6 @@
           <pubDate>{{ freebie.date | date_to_rfc822 }}</pubDate>
           <link>{{ freebie.url | prepend: site.baseurl | prepend: site.url }}</link>
           <guid isPermaLink="true">{{ freebie.url | prepend: site.baseurl | prepend: site.url }}</guid>
-          {% if freebie.image %}
-              {% assign prefix = freebie.image | slice: 0, 4 %}
-              {% if prefix == "http" %}
-                  {% assign image = freebie.image %}
-              {% else %}
-                  {% assign image = freebie.image | prepend: site.baseurl | prepend: site.url %}
-              {% endif %}
           <enclosure url="https://vyshnav.netlify.app/blog" />
           {% endif %}
           {% for tag in freebie.tags %}
