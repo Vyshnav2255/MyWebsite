@@ -25,7 +25,7 @@
               {% else %}
                   {% assign image = freebie.image | prepend: site.baseurl | prepend: site.url %}
               {% endif %}
-          <enclosure url="{{ image }}" />
+          <enclosure url="https://vyshnav.netlify.app/blog" />
           {% endif %}
           {% for tag in freebie.tags %}
           <category>{{ tag | xml_escape }}</category>
