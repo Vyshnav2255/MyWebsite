@@ -10,7 +10,7 @@
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for freebie in site.freebies limit:10 %}
+    {% for freebie in site.freebies reversed %}
       {% unless freebie.hidden %}
         <item>
           <title>{{ freebie.name | xml_escape }}</title>
