@@ -1,35 +1,40 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
->
-	<channel>
-		<title>{{ site.name | xml_escape }}</title>
-		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
-		<sy:updatePeriod>{{ site.feed_update_period | default: "daily" | xml_escape }}</sy:updatePeriod>
-		<sy:updateFrequency>{{ site.feed_update_frequency | default: 1 | xml_escape }}</sy:updateFrequency>
-		<link>{{ site.url }}</link>
-		<atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
-		<lastBuildDate>{% for freebie in site.freebies limit:1 %}{{ freebie.date | date_to_rfc822 }}{% endfor %}</lastBuildDate>
-		{% assign feed_items = site.feed_items | default: 10 %}
-		{% for freebie in site.freebies limit:feed_items %}
-			<item>
-				<title>{{ freebie.name | xml_escape }}</title>
-				{% if post.author.name %}
-					<dc:creator>{{ post.author.name | xml_escape }}</dc:creator>
-				{% endif %}
-				{% if post.excerpt %}
-					<description>{{ post.excerpt | xml_escape }}</description>
-				{% else %}
-					<description>{{ post.content | xml_escape }}</description>
-				{% endif %}
-				<pubDate>{{ freebie.date | date_to_rfc822 }}</pubDate>
-				<link>{{ site.url }}{{ freebie.url }}</link>
-				<guid isPermaLink="true">{{ site.url }}{{ freebie.url }}</guid>
-			</item>
-		{% endfor %}
-	</channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for freebie in site.freebies limit:10 %}
+      {% unless freebie.hidden %}
+        <item>
+          <title>{{ freebie.name | xml_escape }}</title>
+          <description>{{ freebie.content | xml_escape }}</description>
+          <pubDate>{{ freebie.date | date_to_rfc822 }}</pubDate>
+          <link>{{ freebie.url | prepend: site.baseurl | prepend: site.url }}</link>
+          <guid isPermaLink="true">{{ freebie.url | prepend: site.baseurl | prepend: site.url }}</guid>
+          {% if freebie.image %}
+              {% assign prefix = page.image | slice: 0, 4 %}
+              {% if prefix == "http" %}
+                  {% assign image = page.image %}
+              {% else %}
+                  {% assign image = page.image | prepend: site.baseurl | prepend: site.url %}
+              {% endif %}
+          <enclosure url="{{ image }}" />
+          {% endif %}
+          {% for tag in freebie.tags %}
+          <category>{{ tag | xml_escape }}</category>
+          {% endfor %}
+          {% for cat in freebie.categories %}
+          <category>{{ cat | xml_escape }}</category>
+          {% endfor %}
+        </item>
+      {% endunless %}
+    {% endfor %}
+  </channel>
 </rss>
