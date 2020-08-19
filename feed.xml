@@ -19,11 +19,11 @@
           <link>{{ freebie.url | prepend: site.baseurl | prepend: site.url }}</link>
           <guid isPermaLink="true">{{ freebie.url | prepend: site.baseurl | prepend: site.url }}</guid>
           {% if freebie.image %}
-              {% assign prefix = page.image | slice: 0, 4 %}
+              {% assign prefix = freebie.image | slice: 0, 4 %}
               {% if prefix == "http" %}
-                  {% assign image = page.image %}
+                  {% assign image = freebie.image %}
               {% else %}
-                  {% assign image = page.image | prepend: site.baseurl | prepend: site.url %}
+                  {% assign image = freebie.image | prepend: site.baseurl | prepend: site.url %}
               {% endif %}
           <enclosure url="{{ image }}" />
           {% endif %}
