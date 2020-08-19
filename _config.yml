@@ -68,10 +68,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
-feed:
-  collections:
-    - freebies
-
 ### Exclude from processing ###
 exclude:
 - README.md
