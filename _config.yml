@@ -62,6 +62,10 @@ defaults:
       type: "posts"
     values:
         comments: true
+  - scope:
+      path:            "assets/Resume.pdf"
+    values:
+        sitemap:         false
 
 plugins:
   - jemoji
