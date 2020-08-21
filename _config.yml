@@ -42,9 +42,6 @@ collections:
     output: true 
     permalink: /blog/:name
 
-### Disqus ###
-disqus: vyshnavgangadharan                        # Your website Shortname on disqus
-
 ### Defaults for collections ###
 defaults:
   - scope:
@@ -57,11 +54,6 @@ defaults:
       type: "freebies"
     values:
       layout: "posts"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-        comments: true
   - scope:
       path:            "assets/Resume.pdf"
     values:
