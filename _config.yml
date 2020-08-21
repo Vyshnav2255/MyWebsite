@@ -4,7 +4,7 @@ description         : >-                               # >- means to ignore newl
                       An engineer who loves
                       Graphics Designing, Film making, Video editing & Coding.
 
-url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
+url                 : "https://vyshnav.netlify.app"                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
 repository          : Vyshnav2255/MyWebsite
 
