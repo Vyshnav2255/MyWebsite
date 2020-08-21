@@ -1,0 +1,30 @@
+<div class="share">
+      <h3>Share</h3>
+      {% assign share-url = page.url | prepend: site.baseurl | prepend: site.url %}
+  
+      <a
+        href="https://twitter.com/intent/tweet?text={{ page.name }}&url={{ share-url }}&via={{ site.twitter }}&original_referer={{ share-url }}"
+        rel="noreferrer nofollow noopener"
+        target="_blank"
+        name="Twitter"
+      >
+        <img src="{{ 'Images/SVG/twitter.svg' | prepend: site.baseurl }}" alt="Twitter" />
+      </a>
+  
+      <a
+        href="http://www.reddit.com/submit?name={{ page.name }}&url={{ share-url }}"
+        rel="noreferrer nofollow noopener"
+        target="_blank"
+        name="Reddit"
+      >
+        <img src="{{ 'Images/SVG/reddit.svg' | prepend: site.baseurl }}" alt="Reddit" />
+      </a>
+  
+      <a
+        href="{{ page.url | prepend: site.baseurl | prepend: site.url }}"
+
+        name="Permalink"
+      >
+        <img src="{{ 'Images/SVG/share-square.svg' | prepend: site.baseurl }}" alt="Permalink" />
+      </a>
+</div>

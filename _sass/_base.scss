@@ -37,3 +37,29 @@ body {
 .social {
     text-decoration: none !important;
 }
+
+.share {
+    font-size: 0; // Fix percentage issue with whitespace
+    margin: 4rem auto;
+    text-align: center;
+  
+    h2 {
+      font-size: 1.5rem;
+    }
+  
+    div {
+      display: inline-block;
+      font-size: 1rem;
+      width: 50%;
+    }
+  
+    a {
+      display: inline-block;
+      margin: 0.75rem;
+  
+      img {
+        width: 32px;
+        height: 32px;
+      }
+    }
+  }
