@@ -45,8 +45,9 @@
     img {
         display: block;
         max-width: 100%;
-        height: auto;    
-        margin: 1rem auto;
+        height: auto;
+        margin-top: 1rem !important;
+        margin-bottom: 2rem !important;
     }
 
     .video {
@@ -108,6 +109,8 @@
         border-left: .25em solid $warning;
         color: $secondary;
         padding: 0 1em;
+        margin-top: 1rem !important;
+        margin-bottom: 2rem !important;
     }
       
     table {
