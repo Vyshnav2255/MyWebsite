@@ -7,6 +7,7 @@ external_url:
 comments: true
 date: 2020-04-14
 layout: post
+redirect_from: /blog/9992-emoji-not-working-elementary-os-fix
 ---
 
 ![alt text](/Images/Bies/9992.png "1")

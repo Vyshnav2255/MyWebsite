@@ -7,6 +7,7 @@ external_url:
 comments: true
 date: 2019-10-24
 layout: post
+redirect_from: /blog/9996-paper-phone
 ---
 
 ![alt text](/Images/Bies/9996.png "1")

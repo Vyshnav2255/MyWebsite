@@ -7,6 +7,7 @@ external_url:
 comments: true
 date: 2020-03-12
 layout: post
+redirect_from: /blog/9993-android-11-dp1-wallpaper
 ---
 
 ![alt text](/Images/Bies/9993.png "1")
