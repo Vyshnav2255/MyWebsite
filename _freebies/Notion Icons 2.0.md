@@ -33,4 +33,4 @@ Use **Github Issues** to request more Icons.
 <p class="text-center">
 {% include elements/button.html link="https://dribbble.com/shots/7170942-Notion-Icons-2-0" text="Download Here" style="danger" %}
 </p>
-![I](https://img.shields.io/badge/Icons-85-brighgreen?style=for-the-badge)
+![I](https://img.shields.io/badge/Icons-90-brighgreen?style=for-the-badge)

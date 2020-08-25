@@ -1,6 +1,6 @@
 ---
 name: Integrate Goodreads with Todoist
-tags: [Tips & Tricks, Recommendation, Discussion]
+tags: [Tips & Tricks, Recommendation, IFTTT]
 image: /Images/Bies/1.png
 description: Create want to read as a task.
 external_url:
