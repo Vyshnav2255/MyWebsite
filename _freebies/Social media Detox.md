@@ -1,5 +1,5 @@
 ---
-name: Social media Detox
+title: Social media Detox
 tags: [Health, Productivity, Life, Apps]
 image: /Images/Bies/9988.png
 description: Take a break.

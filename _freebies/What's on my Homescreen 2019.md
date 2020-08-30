@@ -1,5 +1,5 @@
 ---
-name: What's on my Smartphone?
+title: What's on my Smartphone?
 tags: [Android, Apps, Smartphone]
 image: /Images/Bies/9997.png
 description: This is what my setup looks like. Read more...

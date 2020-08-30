@@ -1,5 +1,5 @@
 ---
-name: Make this Lockdown more Productive
+title: Make this Lockdown more Productive
 tags: [Health, Productivity, Life]
 image: /Images/Bies/9989.png
 description: Use this time to build some good habits.

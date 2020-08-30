@@ -1,5 +1,5 @@
 ---
-name: Google Pixel 4a Wallpaper
+title: Google Pixel 4a Wallpaper
 tags: [Android, Google, Wallpaper]
 image: /Images/Bies/9994.png
 description: Wallpers from Pixel 4a

@@ -1,5 +1,5 @@
 ---
-name: Paper Phone
+title: Paper Phone
 tags: [Android, Apps, Smartphone]
 image: /Images/Bies/9996.png
 description: A unique way of using a smartphone

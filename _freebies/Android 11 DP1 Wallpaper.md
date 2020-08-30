@@ -1,5 +1,5 @@
 ---
-name: Android 11 DP1 Wallpaper
+title: Android 11 DP1 Wallpaper
 tags: [Android, Google, Wallpaper]
 image: /Images/Bies/9993.png
 description: Wallpapers inspired from latest Android 11 DP1

@@ -1,5 +1,5 @@
 ---
-name: What's on My Phone June 2020!
+title: What's on My Phone June 2020!
 tags: [Android, Apps, Smartphone]
 image: /Images/Bies/9990.png
 description: This is how my quarantine setup looks like.
