@@ -18,15 +18,8 @@
 
   <meta name="author" content="Vyshnav Gangadharan" />
 
-  {% if page.image %}
-    {% assign prefix = page.image | slice: 0, 4 %}
-    {% if prefix == "http" %}
-      {% assign image = page.image %}
-    {% else %}
-      {% assign image = page.image | prepend: site.baseurl | prepend: site.url %}
-    {% endif %}
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta property="twitter:image" content="{{ image }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta property="twitter:image" content="{{ page.image }}" />
 
   <meta name="twitter:site" content="@{{ site.twitter }}" />
   <meta name="twitter:creator" content="@{{ site.twitter }}" />
