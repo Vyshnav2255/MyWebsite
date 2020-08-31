@@ -3,7 +3,6 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{{ site.description }}">
   <meta name="theme-color" content="#ffc107">
   <meta name="keywords" content="vyshnav,vg,vyshnav gangadharan,vyshnav director, Ui ux design, web developer, material design, css, html, malayalam, designer, illustration, illustrator, figma, video editor">
   <meta name="author" content="Vyshnav Gangadharan">
@@ -11,11 +10,31 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:site_name" content="Vyshnav Gangadharan">
   <meta itemprop="name" content="Vyshnav Gangadharan">
-  <meta itemprop="description" content="{{ site.description }}">
   <meta itemprop="image" content="/Images/me.png">
   <meta property="og:type" content="portfolio">
   <meta property="og:url" content="http://vyshnav.netlify.app/">
   <meta name="google-site-verification" content="HbuKJjqx6sxdf-OMJt45v1qE19vcDI_YyDOIa1SMZXw" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+
+  <meta name="author" content="Vyshnav Gangadharan" />
+
+  {% if page.image %}
+    {% assign prefix = page.image | slice: 0, 4 %}
+    {% if prefix == "http" %}
+      {% assign image = page.image %}
+    {% else %}
+      {% assign image = page.image | prepend: site.baseurl | prepend: site.url %}
+    {% endif %}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="twitter:image" content="{{ image }}" />
+
+  <meta name="twitter:site" content="@{{ site.twitter }}" />
+  <meta name="twitter:creator" content="@{{ site.twitter }}" />
+
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+  <meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 
 
   <title>{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}</title>
