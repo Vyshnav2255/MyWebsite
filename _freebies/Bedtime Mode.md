@@ -16,8 +16,6 @@ This article is something that everyone should read. I know everyone is facing t
 ### **1. Create an Alarm one hour before the bed**
 After this alarm goes off, stop all the work you have been doing. And then brush your teeth. It will allow your body to drift to sleep slowly. I recommend using [Google Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en-GB) app for this as it has a dedicated bedtime feature that will notify you one hour before bedtime and helps you create a proper bedtime routine.
 
-![alt text](/Images/Bies/3-1.png "1")
-
 ### **2. Don't use smartphones**
 This is the most important thing. Try to avoid your smartphone before bed unless it is very urgent. If it is urgent, I recommend you turn on the Blue Light filter so that your sleep will not be affected. The blue light from smartphones and other gadgets do great harm to your sleep. It affects the internal clock of your body called the circadian rhythm.
 And most importantly, never use social media, as social media apps are designed in such a way that you never feel tired using it. Use some app blocker to reduce the time and to avoid using it at night. Android users have a feature called [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en-GB), which has dedicated Wind Down mode where your displays turn black and white. Then Turn on Do Not Disturb mode and keep your phone away from your bed.
