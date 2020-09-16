@@ -20,7 +20,7 @@
       {%- else -%}
         {%- assign url = freebie.url | relative_url -%}
       {%- endif -%}
-    <a href="{{ url }}"><li>{{ freebie.name }}</li></a>
+    <a href="{{ url }}"><li>{{ freebie.title }}</li></a>
     <small class="text-muted"> - {{ freebie.date | date_to_long_string }}</small>
     <br/>
     {%- endif -%}
