@@ -5,7 +5,7 @@ permalink: /search.json
 [
   {% for freebie in site.freebies %}
     {
-      "title"    : "{{ freebie.name | escape }}",
+      "title"    : "{{ freebie.title | escape }}",
       "category" : "{{ freebie.category }}",
       "tags"     : "{{ freebie.tags | join: ', ' }}",
       "url"      : "{{ freebie.external_url | default: freebie.url | relative_url }}",
