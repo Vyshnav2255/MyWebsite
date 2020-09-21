@@ -2,7 +2,7 @@
 layout: default
 title: Resources
 permalink: /resources/
-weight: 5
+weight: 4
 ---
 <h2 style="text-align:center; color: #ffc107">
     <div>
