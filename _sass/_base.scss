@@ -54,3 +54,16 @@ body {
 .alert{
     margin-top: 200px;
 }
+
+.btn{
+    margin-bottom: 8px;
+    margin-left: 4px;
+    margin-right: 4px;
+    background-color: #89ffdd !important;
+    border-color: #007367 !important;
+    color: #007367 !important;
+    cursor: pointer;
+    }
+    :hover.btn{
+        background-color: #43d6b5 !important;
+        }
