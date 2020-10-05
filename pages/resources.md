@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 weight: 4
 ---
-<h2 style="text-align:center; color: #ffc107">
+<h2 style="text-align:center; color: #28bca3">
     <div>
         <b>Resources</b>
     </div>
