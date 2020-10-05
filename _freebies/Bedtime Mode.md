@@ -36,7 +36,7 @@ It reduces stress and helps to get inner peace. When done before bed, it helps y
 Writing will help you to clear your mind before bed. Write whatever things come to your mind while sleeping. It will help you to sleep better. Write about things you want to do tomorrow or write about today. This will give a good clarity of what you want to do. This also helps in reducing stress.
 
 ## **Sleep debt**
-I have seen many of my friends staying late at night studying or watching movies saying that I will sleep more during the weekend to balance the sleep. Actually, there is no such thing like you lost three hours of sleep yesterday, and today you will sleep three hours extra. Sleep doesn't work that way. If you lost sleep, you would have to face the consequences, as not sleeping the recommend hours will affect you for many days.
+I have seen many of my friends staying late at night studying or watching movies saying that I will sleep more during the weekend to balance the sleep. Actually, there is no such thing like you lost three hours of sleep yesterday, and today you will sleep three hours extra. Sleep doesn't work that way. If you lost sleep, you will have to face the consequences, as not sleeping the recommend hours will affect you for many days.
 
 ## **Conclusion**
 Sleep is such an essential thing in your life. Not getting enough sleep will affect you badly. I have seen many people think sleep is a silly thing; actually, you should take sleep seriously because sleep deficiency will have terrible health effects. Try to sleep the recommended hours daily. I will write another article about the side effects of not sleeping soon.
