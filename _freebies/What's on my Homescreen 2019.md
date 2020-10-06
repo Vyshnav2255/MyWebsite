@@ -21,11 +21,10 @@ The widgets I am using one is from the [Instinct for KWGT](https://play.google.c
 
 #### **Wallpaper**
 The wallpaper is from Resplash & Walli app.
-![alt text](/Images/Bies/9997-002.png "3")
 
 #### **Apps**
 These are the apps that I use the most. These apps make my daily life more productive and easier.
-![alt text](/Images/Bies/9997-003.png "4")
+![alt text](/Images/Bies/9997-002.png "3")
 
 **Twitter -** As you all know Twitter is one of the best social media apps and I use it regularly for news about tech and seeing the work of other people. If you are not following me there please follow me.
 
