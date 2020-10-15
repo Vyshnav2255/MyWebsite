@@ -12,4 +12,4 @@ weight: 4
 ---
 
 * [Spotify Study Playlist](https://open.spotify.com/playlist/6mtQxnGRYzAzILoJBPPcey?si=9Q8hWMgVSVWNEnyordHkyQ)
-* [Referrals](https://www.notion.so/Referrals-98030b47b5464a1cb4db3ca7325425ee)
+* [Referrals](/referrals.md)
