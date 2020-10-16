@@ -40,6 +40,7 @@ When installing it, the first thought that came to my mind was what apps I will 
 - Todoist - Task manager
 - LibreOffice - Office tools
 - Dropbox - Storage
+- DaVinci Resolve - Video Editor
 
 You can find many more incredible apps in the elementary app store.
 
