@@ -42,6 +42,14 @@ collections:
     output: true 
     permalink: /blog/:name
 
+  books:
+    output: true 
+    permalink: /book-notes/:title
+  
+  microblogs:
+    output: true 
+    permalink: /microblogs/:title
+
 ### Defaults for collections ###
 defaults:
   - scope:
@@ -55,9 +63,19 @@ defaults:
     values:
       layout: "posts"
   - scope:
-      path:            "assets/Resume.pdf"
+      path: ""
+      type: "books"
     values:
-        sitemap:         false
+      layout: "posts"
+  - scope:
+      path: ""
+      type: "microblog"
+    values:
+      layout: "microblog"
+  - scope:
+      path: "assets/Resume.pdf"
+    values:
+        sitemap:  false
 
 plugins:
   - jemoji
