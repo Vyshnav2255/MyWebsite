@@ -2,7 +2,7 @@
 layout: page
 title: Videos
 permalink: /videos/
-weight: 3
+weight: 4
 ---
 <h2 style="text-align:center; color: #0e9a83">
     <div>
