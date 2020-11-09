@@ -1,0 +1,29 @@
+---
+layout: page
+---
+
+<h2><b>{{ page.title }}</b></h2>
+
+<p class="article-metadata text-muted">
+    by <b>{{ page.author }}</b>
+    <br>
+    {{ page.date | date_to_long_string }}
+
+
+  |
+
+  {% if page.tags != empty %}
+    Genre: 
+    {% for tag in page.tags %}
+    <a class="text-decoration-none no-underline" href="{{ tag | slugify | prepend:'/blog/tags#' | relative_url }}">
+      <span class="tag badge badge-pill">{{ tag }}</span>
+    </a>
+    {% endfor %}
+  {% endif %}
+
+  | <img src="/Images/Emoji/1f31f.svg" alt="star" class="emoji"> {{ page.rating }} / 5
+</p>
+
+{{ content }}
+
+{% include share.html %}

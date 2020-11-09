@@ -1,0 +1,37 @@
+---
+layout: default
+title: Book Notes
+permalink: /book-notes/
+weight: 3
+---
+
+<div class="card-columns m-3 mt-5">
+    {% for book in site.books reversed %}
+    
+        {% if book.external_url %}
+          {% assign book_url = book.external_url %}
+        {% else %}
+          {% assign book_url = book.url | relative_url %}
+        {% endif %}
+    
+    <div class="wow animated fadeIn" data-wow-delay=".15s">
+      <a href="{{ book_url }}" class="project card text-dark" style="text-decoration: none !important;" >
+        <img class="card-img-top" src="{{ book.image }}" alt="{{ book.title }}"/>
+        <div class="card-body">
+          <h5 class="card-title">{{ book.title }}</h5>
+          <p class="card-text">by <b>{{ book.author }}</b></p>
+          <img src="/Images/Emoji/1f31f.svg" alt="star" class="emoji"> {{ book.rating }} / 5
+          <p class="card-text">
+            {% for tag in book.tags %}
+            <span class="badge badge-pill">{{ tag }}</span>
+            {% endfor %}
+          </p>
+        </div>
+        <div class="card-footer {{ text_style }}">
+          {{ book.date | date_to_long_string }}
+        </div>
+      </a>
+    </div>
+    
+    {% endfor %}
+    </div>
