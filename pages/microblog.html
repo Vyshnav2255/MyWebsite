@@ -8,7 +8,7 @@ weight: 4
     {% for microblog in site.microblogs %}
     <h3 class="card-title"><b>{{ microblog.title }}</b></h3>
     <h6>{{ microblog.date | date_to_long_string }}</h6>
-    <div class="microcontent">
+    <div class="microcontent mb-5">
         {{ microblog.content }}
     </div>
 
