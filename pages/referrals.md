@@ -3,7 +3,7 @@ layout: default
 ---
 <h2 style="text-align:center; color: #0e9a83">
     <div>
-        <b>Referrals</b>
+        <b>🎁 Referrals</b>
     </div>
 </h2>
 ---

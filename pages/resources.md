@@ -6,7 +6,7 @@ weight: 5
 ---
 <h2 style="text-align:center; color: #0e9a83">
     <div>
-        <b>Resources</b>
+        <b>🍉 Resources</b>
     </div>
 </h2>
 ---
