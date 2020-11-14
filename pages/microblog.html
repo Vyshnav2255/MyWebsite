@@ -5,7 +5,7 @@ permalink: /microblog/
 weight: 2
 ---
 <div class="col-lg-10 mx-auto mt-5 article" >
-    {% for microblog in site.microblogs %}
+    {% for microblog in site.microblogs reversed %}
     <h3 class="card-title"><b>{{ microblog.title }}</b></h3>
     <h6>{{ microblog.date | date_to_long_string }}</h6>
     <div class="microcontent mb-5">
