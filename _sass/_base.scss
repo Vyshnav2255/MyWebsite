@@ -79,3 +79,17 @@ h1, h2, h3, h4, h5, h6 {
 .microcontent {
     color: #4d4d4d;
 }
+
+.dot{
+    border: 0;
+    margin: 2em auto;
+    max-width: 50%;
+
+    &::before {
+    content: "...";
+    display: block;
+    font-weight: bold;
+    letter-spacing: 1em;
+    text-align: center;
+}
+}
