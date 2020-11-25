@@ -15,7 +15,7 @@ Recently I read an article by Todoist about different [productivity methods](htt
 
 #### **Steps**
 
-1. Install [IFTTT](https://ifttt.com/) and connect your Todoist account with it. If you don't have Todoist [click here](https://todoist.com/r/vyshnav_gangadharan_lomwzf) to get *2 Months of Todoist premium*, existing users can also use it.
+1. Install [IFTTT](https://ifttt.com/) and connect your Todoist account with it. If you don't have Todoist [click here](https://doist.grsm.io/vyshnavgangadharan6232) to get *2 Months of Todoist premium*, existing users can also use it.
 2. Go to [Goodreads](https://www.goodreads.com/) web and scroll down to the bottom and click API.
 3. Click on "Developer key" and enter your password.
 4. Type **IFTTT** in the Application name and Company name box and click ok.

@@ -44,7 +44,7 @@ These are the apps that I use the most. These apps make my daily life more produ
 
 **Pocket Cast -** For guys those who love listing to the podcast I highly recommend this app. This is one of the best podcast apps in the world and has a ton of awesome features that other podcast apps can't provide. It has one of the best UI. I highly recommend this app.
 
-**Todoist -** It is my favorite To-Do app. It has a great UI and natural language processing feature and adding tasks to this app is very easy. And it has a great project management feature.
+**[Todoist](https://doist.grsm.io/vyshnavgangadharan6232) -** It is my favorite To-Do app. It has a great UI and natural language processing feature and adding tasks to this app is very easy. And it has a great project management feature.
 
 **Notion -** I have no words for this app. It's a mind-blowing app which is the combination of many premium apps. It is for students. It is the all in one productivity application and supports all the platforms. It is the best productivity application in the world.
 

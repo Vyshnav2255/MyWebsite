@@ -14,6 +14,7 @@ redirect_from: /blog/9995-top-5-productivity-apps
 
 ##### **Todoist**
 It's the best todo application that I have ever used. I have tried many todo applications but I always end up using todoist. Adding tasks is very easy because of its natural language processing. And the UI of the app is awesome, also it has multi-platform support.
+Get 2 Months free using this [link](https://doist.grsm.io/vyshnavgangadharan6232).
 
 ##### **Notion**
 No one word can describe this app. It's one of the best productivity application which I have ever used. it is an all in one solution for all the productivity freaks. it can be used in many ways, like a todo application, note-taking application, bullet journal and many more. you can access all the templates from their official website. it is a web-based application and has multi-platform support.

@@ -8,7 +8,7 @@ layout: default
 </h2>
 ---
 
-#### [Todoist](https://todoist.com/r/vyshnav_gangadharan_lomwzf)
+#### [Todoist](https://doist.grsm.io/vyshnavgangadharan6232)
 
 Enjoy **2 Months of Todoist Premium for Free**. It applies to both new customer and old customer. Click above to get automatically upgraded.
 

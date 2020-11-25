@@ -37,7 +37,7 @@ When installing it, the first thought that came to my mind was what apps I will 
 - Visual Studio Code - Text Editor
 - Spotify - Music
 - Notion - Note Taking
-- Todoist - Task manager
+- [Todoist](https://doist.grsm.io/vyshnavgangadharan6232) - Task manager
 - LibreOffice - Office tools
 - Dropbox - Storage
 - DaVinci Resolve - Video Editor

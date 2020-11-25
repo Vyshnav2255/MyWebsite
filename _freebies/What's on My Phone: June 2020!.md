@@ -34,7 +34,7 @@ The launcher I am using is the stock OnePlus launcher. Which does the job, and a
 
 It is the best productivity app. It replaced many of my productivity apps. If you are a productivity nerd, then I don't think you need an introduction to this app. It is an all in one workspace tool. It can manage everything.
 
-**Todoist**
+**[Todoist](https://doist.grsm.io/vyshnavgangadharan6232)**
 
 It is my todo app of choice. I have tried many todo application in the past but always end up using this. It has a great UI, theme support, great widget, and multi-platform support.
 
