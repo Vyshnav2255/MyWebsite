@@ -16,6 +16,14 @@ Enjoy **2 Months of Todoist Premium for Free**. It applies to both new customer 
 {% include elements/button.html link="https://doist.grsm.io/vyshnavgangadharan6232" text="Get Link" %}
 </p>
 
+## Any.do
+
+Save 50% on your annual  subscription if you sign up through this link. You have only 24 hours to redeem this one time offer!
+
+<p class="text-center">
+{% include elements/button.html link="https://anydo.grsm.io/vyshnavgangadharan6232" text="Get Link" %}
+</p>
+
 ## Dropbox
 
 Creating a Dropbox account with this link will give you **500 MB of extra space**.
