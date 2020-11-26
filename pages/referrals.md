@@ -1,5 +1,5 @@
 ---	
-layout: default	
+layout: page	
 ---
 <h2 style="text-align:center; color: #0e9a83">
     <div>
@@ -8,22 +8,42 @@ layout: default
 </h2>
 ---
 
-#### [Todoist](https://doist.grsm.io/vyshnavgangadharan6232)
+## Todoist
 
 Enjoy **2 Months of Todoist Premium for Free**. It applies to both new customer and old customer. Click above to get automatically upgraded.
 
-#### [Dropbox](https://db.tt/eD4ixAKf1s)
+<p class="text-center">
+{% include elements/button.html link="https://doist.grsm.io/vyshnavgangadharan6232" text="Get Link" %}
+</p>
+
+## Dropbox
 
 Creating a Dropbox account with this link will give you **500 MB of extra space**.
 
-#### [Filmstro](https://filmstro.com/?ref=vyshnav)
+<p class="text-center">
+{% include elements/button.html link="https://db.tt/eD4ixAKf1s" text="Get Link" %}
+</p>
+
+## Filmstro
 
 A new music platform for creative filmmakers
 
-#### [Readwise](https://readwise.io/i/vyshnav)
+<p class="text-center">
+{% include elements/button.html link="https://filmstro.com/?ref=vyshnav" text="Get Link" %}
+</p>
+
+## Readwise
 
 Get **2 Months of Readwise Premium for Free.**
 
-#### [Skillshare](https://skl.sh/2sEUnPk)
+<p class="text-center">
+{% include elements/button.html link="https://readwise.io/i/vyshnav" text="Get Link" %}
+</p>
+
+## Skillshare
 
 Try **Skillshare Premium free for 2 months**. Only for new users.
+
+<p class="text-center">
+{% include elements/button.html link="https://skl.sh/2sEUnPk" text="Get Link" %}
+</p>
