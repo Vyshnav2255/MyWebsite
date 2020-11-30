@@ -83,7 +83,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
-url: "https://vyshnav.netlify.app" # the base hostname & protocol for your site
+url: "https://vyshnav.xyz/" # the base hostname & protocol for your site
   
 ### Exclude from processing ###
 exclude:
