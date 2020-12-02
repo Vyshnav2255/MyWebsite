@@ -4,7 +4,6 @@ tags: [Notion, Icons, Material]
 image: /Images/Bies/9999.jpg
 description: Make your workspace more colorful.
 external_url:
-comments: true
 date: 2019-08-23
 layout: post
 redirect_from: /blog/9999-notion-icons-png

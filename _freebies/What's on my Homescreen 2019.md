@@ -4,7 +4,6 @@ tags: [Android, Apps, Smartphone]
 image: /Images/Bies/9997.png
 description: This is what my setup looks like. Read more...
 external_url:
-comments: true
 date: 2019-10-08
 layout: post
 redirect_from: /blog/9997-what-s-on-my-homescreen-2019

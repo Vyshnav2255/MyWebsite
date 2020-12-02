@@ -4,7 +4,6 @@ tags: [Sleep, Health, Life]
 image: /Images/Bies/3.png
 description: Create a bedtime routine.
 external_url:
-comments: true
 date: 2020-09-12
 layout: post
 ---

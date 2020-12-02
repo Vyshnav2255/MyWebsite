@@ -4,7 +4,6 @@ tags: [Notion, Template, Finance]
 image: /Images/Bies/5.png
 description: Track your finances using this Template.
 external_url:
-comments: true
 date: 2020-10-01
 layout: post
 ---

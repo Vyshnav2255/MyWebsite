@@ -4,7 +4,6 @@ tags: [Notion, Icons, Duo-Tone]
 image: /Images/Bies/9998.jpg
 description: Create a more vibrant and modern workspace.
 external_url:
-comments: true
 date: 2019-09-19
 layout: post
 redirect_from: /blog/9998-notion-icons-2-0

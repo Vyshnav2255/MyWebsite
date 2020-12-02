@@ -4,7 +4,6 @@ tags: [Android, Apps, Smartphone]
 image: /Images/Bies/9990.png
 description: This is how my quarantine setup looks like.
 external_url:
-comments: true
 date: 2020-06-11
 layout: post
 redirect_from: /blog/9990-what-s-on-my-phone-june-2020

@@ -4,7 +4,6 @@ tags: [ElementaryOS, Linux, Discussion]
 image: /Images/Bies/4.png
 description: The Best open-source OS.
 external_url:
-comments: true
 date: 2020-10-15
 layout: post
 ---

@@ -4,7 +4,6 @@ tags: [Android, Google, Wallpaper]
 image: /Images/Bies/9994.png
 description: Wallpers from Pixel 4a
 external_url:
-comments: true
 date: 2020-03-11
 layout: post
 redirect_from: /blog/9994-pixel-4a-wallpaper

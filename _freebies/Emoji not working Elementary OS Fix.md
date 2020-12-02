@@ -4,7 +4,6 @@ tags: [Fix, ElementaryOS, Linux]
 image: /Images/Bies/9992.png
 description:
 external_url:
-comments: true
 date: 2020-04-14
 layout: post
 redirect_from: /blog/9992-emoji-not-working-elementary-os-fix

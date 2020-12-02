@@ -4,7 +4,6 @@ tags: [Apps, Google, Productivity]
 image: /Images/Bies/9991.png
 description: A simple trick for quickly taking notes.
 external_url:
-comments: true
 date: 2020-05-25
 layout: post
 redirect_from: /blog/9991-quick-note-taking-using-google-keep

@@ -4,7 +4,6 @@ tags: [Health, Productivity, Life]
 image: /Images/Bies/9989.png
 description: Use this time to build some good habits.
 external_url:
-comments: true
 date: 2020-07-01
 layout: post
 ---

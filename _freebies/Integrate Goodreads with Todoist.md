@@ -4,7 +4,6 @@ tags: [Tips & Tricks, Recommendation, IFTTT]
 image: /Images/Bies/1.png
 description: Create want to read as a task.
 external_url:
-comments: true
 date: 2020-07-16
 layout: post
 ---

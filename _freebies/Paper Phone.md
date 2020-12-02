@@ -4,7 +4,6 @@ tags: [Android, Apps, Smartphone]
 image: /Images/Bies/9996.png
 description: A unique way of using a smartphone
 external_url:
-comments: true
 date: 2019-10-24
 layout: post
 redirect_from: /blog/9996-paper-phone

@@ -4,7 +4,6 @@ tags: [Tips & Tricks, Productivity, Life]
 image: /Images/Bies/2.png
 description: A simple rule.
 external_url:
-comments: true
 date: 2020-08-19
 layout: post
 ---
