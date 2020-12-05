@@ -7,6 +7,7 @@ external_url:
 date: 2019-09-19
 layout: post
 redirect_from: /blog/9998-notion-icons-2-0
+redirect_to: https://vyshnav.xyz/blog/notion-icons-2-0
 ---
 
 ![alt text](/Images/Bies/9998.jpg "Notion Icons 2.0")
