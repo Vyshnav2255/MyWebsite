@@ -45,7 +45,7 @@ Sticker Mule is the fastest and easiest way to buy custom printed products. Thou
 ---
 
 ## Dropbox
-
+Dropbox is a cloud storage service that lets you save files online and sync them to your devices. It is one of the oldest and most popular cloud storage services in use today.
 Creating a Dropbox account with this link will give you **500 MB of extra space**.
 
 <p class="text-center">
