@@ -13,9 +13,12 @@ layout: page
 Todoist is the productivity tool you need to get work and life organized. Collect tasks, organize projects, and plan your day.
 If you don't have an account click here.
 <p class="text-center">
-{% include elements/button.html link="https://doist.grsm.io/vyshnavgangadharan6232" text="Get Link" %}
+{% include elements/button.html link="https://doist.grsm.io/vyshnavgangadharan6232" text="Sign Up for Todoist" %}
 </p>
-Enjoy **2 Months of Todoist Premium for Free**. It applies to both new customer and old customer. [Click here](https://todoist.com/r/vyshnav_gangadharan_lomwzf) to get automatically upgraded.
+Enjoy **2 Months of Todoist Premium for Free**. It applies to both new customer and old customer. Click below to get automatically upgraded.
+<p class="text-center">
+{% include elements/button.html link="https://todoist.com/r/vyshnav_gangadharan_lomwzf" text="Get 2 Months Premium" %}
+</p>
 
 ---
 
@@ -36,7 +39,7 @@ Any.do is all-in-one app to manage your life including calendar, tasks, lists, r
 Sticker Mule is the fastest and easiest way to buy custom printed products. Thousands of people trust them to make kick ass stickers, labels, magnets, badges & more. Order in 60 seconds and get free online proofs, free shipping and super fast turnaround.
 
 <p class="text-center">
-{% include elements/button.html link="https://www.stickermule.com/unlock?ref_id=7271472701&utm_medium=link&utm_source=invite" text="Get Link" %}
+{% include elements/button.html link="https://www.stickermule.com/unlock?ref_id=7271472701&utm_medium=link&utm_source=invite" text="Get $10 credit" %}
 </p>
 
 ---
@@ -46,7 +49,7 @@ Sticker Mule is the fastest and easiest way to buy custom printed products. Thou
 Creating a Dropbox account with this link will give you **500 MB of extra space**.
 
 <p class="text-center">
-{% include elements/button.html link="https://db.tt/eD4ixAKf1s" text="Get Link" %}
+{% include elements/button.html link="https://db.tt/eD4ixAKf1s" text="Get 500 MB Extra" %}
 </p>
 
 ---
