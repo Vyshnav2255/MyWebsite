@@ -1,5 +1,7 @@
 ---	
-layout: page	
+layout: page
+permalink: /more/referrals
+redirect_from: /referrals
 ---
 <h1 style="text-align:center; color: #0e9a83">
     <div>
