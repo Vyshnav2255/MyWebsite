@@ -46,7 +46,7 @@ Sticker Mule is the fastest and easiest way to buy custom printed products. Thou
 
 ---
 
-## Dropbox
+## Dropbox **500 MB Extra**
 Dropbox is a cloud storage service that lets you save files online and sync them to your devices. It is one of the oldest and most popular cloud storage services in use today.
 Creating a Dropbox account with this link will give you **500 MB of extra space**.
 
@@ -58,7 +58,7 @@ Creating a Dropbox account with this link will give you **500 MB of extra space*
 
 ## Filmstro
 
-A new music platform for creative filmmakers
+Create custom soundtracks for your videos and games using Filmstro's dynamic music library, the perfect music for your creation. Download and try today.
 
 <p class="text-center">
 {% include elements/button.html link="https://filmstro.com/?ref=vyshnav" text="Get Link" %}
@@ -66,19 +66,19 @@ A new music platform for creative filmmakers
 
 ---
 
-## Readwise
+## Readwise **2 Months Free**
 
-Get **2 Months of Readwise Premium for Free.**
+Grow wiser and retain books better: Readwise sends you a daily email resurfacing your best highlights from Kindle, Instapaper, iBooks, and more.
 
 <p class="text-center">
-{% include elements/button.html link="https://readwise.io/i/vyshnav" text="Get Link" %}
+{% include elements/button.html link="https://readwise.io/i/vyshnav" text="Get 2 Months Free" %}
 </p>
 
 ---
 
-## Skillshare
+## Skillshare **14 free days**
 
-Try **Skillshare Premium free for 2 months**. Only for new users.
+Skillshare is an online learning community with thousands of classes for creative and curious people, on topics including illustration, design, photography, video, freelancing, and more. On Skillshare, millions of members come together to find inspiration and take the next step in their creative journey.
 
 <p class="text-center">
 {% include elements/button.html link="https://skl.sh/2sEUnPk" text="Get Link" %}
