@@ -4,7 +4,7 @@ tags: [Android, Apps, Favourites]
 image: /Images/Bies/7.png
 description: These are my most used smartphone apps of 2020.
 external_url:
-date: 2020-12-30
+date: 2020-12-29
 layout: post
 ---
 ![alt text](/Images/Bies/7.png "1")
