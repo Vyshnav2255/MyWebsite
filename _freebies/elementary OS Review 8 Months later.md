@@ -1,13 +1,13 @@
 ---
 title: elementary OS Review&#58; 8 Months later
 tags: [ElementaryOS, Linux, Discussion]
-image: /Images/Bies/4.png
+image: /Images/Blog/4.png
 description: The Best open-source OS.
 external_url:
 date: 2020-10-15
 layout: post
 ---
-![alt text](/Images/Bies/4.png "1")
+![alt text](/Images/Blog/4.png "1")
 
 ## Introduction
 
@@ -29,7 +29,7 @@ I know many of you might ask this question, and the answer is simple if you are 
 
 When installing it, the first thought that came to my mind was what apps I will use when switching from Windows to Linux. I had to do some research for the apps, and I can tell you the open-source community has come to a stage where we have an open-source alternative for even the highly paid apps. And they perform excellently on Linux. And here are some of the apps I use.
 
-{% include elements/figure.html image="/Images/Bies/4-1.png" caption="My Homescreen" %}
+{% include elements/figure.html image="/Images/Blog/4-1.png" caption="My Homescreen" %}
 
 - Figma - Designing
 - Google Chrome - Browser

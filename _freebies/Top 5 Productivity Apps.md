@@ -1,7 +1,7 @@
 ---
 title: Top 5 Productivity Apps
 tags: [Android, Apps, Recommendation]
-image: /Images/Bies/9995.png
+image: /Images/Blog/9995.png
 description: Top 5 productivity apps that I use daily.
 external_url:
 date: 2020-03-09
@@ -9,7 +9,7 @@ layout: post
 redirect_from: /blog/9995-top-5-productivity-apps
 ---
 
-![alt text](/Images/Bies/9995.png "1")
+![alt text](/Images/Blog/9995.png "1")
 
 ##### **Todoist**
 It's the best todo application that I have ever used. I have tried many todo applications but I always end up using todoist. Adding tasks is very easy because of its natural language processing. And the UI of the app is awesome, also it has multi-platform support.

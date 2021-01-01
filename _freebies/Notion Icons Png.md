@@ -1,7 +1,7 @@
 ---
 title: Notion Icons Png
 tags: [Notion, Icons, Material]
-image: /Images/Bies/9999.jpg
+image: /Images/Blog/9999.jpg
 description: Make your workspace more colorful.
 external_url:
 date: 2019-08-23
@@ -9,7 +9,7 @@ layout: post
 redirect_from: /blog/9999-notion-icons-png
 ---
 
-![alt text](/Images/Bies/9999.jpg "Notion Icons Png")
+![alt text](/Images/Blog/9999.jpg "Notion Icons Png")
 
 
 

@@ -1,13 +1,13 @@
 ---
 title: Favourite Podcasts of 2020
 tags: [Recommendation, Podcast, Favourites]
-image: /Images/Bies/8.png
+image: /Images/Blog/8.png
 description: 
 external_url:
 date: 2020-12-30
 layout: post
 ---
-![alt text](/Images/Bies/8.png "1")
+![alt text](/Images/Blog/8.png "1")
 
 These are my favourite podcasts, which I discovered in 2020 and loved listening to.
 

@@ -1,13 +1,13 @@
 ---
 title: Favourite YouTube Channels of 2020
 tags: [Recommendation, YouTube, Favourites]
-image: /Images/Bies/9.png
+image: /Images/Blog/9.png
 description: 
 external_url:
 date: 2020-12-31
 layout: post
 ---
-![alt text](/Images/Bies/9.png "1")
+![alt text](/Images/Blog/9.png "1")
 
 These are my favourite YouTube channels, which I discovered in the year 2020. These channels have added a lot of value to my life and helped me learn new things.
 

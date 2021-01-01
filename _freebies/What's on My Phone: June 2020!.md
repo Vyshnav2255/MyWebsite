@@ -1,7 +1,7 @@
 ---
 title: What's on My Phone June 2020!
 tags: [Android, Apps, Smartphone]
-image: /Images/Bies/9990.png
+image: /Images/Blog/9990.png
 description: This is how my quarantine setup looks like.
 external_url:
 date: 2020-06-11
@@ -9,7 +9,7 @@ layout: post
 redirect_from: /blog/9990-what-s-on-my-phone-june-2020
 ---
 
-![alt text](/Images/Bies/9990.png "1")
+![alt text](/Images/Blog/9990.png "1")
 
 #### **Introduction**
 
@@ -25,7 +25,7 @@ It contains Phone, Camera, Google Chrome, Gmail, and Google Keep quick note shor
 
 #### **First Page**
 
-![alt text](/Images/Bies/9990-1.png "1")
+![alt text](/Images/Blog/9990-1.png "1")
 
 The launcher I am using is the stock OnePlus launcher. Which does the job, and also it is close to the stock android launcher. The icon pack is Candycons Unwrapped, and the wallpaper is from Zheano Blog. The date widget is from OnePlus.
 
@@ -65,7 +65,7 @@ It helps me to keep track of all the books I am reading.
 
 #### **Second Page**
 
-![alt text](/Images/Bies/9990-2.png "1")
+![alt text](/Images/Blog/9990-2.png "1")
 
 #### **Widget**
 
