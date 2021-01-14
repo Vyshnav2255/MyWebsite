@@ -12,11 +12,11 @@
   <meta itemprop="name" content="Vyshnav Gangadharan">
   <meta itemprop="image" content="/Images/me.png">
   <meta property="og:type" content="portfolio">
-  <meta property="og:url" content="http://vyshnav.netlify.app/">
+  <meta property="og:url" content="https://vyshnav.xyz/">
   <meta name="google-site-verification" content="HbuKJjqx6sxdf-OMJt45v1qE19vcDI_YyDOIa1SMZXw" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 
-  <meta name="author" content="Vyshnav Gangadharan" />
+  <link rel="alternate" type="application/rss+xml" title="Vyshnav Gangadharan" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
   {% if page.image %}
     {% assign prefix = page.image | slice: 0, 4 %}
