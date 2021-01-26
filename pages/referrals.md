@@ -3,11 +3,7 @@ layout: page
 permalink: /more/referrals
 redirect_from: /referrals
 ---
-<h1 style="text-align:center; color: #0e9a83">
-    <div>
-        <b>🎁 Referrals</b>
-    </div>
-</h1>
+<h1 style="text-align:center;" >🎁 Referrals</h1>
 
 
 ## Todoist **2 Months Free**
