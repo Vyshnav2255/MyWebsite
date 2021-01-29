@@ -105,3 +105,42 @@ h2{
     text-align: center;
 }
 }
+
+.about-sec-h{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #242424;
+    padding-top: 30px;
+    margin-bottom: 0px;
+}
+
+.about-pills{
+    padding: 1rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    justify-content: center;
+}
+
+.about-pill{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: .3rem .8rem .4rem;
+    font-size: .9rem;
+    border-radius: 9999999px;
+    border: 1px solid gray;
+    margin: .4rem .6rem .4rem 0;
+    transition: all .2s ease-in-out!important;
+    color: var(--text-secondary);
+}
+
+.about-pill-img{
+    width: 30px;
+    height: 30px;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    display: inline;
+}

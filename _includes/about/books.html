@@ -1,0 +1,6 @@
+<div class="book mt-4" style="text-align: center;">
+    <b>Currently reading 📕: </b>
+    {% for item in site.data.books %}
+    <br><a href="{{ item.link }}">{{ item.name }} by {{ item.author }}</a>
+    {% endfor %}
+</div>
