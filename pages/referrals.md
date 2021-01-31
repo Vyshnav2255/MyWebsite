@@ -3,7 +3,7 @@ layout: page
 permalink: /more/referrals
 redirect_from: /referrals
 ---
-<h1 style="text-align:center;" >🎁 Referrals</h1>
+<h1 style="text-align:center;" >🎁Referrals</h1>
 
 
 ## Todoist **2 Months Free**
@@ -16,6 +16,17 @@ If you don't have an account click here.
 Enjoy **2 Months of Todoist Premium for Free**. It applies to both new customer and old customer. Click below to get automatically upgraded.
 <p class="text-center">
 {% include elements/button.html link="https://todoist.com/r/vyshnav_gangadharan_lomwzf" text="Get 2 Months Premium" %}
+</p>
+
+---
+
+## Readwise **60 Days Free**
+
+Get the most out of what you read.
+Readwise makes it easy to revisit and learn from your ebook & article highlights.
+
+<p class="text-center">
+{% include elements/button.html link="https://readwise.io/i/vyshnav" text="Get 60 Days Free" %}
 </p>
 
 ---
