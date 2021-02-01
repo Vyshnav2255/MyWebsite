@@ -16,6 +16,7 @@ layout: null
         <item>
           <description>{{ microblog.content | xml_escape }}</description>
           <pubDate>{{ microblog.date | date_to_rfc822 }}</pubDate>
+          <link>{{ microblog.url | prepend: site.baseurl | prepend: site.url }}</link>
           {% if microblog.image %}
               {% assign prefix = page.image | slice: 0, 4 %}
               {% if prefix == "http" %}
