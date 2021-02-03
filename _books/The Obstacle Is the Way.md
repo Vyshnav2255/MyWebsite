@@ -9,31 +9,31 @@ rating: 5
 ---
 ---
 
-# Preface
+## Preface
 
 Our actions may be impeded . . . but there can be no impeding our intentions or dispositions. Because we can accommodate and adapt. The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way.
 
-# Introduction
+## Introduction
 
 > “The obstacle in the path becomes the path. Never forget, within every obstacle is an opportunity to improve our condition.”
 
 When you have a goal, obstacles are actually teaching you how to get where you want to go—carving you a path.
 
-### The Way Through Them
+#### The Way Through Them
 
 > Objective judgment, now at this very moment. Unselfish action, now at this very moment. Willing acceptance—now at this very moment—of all external events. That’s all you need. —MARCUS AURELIUS
 
 These obstacles are actually opportunities to test ourselves, to try new things, and, ultimately, to triumph. The Obstacle Is the Way.
 
-# Part I: Perception
+## Part I: Perception
 
-## The Discipline of Perception
+### The Discipline of Perception
 
 What matters most is not what these obstacles are but how we see them, how we react to them, and whether we keep our composure. You will learn that this reaction determines how successful we will be in overcoming—or possibly thriving because of—them.
 
 Outward appearances are deceptive. What’s within them, beneath them, is what matters.
 
-## Recognize Your Power
+### Recognize Your Power
 
 > Choose not to be harmed—and you won’t feel harmed. Don’t feel harmed—and you haven’t been. —MARCUS AURELIUS
 
@@ -45,13 +45,13 @@ There is no good or bad without us, there is only perception.
 
 A mistake becomes training.
 
-## Steady Your Nerves
+### Steady Your Nerves
 
 > What such a man needs is not courage but nerve control, cool headedness. This he can get only by practice. —THEODORE ROOSEVELT
 
 If your nerve holds, then nothing really did “happen”—our perception made sure it was nothing of consequence.
 
-## Control Your Emotions
+### Control Your Emotions
 
 > Would you have a great empire? Rule over yourself. —PUBLIUS SYRUS
 
@@ -59,7 +59,7 @@ Subconsciously, we should be constantly asking ourselves this question: Do I nee
 
 No, because I practiced for this situation and I can control myself. Or, No, because I caught myself and I’m able to realize that that doesn’t add anything constructive.
 
-## Practice Objectivity
+### Practice Objectivity
 
 > Don’t let the force of an impression when it first hit you knock you off your feet; just say to it: Hold on a moment; let me see who you are and what you represent. Let me put you to the test. —EPICTETUS
 
@@ -67,7 +67,7 @@ It’s so much better to see things as they truly, actually are, not as we’ve 
 
 Take your situation and pretend it is not happening to you. Pretend it is not important, that it doesn’t matter. How much easier would it be for you to know what to do? How much more quickly and dispassionately could you size up the scenario and its options? You could write it off, greet it calmly.
 
-## Alter Your Perspective
+### Alter Your Perspective
 
 > Man does not simply exist but always decides what his existence will be, what he will become the next moment. By the same token, every human being has the freedom to change at any instant. —VIKTOR FRANKL
 
@@ -81,11 +81,11 @@ How we approach, view, and contextualize an obstacle, and what we tell ourselves
 
 Where the head goes, the body follows. Perception precedes action. Right action follows the right perspective.
 
-## Is It Up To You?
+### Is It Up To You?
 
 > In life our first job is this, to divide and distinguish things into two categories: externals I cannot control, but the choices I make with regard to them I do control. Where will I find good and bad? In me, in my choices. —EPICTETUS
 
-## Live In The Present Moment
+### Live In The Present Moment
 
 > The trick to forgetting the big picture is to look at everything close up. —CHUCK PALAHNIUK
 
@@ -95,7 +95,7 @@ The implications of our obstacle are theoretical—they exist in the past and th
 
 Remember that this moment is not your life, it’s just a moment in your life. Focus on what is in front of you, right now. Ignore what it “represents” or it “means” or “why it happened to you.”
 
-## Think Differently
+### Think Differently
 
 > Genius is the ability to put into effect what is in your mind. There’s no other definition of it. —F. SCOTT FITZGERALD
 
@@ -105,27 +105,27 @@ It is often in that desperate nothing-to-lose state that we are our most creativ
 
 Our best ideas come from there, where obstacles illuminate new options.
 
-## Finding The Opportunity
+### Finding The Opportunity
 
 > A good person dyes events with his own color . . . and turns whatever happens to his own benefit. —SENECA
 
 > “There is good in everything, if only we look for it.” — Laura Ingalls Wilder
 
-## Prepare To Act
+### Prepare To Act
 
 > Then imitate the action of the tiger; stiffen the sinews, summon up the blood. —SHAKESPEARE
 
-# Part II: Action
+## Part II: Action
 
-## The Discipline Of Action
+### The Discipline Of Action
 
 Each obstacle we overcome makes us stronger for the next one.
 
-## Get Moving
+### Get Moving
 
 > We must all either wear out or rust out, every one of us. My choice is to wear out. —THEODORE ROOSEVELT
 
-## Practice Persistence
+### Practice Persistence
 
 > He says the best way out is always through And I agree to that, or in so far As I can see no way out but through. —ROBERT FROST
 
@@ -133,7 +133,7 @@ We will not be stopped by failure, we will not be rushed or distracted by extern
 
 Stop looking for an epiphany, and start looking for weak points. Stop looking for angels, and start looking for angles. There are options. Settle in for the long haul and then try each and every possibility, and you’ll get there.
 
-## Iterate
+### Iterate
 
 > What is defeat? Nothing but education; nothing but the first steps to something better. —WENDELL PHILLIPS
 
@@ -141,17 +141,17 @@ When failure does come, ask: What went wrong here? What can be improved? What am
 
 It’s time you understand that the world is telling you something with each and every failure and action. It’s feedback—giving you precise instructions on how to improve, it’s trying to wake you up from your cluelessness. It’s trying to teach you something. Listen.
 
-## Follow The Process
+### Follow The Process
 
 > Under the comb the tangle and the straight path are the same. —HERACLITUS
 
 Take your time, don’t rush. Some problems are harder than others. Deal with the ones right in front of you first. Come back to the others later. You’ll get there. The process is about doing the right things, right now. Not worrying about what might happen later, or the results, or the whole picture.
 
-## Do Your Job, Do It Right
+### Do Your Job, Do It Right
 
 > Whatever is rightly done, however humble, is noble. (Quidvis recte factum quamvis humile praeclarum.) —SIR HENRY ROYCE
 
-## What's Right Is What Works
+### What's Right Is What Works
 
 We tell ourselves that we’ll get started once the conditions are right, or once we’re sure we can trust this or that. When, really, it’d be better to focus on making due with what we’ve got. On focusing on results instead of pretty methods.
 
@@ -161,7 +161,7 @@ There are a lot of ways to get from point A to point B. It doesn’t have to be 
 
 > Think progress, not perfection.
 
-## In Praise Of The Flank Attack
+### In Praise Of The Flank Attack
 
 > Whoever cannot seek the unforeseen sees nothing, for the known way is an impasse. —HERACLITUS
 
@@ -169,7 +169,7 @@ You don’t convince people by challenging their longest and most firmly held op
 
 Sometimes the longest way around is the shortest way home.
 
-## Use Obstacles Against Themselves
+### Use Obstacles Against Themselves
 
 > Wise men are able to make a fitting use even of their enmities. —PLUTARCH
 
@@ -177,27 +177,27 @@ Sometimes in your life you need to have patience—wait for temporary obstacles 
 
 We wrongly assume that moving forward is the only way to progress, the only way we can win. Sometimes, staying put, going sideways, or moving backward is actually the best way to eliminate what blocks or impedes your path.
 
-## Channel Your Energy
+### Channel Your Energy
 
 > When jarred, unavoidably, by circumstance revert at once to yourself and don’t lose the rhythm more than you can help. You’ll have a better grasp of harmony if you keep going back to it. —MARCUS AURELIUS
 
 Adversity can harden you. Or it can loosen you up and make you better—if you let it.
 
-## Seize The Offensive
+### Seize The Offensive
 
 > The best men are not those who have waited for chances but who have taken them; besieged chance, conquered the chance, and made chance the servitor. —E. H. CHAPIN
 
 Ordinary people shy away from negative situations, just as they do with failure. They do their best to avoid trouble. What great people do is the opposite. They are their best in these situations. They turn personal tragedy or misfortune—really anything, everything—to their advantage.
 
-## Prepare For None Of It To Work
+### Prepare For None Of It To Work
 
 > In the meantime, cling tooth and nail to the following rule: not to give in to adversity, not to trust prosperity, and always take full note of fortune’s habit of behaving just as she pleases. —SENECA
 
-# Part III: Will
+## Part III: Will
 
 Will is our internal power, which can never be affected by the outside world.
 
-## The Discipline Of The Will
+### The Discipline Of The Will
 
 Certain things in life will cut you open like a knife. When that happens—at that exposing moment—the world gets a glimpse of what’s truly inside you.
 
@@ -205,7 +205,7 @@ It’s much easier to control our perceptions and emotions than it is to give up
 
 Always prepare ourselves for more difficult times. Always accept what we’re unable to change. Always manage our expectations. Always persevere. Always learn to love our fate and what happens to us. Always protect our inner self, retreat into ourselves. Always submit to a greater, larger cause. Always remind ourselves of our own mortality.
 
-## Build Your Inner Citadel
+### Build Your Inner Citadel
 
 > If thy faint in the day of adversity, thy strength is small. —PROVERBS 24:10
 
@@ -215,7 +215,7 @@ Nobody is born with a steel backbone. We have to forge that ourselves.
 
 The path of least resistance is a terrible teacher. We can’t afford to shy away from the things that intimidate us. We don’t need to take our weaknesses for granted.
 
-## Anticipation (Thinking Negatively)
+### Anticipation (Thinking Negatively)
 
 > Offer a guarantee and disaster threatens. —ANCIENT INSCRIPTION AT THE ORACLE OF DELPHI
 
@@ -225,7 +225,7 @@ Beware the calm before the storm. Hope for the best, prepare for the worst. The 
 
 Anticipation doesn’t magically make things easier, of course. But we are prepared for them to be as hard as they need to be, as hard as they actually are.
 
-## The Art Of Acquiescence
+### The Art Of Acquiescence
 
 > The Fates guide the person who accepts them and hinder the person who resists them. —CLEANTHES
 
@@ -237,7 +237,7 @@ We instinctively think about how much better we’d like any given situation to 
 
 We squirm and complain about what was taken from us. We still can’t appreciate what we have.
 
-## Love Everything That Happens: Amor Fati
+### Love Everything That Happens: Amor Fati
 
 > My formula for greatness in a human being is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity. Not merely bear what is necessary, still less conceal it . . . but love it. —NIETZSCHE
 
@@ -261,7 +261,7 @@ It’s a little unnatural, I know, to feel gratitude for things we never wanted 
 
 That is not to say that the good will always outweigh the bad. Or that it comes free and without cost. But there is always some good—even if only barely perceptible at first—contained within the bad.
 
-## Perseverance
+### Perseverance
 
 > “Gentleman, I am hardening on this enterprise. I repeat, I am now hardening towards this enterprise.”—WINSTON CHURCHILL
 
@@ -273,7 +273,7 @@ The good thing about true perseverance is that it can’t be stopped by anything
 
 We don’t control the barriers or the people who put them there. But we control ourselves—and that is sufficient.
 
-## Something Bigger Than Yourself
+### Something Bigger Than Yourself
 
 > A man’s job is to make the world a better place to live in, so far as he is able—always remembering the results will be infinitesimal—and to attend to his own soul. —LEROY PERCY
 
@@ -281,7 +281,7 @@ Stop making it harder on yourself by thinking about I, I, I. Stop putting that d
 
 Help your fellow humans thrive and survive, contribute your little bit to the universe before it swallows you up, and be happy with that. Lend a hand to others. Be strong for them, and it will make you stronger.
 
-## Meditate On Your Mortality
+### Meditate On Your Mortality
 
 > When a man knows he is to be hanged in a fortnight, it concentrates his mind wonderfully. —DR. JOHNSON
 
@@ -295,7 +295,7 @@ If something is in our control, it’s worth every ounce of our efforts and ener
 
 There’s no question about it: Death is the most universal of our obstacles. It’s the one we can do the least about. At the very best, we can hope to delay it—and even then, we’ll still succumb eventually.
 
-## Prepare To Start Again
+### Prepare To Start Again
 
 > Live on in your blessings, your destiny’s been won. But ours calls us on from one ordeal to the next. —VIRGIL
 
@@ -305,6 +305,6 @@ Each time, you’ll learn something. Each time, you’ll develop strength, wisdo
 
 Knowing that life is a marathon and not a sprint is important. Conserve your energy. Understand that each battle is only one of many and that you can use it to make the next one easier. More important, you must keep them all in real perspective.
 
-## Postscript: You’re Now a Philosopher. Congratulations.
+### Postscript: You’re Now a Philosopher. Congratulations.
 
 > To be a philosopher is not merely to have subtle thoughts, nor even to found a school . . . it is to solve some of the problems of life, not only theoretically, but practically. —HENRY DAVID THOREAU
