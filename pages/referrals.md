@@ -1,6 +1,6 @@
 ---	
 layout: page
-permalink: /more/referrals
+permalink: /resources/referrals
 redirect_from: /referrals
 ---
 <h1 style="text-align:center;" >🎁Referrals</h1>
