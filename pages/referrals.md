@@ -6,7 +6,8 @@ redirect_from: /referrals
 <h1 style="text-align:center;" >🎁Referrals</h1>
 
 
-## Todoist **2 Months Free**
+## Todoist
+*2 Months Free*
 
 Todoist is the productivity tool you need to get work and life organized. Collect tasks, organize projects, and plan your day.
 If you don't have an account click here.
@@ -20,7 +21,8 @@ Enjoy **2 Months of Todoist Premium for Free**. It applies to both new customer 
 
 ---
 
-## Readwise **60 Days Free**
+## Readwise
+*60 Days Free*
 
 Get the most out of what you read.
 Readwise makes it easy to revisit and learn from your ebook & article highlights.
@@ -43,7 +45,8 @@ Any.do is all-in-one app to manage your life including calendar, tasks, lists, r
 
 ---
 
-## Sticker Mule **$10 credit**
+## Sticker Mule
+*$10 credit*
 
 Sticker Mule is the fastest and easiest way to buy custom printed products. Thousands of people trust them to make kick ass stickers, labels, magnets, badges & more. Order in 60 seconds and get free online proofs, free shipping and super fast turnaround.
 
@@ -53,7 +56,9 @@ Sticker Mule is the fastest and easiest way to buy custom printed products. Thou
 
 ---
 
-## Dropbox **500 MB Extra**
+## Dropbox
+*500 MB Extra*
+
 Dropbox is a cloud storage service that lets you save files online and sync them to your devices. It is one of the oldest and most popular cloud storage services in use today.
 Creating a Dropbox account with this link will give you **500 MB of extra space**.
 
@@ -73,17 +78,8 @@ Create custom soundtracks for your videos and games using Filmstro's dynamic mus
 
 ---
 
-## Readwise **2 Months Free**
-
-Grow wiser and retain books better: Readwise sends you a daily email resurfacing your best highlights from Kindle, Instapaper, iBooks, and more.
-
-<p class="text-center">
-{% include elements/button.html link="https://readwise.io/i/vyshnav" text="Get 2 Months Free" %}
-</p>
-
----
-
-## Skillshare **14 free days**
+## Skillshare
+*14 Days Free*
 
 Skillshare is an online learning community with thousands of classes for creative and curious people, on topics including illustration, design, photography, video, freelancing, and more. On Skillshare, millions of members come together to find inspiration and take the next step in their creative journey.
 
