@@ -86,3 +86,6 @@ Skillshare is an online learning community with thousands of classes for creativ
 <p class="text-center">
 {% include elements/button.html link="https://skl.sh/2sEUnPk" text="Get Link" %}
 </p>
+
+&nbsp;
+&nbsp;
