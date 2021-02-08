@@ -12,7 +12,7 @@ A 21-year-old Graphic designer, currently pursuing B.Tech (Chemical engineering)
 <p class="text-center">
 {% include elements/iconbtn.html link="mailto:hi@vyshnav.xyz?subject=Resume" text="Resume" icon="far fa-file-pdf" %}
 {% include elements/iconbtn.html link="mailto:hi@vyshnav.xyz" text="Contact me" icon="far fa-envelope" %}
-{% include elements/iconbtn.html link="https://paypal.me/vyshnavg1" text="Support" icon="fas fa-hand-holding-usd" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Support" icon="fas fa-hand-holding-usd" %}
 </p>
 
 <div>
