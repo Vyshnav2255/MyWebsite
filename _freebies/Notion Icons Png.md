@@ -17,6 +17,6 @@ These are some Icons which I made for my **Notion workspace**. These are bright,
 
 You can download this icon pack by going to my Dribbble page.
 <p class="text-center">
-{% include elements/button.html link="https://dribbble.com/shots/7038798-Notion-Icons-Png" text="Download Here" style="danger" %}
-{% include elements/button.html link="https://paypal.me/vyshnavg1" text="Donate" %}
+{% include elements/iconbtn.html link="https://dribbble.com/shots/7038798-Notion-Icons-Png" text="Download Here" icon="fas fa-cloud-download-alt" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="fas fa-coffee" %}
 </p>
