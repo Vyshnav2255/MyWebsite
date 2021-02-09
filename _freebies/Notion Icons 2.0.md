@@ -30,6 +30,6 @@ You can download this icon pack by cloning it.
 Use **Github Issues** to request more Icons.
 
 <p class="text-center">
-{% include elements/button.html link="https://dribbble.com/shots/7170942-Notion-Icons-2-0" text="Download Here" %}
-{% include elements/button.html link="https://paypal.me/vyshnavg1" text="Donate" %}
+{% include elements/iconbtn.html link="https://dribbble.com/shots/7170942-Notion-Icons-2-0" text="Download Here" icon="fas fa-cloud-download-alt" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="fas fa-coffee" %}
 </p>
