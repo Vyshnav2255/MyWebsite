@@ -1,6 +1,6 @@
 ---
 title: 5 Minute Rule to Overcome Procrastination
-tags: [Tips & Tricks, Productivity, Life]
+tags: [Tips & Tricks, Productivity]
 image: /Images/Blog/2.png
 description: A simple rule.
 external_url:
