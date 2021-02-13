@@ -12,5 +12,5 @@ layout: post
 This pack contains 8 High-Quality wallpaper in 2160x4097 resolution. You can buy this wallpaper from my BMC page. This wallpaper is eligible for future updates.
 
 <p class="text-center">
-{% include elements/button.html link="https://www.buymeacoffee.com/vyshnav/e/15514" text="Buy Now" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/15514" text="Buy Now" icon="fas fa-shopping-cart" %}
 </p>
