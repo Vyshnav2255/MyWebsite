@@ -6,13 +6,16 @@
   <meta name="theme-color" content="#ffc107">
   <meta name="keywords" content="vyshnav,vg,vyshnav gangadharan,vyshnav director, Ui ux design, web developer, material design, css, html, malayalam, designer, illustration, illustrator, figma, video editor">
   <meta name="author" content="Vyshnav Gangadharan">
-  <meta rel="icon" href="/assets/favicon.ico">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <title>{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}</title>
+  <meta rel="icon" href="{{ '/assets/favicon.png' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}" />
   <meta property="og:site_name" content="Vyshnav Gangadharan">
-  <meta itemprop="name" content="Vyshnav Gangadharan">
-  <meta itemprop="image" content="/Images/me.png">
-  <meta property="og:type" content="portfolio">
-  <meta property="og:url" content="https://vyshnav.xyz/">
+  <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ '/Images/me.png' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+  <meta itemprop="name" content="{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}">
+  <meta itemprop="image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ '/Images/me.png' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+  <meta itemprop="logo" content="{{ '/assets/favicon.png' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
   <meta name="google-site-verification" content="HbuKJjqx6sxdf-OMJt45v1qE19vcDI_YyDOIa1SMZXw" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 
@@ -29,11 +32,11 @@
     <meta property="twitter:image" content="{{ image }}" />
   {% else %}
     <meta name="twitter:card" content="summary" />
-    <meta property="twitter:image" content="/assets/favicon.ico" />
+    <meta property="twitter:image" content="{{ '/Images/me.png' | prepend: site.baseurl | prepend: site.url }}" />
   {% endif %}
 
-  <meta name="twitter:site" content="@{{ site.twitter }}" />
-  <meta name="twitter:creator" content="@{{ site.twitter }}" />
+  <meta name="twitter:site" content="@{{ site.author.twitter }}" />
+  <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
 
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
@@ -41,8 +44,7 @@
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 
 
-  <title>{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}</title>
-  <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
+  <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/favicon.png' | prepend: site.baseurl | prepend: site.url }}">
 
   <!-- Font Awesome CDN -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
@@ -66,7 +68,5 @@
 
   gtag('config', 'UA-142301295-3');
 </script>
-
-{% seo %}
 
 </head>
