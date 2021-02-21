@@ -4,6 +4,7 @@ tags: [Self-help]
 image: /Images/Books/TBJM/TBJM.png
 author: Ryder Carroll
 date: 2021-02-08
+description: Track the Past, Order the Present, Design the Future.
 layout: book
 rating: 5
 ---
