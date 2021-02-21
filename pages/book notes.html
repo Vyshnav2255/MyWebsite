@@ -12,7 +12,7 @@ description: Notes, Highlights, and Summary of books I have read.
         {% if book.external_url %}
           {% assign book_url = book.external_url %}
         {% else %}
-          {% assign book_url = book.url | relative_url %}
+          {% assign book_url = book.url %}
         {% endif %}
     
     <div class="wow animated fadeIn" data-wow-delay=".15s">
