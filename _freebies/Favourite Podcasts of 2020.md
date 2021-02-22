@@ -2,7 +2,7 @@
 title: Favourite Podcasts of 2020
 tags: [Recommendation, Podcast, Favourites]
 image: /Images/Blog/8.png
-description: 
+description: These are my favourite podcasts, which I discovered in 2020.
 external_url:
 date: 2020-12-30
 layout: post

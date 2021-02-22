@@ -2,7 +2,7 @@
 title: Enable Ayatana AppIndicators In elementary OS
 tags: [Fix, ElementaryOS, Linux]
 image: /Images/Blog/6.png
-description: 
+description: The latest elementary OS 5.1.7 does not allow other apps to show in the wingpanel.
 external_url:
 date: 2020-11-01
 layout: post

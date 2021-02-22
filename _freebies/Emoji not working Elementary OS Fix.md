@@ -2,7 +2,7 @@
 title: Emoji not working Elementary OS Fix
 tags: [Fix, ElementaryOS, Linux]
 image: /Images/Blog/9992.png
-description:
+description: This method will work on almost all linux distros.
 external_url:
 date: 2020-04-14
 layout: post

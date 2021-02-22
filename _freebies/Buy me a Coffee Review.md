@@ -2,7 +2,7 @@
 title: Buy me a Coffee, Review
 tags: [Recommendation, Review, Favourites]
 image: /Images/Blog/10.png
-description: 
+description: I love BMC, and I am planning to create more supporters related content.
 external_url:
 date: 2021-01-03
 layout: post

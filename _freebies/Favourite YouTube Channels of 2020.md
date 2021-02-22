@@ -2,7 +2,7 @@
 title: Favourite YouTube Channels of 2020
 tags: [Recommendation, YouTube, Favourites]
 image: /Images/Blog/9.png
-description: 
+description: These are my favourite YouTube channels, which I discovered in the year 2020.
 external_url:
 date: 2020-12-31
 layout: post

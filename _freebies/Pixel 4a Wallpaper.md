@@ -2,7 +2,7 @@
 title: Google Pixel 4a Wallpaper
 tags: [Android, Google, Wallpaper]
 image: /Images/Blog/9994.png
-description: Wallpers from Pixel 4a
+description: Wallpapers from Pixel 4a
 external_url:
 date: 2020-03-11
 layout: post
