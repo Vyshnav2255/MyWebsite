@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 weight: 6
+description: Hi I am Vyshnav Gangadharan 👋
 ---
 
 # About Me
