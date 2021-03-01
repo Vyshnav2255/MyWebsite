@@ -59,3 +59,6 @@ A 21-year-old Graphic designer, currently pursuing B.Tech (Chemical engineering)
 <div class="row">
     {% include about/timeline.html %}
 </div>
+
+&nbsp;
+&nbsp;
