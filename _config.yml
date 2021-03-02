@@ -48,7 +48,7 @@ collections:
   
   microblogs:
     output: true 
-    permalink: /microblogs/:title
+    permalink: /microblog/:title
 
 ### Defaults for collections ###
 defaults:
