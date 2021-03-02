@@ -6,7 +6,7 @@ author: Dr. Joseph Murphy
 date: 2020-12-24
 description: It will open a world of success, happiness, prosperity, and peace for you.
 layout: book
-rating: 5
+rating: 10
 ---
 ---
 ## 1. The Treasure House Within You

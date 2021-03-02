@@ -6,7 +6,7 @@ author: Ryan Holiday
 date: 2021-01-25
 description: The Timeless Art of Turning Trials into Triumph.
 layout: book
-rating: 5
+rating: 10
 ---
 ---
 

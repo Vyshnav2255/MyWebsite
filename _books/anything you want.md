@@ -6,7 +6,7 @@ author: Derek Sivers
 date: 2021-02-22
 description: 40 Lessons for a New Kind of Entrepreneur.
 layout: book
-rating: 5
+rating: 9
 ---
 ---
 

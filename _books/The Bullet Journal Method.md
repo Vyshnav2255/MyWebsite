@@ -6,7 +6,7 @@ author: Ryder Carroll
 date: 2021-02-08
 description: Track the Past, Order the Present, Design the Future.
 layout: book
-rating: 5
+rating: 7.5
 ---
 ---
 
