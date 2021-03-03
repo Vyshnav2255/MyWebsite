@@ -138,3 +138,11 @@ h1, h2, h3, h4, h5, h6 {
     padding-left: 10px;
     padding-right: 10px;
 }
+
+::-moz-selection { /* Code for Firefox */
+    background: #fff4a5;
+  }
+  
+  ::selection {
+    background: #fff4a5;
+  }
