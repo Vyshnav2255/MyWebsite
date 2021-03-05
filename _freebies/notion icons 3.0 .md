@@ -20,7 +20,7 @@ After a long time, I am back with a new icon pack for all the Notion fans out th
 
 {% include elements/figure.html image="/Images/Blog/13-3.png" caption="Dark Mode" %}
 
-As always, this Icon pack will be free for everyone, and If you like this icon pack, please consider supporting me on Buy Me a Coffee. Your small support can help me make such awesome icon packs in the future.
+If you like this icon pack, please consider supporting me on Buy Me a Coffee. Your small support can help me make such awesome icon packs in the future.
 
 <p class="text-center">
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/23194" text="Download Here" icon="fas fa-cloud-download-alt" %}
