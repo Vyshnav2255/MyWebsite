@@ -1,6 +1,6 @@
 ---
 title: Notion Icons 2.0
-tags: [Notion, Icons, Duo-Tone]
+tags: [Notion, Icons]
 image: /Images/Blog/9998.jpg
 description: Create a more vibrant and modern workspace.
 external_url:
@@ -30,6 +30,6 @@ You can download this icon pack by cloning it.
 Use **Github Issues** to request more Icons.
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://dribbble.com/shots/7170942-Notion-Icons-2-0" text="Download Here" icon="fas fa-cloud-download-alt" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/23521" text="Download Here" icon="fas fa-cloud-download-alt" %}
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="fas fa-coffee" %}
 </p>

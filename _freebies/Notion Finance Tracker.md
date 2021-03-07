@@ -16,6 +16,6 @@ A finance tracker that is simple and easy to use. Helps you track all the accoun
 Also, share it with your family and friends who need help in finance tracking.
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/notion-finance-tracker" text="Duplicate Template" icon="far fa-copy"  %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/23522" text="Duplicate Template" icon="far fa-copy"  %}
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="fas fa-coffee" %}
 </p>
