@@ -1,0 +1,5 @@
+<div class="donate-pills">
+    {% for item in site.data.donate.donut %}
+    <a href="{{ item.url }}" class="donate-pill"><img src="{{ item.image }}" class="donate-pill-img" alt="{{ item.name }}">&nbsp;{{ item.name }}</a>
+    {% endfor %}
+</div>
