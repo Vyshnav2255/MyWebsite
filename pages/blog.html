@@ -8,28 +8,28 @@ description: I love writing, and this page will show you what I have been writin
 
 {% include post/search.html %}
 <div class="card-columns m-3 mt-5">
-    {% for freebie in site.freebies reversed %}
+    {% for blog in site.blogs reversed %}
     
-        {% if freebie.external_url %}
-          {% assign freebie_url = freebie.external_url %}
+        {% if blog.external_url %}
+          {% assign blog_url = blog.external_url %}
         {% else %}
-          {% assign freebie_url = freebie.url | relative_url %}
+          {% assign blog_url = blog.url | relative_url %}
         {% endif %}
     
     <div class="wow animated fadeIn" data-wow-delay=".15s">
-      <a href="{{ freebie_url }}" class="project card text-dark">
-        <img class="card-img-top" src="{{ freebie.image }}" alt="{{ freebie.title }}"/>
+      <a href="{{ blog_url }}" class="project card text-dark">
+        <img class="card-img-top" src="{{ blog.image }}" alt="{{ blog.title }}"/>
         <div class="card-body">
-          <h5 class="card-title">{{ freebie.title }}</h5>
-          <p class="card-text">{{ freebie.description }}</p>
+          <h5 class="card-title">{{ blog.title }}</h5>
+          <p class="card-text">{{ blog.description }}</p>
           <p class="card-text">
-            {% for tag in freebie.tags %}
+            {% for tag in blog.tags %}
             <span class="badge badge-pill">{{ tag }}</span>
             {% endfor %}
           </p>
         </div>
         <div class="card-footer {{ text_style }}">
-          {{ freebie.date | date_to_long_string }}
+          {{ blog.date | date_to_long_string }}
         </div>
       </a>
     </div>

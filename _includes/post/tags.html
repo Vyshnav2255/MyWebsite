@@ -1,9 +1,9 @@
 <!-- Collect tags from all posts -->
 {%- assign tags = blank -%}
-{%- for freebie in site.freebies -%}
-  {%- assign freebie_tags = freebie.tags | join:'|' | append:'|' -%}
-  {%- if freebie_tags != '|' -%}
-    {%- assign tags = tags | append:freebie_tags -%}
+{%- for blog in site.blogs -%}
+  {%- assign blog_tags = blog.tags | join:'|' | append:'|' -%}
+  {%- if blog_tags != '|' -%}
+    {%- assign tags = tags | append:blog_tags -%}
   {%- endif -%}
 {%- endfor -%}
 {%- assign tags = tags | split:'|' | uniq | sort -%}
@@ -13,15 +13,15 @@
 <div class="py-3">
   <h4 id="{{ tag | slugify }}">{{ tag }}</h4>
   <ol>
-  {% for freebie in site.freebies %}
-    {%- if freebie.tags contains tag -%}
-      {%- if freebie.external_url -%}
-        {%- assign url = freebie.external_url -%}
+  {% for blog in site.blogs %}
+    {%- if blog.tags contains tag -%}
+      {%- if blog.external_url -%}
+        {%- assign url = blog.external_url -%}
       {%- else -%}
-        {%- assign url = freebie.url | relative_url -%}
+        {%- assign url = blog.url | relative_url -%}
       {%- endif -%}
-    <a href="{{ url }}"><li>{{ freebie.title }}</li></a>
-    <small class="text-muted"> - {{ freebie.date | date_to_long_string }}</small>
+    <a href="{{ url }}"><li>{{ blog.title }}</li></a>
+    <small class="text-muted"> - {{ blog.date | date_to_long_string }}</small>
     <br/>
     {%- endif -%}
   {% endfor %}

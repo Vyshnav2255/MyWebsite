@@ -3,13 +3,13 @@ layout: null
 permalink: /search.json
 ---
 [
-  {% for freebie in site.freebies %}
+  {% for blog in site.blogs %}
     {
-      "title"    : "{{ freebie.title | escape }}",
-      "category" : "{{ freebie.category }}",
-      "tags"     : "{{ freebie.tags | join: ', ' }}",
-      "url"      : "{{ freebie.external_url | default: freebie.url | relative_url }}",
-      "date"     : "{{ freebie.date }}"
+      "title"    : "{{ blog.title | escape }}",
+      "category" : "{{ blog.category }}",
+      "tags"     : "{{ blog.tags | join: ', ' }}",
+      "url"      : "{{ blog.external_url | default: blog.url | relative_url }}",
+      "date"     : "{{ blog.date }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

@@ -13,15 +13,15 @@ redirect_from:
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for freebie in site.freebies reversed %}
-      {% unless freebie.hidden %}
+    {% for blog in site.blogs reversed %}
+      {% unless blog.hidden %}
         <item>
-          <title>{{ freebie.title | xml_escape }}</title>
-          <description>{{ freebie.content | xml_escape }}</description>
-          <pubDate>{{ freebie.date | date_to_rfc822 }}</pubDate>
-          <link>{{ freebie.url | prepend: site.baseurl | prepend: site.url }}</link>
-          <guid isPermaLink="true">{{ freebie.url | prepend: site.baseurl | prepend: site.url }}</guid>
-          {% if freebie.image %}
+          <title>{{ blog.title | xml_escape }}</title>
+          <description>{{ blog.content | xml_escape }}</description>
+          <pubDate>{{ blog.date | date_to_rfc822 }}</pubDate>
+          <link>{{ blog.url | prepend: site.baseurl | prepend: site.url }}</link>
+          <guid isPermaLink="true">{{ blog.url | prepend: site.baseurl | prepend: site.url }}</guid>
+          {% if blog.image %}
               {% assign prefix = page.image | slice: 0, 4 %}
               {% if prefix == "http" %}
                   {% assign image = page.image %}
@@ -30,10 +30,10 @@ redirect_from:
               {% endif %}
           <enclosure url="{{ image }}" />
           {% endif %}
-          {% for tag in freebie.tags %}
+          {% for tag in blog.tags %}
           <category>{{ tag | xml_escape }}</category>
           {% endfor %}
-          {% for cat in freebie.categories %}
+          {% for cat in blog.categories %}
           <category>{{ cat | xml_escape }}</category>
           {% endfor %}
         </item>

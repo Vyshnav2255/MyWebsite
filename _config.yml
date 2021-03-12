@@ -38,7 +38,7 @@ collections:
     output: true
     permalink: /projects/:name
 
-  freebies:
+  blogs:
     output: true 
     permalink: /blog/:name
 
@@ -59,7 +59,7 @@ defaults:
       layout: "page"     
   - scope:
       path: ""
-      type: "freebies"
+      type: "blog"
     values:
       layout: "posts"
   - scope:
@@ -72,16 +72,13 @@ defaults:
       type: "microblog"
     values:
       layout: "microblog"
-  - scope:
-      path: "assets/Resume.pdf"
-    values:
-        sitemap:  false
 
 plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
+  - jekyll-admin
 
 url: "https://vyshnav.xyz" # the base hostname & protocol for your site
   
