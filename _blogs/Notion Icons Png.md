@@ -1,6 +1,8 @@
 ---
 title: Notion Icons Png
-tags: [Notion, Icons, Material]
+tags:
+- Notion
+- Icons
 image: /Images/Blog/9999.jpg
 description: Make your workspace more colorful.
 external_url:
