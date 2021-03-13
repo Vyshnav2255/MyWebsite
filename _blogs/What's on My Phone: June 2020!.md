@@ -21,7 +21,7 @@ A lot has changed from my previous configuration. This time no social media apps
 
 #### **Dock**
 
-It contains Phone, Camera, Google Chrome, Gmail, and Google Keep quick note shortcut [(Read this article for creating one)](https://vyshnav.netlify.app/blog/9991-quick-note-taking-using-google-keep).
+It contains Phone, Camera, Google Chrome, Gmail, and Google Keep quick note shortcut [(Read this article for creating one)](https://vyshnav.netlify.app/blog/quick-note-taking-using-google-keep).
 
 #### **First Page**
 

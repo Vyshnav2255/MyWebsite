@@ -22,7 +22,7 @@ Google keep is one of the best notes taking app I have ever used. It is excellen
 
 Press and hold Google Keep icon to open app shortcuts. There you find an option **"New text note."** Press and hold that and drag the icon to your home screen. Now click on that it opens a new note page in Google Keep.
 
-![alt text](/Images/Blog/9991-1.jpg "2")
+![alt text](/Images/Blog/9991-1.png "2")
 
 
 #### **Bonus(Android users)**
