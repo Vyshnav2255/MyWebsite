@@ -1,12 +1,18 @@
+.card{
+    border: none;
+}
+.card-body{
+    padding: 1.25rem 0;
+    padding-bottom: 0;
+}
+.card-text{
+    margin-bottom: 0.75rem !important;
+}
 .project.card {
-    border-radius: $rounded-borders;
+    border-radius: .25rem;
     text-decoration: none!important;
 
     .card-img-top {
-        border-radius: $rounded-borders $rounded-borders 0 0;
-    }
-
-    &:hover:not(.article) {
-        box-shadow: -2px 8px 40px -12px rgba(0, 0, 0, .24);
+        border-radius: 0;
     }
 }

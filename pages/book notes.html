@@ -6,7 +6,7 @@ weight: 3
 description: Notes, Highlights, and Summary of books I have read.
 ---
 
-<div class="card-columns m-3 mt-5">
+<div class="post-grid m-3 mt-5">
     {% for book in site.books reversed %}
     
         {% if book.external_url %}
@@ -15,7 +15,7 @@ description: Notes, Highlights, and Summary of books I have read.
           {% assign book_url = book.url %}
         {% endif %}
     
-    <div class="wow animated fadeIn" data-wow-delay=".15s">
+    <div class="post-grid-item wow animated fadeIn" data-wow-delay=".15s">
       <a href="{{ book_url }}" class="project card text-dark" style="text-decoration: none !important;" >
         <img class="card-img-top" src="{{ book.image }}" alt="{{ book.title }}"/>
         <div class="card-body">
@@ -28,9 +28,9 @@ description: Notes, Highlights, and Summary of books I have read.
             {% endfor %}
           </p>
         </div>
-        <div class="card-footer {{ text_style }}">
+        <p class="date-card text-muted {{ text_style }}">
           {{ book.date | date_to_long_string }}
-        </div>
+        </p>
       </a>
     </div>
     
