@@ -6,23 +6,20 @@
 }
 
 .nav-link, .navbar-brand {
-    &::after {
-        @extend .link-after;
-        width: 0;
-        transition: width .35s;
-    }
-
-    &:hover::after {
-        width: 100%;
-    }
+    &:hover{
+        .nav-dot{
+            background-color: #89ffdd;
+        }
+        
+}
 }
 
 .nav-item.active {
     font-weight: bold;
-    
-    &::after {
-        @extend .link-after;
-        width: 100%!important;
+
+    .nav-dot{
+        background-color: #43d6b5;
+        border-color: #43d6b5;
     }
 }
 
@@ -31,4 +28,12 @@
     &::after {
         margin-top: -.25em;
     }
+}
+
+.nav-dot{
+    border: 1px solid #4d4d4d;
+    border-radius: 15px;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
 }
