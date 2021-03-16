@@ -35,6 +35,17 @@ Creating a Dropbox account with this link will give you **500 MB of extra space*
 
 ---
 
+## Buy Me a Coffee
+
+
+Buy Me a Coffee makes supporting fun and easy. In just a couple of taps, your fans can make the payment (buy you a coffee) and leave a message. They don’t even have to create an account.
+
+<p class="text-center">
+{% include elements/iconbtn.html link="https://buymeacoffee.com/?via=vyshnav" text="Get Link" icon="fas fa-external-link-alt" %}
+</p>
+
+---
+
 ## Woven
 
 
