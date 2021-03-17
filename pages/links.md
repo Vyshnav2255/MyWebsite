@@ -9,7 +9,7 @@ description: Latest post links
 <ul>
 {% assign lblog = site.blogs | sort: 'end_date' | reverse %}
   {% for blog in lblog limit:5 %}
-    <a href="{{ url }}"><li>{{ blog.title }}</li></a>
+    <a href="{{ blog.url }}"><li>{{ blog.title }}</li></a>
     <small class="text-muted"> - {{ blog.date | date_to_long_string }}</small>
     <br/>
   {% endfor %}
@@ -19,7 +19,7 @@ description: Latest post links
 <ul>
 {% assign lmicro = site.microblogs | sort: 'end_date' | reverse %}
   {% for microblog in lmicro limit:2 %}
-    <a href="{{ url }}"><li>{{ microblog.title }}</li></a>
+    <a href="{{ microblog.url }}"><li>{{ microblog.title }}</li></a>
     <small class="text-muted"> - {{ microblog.date | date_to_long_string }}</small>
     <br/>
   {% endfor %}
@@ -29,7 +29,7 @@ description: Latest post links
 <ul>
 {% assign lbook = site.books | sort: 'end_date' | reverse %}
   {% for book in lbook limit:2 %}
-    <a href="{{ url }}"><li>{{ book.title }}</li></a>
+    <a href="{{ book.url }}"><li>{{ book.title }}</li></a>
     <small class="text-muted"> - {{ book.date | date_to_long_string }}</small>
     <br/>
   {% endfor %}
