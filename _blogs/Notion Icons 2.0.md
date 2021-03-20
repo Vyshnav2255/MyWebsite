@@ -1,6 +1,6 @@
 ---
 title: Notion Icons 2.0
-tags: [Notion, Icons]
+tags: [Notion]
 image: /Images/Blog/9998.png
 description: Create a more vibrant and modern workspace.
 external_url:

@@ -1,6 +1,6 @@
 ---
 title: Top 5 Productivity Apps
-tags: [Android, Apps, Recommendation]
+tags: [Apps]
 image: /Images/Blog/9995.png
 description: Top 5 productivity apps that I use daily.
 external_url:

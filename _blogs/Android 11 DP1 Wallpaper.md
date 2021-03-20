@@ -1,6 +1,6 @@
 ---
 title: Android 11 DP1 Wallpaper
-tags: [Android, Google, Wallpaper]
+tags: [Wallpaper]
 image: /Images/Blog/9993.png
 description: Wallpapers inspired from latest Android 11 DP1
 external_url:

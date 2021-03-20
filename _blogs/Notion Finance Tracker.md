@@ -1,6 +1,6 @@
 ---
 title: Notion Finance Tracker
-tags: [Notion, Template]
+tags: [Notion]
 image: /Images/Blog/5.png
 description: Track your finances using this Template.
 external_url:

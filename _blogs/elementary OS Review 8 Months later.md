@@ -1,6 +1,6 @@
 ---
 title: elementary OS Review&#58; 8 Months later
-tags: [ElementaryOS, Linux, Review]
+tags: [Linux]
 image: /Images/Blog/4.png
 description: The Best open-source OS.
 external_url:

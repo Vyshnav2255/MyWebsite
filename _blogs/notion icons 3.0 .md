@@ -1,9 +1,9 @@
 ---
 title: Notion Icons 3.0
-tags: [Notion, Icons]
+tags: [Notion]
 image: /Images/Blog/13.png
 description: Create a More Minimal Workspace
-external_url:
+external_url: 
 date: 2021-03-05
 layout: post
 ---

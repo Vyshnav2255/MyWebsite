@@ -1,9 +1,6 @@
 ---
 title: Make this Lockdown more Productive
-tags:
-- Health
-- Productivity
-- Habit
+tags: [Productivity]
 image: /Images/Blog/9989.png
 description: Use this time to build some good habits.
 external_url:

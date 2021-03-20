@@ -1,6 +1,6 @@
 ---
 title: Favourite Android Apps of 2020
-tags: [Android, Apps, Favourites]
+tags: [Apps]
 image: /Images/Blog/7.png
 description: These are my most used smartphone apps of 2020.
 external_url:

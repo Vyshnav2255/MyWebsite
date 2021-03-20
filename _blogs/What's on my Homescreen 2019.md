@@ -1,6 +1,6 @@
 ---
 title: What's on my Smartphone?
-tags: [Android, Apps, Smartphone]
+tags: [Smartphone]
 image: /Images/Blog/9997.png
 description: This is what my setup looks like. Read more...
 external_url:

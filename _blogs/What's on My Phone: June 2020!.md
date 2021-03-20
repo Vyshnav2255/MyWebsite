@@ -1,6 +1,6 @@
 ---
 title: What's on My Phone June 2020!
-tags: [Android, Apps, Smartphone]
+tags: [Smartphone]
 image: /Images/Blog/9990.png
 description: This is how my quarantine setup looks like.
 external_url:

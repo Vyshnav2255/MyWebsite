@@ -1,6 +1,6 @@
 ---
 title: Paper Phone
-tags: [Android, Apps, Smartphone]
+tags: [Apps]
 image: /Images/Blog/9996.png
 description: A unique way of using a smartphone
 external_url:

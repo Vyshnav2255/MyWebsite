@@ -1,9 +1,9 @@
 ---
 title: What's on My Phone February 2021!
-tags: [Android, Apps, Smartphone]
+tags: [Smartphone]
 image: /Images/Blog/12.png
 description: A lot has changed from my last setup.
-external_url:
+external_url: 
 date: 2021-02-14
 layout: post
 ---

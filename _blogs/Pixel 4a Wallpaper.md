@@ -1,6 +1,6 @@
 ---
 title: Google Pixel 4a Wallpaper
-tags: [Android, Google, Wallpaper]
+tags: [Wallpaper]
 image: /Images/Blog/9994.png
 description: Wallpapers from Pixel 4a
 external_url:

@@ -1,6 +1,6 @@
 ---
 title: Waves Wallpapers
-tags: [Wallpaper, Smartphone, Premium]
+tags: [Wallpaper]
 image: /Images/Blog/11.png
 description: You can buy this wallpaper from my BMC page.
 external_url:

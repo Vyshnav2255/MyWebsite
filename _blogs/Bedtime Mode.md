@@ -1,6 +1,6 @@
 ---
 title: Bedtime Mode
-tags: [Sleep, Habit]
+tags: [Habit]
 image: /Images/Blog/3.png
 description: Create a bedtime routine.
 external_url:

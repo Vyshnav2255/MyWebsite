@@ -1,6 +1,6 @@
 ---
 title: Social media Detox
-tags: [Productivity, Habit]
+tags: [Productivity]
 image: /Images/Blog/9988.png
 description: Take a break.
 external_url:
