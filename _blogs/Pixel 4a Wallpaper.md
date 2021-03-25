@@ -6,7 +6,6 @@ description: Wallpapers from Pixel 4a
 external_url:
 date: 2020-03-11
 layout: post
-redirect_from: /blog/9994-pixel-4a-wallpaper
 ---
 
 ![alt text](/Images/Blog/9994.png "1")

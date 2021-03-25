@@ -6,7 +6,6 @@ description: Wallpapers inspired from latest Android 11 DP1
 external_url:
 date: 2020-03-12
 layout: post
-redirect_from: /blog/9993-android-11-dp1-wallpaper
 ---
 
 ![alt text](/Images/Blog/9993.png "1")

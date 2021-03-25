@@ -6,7 +6,7 @@ description: Create a more vibrant and modern workspace.
 external_url:
 date: 2019-09-19
 layout: post
-redirect_from: /blog/9998-notion-icons-2-0
+redirect_from: /blog/9998-notion-icons-2-0/
 ---
 
 ![alt text](/Images/Blog/9998.png "Notion Icons 2.0")

@@ -6,7 +6,6 @@ description: This method will work on almost all linux distros.
 external_url:
 date: 2020-04-14
 layout: post
-redirect_from: /blog/9992-emoji-not-working-elementary-os-fix
 ---
 
 ![alt text](/Images/Blog/9992.png "1")

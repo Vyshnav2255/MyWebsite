@@ -6,7 +6,6 @@ description: Top 5 productivity apps that I use daily.
 external_url:
 date: 2020-03-09
 layout: post
-redirect_from: /blog/9995-top-5-productivity-apps
 ---
 
 ![alt text](/Images/Blog/9995.png "1")

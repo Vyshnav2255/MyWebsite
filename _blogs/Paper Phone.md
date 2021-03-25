@@ -6,7 +6,6 @@ description: A unique way of using a smartphone
 external_url:
 date: 2019-10-24
 layout: post
-redirect_from: /blog/9996-paper-phone
 ---
 
 ![alt text](/Images/Blog/9996.png "1")
