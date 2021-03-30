@@ -1,7 +1,7 @@
 ---	
 layout: page
 permalink: /resources/referrals
-redirect_from: /referrals
+redirect_from: /referrals/
 description: Services & Products which I use and recommend, use these links for availing the perks.
 ---
 <h1 style="text-align:center;" >🎁Referrals</h1>
