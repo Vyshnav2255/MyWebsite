@@ -8,7 +8,7 @@ description: My personal Social media page.
 
     {% for microblog in site.microblogs reversed %}
     <h3 class="card-title"><b>{{ microblog.title }}</b></h3>
-    <p class="text-muted">{{ microblog.date | date_to_long_string }}</p>
+    <p class="text-muted" style="margin-top: -10px; font-size: 0.85rem;">{{ microblog.date | date_to_long_string }}</p>
     <div class="microcontent mb-5">
         {{ microblog.content }}
         <br>
