@@ -5,15 +5,15 @@ permalink: /microblog/
 weight: 2
 description: My personal Social media page.
 ---
-
+<div style="margin-top: 6rem;">
     {% for microblog in site.microblogs reversed %}
-    <h3 class="card-title"><b>{{ microblog.title }}</b></h3>
+    <h4 class="card-title"><b>{{ microblog.title }}</b></h4>
     <p class="text-muted" style="margin-top: -10px; font-size: 0.85rem;">{{ microblog.date | date_to_long_string }}</p>
     <div class="microcontent mb-5">
         {{ microblog.content }}
-        <br>
-    <a href="{{ microblog.url }}">Permalink</a>
+    <a href="{{ microblog.url }}">Permalink</a>  
         <div class="dot"></div>
     </div>
 
     {% endfor %}
+</div>

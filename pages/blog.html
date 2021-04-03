@@ -7,7 +7,7 @@ description: I love writing, and this page will show you what I have been writin
 ---
 
 {% include post/search.html %}
-<div class="post-grid mt-5">
+<div class="post-grid mt-3">
     {% for blog in site.blogs reversed %}
     
         {% if blog.external_url %}
@@ -23,7 +23,7 @@ description: I love writing, and this page will show you what I have been writin
           {% for tag in blog.tags %}
           <span class="blog-tags text-muted">{{ tag }}</span>
           {% endfor %}
-          <h5 class="card-title">{{ blog.title }}</h5>
+          <h5 class="card-title"><b>{{ blog.title }}</b></h5>
           <p class="card-text">{{ blog.description }}</p>
         </div>
         <p class="date-card text-muted {{ text_style }}">
