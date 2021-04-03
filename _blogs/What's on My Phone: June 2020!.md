@@ -10,19 +10,19 @@ layout: post
 
 ![alt text](/Images/Blog/9990.png "1")
 
-#### **Introduction**
+#### Introduction
 
 Hi Guys, I hope you enjoyed the last article. This time I am writing about how my smartphone setup has changed during the quarantine. I hope all of you are safe.
 
-#### **Setup**
+#### Setup
 
 A lot has changed from my previous configuration. This time no social media apps on the home screen. More about that in the upcoming article. This time I minimized the number of apps on my home screen. And also, it is a two-page setup. The app you see on the home screen are my most used apps, and apps on the second page are my second most-used app.
 
-#### **Dock**
+#### Dock
 
 It contains Phone, Camera, Google Chrome, Gmail, and Google Keep quick note shortcut [(Read this article for creating one)](https://vyshnav.netlify.app/blog/quick-note-taking-using-google-keep).
 
-#### **First Page**
+#### First Page
 
 ![alt text](/Images/Blog/9990-1.png "1")
 
@@ -44,7 +44,7 @@ I recently came across this app, and it's incredible. It is a white noise genera
 
 I love to listen to music, and it helps me to lift my mood. I also listen to music while studying or doing work. And Spotify is my go-to app. I didn't find any app that can replace it. It has all the songs I want and podcast support.
 
-##### **Folder**
+##### Folder
 
 **Forest**
 
@@ -62,15 +62,15 @@ It is the regular calendar app from Google and has all the features I need. I al
 
 It helps me to keep track of all the books I am reading.
 
-#### **Second Page**
+#### Second Page
 
 ![alt text](/Images/Blog/9990-2.png "1")
 
-#### **Widget**
+#### Widget
 
 The calendar widget came from Exquigets for KWGT, and it has edited a bit. I love the minimal design. And also it fits the wallpaper well.
 
-##### **Folder**
+##### Folder
 
 **Pocket Casts**
 
@@ -88,6 +88,6 @@ If you are a book reader, then you should use this app. It is the goto place for
 
 I don't think you need a description for this app. I use it for entertainment and also for learning new things.
 
-#### **Summing-up**
+#### Summing-up
 
 I love the current setup. Less app means minimum distraction, and it helps me to work on what matters most. Thanks for reading this, many more articles are coming. Stay safe

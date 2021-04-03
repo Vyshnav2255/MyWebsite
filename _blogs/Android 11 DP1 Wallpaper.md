@@ -14,7 +14,7 @@ As Google has recently released its first developer preview of its latest Androi
 
 This pack contains 7 wallpapers.
 
-### **Resolution**
+### Resolution
 These wallpaper are made in 4K resolution. I have tested these wallpapers on many devices and had no issues, they work perfectly. And if any of you have any issues please comment below or DM me on any of my social media accounts.
 
 <p class="text-center">

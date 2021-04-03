@@ -15,11 +15,11 @@ Yes, you read it correct "[Paper Phone](https://experiments.withgoogle.com/paper
 Paper Phone helps you have a little break away from your digital world by printing a personal booklet of the key information you’ll need that day. All you need to do is just [download](https://play.google.com/store/apps/details?id=com.withgoogle.experiments.unplugged) the android app.
 ![alt text](/Images/Blog/9996-1.png "2")
 
-#### **Setup**
+#### Setup
 ![alt text](/Images/Blog/9996-2.png "3")
 Select the features you want. you can even add a paper app, which gives some useful information and some paper games. After that click print and export as pdf or print directly from your phone.
-#### **Video**
+#### Video
 Here is a video showing how it works.
 {% include elements/video.html id="mAKzUcM0w_s" %}
-#### **Conclusion**
+#### Conclusion
 Give a break to your digital life and try this unique way of using a smartphone. And comment your experience.

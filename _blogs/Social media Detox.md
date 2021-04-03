@@ -24,10 +24,10 @@ Watching it made me think that if a public figure can do it, why can't I who onl
 6. Use some timer while using these apps. Like in Android, you have a feature called **[Digital wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing)**, where you can set a timer for individual apps, and once the timer runs out, the app will stop, and the app icon will be greyed out.
 7. Use some distraction blocking apps in your device. I use **[Zen mode](https://play.google.com/store/apps/details?id=com.oneplus.brickmode)**, which is a built-in feature with OnePlus device, and it works perfectly. Set a timer and press start, you can't access anything except camera and emergency dialer. But you will receive calls without sound. And you can only access apps after the timer stops, and if you try to restart your device, it will show the same screen.
 
-#### **My experience**
+#### My experience
 
 I was blown away after seeing the result. I got more time to do other kinds of stuff. I slept early and woke up on time. And you will surely lose your followers, I also lost a few, but I don't mind. It helped me to be productive throughout the day. I now spent less time on my phone. I also got time to read books. The benefits of doing this are more.
 
-#### **Conclusion**
+#### Conclusion
 
 I have seen many celebrities, and public figures do this, that was the reason which made me do this, and the results were amazing. I also want you to try this and share your experience. If you cannot do this for 30 days, try it for one week and see how it goes. Just take it slowly.
