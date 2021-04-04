@@ -1,7 +1,8 @@
 ---
-title: Update 🎉
-date: 2020-11-07
+title: "Update \U0001F389"
+date: '2020-11-07'
 layout: microblog
+description: Welcome to my Microblog. Stuff that is too short for a blog post goes here
 ---
 
 I hope you guys are doing good 👋.

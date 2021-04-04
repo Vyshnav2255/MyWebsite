@@ -1,6 +1,6 @@
 ---
-title: Just lay a brick🧱
-date: 2021-02-26
+title: "Just lay a brick\U0001F9F1"
+date: '2021-02-26'
 layout: microblog
 description: Rome wasn’t built in a day
 ---

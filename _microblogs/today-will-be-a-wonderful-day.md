@@ -1,7 +1,8 @@
 ---
-title: Today will be a Wonderful Day🌅
-date: 2020-11-14
+title: "Today will be a Wonderful Day\U0001F305"
+date: '2020-11-14'
 layout: microblog
+description: I just finished reading the book The Power of Your Subconscious Mind by Dr. Joseph Murphy
 ---
 
 I hope you are doing good 👋.

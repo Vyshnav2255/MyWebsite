@@ -1,8 +1,8 @@
 ---
-title: Give it away to get it back🔁
-date: 2021-03-08
+title: "Give it away to get it back\U0001F501"
+date: '2021-03-08'
 layout: microblog
-description: There is a wonderful, almost mystical,
+description: There is a wonderful, almost mystical
 ---
 
 >"There is a wonderful, almost mystical, law of nature that says three of the things we want most—happiness, freedom, and peace of mind—are always attained when we give them to others. Give it away to get it back."

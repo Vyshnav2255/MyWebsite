@@ -1,7 +1,7 @@
 ---
 title: "Never do YouTube for Money\U0001F4B5️"
 date: '2021-03-12 09:33:35'
-description: I have seen many people starting YouTube channels just for earning money.
+description: I have seen many people starting YouTube channels just for earning money
 layout: microblog
 ---
 
