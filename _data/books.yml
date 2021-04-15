@@ -1,7 +1,11 @@
+- name: Sprint
+  link: https://www.goodreads.com/book/show/25814544-sprint
+  author: Jake Knapp
+
 - name: Atomic Habits
   link: https://www.goodreads.com/book/show/40121378-atomic-habits
   author: James Clear
 
-- name: Think and Grow Rich 
+- name: Think and Grow Rich
   link: https://www.goodreads.com/book/show/30186948-think-and-grow-rich
   author: Napoleon Hill
