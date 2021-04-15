@@ -8,7 +8,6 @@ description: The Timeless Art of Turning Trials into Triumph.
 layout: book
 rating: 10
 ---
----
 
 ## Preface
 

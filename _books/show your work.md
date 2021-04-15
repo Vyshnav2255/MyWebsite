@@ -8,7 +8,7 @@ description: 10 Ways to Share Your Creativity and Get Discovered.
 layout: book
 rating: 9
 ---
----
+
 ## A New Way of Operating
 
 > “Creativity is not a talent. It is a way of operating.”—John Cleese

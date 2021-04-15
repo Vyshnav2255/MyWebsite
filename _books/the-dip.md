@@ -7,9 +7,7 @@ author: Seth Godin
 date: '2021-03-18'
 description: A Little Book That Teaches You When to Quit.
 layout: book
-rating: 7.5
----
-
+rating: 8
 ---
 
 #### Being the Best in the World Is Seriously Underrated

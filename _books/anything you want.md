@@ -8,7 +8,6 @@ description: 40 Lessons for a New Kind of Entrepreneur.
 layout: book
 rating: 9
 ---
----
 
 ### 🌟 The Book in 3 Sentences
 

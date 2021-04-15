@@ -8,7 +8,6 @@ description: Track the Past, Order the Present, Design the Future.
 layout: book
 rating: 7.5
 ---
----
 
 > Let us postpone nothing. Let us balance life’s account every day. . . . One who daily puts the finishing touches to his life is never in want of time.
 —SENECA , Moral Letters to Lucilius

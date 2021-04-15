@@ -8,7 +8,6 @@ description: The key to good and efficient writing lies in the intelligent organ
 layout: book
 rating: 7.5
 ---
----
 
 ### 🌟 The Book in 3 Sentences
 

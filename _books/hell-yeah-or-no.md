@@ -9,8 +9,6 @@ layout: book
 rating: 10
 ---
 
----
-
 ### Updating Identity
 
 - No matter what you tell the world or tell yourself, your actions reveal your real values. Your actions show you what you actually want.

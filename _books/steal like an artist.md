@@ -8,7 +8,6 @@ description: 10 Things Nobody Told You About Being Creative.
 layout: book
 rating: 10
 ---
----
 
 > “Art is theft.”—Pablo Picasso
 
