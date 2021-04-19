@@ -9,7 +9,7 @@ layout: book
 rating: 10
 ---
 
-### Updating Identity
+#### Updating Identity
 
 - No matter what you tell the world or tell yourself, your actions reveal your real values. Your actions show you what you actually want.
 - Someone who played football in high school can’t call himself an athlete forever. Someone who did something successful long ago can’t keep calling himself a success. You have to keep earning it. Holding on to an old title gives you satisfaction without action. But success comes from doing, not declaring.
@@ -21,14 +21,14 @@ rating: 10
 - This is how I feel about culture. We’re so surrounded by it that it’s impossible to see. Many things we think are true are really just our local culture. We can’t see it until we get outside of it.
 - The world treats you as you treat yourself. Your actions show the world who you are.
 
-### Saying No
+#### Saying No
 
 - If you’re not feeling “Hell yeah, that would be awesome!” about something, say no.
 - Saying no makes your yes more powerful.
 - A simple tweak can make all the difference between achieving something or not.
 - Before you start something, think of the ways it could end.
 
-### Making Things Happen
+#### Making Things Happen
 
 - If you’re more driven than most people, you can do way more than anyone expects.
 - Even if just for a few hours. Unplug. Turn off your phone and Wi-Fi. Focus. Write. Practice. Create. That’s what’s rare and valuable these days.
@@ -43,21 +43,21 @@ rating: 10
 - Eventually your focus on something will pay off. Because you’re successful, you’ll be overwhelmed with opportunities and offers. You’ll want to do them all. But this is when you need to switch strategies again. This is when you learn to say “hell yeah or no” to avoid drowning.
 - Most people overestimate what they can do in one year, and underestimate what they can do in ten years.
 
-### Changing Perspective
+#### Changing Perspective
 
 - To assume you’re below average is to admit you’re still learning. You focus on what you need to improve, not your past accomplishments.
 - Now you’re the person who made things happen, made a mistake, and can learn from it. Now you’re in control and there’s nothing to complain about.
 - I actually love being wrong, even though it cracks my confidence, because that’s the only time I learn. I actually love being lost, even though it fuels fears, because that’s when I go somewhere unexpected.
 
-### What’s Worth Doing?
+#### What’s Worth Doing?
 
 - Everybody’s ideas seem obvious to them.
 
-### Fixing Faulty Thinking
+#### Fixing Faulty Thinking
 
 - Smart people don’t think others are stupid.
 
-### Saying Yes
+#### Saying Yes
 
 - The purpose of goals is not to improve the future. The future doesn’t exist. It’s only in our imagination. All that exists is the present moment and what you do in it.
 - Judge a goal by how well it changes your actions in the present moment.
