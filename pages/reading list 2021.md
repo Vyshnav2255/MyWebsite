@@ -10,7 +10,7 @@ description: Reading List 2021
 * Think Like a Monk by Jay Shetty ✅
 * The Obstacle Is the Way by Ryan Holiday ✅
 * Atomic Habits by James Clear
-* Sprint by Jake Knapp
+* Sprint by Jake Knapp ✅
 * Your Money or Your Life by Vicki Robin
 * The Unfair Advantage by Ash Ali
 * Essentialism by Greg McKeown
