@@ -64,20 +64,14 @@
     a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot)  {
         display: inline-block;
         text-decoration: none;
+        color: #0d52bf;
+        text-decoration-color: #0d52bf;
+        text-decoration-line: underline;
+        text-decoration-style: wavy;
 
-        &:hover { color: $primary; }
-
-        &::after {
-            content: '';
-            display: block;
-            height: .15em;
-            margin-top: -.15em;
-            width: 0;
-            background: $primary;
-            transition: width .35s;
+        &:hover { 
+            background: #8cd5ff;
         }
-
-        &:hover::after { width: 100%; }
     }
 
     pre {
