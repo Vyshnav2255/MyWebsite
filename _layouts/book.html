@@ -20,6 +20,17 @@ layout: page
   {% endif %}
 
   | 🌟 {{ page.rating }} / 10
+
+  <br>
+  <b>
+  {% assign words = content | number_of_words %}
+  {% if words < 360 %}
+    less than 1 min read time
+  {% else %}
+    {{ words | divided_by:200 }} mins read time
+  {% endif %}
+  </b>
+
 </p>
 <hr>
 
