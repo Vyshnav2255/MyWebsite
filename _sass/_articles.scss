@@ -64,13 +64,16 @@
     a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot)  {
         display: inline-block;
         text-decoration: none;
-        color: #0d52bf;
-        text-decoration-color: #0d52bf;
+        color: #316fea;
+        text-decoration-color: #316fea;
         text-decoration-line: underline;
         text-decoration-style: wavy;
+        text-underline-offset: 4px;
+        transition: all 0.25s;
 
         &:hover { 
-            background: #8cd5ff;
+            background: #a5deff;
+            transition: all 0.25s;
         }
     }
 
@@ -131,4 +134,12 @@
             background-color: $light;
         }
     }
+}
+
+ul{
+    padding-left: 20px;
+}
+
+ol{
+    padding-left: 20px;
 }
