@@ -16,6 +16,7 @@ This pack is a minimal version of that pack. As always, it supports both light a
 
 ![Dark Mode](/Images/Blog/15-1.png "Notion Icons 4.0 - Dark")
 
+All icons are available in 8 different colors.
 You can download it from here.
 
 <p class="text-center">
