@@ -6,7 +6,7 @@ author: Austin Kleon
 date: 2020-11-09
 description: 10 Ways to Share Your Creativity and Get Discovered.
 layout: book
-rating: 9
+rating: 10
 ---
 
 #### A New Way of Operating

@@ -6,7 +6,7 @@ author: Austin Kleon
 date: 2021-04-15
 description: 10 Ways to Stay Creative in Good Times and Bad
 layout: book
-rating: 9
+rating: 10
 ---
 
 > “I think I need to keep being creative, not to prove anything but because it makes me happy just to do it . . . I think trying to be creative, keeping busy, has a lot to do with keeping you alive.”
