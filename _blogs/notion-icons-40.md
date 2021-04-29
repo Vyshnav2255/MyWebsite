@@ -13,12 +13,10 @@ layout: post
 This is a modified version of my [Notion Icons 2.0 pack](/blog/notion-icons-2-0).
 
 This pack is a minimal version of that pack. As always, it supports both light and dark modes.
-Currently the **pack contains 272 icons**.
+Currently the **pack contains 272 icons**. All icons are **available in 8 different colors**.
 
 ![Dark Mode](/Images/Blog/15-1.png "Notion Icons 4.0 - Dark")
 
-All icons are available in 8 different colors.
-You can download it from here.
 
 <p class="text-center">
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/29927" text="Download Here" icon="fas fa-cloud-download-alt" %}
