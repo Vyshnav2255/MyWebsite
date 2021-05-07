@@ -16,7 +16,7 @@ description: Reading List 2021
 * Essentialism by Greg McKeown
 * Deep Work by Cal Newport
 * Getting Things Done by David Allen
-* The Almanack of Naval Ravikant
+* The Almanack of Naval Ravikant ✅
 * How to Break Up with Your Phone by Catherine Price
 * Digital Minimalism by Cal Newport
 * Bad Blood by John Carreyrou
