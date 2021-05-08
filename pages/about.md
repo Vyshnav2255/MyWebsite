@@ -20,7 +20,7 @@ A 21-year-old Graphic designer, currently pursuing B.Tech (Chemical engineering)
 {% include about/books.html %}
 </div>
 
-<div class="about-sec-h">
+<div class="about-sec-h text-themed">
     🖥️ Programs
 </div>
 
@@ -28,7 +28,7 @@ A 21-year-old Graphic designer, currently pursuing B.Tech (Chemical engineering)
 {% include about/programs.html %}
 </div>
 
-<div class="about-sec-h">
+<div class="about-sec-h text-themed">
     💻 Programming Skills
 </div>
 
@@ -36,7 +36,7 @@ A 21-year-old Graphic designer, currently pursuing B.Tech (Chemical engineering)
 {% include about/programming-skills.html %}
 </div>
 
-<div class="about-sec-h">
+<div class="about-sec-h text-themed">
     🎥 Other Skills
 </div>
 
@@ -44,7 +44,7 @@ A 21-year-old Graphic designer, currently pursuing B.Tech (Chemical engineering)
 {% include about/other-skills.html %}
 </div>
 
-<div class="about-sec-h">
+<div class="about-sec-h text-themed">
     💼 Work Experience
 </div>
 
@@ -52,7 +52,7 @@ A 21-year-old Graphic designer, currently pursuing B.Tech (Chemical engineering)
     {% include about/edu-time.html %}
 </div>
                     
-<div class="about-sec-h">
+<div class="about-sec-h text-themed">
     🎓 Education
 </div>
                     

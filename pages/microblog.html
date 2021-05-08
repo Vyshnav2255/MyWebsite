@@ -9,7 +9,7 @@ description: My personal Social media page.
     {% for microblog in site.microblogs reversed %}
     <h4 class="card-title"><b>{{ microblog.title }}</b></h4>
     <p class="text-muted" style="margin-top: -10px; font-size: 0.85rem;">{{ microblog.date | date_to_long_string }}</p>
-    <div class="microcontent mb-5">
+    <div class="mb-5 text-themed">
         {{ microblog.content }}
     <a href="{{ microblog.url }}">Permalink</a>  
         <div class="dot"></div>
