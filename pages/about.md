@@ -16,9 +16,11 @@ A 21-year-old Graphic designer, currently pursuing B.Tech (Chemical engineering)
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Support" icon="fas fa-hand-holding-usd" %}
 </p>
 
-<div>
+<div class="mb-5">
 {% include about/books.html %}
 </div>
+
+<hr>
 
 <div class="about-sec-h text-themed">
     🖥️ Programs
@@ -28,6 +30,8 @@ A 21-year-old Graphic designer, currently pursuing B.Tech (Chemical engineering)
 {% include about/programs.html %}
 </div>
 
+<hr>
+
 <div class="about-sec-h text-themed">
     💻 Programming Skills
 </div>
@@ -35,6 +39,8 @@ A 21-year-old Graphic designer, currently pursuing B.Tech (Chemical engineering)
 <div>
 {% include about/programming-skills.html %}
 </div>
+
+<hr>
 
 <div class="about-sec-h text-themed">
     🎥 Other Skills
@@ -44,21 +50,21 @@ A 21-year-old Graphic designer, currently pursuing B.Tech (Chemical engineering)
 {% include about/other-skills.html %}
 </div>
 
-<div class="about-sec-h text-themed">
-    💼 Work Experience
-</div>
+<hr>
 
+<details>
+<summary class="about-sec-h text-themed">💼 Work Experience</summary>
 <div class="row">
     {% include about/edu-time.html %}
 </div>
-                    
-<div class="about-sec-h text-themed">
-    🎓 Education
-</div>
-                    
-<div class="row">
-    {% include about/timeline.html %}
-</div>
+</details>
+
+<details>
+    <summary class="about-sec-h text-themed">🎓 Education</summary>
+        <div class="row">
+            {% include about/timeline.html %}
+        </div>
+</details>
 
 &nbsp;
 &nbsp;

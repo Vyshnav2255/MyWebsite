@@ -24,7 +24,7 @@
 
     .tag:hover {
         background-color: #43d6b5;
-        color: #007367 !important;
+        color: #003933 !important;
     }
 
     footer {
@@ -64,16 +64,14 @@
     a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot)  {
         display: inline-block;
         text-decoration: none;
-        color: #316fea;
-        text-decoration-color: #316fea;
+        color: #1249cb;
+        text-decoration-color: #1249cb;
         text-decoration-line: underline;
         text-decoration-style: wavy;
         text-underline-offset: 4px;
-        transition: all 0.25s;
 
         &:hover { 
-            background: #a5deff;
-            transition: all 0.25s;
+            background: #a5deff96;
         }
     }
 

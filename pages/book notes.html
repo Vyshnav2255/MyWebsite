@@ -6,6 +6,7 @@ weight: 3
 description: Notes, Highlights, and Summary of books I have read.
 ---
 
+{% include book/search.html %}
 <div class="post-grid mt-5">
     {% for book in site.books reversed %}
     
@@ -19,8 +20,8 @@ description: Notes, Highlights, and Summary of books I have read.
       <a href="{{ book_url }}" class="project card text-themed" style="text-decoration: none !important;" >
         <img class="card-img-top" src="{{ book.image }}" alt="{{ book.title }}"/>
         <div class="card-body">
-          <h5 class="card-title"><b>{{ book.title }}</b></h5>
-          <p class="card-text">by {{ book.author }} | 🌟 {{ book.rating }} / 10</p>
+          <h5 class="card-title text-themed"><b>{{ book.title }}</b></h5>
+          <p class="card-text text-muted">by {{ book.author }} | 🌟 {{ book.rating }} / 10</p>
         </div>
         <p class="date-card text-muted {{ text_style }}" style="margin-top: -10px;">
           {{ book.date | date_to_long_string }}

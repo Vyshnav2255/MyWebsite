@@ -1,7 +1,7 @@
 $dark-100: $dark;
 $dark-300: #2c3032;
 $dark-600: #242526;
-$dark-900: #17191a;
+$dark-900: #121212;
 
 [data-theme="dark"] {
   body {
@@ -41,7 +41,7 @@ $dark-900: #17191a;
 
   // Cards
   .card {
-    background-color: #17191a;
+    background-color: #121212;
   }
 
   .card.border {
@@ -102,6 +102,11 @@ $dark-900: #17191a;
 .article{
   blockquote{
     color: #d4d4d4 !important;
-}
-}
+      }
+  }
+
+  a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.nav-item){
+    color: #83a8ff;
+    text-decoration-color: #83a8ff;
+  }
 }

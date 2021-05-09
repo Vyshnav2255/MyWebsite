@@ -5,11 +5,9 @@ body {
 .badge {
     font-weight: 500;
     background-color: #89ffdd;
-    color: #007367;
+    color: #003933;
 }
 
-// Fine Circle Responsive Image
-// Inspired by https://stackoverflow.com/a/6615994/10194811
 #container {
     display: inline-block;
     position: relative;
@@ -17,7 +15,7 @@ body {
 }
 
 #dummy {
-    padding-top: 100%; /* 1:1 aspect ratio */
+    padding-top: 100%;
 }
 
 #element {
@@ -61,8 +59,8 @@ h1, h2, h3, h4, h5, h6 {
     margin-left: 4px;
     margin-right: 4px;
     background-color: #89ffdd !important;
-    border-color: #007367 !important;
-    color: #007367 !important;
+    border-color: #003933 !important;
+    color: #003933 !important;
     cursor: pointer;
     }
     :hover.btn{
@@ -93,7 +91,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .about-sec-h{
     font-size: 20px;
-    text-align: center;
     font-weight: bold;
     color: #242424;
     padding-top: 30px;
@@ -105,7 +102,6 @@ h1, h2, h3, h4, h5, h6 {
     display: flex;
     flex-wrap: wrap;
     padding-top: 10px;
-    justify-content: center;
 }
 
 .about-pill{
