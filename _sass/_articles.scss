@@ -64,14 +64,16 @@
     a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot)  {
         display: inline-block;
         text-decoration: none;
-        color: #1249cb;
-        text-decoration-color: #1249cb;
-        text-decoration-line: underline;
-        text-decoration-style: wavy;
-        text-underline-offset: 4px;
+        color: #003933;
+        background-color: #89ffdd9c;
+        border-radius: .125rem;
+        padding-left: .125rem;
+        padding-right: .125rem;
+        margin-bottom: .125rem;
+        margin-top: .125rem;
 
         &:hover { 
-            background: #a5deff96;
+            background: #43d6b5;
         }
     }
 
