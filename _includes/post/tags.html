@@ -20,9 +20,8 @@
       {%- else -%}
         {%- assign url = blog.url | relative_url -%}
       {%- endif -%}
-    <a href="{{ url }}"><li>{{ blog.title }}</li></a>
-    <small class="text-muted"> - {{ blog.date | date_to_long_string }}</small>
-    <br/>
+    <li><a href="{{ url }}">{{ blog.title }}</a>
+    <small class="text-muted"> - {{ blog.date | date_to_long_string }}</small></li>
     {%- endif -%}
   {% endfor %}
   </ol>
