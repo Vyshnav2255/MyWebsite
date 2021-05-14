@@ -13,5 +13,5 @@ layout: post
 Google is teasing its upcoming Pixel phone in public places. And they have also showcased some new wallpapers before launch. And you don't need to wait for the wallpaper. You can download it from here. The pack contains 8 wallpaper. Enjoy Guys.
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://drive.google.com/open?id=1vQEhqFxENlAvB4UUrSF1SbNnPr8OhCPx" text="Download Here" icon="fas fa-cloud-download-alt" %}
+{% include elements/iconbtn.html link="https://drive.google.com/open?id=1vQEhqFxENlAvB4UUrSF1SbNnPr8OhCPx" text="Download Here" icon="icon-download-cloud" %}
 </p>

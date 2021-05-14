@@ -1,11 +1,11 @@
 behance:
   url   : https://www.behance.net/
-  icon  : fab fa-behance
+  icon  : icon-behance
   color : 1769ff
 
 dribbble:
   url   : https://dribbble.com/
-  icon  : fab fa-dribbble
+  icon  : icon-dribbble
   color : ea4c89
 
 email:
@@ -15,22 +15,22 @@ email:
 
 github:
   url   : https://www.github.com/
-  icon  : fab fa-github
+  icon  : icon-github-circled
   color : 333333
 
 instagram:
   url   : https://www.instagram.com/
-  icon  : fab fa-instagram
+  icon  : icon-instagram
   color : C13584
 
 linkedin:
   url   : https://www.linkedin.com/in/
-  icon  : fab fa-linkedin-in
+  icon  : icon-linkedin
   color : 007bb5
 
 twitter:
   url   : https://www.twitter.com/
-  icon  : fab fa-twitter
+  icon  : icon-twitter
   color : 1da1f2
 
 goodreads:
