@@ -45,17 +45,6 @@ Buy Me a Coffee makes supporting fun and easy. In just a couple of taps, your fa
 
 ---
 
-### Any.do
-
-Any.do is building a task completion platform.
-Over 20 million people currently rely on Any.do to keep life under control and get more done.
-Any.do is all-in-one app to manage your life including calendar, tasks, lists, reminders and a smart assistant that can take care of your tasks for you. Any.do is always in-sync across all your devices.
-
-<p class="text-center">
-{% include elements/iconbtn.html link="https://anydo.grsm.io/vyshnavgangadharan6232" text="Get Link" icon="fas fa-external-link-alt" %}
-</p>
-
----
 
 ### Sticker Mule
 *$10 credit*
