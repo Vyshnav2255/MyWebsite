@@ -7,8 +7,6 @@ external_url:
 date: 2020-12-29
 layout: post
 ---
-![alt text](/Images/Blog/7.png "1")
-
 These are my most used smartphone apps of 2020. This list contains all types of apps, not just productivity alone. These are the apps that I use daily and helped me get things done. I have talked about most of these apps in my previous posts.
 1. [Todoist](https://doist.grsm.io/vyshnavgangadharan6232)
 2. [Notion](https://www.notion.so/)

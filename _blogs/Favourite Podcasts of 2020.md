@@ -7,8 +7,6 @@ external_url:
 date: 2020-12-30
 layout: post
 ---
-![alt text](/Images/Blog/8.png "1")
-
 These are my favourite podcasts, which I discovered in 2020 and loved listening to.
 
 [1. Deep Questions with Cal Newport](https://pca.st/mj8i0i6r)

@@ -7,11 +7,11 @@ external_url:
 date: 2020-07-01
 layout: post
 ---
+I know everyone faces many difficulties in this lockdown period, and many are just using this time to watch movies and play games. This is the perfect time to invest in yourself to build some good habits and to learn new skills. This article will help you to do it. And I know many of you will be profoundly depressed during this time thinking about the future and don't worry use this time efficiently by building these habits, it will help you a lot after this period.
 
-![alt text](/Images/Blog/9989.png "1")
+It will take 30 days to develop any habit and use the 2-day rule. It means don't skip your habits two days in a row because there is a high chance you will also skip the third day, and so on. Doing this will make creating that habit a failure, so keep this in mind. I don't want you to implement all these habits in one day. Take it slowly and be consistent.
 
-
-I know everyone faces many difficulties in this lockdown period, and many are just using this time to watch movies and play games. This is the perfect time to invest in yourself to build some good habits and to learn new skills. This article will help you to do it. And I know many of you will be profoundly depressed during this time thinking about the future and don't worry use this time efficiently by building these habits, it will help you a lot after this period. It will take 30 days to develop any habit and use the 2-day rule. It means don't skip your habits two days in a row because there is a high chance you will also skip the third day, and so on. Doing this will make creating that habit a failure, so keep this in mind. I don't want you to implement all these habits in one day. Take it slowly and be consistent. Also, use some apps for tracking these habits. You can use Habitify or Habitica, which are the best habit trackers on the market or use a pen and paper system. As Hal Elrod said in his book "The Miracle Morning "
+Also, use some apps for tracking these habits. You can use Habitify or Habitica, which are the best habit trackers on the market or use a pen and paper system. As Hal Elrod said in his book "The Miracle Morning "
 > If you want your life to be different, you have to be willing to do something different first.
 
 

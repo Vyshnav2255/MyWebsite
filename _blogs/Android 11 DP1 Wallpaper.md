@@ -7,9 +7,6 @@ external_url:
 date: 2020-03-12
 layout: post
 ---
-
-![alt text](/Images/Blog/9993.png "1")
-
 As Google has recently released its first developer preview of its latest Android OS, they showcased the new easter egg of the new Android version. So I created some wallpaper inspired by that easter egg. And I hope many of you will like these wallpapers.
 
 This pack contains 7 wallpapers.

@@ -7,8 +7,6 @@ external_url:
 date: 2019-10-24
 layout: post
 ---
-
-![alt text](/Images/Blog/9996.png "1")
 >By Special Projects
 
 Yes, you read it correct "[Paper Phone](https://experiments.withgoogle.com/paper-phone)". A printable paper phone which helps you take a break from your digital world, its a unique way of using a smartphone using paper. This is a developed by Special Projects under [Experiments of Google](https://experiments.withgoogle.com) initiative.

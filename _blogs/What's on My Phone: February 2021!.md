@@ -7,9 +7,6 @@ external_url:
 date: 2021-02-14
 layout: post
 ---
-
-![alt text](/Images/Blog/12.png "1")
-
 ### Introduction
 
 A lot has changed from my last setup. But most of the apps are still the same. And there are some new apps on the list. The phone I am using is the OnePlus 5T, and it is always a great performing phone. I don't plan to upgrade it soon. It is excellent for doing daily tasks. I don't use it for playing games, so there is no problem using it. Currently, I'm in the process of buying an iPad for my creative and content creation needs so, if you like my content, please consider supporting me on [Buy me A Coffee](https://www.buymeacoffee.com/vyshnav). Your small contribution can help me achieve this goal.

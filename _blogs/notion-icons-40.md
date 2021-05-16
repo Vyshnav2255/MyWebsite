@@ -7,9 +7,6 @@ external_url:
 date: 2021-04-28
 layout: post
 ---
-
-![Notion Icons 4.0](/Images/Blog/15.png "Notion Icons 4.0")
-
 This is a modified version of my [Notion Icons 2.0 pack](/blog/notion-icons-2-0).
 
 This pack is a minimal version of that pack. As always, it supports both light and dark modes.

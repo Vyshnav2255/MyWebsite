@@ -7,8 +7,6 @@ external_url:
 date: 2020-09-12
 layout: post
 ---
-![alt text](/Images/Blog/3.png "1")
-
 ### Introduction
 This article is something that everyone should read. I know everyone is facing this issue of not getting sleep or not getting adequate sleep, which is why most people feel tired in the morning and unable to do work. And now, everyone is working from home. I think many people will find this article useful. And don't believe that this problem is faced only by working people. Even students face this issue. I have seen many of my friends sleeping late at night watching movies, playing games, and unable to attend the classes. Some of them come to class and sleep form there ( ya, I also did the same). In this article, I will share some tips and methods for creating a proper Bedtime routine so that you can have a great sleep.
 

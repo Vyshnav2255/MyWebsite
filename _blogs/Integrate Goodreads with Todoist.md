@@ -7,9 +7,6 @@ external_url:
 date: 2020-07-16
 layout: post
 ---
-![alt text](/Images/Blog/1.png "1")
-
-
 Recently I read an article by Todoist about different [productivity methods](https://todoist.com/productivity-methods), and in one of the materials, I read about automation. Creating an automatic todo task, for example, if you add articles in the pocket app it will create a task in Todoist. So this made me think why not add **Goodreads** want to read to **Todoist**. So I did it, now whenever I mark a book as want to read it will create a task t in my Todoist. It is a straightforward process, and I will give you all the details on how to do it. You can do this with TickTick also.
 
 #### Steps

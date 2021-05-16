@@ -7,10 +7,7 @@ external_url:
 date: 2020-04-14
 layout: post
 ---
-
-![alt text](/Images/Blog/9992.png "1")
 > This method will work on almost all linux distros.
-
 
 1. Download [fonts](https://noto-website-2.storage.googleapis.com/pkgs/Noto-hinted.zip) .
 2. Extract it.

@@ -7,8 +7,6 @@ external_url:
 date: 2021-03-30
 layout: post
 ---
-![alt text](/Images/Blog/14.png "1")
-
 Reading books is the best thing I have done in my life, and I feel proud. It has taught me many things.
 I read only two books in 2019, and I read 28 books in 2020. And in this article, I will show you how to read more books.
 

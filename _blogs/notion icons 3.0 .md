@@ -7,9 +7,6 @@ external_url:
 date: 2021-03-05
 layout: post
 ---
-
-![alt text](/Images/Blog/13.png "Notion Icons 3.0")
-
 After a long time, I am back with a new icon pack for all the Notion fans out there. This pack is called Notion Icons 3.0. It is a minimal icon pack. All the icons are available in 8 different colors.
 
 ![alt text](/Images/Blog/13-1.png "Notion Icons 3.0")

@@ -7,8 +7,6 @@ external_url:
 date: 2020-12-31
 layout: post
 ---
-![alt text](/Images/Blog/9.png "1")
-
 These are my favourite YouTube channels, which I discovered in the year 2020. These channels have added a lot of value to my life and helped me learn new things.
 
 1. [Daniel Titchener](https://www.youtube.com/c/DanielTitchener)

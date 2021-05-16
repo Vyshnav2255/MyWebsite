@@ -7,9 +7,6 @@ external_url:
 date: 2020-03-09
 layout: post
 ---
-
-![alt text](/Images/Blog/9995.png "1")
-
 ##### Todoist
 It's the best todo application that I have ever used. I have tried many todo applications but I always end up using todoist. Adding tasks is very easy because of its natural language processing. And the UI of the app is awesome, also it has multi-platform support.
 Get 2 Months free using this [link](https://doist.grsm.io/vyshnavgangadharan6232).

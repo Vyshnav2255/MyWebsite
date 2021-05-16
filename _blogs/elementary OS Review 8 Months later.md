@@ -7,8 +7,6 @@ external_url:
 date: 2020-10-15
 layout: post
 ---
-![alt text](/Images/Blog/4.png "1")
-
 ### Introduction
 
 I have been a elementary OS user for the past eight months, and here is my opinion. Elementary OS is a Linux distribution based on Ubuntu LTS. It is fast, open, and privacy-respecting. You can read more about it from their [website](http://elementary.io/).

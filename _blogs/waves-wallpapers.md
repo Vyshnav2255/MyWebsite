@@ -7,8 +7,6 @@ external_url:
 date: 2021-01-10
 layout: post
 ---
-![alt text](/Images/Blog/11.png "1")
-
 This pack contains 8 High-Quality wallpaper in 2160x4097 resolution. You can get this wallpaper from my BMC page.
 
 <p class="text-center">

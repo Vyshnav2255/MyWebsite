@@ -7,9 +7,6 @@ external_url:
 date: 2020-06-11
 layout: post
 ---
-
-![alt text](/Images/Blog/9990.png "1")
-
 #### Introduction
 
 Hi Guys, I hope you enjoyed the last article. This time I am writing about how my smartphone setup has changed during the quarantine. I hope all of you are safe.

@@ -7,8 +7,6 @@ external_url:
 date: 2021-01-03
 layout: post
 ---
-![alt text](/Images/Blog/10.png "1")
-
 For people who don't know me, I am a creative person who drinks coffee more than water. And it's that coffee that helps me create some awesome works for people. And as coffee is more expensive than water, it is tough for me to drink it. That is why I created a [Buy me a Coffee](https://www.buymeacoffee.com/vyshnav) account so that people who are very kind can buy me some coffees.
 
 ❗Note: BMC = Buy me a Coffee

@@ -7,9 +7,6 @@ external_url:
 date: 2020-05-25
 layout: post
 ---
-
-![alt text](/Images/Blog/9991.png "1")
-
 #### Introduction
 
 Google keep is one of the best notes taking app I have ever used. It is excellent for creating quick notes. It also has a todo and voice note feature. Here, I am going to show you a simple trick to take notes even faster to capture your ideas quickly.

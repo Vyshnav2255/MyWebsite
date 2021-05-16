@@ -7,8 +7,6 @@ external_url:
 date: 2020-08-19
 layout: post
 ---
-![alt text](/Images/Blog/2.png "1")
-
 ### Introduction
 Have you ever experienced this where you have to do a task, but don't have the mood to do it. Ya, I know you do, and even I have faced this issue. Sometimes I will plan to write a blog post, but I will not be in mind to write it. This article will help you to solve that issue. This article is an outcome of this.
 

@@ -7,8 +7,6 @@ external_url:
 date: 2020-11-01
 layout: post
 ---
-![alt text](/Images/Blog/6.png "1")
-
 The latest elementary OS 5.1.7 does not allow other apps to show in the wingpanel. And there is a simple fix for that. In this article I will show you how to fix that.
 
 #### Step 1
