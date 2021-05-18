@@ -70,6 +70,9 @@ plugins:
   - jekyll-feed
   - jekyll-admin
 
+sass:
+    style: compressed
+
 url: "https://vyshnav.xyz" # the base hostname & protocol for your site
   
 ### Exclude from processing ###
