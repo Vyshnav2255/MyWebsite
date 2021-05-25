@@ -1,7 +1,7 @@
 ---
 title: The Power of your subconscious mind
 tags: [Self-help]
-image: /Images/Books/TPSM/1.png
+image: /Images/Books/TPSM.png
 author: Dr. Joseph Murphy
 date: 2020-12-24
 description: It will open a world of success, happiness, prosperity, and peace for you.

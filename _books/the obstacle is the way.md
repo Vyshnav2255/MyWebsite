@@ -1,7 +1,7 @@
 ---
 title: The Obstacle Is the Way
 tags: [Self-help]
-image: /Images/Books/TOTW/1.png
+image: /Images/Books/TOTW.png
 author: Ryan Holiday
 date: 2021-01-25
 description: The Timeless Art of Turning Trials into Triumph.

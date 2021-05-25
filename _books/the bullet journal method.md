@@ -1,7 +1,7 @@
 ---
 title: The Bullet Journal Method
 tags: [Self-help]
-image: /Images/Books/TBJM/TBJM.png
+image: /Images/Books/TBJM.png
 author: Ryder Carroll
 date: 2021-02-08
 description: Track the Past, Order the Present, Design the Future.
@@ -36,8 +36,6 @@ rating: 7.5
 - Being busy, however, is not the same thing as being productive.
 - We need to reduce the number of decisions we burden ourselves with so we can focus on what matters.
 - Any item that doesn’t pass this test is a distraction.
-
-![alt text](/Images/Books/TBJM/1.png "1")
 
 **Notebooks**
 
@@ -82,8 +80,6 @@ rating: 7.5
 —ALLEN SAUNDERS
 
 - Being busy doesn’t necessarily mean we’re being productive.
-
-![alt text](/Images/Books/TBJM/2.png "2")
 
 **Beginning**
 
@@ -130,9 +126,6 @@ rating: 7.5
 
 - The hard truth is that we can’t “make time,” we can only “take time.”
 - The quality of our time is determined by our ability to be present.
-
-![alt text](/Images/Books/TBJM/3.png "3")
-
 - Time boxing quarantines an activity to an allotted slot of time. It’s designed to bring your full attention to something by only allowing you to focus on it for a predefined period of time.
 - Time boxing adds two key motivational ingredients to a Task you’ve been putting off: structure and urgency.
 

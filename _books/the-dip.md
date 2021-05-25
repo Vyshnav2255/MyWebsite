@@ -2,7 +2,7 @@
 title: The Dip
 tags:
 - Self-help
-image: "/Images/Books/TDSG/TDSG.png"
+image: "/Images/Books/TDSG.png"
 author: Seth Godin
 date: '2021-03-18'
 description: A Little Book That Teaches You When to Quit.
@@ -25,12 +25,10 @@ Have the guts to do one or the other.
 - Just about everything you learned in school about life is wrong, but the wrongest thing might very well be this: Being well rounded is the secret to success.
 
 **CURVE 1: THE DIP**
-![alt text](/Images/Books/TDSG/1.png "1")
 
 - The Dip is the long slog between starting and mastery. A long slog that’s actually a shortcut, because it gets you where you want to go faster than any other path.
 
 **CURVE 3: THE CLIFF (RARE BUT SCARY)**
-![alt text](/Images/Books/TDSG/2.png "2")
 
 - Cigarettes, it turns out, were redesigned by scientists to be particularly addictive. If you were going to draw a chart of the pleasure of smoking over time, it would look like this:
 - It’s a situation where you can’t quit until you fall off, and the whole thing falls apart.

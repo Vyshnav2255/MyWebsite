@@ -1,7 +1,7 @@
 ---
 title: Anything You Want
 tags: [Self-help]
-image: /Images/Books/AYWD/AYWD.png
+image: /Images/Books/AYWD.png
 author: Derek Sivers
 date: 2021-02-22
 description: 40 Lessons for a New Kind of Entrepreneur.

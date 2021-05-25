@@ -1,7 +1,7 @@
 ---
 title: Show Your Work!
 tags: [Self-help]
-image: /Images/Books/SYW/SYW.png
+image: /Images/Books/SYW.png
 author: Austin Kleon
 date: 2020-11-09
 description: 10 Ways to Share Your Creativity and Get Discovered.
@@ -73,8 +73,6 @@ rating: 10
 - The trouble is, we don’t always know what’s good and what sucks. That’s why it’s important to get things in front of others and see how they react.
 
 > “One day at a time. It sounds so simple. It actually is simple but it isn’t easy: It requires incredible support and fastidious structuring.”—Russell Brand
-
-![alt text](/Images/Books/SYW/3.png "1")
 
 **The "So What?" Test.**
 

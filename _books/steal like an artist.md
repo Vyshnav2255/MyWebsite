@@ -1,7 +1,7 @@
 ---
 title: Steal Like an Artist
 tags: [Self-help]
-image: /Images/Books/SLAK/SLAK.png
+image: /Images/Books/SLAK.png
 author: Austin Kleon
 date: 2021-03-08
 description: 10 Things Nobody Told You About Being Creative.
@@ -16,8 +16,6 @@ rating: 10
 - When people give you advice, they’re really just talking to themselves in the past.
 
 #### 1. Steal Like an Artist.
-
-![alt text](/Images/Books/SLAK/1.png "1")
 
 **How To Look At The World (Like An Artist)**
 
@@ -77,8 +75,6 @@ rating: 10
 **Imitation Is Not Flattery**
 
 > “We want you to take from us. We want you, at first, to steal from us, because you can’t steal. You will take what we give you and you will put it in your own voice and that’s how you will find your voice. And that’s how you begin. And then one day someone will steal from you.”—Francis Ford Coppola
-
-![alt text](/Images/Books/SLAK/5.png "2")
 
 - A wonderful flaw about human beings is that we’re incapable of making perfect copies. Our failure to copy our heroes is where we discover where our own thing lives. That is how we evolve.
 
