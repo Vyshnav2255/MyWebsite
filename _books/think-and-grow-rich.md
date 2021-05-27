@@ -6,7 +6,7 @@ author: Napoleon Hill
 date: '2021-05-27'
 description: Unleash the Secret to Success
 layout: book
-rating: 5
+rating: 6
 ---
 - When a man really desires a thing so deeply that he is willing to stake his entire future on a single turn of the wheel in order to get it, he is sure to win.
 - “When one is truly ready for a thing, it puts in its appearance.”
