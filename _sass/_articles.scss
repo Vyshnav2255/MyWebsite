@@ -55,7 +55,7 @@
         width: 100%;
     }
 
-    a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.video-img)  {
+    a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.video-img):not(.p-hunt)  {
         display: inline-block;
         text-decoration: none;
         color: #003933;
