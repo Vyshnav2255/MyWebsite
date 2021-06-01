@@ -8,7 +8,8 @@ description: Hi I am Vyshnav Gangadharan 👋
 
 # About Me
 Hi I am **{{ site.author.name }}** 👋,
-A 21-year-old Graphic designer, currently pursuing B.Tech (Chemical engineering) from National Institute of Technology, Calicut. As a design enthusiast, I have good experience working with many kinds of graphic designing software and have experience designing a logo to motion graphics. I also love writing scripts for short films as well as direction.
+A 21-year-old Graphics & UI/UX designer currently pursuing 🎓B.Tech (Chemical engineering) from National Institute of Technology, Calicut. I'm a self-taught Graphics designer, UI/UX designer, Video Editor, Coder & Film Maker.
+I currently live in Kerala🌴, India. I enjoy reading books📗 and listing to podcasts🎙️. I love creating creative content✨, and you can find most of my works here.
 
 <p class="text-center">
 {% include elements/iconbtn.html link="mailto:hi@vyshnav.xyz?subject=Resume" text="Resume" icon="icon-file-pdf" %}
