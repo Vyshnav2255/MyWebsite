@@ -10,6 +10,6 @@ layout: post
 This pack contains 8 High-Quality wallpaper in 2160x4097 resolution. You can get this wallpaper from my BMC page.
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/15514" text="Download Here" icon="icon-download-cloud" %}
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="icon-coffee" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/15514" text="Download Here" icon="download" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>

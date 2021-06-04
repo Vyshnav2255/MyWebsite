@@ -14,6 +14,6 @@ A finance tracker that is simple and easy to use. Helps you track all the accoun
 Also, share it with your family and friends who need help in finance tracking.
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/23522" text="Duplicate Template" icon="icon-docs"  %}
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="icon-coffee" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/23522" text="Duplicate Template" icon="copy"  %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>

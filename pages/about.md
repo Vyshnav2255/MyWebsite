@@ -12,9 +12,9 @@ A 21-year-old Graphics & UI/UX designer currently pursuing 🎓B.Tech (Chemical 
 I currently live in Kerala🌴, India. I enjoy reading books📗 and listing to podcasts🎙️. I love creating creative content✨, and you can find most of my works here.
 
 <p class="text-center">
-{% include elements/iconbtn.html link="mailto:hi@vyshnav.xyz?subject=Resume" text="Resume" icon="icon-file-pdf" %}
-{% include elements/iconbtn.html link="mailto:hi@vyshnav.xyz" text="Contact me" icon="icon-mail" %}
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Support" icon="icon-coffee" %}
+{% include elements/iconbtn.html link="mailto:hi@vyshnav.xyz?subject=Resume" text="Resume" icon="file" %}
+{% include elements/iconbtn.html link="mailto:hi@vyshnav.xyz" text="Contact me" icon="mail" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Support" icon="coffee" %}
 </p>
 
 <div class="mb-5">

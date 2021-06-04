@@ -93,7 +93,7 @@ $dark-900: #121212;
 }
 
 .social{
-  color: rgba(235,240,251,0.85) !important;
+  color: #ebf0fbd9 !important;
 }
 
 .nav-item{
@@ -109,4 +109,14 @@ $dark-900: #121212;
     color: #000201;
     text-decoration-color: #89ffdd9c;
   }
+
+  .social-icon{
+    fill: #ebf0fbd9 !important;
+    &:hover{
+      fill: #43d6b5 !important;
+  }
+  }
+  .icon-svg-themed{
+    fill: #ffffff !important;
+}
 }

@@ -14,5 +14,5 @@ These covers use the same duo-tone color which Apple is using in their new M1 iM
 These covers work well on both desktops and smartphones. Also, it looks great on a dark theme. This pack contains **126 Covers** and is eligible for future updates. You can get them here
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/32314" text="Download Here" icon="icon-download-cloud" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/32314" text="Download Here" icon="download" %}
 </p>

@@ -16,5 +16,5 @@ Currently the **pack contains 272 icons**. All icons are **available in 8 differ
 
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/29927" text="Download Here" icon="icon-download-cloud" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/29927" text="Download Here" icon="download" %}
 </p>
