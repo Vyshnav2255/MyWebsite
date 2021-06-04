@@ -16,4 +16,5 @@ These wallpaper are made in 4K resolution. I have tested these wallpapers on man
 
 <p class="text-center">
 {% include elements/iconbtn.html link="https://drive.google.com/open?id=1W4_lNDpmWFZhIbA1Fw7aAb5UalpcHPtd" text="Download Here" icon="download" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>

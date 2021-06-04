@@ -11,4 +11,5 @@ Google is teasing its upcoming Pixel phone in public places. And they have also 
 
 <p class="text-center">
 {% include elements/iconbtn.html link="https://drive.google.com/open?id=1vQEhqFxENlAvB4UUrSF1SbNnPr8OhCPx" text="Download Here" icon="download" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>

@@ -15,4 +15,5 @@ These covers work well on both desktops and smartphones. Also, it looks great on
 
 <p class="text-center">
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/32314" text="Download Here" icon="download" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>

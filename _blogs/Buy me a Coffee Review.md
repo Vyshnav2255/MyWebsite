@@ -32,7 +32,7 @@ BMC is absolutely free to use, and they charge only 5% of what you receive from 
 I plan to create more supporters-related content like wallpapers, newsletters, and early access to my products. And for big supporters, I plan to provide custom social media banners, custom profile pictures, early access to my blog posts, and beta access to my products. So if you are still not my supporter, then you are missing a lot of great stuff.
 
 <p class="text-center">
-{% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy me a Coffee" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy me a Coffee" icon="coffee" %}
 </p>
 
 ### Conclusion
@@ -41,5 +41,5 @@ I love BMC, and I am planning to create more supporters related content. I love 
 You can click the below link to get started with BMC.
 
 <p class="text-center">
-{% include elements/button.html link="http://buymeacoff.ee/?via=vyshnav" text="Get Started" %}
+{% include elements/iconbtn.html link="http://buymeacoff.ee/?via=vyshnav" text="Get Started" icon="link" %}
 </p>
