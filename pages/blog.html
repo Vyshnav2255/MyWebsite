@@ -26,9 +26,9 @@ description: I love writing, and this page will show you what I have been writin
           <h5 class="card-title text-themed"><b>{{ blog.title }}</b></h5>
           <p class="card-text text-muted">{{ blog.description }}</p>
         </div>
-        <small class="date-card text-muted {{ text_style }}">
+        <p class="date-card text-muted {{ text_style }}">
           {{ blog.date | date_to_long_string }}
-        </small>
+        </p>
       </a>
     </div>
     

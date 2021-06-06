@@ -22,9 +22,9 @@ description: Notes, Highlights, and Summary of books I have read.
           <h5 class="card-title text-themed"><b>{{ book.title }}</b></h5>
           <p class="card-text text-muted">by {{ book.author }} | 🌟 {{ book.rating }} / 10</p>
         </div>
-        <small class="date-card text-muted {{ text_style }}" style="margin-top: -10px;">
+        <p class="date-card text-muted {{ text_style }}" style="margin-top: -10px;">
           {{ book.date | date_to_long_string }}
-        </small>
+        </p>
       </a>
     </div>
     
