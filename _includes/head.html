@@ -10,6 +10,7 @@
   <meta rel="icon" href="{{ '/assets/favicon.png' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:title" content="{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}" />
   <meta property="og:site_name" content="Vyshnav Gangadharan">
+  <link rel="canonical" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ '/assets/card.png' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
   <meta itemprop="name" content="{% if page.title %}{{ page.title }} &sdot; {% endif %}{{ site.title }}">
   <meta itemprop="image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ '/assets/card.png' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
@@ -36,6 +37,7 @@
   {% endif %}
   <meta name="twitter:site" content="@{{ site.author.twitter }}" />
   <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
+  <meta name="twitter:domain" content="vyshnav.xyz"/>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
