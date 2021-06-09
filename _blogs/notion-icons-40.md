@@ -13,6 +13,7 @@ This pack is a minimal version of that pack. As always, it supports both light a
 Currently the **pack contains 272 icons**. All icons are **available in 8 different colors**.
 
 ![Dark Mode](/Images/Blog/15-1.png "Notion Icons 4.0 - Dark")
+![Dark Mode Preview](/Images/Blog/15-2.png "Notion Icons 4.0 - Dark")
 
 
 <p class="text-center">
