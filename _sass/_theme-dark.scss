@@ -106,8 +106,8 @@ $dark-900: #121212;
   }
 
   a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.nav-item){
-    color: #000201;
-    text-decoration-color: #89ffdd9c;
+    color: #000201 !important;
+    text-decoration-color: #89ffdeb7 !important;
   }
 
   .social-icon{
