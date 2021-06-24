@@ -2,7 +2,7 @@
 title: Waves Wallpapers
 tags: [Wallpaper]
 image: /Images/Blog/11.png
-description: You can buy this wallpaper from my BMC page.
+description: This pack contains 8 High-Quality wallpaper in 2160x4097 resolution
 external_url:
 date: 2021-01-10
 layout: post
