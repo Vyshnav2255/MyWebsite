@@ -32,9 +32,13 @@ layout: page
 
 {{ content }}
 
+<div class="dot"></div>
+
+{% include share.html %}
+
 <div class="relatedPosts mt-5">
 
-  <h5>Related Posts</h5>
+  <h4>Related Posts</h4>
   
   {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
@@ -70,5 +74,6 @@ layout: page
   
 </div>
 
-{% include share.html %}
+<div class="dot"></div>
+
 {% include feedback.html %}
