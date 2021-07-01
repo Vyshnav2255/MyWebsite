@@ -9,7 +9,7 @@
 }
 
 #theme-toggler:before {
-  @include themed(content, "🌙", "☀️");
+  @include themed(content, url(/assets/theme/moon.svg), url(/assets/theme/sun.svg));
 }
 
 .navbar-themed {
