@@ -45,3 +45,7 @@ You can get this icon pack from my BMC page or by clicking the below link.
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/36645" text="Download Here" icon="download" %}
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
+
+<p class="text-center">
+<a href="https://www.producthunt.com/posts/notion-prism-icons?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-notion-prism-icons" style="text-decoration: none !important; background-color: transparent;" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=303097&theme=light" alt="Notion Prism Icons - The only icon pack you will ever need | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+</p>
