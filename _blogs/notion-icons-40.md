@@ -14,9 +14,11 @@ Currently the **pack contains 272 icons**. All icons are **available in 8 differ
 ![Dark Mode](/Images/Blog/15-1.png "Notion Icons 4.0 - Dark")
 ![Dark Mode Preview](/Images/Blog/15-2.png "Notion Icons 4.0 - Dark")
 
-{% include elements/figure.html image="/Images/Blog/15-3.png" caption="Light Mode" %}
-
-{% include elements/figure.html image="/Images/Blog/15-4.png" caption="Dark Mode" %}
+{% capture carousel_images %}
+/Images/Blog/15-3.png
+/Images/Blog/15-4.png
+{% endcapture %}
+{% include elements/carousel.html %}
 
 
 <p class="text-center">
