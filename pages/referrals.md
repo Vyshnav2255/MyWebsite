@@ -3,7 +3,7 @@ layout: page
 permalink: /referrals
 description: Services & Products which I use and recommend, use these links for availing the perks.
 ---
-<h1 style="text-align:center;" >🎁Referrals</h1>
+<h1 style="text-align:center;" >🎁 Referrals</h1>
 <p class="text-center" >Services & Products which I use and recommend, use these links for availing the perks.</p>
 
 
