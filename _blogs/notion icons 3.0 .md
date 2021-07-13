@@ -7,7 +7,7 @@ external_url:
 date: 2021-03-05
 layout: post
 ---
-After a long time, I am back with a new icon pack for all the Notion fans out there. This pack is called Notion Icons 3.0. It is a minimal icon pack. All the icons are available in 8 different colors.
+After a long time, I am back with a new icon pack for all the Notion fans out there. This pack is called Notion Icons 3.0. It is a minimal icon pack. The pack contains **224 icons**. All the icons are available in **8 different colors**. The pack is **free** to use.
 
 ![alt text](/Images/Blog/13-1.png "Notion Icons 3.0")
 
