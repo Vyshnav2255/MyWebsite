@@ -69,7 +69,7 @@ Create custom soundtracks for your videos and games using Filmstro's dynamic mus
 ---
 
 ### Skillshare
-*14 Days Free*
+*1 Month Free*
 
 Skillshare is an online learning community with thousands of classes for creative and curious people, on topics including illustration, design, photography, video, freelancing, and more. On Skillshare, millions of members come together to find inspiration and take the next step in their creative journey.
 
