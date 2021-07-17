@@ -1,6 +1,6 @@
-<div class="book mt-4" style="text-align: center;">
+<div class="book my-5" style="text-align: center;">
     <b class="about-sec-h text-themed">Currently reading 📕: </b>
     {% for item in site.data.books %}
-    <br><a target="_blank" rel="noopener" href="{{ item.link }}">{{ item.name }} by {{ item.author }}</a>
+    <br>- {{ item.name }} by {{ item.author }}
     {% endfor %}
 </div>

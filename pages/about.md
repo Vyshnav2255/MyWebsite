@@ -18,9 +18,8 @@ I currently live in Kerala🌴, India. I enjoy reading books📗 and listing to 
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
 
-<div class="mb-5">
+
 {% include about/books.html %}
-</div>
 
 <hr>
 
