@@ -58,13 +58,14 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 8px;
     margin-left: 4px;
     margin-right: 4px;
-    background-color: #89ffdd !important;
-    border-color: #003933 !important;
-    color: #003933 !important;
+    background-color: #89ffdd;
+    border-color: #003933;
+    color: #003933;
     cursor: pointer;
+    border-radius: 6px;
     }
     :hover.btn{
-        background-color: #43d6b5 !important;
+        background-color: #43d6b5;
         }
 
 .navbar-light .navbar-nav .nav-link{

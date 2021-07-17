@@ -122,4 +122,25 @@ $dark-900: #121212;
 .book-premium{
   color: #28bca3 !important;
 }
+  .btn{
+    background-color: #003933;
+    border-color: #89ffdd;
+    color: #89ffdd;
+    
+    svg{
+      fill: #89ffdd;
+    }
+    }
+    :hover.btn{
+        background-color: #0e9a83;
+        }
+    
+  .badge {
+    background-color: #003933;
+    color: #89ffdd;
+
+    &:hover{
+      background-color: #0e9a83;
+      }
+    }
 }
