@@ -53,12 +53,10 @@ I currently live in Kerala🌴, India. I enjoy reading books📗 and listing to 
 
 <hr>
 
-<details>
-<summary class="about-sec-h text-themed">💼 Work Experience</summary>
+<div class="about-sec-h text-themed">💼 Work Experience</div>
 <div class="row">
     {% include about/edu-time.html %}
 </div>
-</details>
 
 <details>
     <summary class="about-sec-h text-themed">🎓 Education</summary>

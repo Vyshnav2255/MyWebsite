@@ -1,45 +1,17 @@
 .timeline-body {
 	position: relative;
-	border-radius: 0 $rounded-borders $rounded-borders 0;
     padding: 5px 0;
 	font-size: 15px;
-    
-	&:after {
-        // Left Border
-		content: '';
-		width: 3px;
-		height: 100%;
-		background-color: #43d6b5;
-		position: absolute;
-		left: -4px;
-		top: 0;
-    }
     
 	.timeline-item {
         position: relative;
         
-		&:after {
-            // Circle
-			content: '';
-			width: 20px;
-			height: 20px;
-			border-radius: 50%;
-			border: 3px solid #43d6b5;
-			background-color: white;
-			position: absolute;
-			left: -13px;
-			top: 8px;
-			z-index: 10;
-        }
-        
 		.content {
-			margin: 30px; 
+			margin: 0 30px 15px 30px; 
 			padding-bottom: 8px;
-            border-bottom: 1px double #bdbdbd;
 
             .date {
                 margin-top: -5px;
-                margin-bottom: 12px;
                 color: #7e8087;
             }
 		}
