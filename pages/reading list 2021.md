@@ -1,6 +1,7 @@
 ---	
 layout: page
 permalink: /reading-list-2021
+title: Reading List 2021
 description: Reading List 2021
 ---
 <h2 style="text-align:center;" >📗 Reading List 2021</h2>

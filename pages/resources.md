@@ -11,4 +11,5 @@ description: List of useful links and pages.
 
 * [Spotify Study Playlist](https://open.spotify.com/playlist/6mtQxnGRYzAzILoJBPPcey?si=9Q8hWMgVSVWNEnyordHkyQ)
 * [Referrals](/referrals)
+* [Podcast Recommendations](/podcast-recommendations)
 * [Reading List 2021](/reading-list-2021)
