@@ -19,17 +19,14 @@ It took me a lot of time to make these icons, and I think it was worth the time.
 It works perfectly in both light and dark mode. Here is a sneak peek at how it looks.
 
 ### Preview
-{% capture carousel_images %}
-/Images/Blog/18-1.png
-/Images/Blog/18-2.png
-/Images/Blog/18-7.png
-/Images/Blog/18-8.png
-/Images/Blog/18-9.png
-/Images/Blog/18-10.png
-{% endcapture %}
-{% include elements/carousel.html %}
+![preview](/Images/Blog/18-1.png)
+![preview](/Images/Blog/18-2.png)
+![preview](/Images/Blog/18-7.png)
+![preview](/Images/Blog/18-8.png)
+![preview](/Images/Blog/18-9.png)
+![preview](/Images/Blog/18-10.png)
 
-![preview](/Images/Blog/18-4.png)
+And much more...
 
 I liked this pack the most compared to my other icon packs. This pack consists of
 ![1220 Icons](/Images/Blog/18-3.png)
