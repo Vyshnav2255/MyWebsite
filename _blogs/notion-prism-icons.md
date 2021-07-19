@@ -18,11 +18,18 @@ It took me a lot of time to make these icons, and I think it was worth the time.
 
 It works perfectly in both light and dark mode. Here is a sneak peek at how it looks.
 
+### Preview
 {% capture carousel_images %}
 /Images/Blog/18-1.png
 /Images/Blog/18-2.png
+/Images/Blog/18-7.png
+/Images/Blog/18-8.png
+/Images/Blog/18-9.png
+/Images/Blog/18-10.png
 {% endcapture %}
 {% include elements/carousel.html %}
+
+![preview](/Images/Blog/18-4.png)
 
 I liked this pack the most compared to my other icon packs. This pack consists of
 ![1220 Icons](/Images/Blog/18-3.png)
@@ -30,11 +37,6 @@ I liked this pack the most compared to my other icon packs. This pack consists o
 All my previous packs only contained less than 300 icons. So navigating between these 1220 icons might be difficult.
 
 Don't worry, I got you. To make it easier for you to pick the icons, I have sorted all icons based on the color, and you just have to open the folder of your favorite color and choose the right icon for your setup.
-
-### Preview
-![preview](/Images/Blog/18-4.png)
-![preview](/Images/Blog/18-5.png)
-![preview](/Images/Blog/18-6.png)
 
 ### Conclusion
 This pack is my biggest release, and I think you guys will really enjoy it. Thank you everyone, for your massive support for my earlier icon packs. Also, Thank you so much for all my Buy me a Coffee supporters. Your support has helped me a lot in this journey. You guys are fantastic.
