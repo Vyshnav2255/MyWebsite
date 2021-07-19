@@ -16,7 +16,7 @@ It took me a lot of time to make these icons, and I think it was worth the time.
 
 **Format** - PNG
 
-It works perfectly in both light and dark mode. Here is a sneak peek at how it looks.
+It works perfectly in both light and dark mode. Here is a **sneak peek** at how it looks.
 
 ### Preview
 ![preview](/Images/Blog/18-1.png)
