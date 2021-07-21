@@ -20,15 +20,16 @@ description: Notes, Highlights, and Summary of books I have read.
         <img class="card-img-top" src="{{ book.image }}" alt="{{ book.title }}" loading="lazy" height="auto" width="751"/>
         <div class="card-body">
           <h5 class="card-title text-themed"><b>{{ book.title }}</b></h5>
-          <p class="card-text text-muted">by {{ book.author }} | 🌟 {{ book.rating }} / 10</p>
+          <p class="card-text text-muted">by {{ book.author }}
+          <br> 🌟 {{ book.rating }} / 10</p>
         </div>
 
         {% if book.type contains "premium" %}
-        <p class="date-card book-premium" style="margin-top: -10px; color: #007367;">
+        <p class="date-card book-premium" style="color: #007367;">
           <b>Early Access 🔒</b>
         </p>
         {% else %}
-        <p class="date-card text-muted" style="margin-top: -10px;">
+        <p class="date-card text-muted">
           {{ book.date | date_to_long_string }}
         </p>
         {% endif %}
