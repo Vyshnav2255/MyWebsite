@@ -7,10 +7,11 @@ description: Graphic design works which I have done.
 ---
 &nbsp;
 &nbsp;
-<div style="display: flex; flex-direction: row; justify-content: center;">
-    <h5>🖼️ Images</h5>&nbsp; / &nbsp;<a style="text-decoration: none !important;" href="/works/videos">
-    <h5 style="color: #003933; background-color: #89ffdd9c; border-radius: .125rem; padding-left: .125rem; padding-right: .125rem;">📺 Videos</h5>
-    </a>
+<div style="display: flex; justify-content: center;">
+    <div style="display: flex; flex-direction: row;" class="work-toggle">
+    <div class="work-toggle-active" style="padding: 0 20px 0 20px;">images</div>
+    <div style="margin: 0 20px 0 20px;"><a style="text-decoration: none !important;" href="/works/videos">videos</a></div>
+    </div>
 </div>
 
 {% include projects/index.html %}
