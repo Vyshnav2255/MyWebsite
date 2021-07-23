@@ -106,7 +106,7 @@ $dark-900: #121212;
   }
 
   a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.nav-item){
-    color: #000201 !important;
+    color: #000201;
     text-decoration-color: #89ffdeb7 !important;
   }
 
@@ -146,5 +146,10 @@ $dark-900: #121212;
   
   hr{
     background: #666666;
+  }
+
+  .work-toggle{
+    background-color: #003933;
+    color: #89ffdd;
   }
 }
