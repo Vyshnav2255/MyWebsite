@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 weight: 6
-description: Hi I am Vyshnav Gangadharan 👋
+description: Hi I’m Vyshnav Gangadharan 👋, a 22-year-old Graphics & UI/UX designer currently pursuing 🎓B.Tech from National Institute of Technology, Calicut
 ---
 
 # About Me

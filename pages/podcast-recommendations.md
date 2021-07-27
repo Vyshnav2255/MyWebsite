@@ -2,7 +2,7 @@
 layout: page
 permalink: /podcast-recommendations
 title: Podcast Recommendations
-description: Podcast Recommendations
+description: I love listening to podcasts, and these are my favourites
 ---
 
 <h2 style="text-align:center;" >🎙️Podcast Recommendations</h2>
