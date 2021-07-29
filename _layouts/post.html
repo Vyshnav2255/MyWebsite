@@ -26,6 +26,12 @@ layout: page
     {% endfor %}
   {% endif %}
 
+  <br>
+
+  {% if page.rating %}
+  ⭐ {{ page.rating }} ({{ page.review }})
+  {% endif %}
+
 </p>
 
 <img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
