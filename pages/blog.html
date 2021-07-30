@@ -24,9 +24,6 @@ description: I love writing articles, and you can read all of them here
           <span class="blog-tags text-muted">{{ tag }}</span>
           {% endfor %}
           <h5 class="card-title text-themed"><b>{{ blog.title }}</b></h5>
-          {% if blog.rating %}
-          <span class="text-muted">⭐ {{ blog.rating }} ({{ blog.review }})</span>
-          {% endif %}
           <p class="card-text text-muted">{{ blog.description }}</p>
         </div>
         <p class="date-card text-muted {{ text_style }}">
