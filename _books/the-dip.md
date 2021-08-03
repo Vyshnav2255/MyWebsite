@@ -5,7 +5,7 @@ tags:
 image: "/Images/Books/TDSG.png"
 author: Seth Godin
 date: '2021-03-18'
-description: A Little Book That Teaches You When to Quit.
+description: A Little Book That Teaches You When to Quit
 layout: book
 rating: 8
 ---

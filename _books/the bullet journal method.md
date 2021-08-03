@@ -4,9 +4,9 @@ tags: [Self-help]
 image: /Images/Books/TBJM.png
 author: Ryder Carroll
 date: 2021-02-08
-description: Track the Past, Order the Present, Design the Future.
+description: Track the Past, Order the Present, Design the Future
 layout: book
-rating: 7.5
+rating: 8
 ---
 
 > Let us postpone nothing. Let us balance life’s account every day. . . . One who daily puts the finishing touches to his life is never in want of time.

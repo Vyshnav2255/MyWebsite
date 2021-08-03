@@ -4,7 +4,7 @@ tags: [Self-help]
 image: /Images/Books/HTSN.png
 author: Sönke Ahrens
 date: 2021-02-18
-description: The key to good and efficient writing lies in the intelligent organisation of ideas and notes.
+description: The key to good and efficient writing lies in the intelligent organisation of ideas and notes
 layout: book
 rating: 7.5
 ---

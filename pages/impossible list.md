@@ -38,7 +38,8 @@ I will be updating this list regularly.
 - Start a podcast
 - Write a book
 - Write 100 blog posts
-- Make $1000 from Buy me a Coffee.
+- Gain 500 Twitter followers
+- Make $1000 from Buy me a Coffee
 - Gain 500 Supporters - Buy Me a Coffee
 
 ##### Creative Goals 🎨

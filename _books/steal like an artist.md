@@ -4,7 +4,7 @@ tags: [Self-help]
 image: /Images/Books/SLAK.png
 author: Austin Kleon
 date: 2021-03-08
-description: 10 Things Nobody Told You About Being Creative.
+description: 10 Things Nobody Told You About Being Creative
 layout: book
 rating: 10
 ---
