@@ -2,7 +2,6 @@
 title: "The Zero-Effort Productivity Journal\U0001F4DD"
 date: 2021-07-18
 layout: microblog
-image: /assets/microblog.png
 description: If you want to start bullet journaling, this is the simplest way of doing it
 ---
 If you want to start bullet journaling, this is the simplest way of doing it. It is almost similar to my method.

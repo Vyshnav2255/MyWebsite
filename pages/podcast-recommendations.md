@@ -2,6 +2,7 @@
 layout: page
 permalink: /podcast-recommendations
 title: Podcast Recommendations
+image: /assets/card.png
 description: I love listening to podcasts, and these are my favourites
 ---
 

@@ -2,6 +2,7 @@
 layout: page
 permalink: /reading-list-2021
 title: Reading List 2021
+image: /assets/card.png
 description: Books I want to read in the year 2021
 ---
 <h2 style="text-align:center;" >📗 Reading List 2021</h2>
