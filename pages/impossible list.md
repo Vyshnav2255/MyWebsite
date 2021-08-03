@@ -5,7 +5,7 @@ image: /assets/card.png
 title: My Impossible List
 description: The impossible list is not a bucket list. I got this idea from Youtuber and entrepreneur Thomas Frank
 ---
-<h1 style="text-align:center;" >☀️ My Impossible List</h1>
+<h1 style="text-align:center;" >🎯️ My Impossible List</h1>
 
 <br>
 *Last updated **{{ site.time | date: '%B %-d, %Y' }}***
