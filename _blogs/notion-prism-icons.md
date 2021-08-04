@@ -5,8 +5,6 @@ image: /Images/Blog/18.png
 description: The only icon pack you will ever need
 date: 2021-07-05
 layout: post
-rating: 5.0
-review: 3
 ---
 ### Introduction
 I'm back with another cool icon pack for you Notion users out there. Many people might be confused with my old icon packs naming, so to avoid that confusion, I have named this pack **Notion Prism Icons**.
@@ -46,5 +44,3 @@ You can get this icon pack from my BMC page or by clicking the below link.
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/36645" text="Download Here" icon="download" %}
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
-
-{% include star-rating.html %}
