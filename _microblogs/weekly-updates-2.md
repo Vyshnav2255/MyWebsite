@@ -21,8 +21,9 @@ Next week I'm so excited for the release of [Elementary OS 6 Odin](https://twitt
 *How to Be a Productivity Ninja by Graham Allcott*
 
 ##### Favourite things of the Week ♥️
-- [Conversation with Alex Muench](https://nicelydone.club/interviews/alex-muench-senior-digital-product-designer-at-doist-germany) - Alex is a senior digital Product Designer at Doist. I love his works. And this is an interview where he talks about his design journey and work.
-- [Pablo Stanley's YouTube channel](https://www.youtube.com/c/SketchTogetherTV) - I really loved the Robotos NFTs. I also loved watching how he created some of the Robotos.
+- 📰 [Conversation with Alex Muench](https://nicelydone.club/interviews/alex-muench-senior-digital-product-designer-at-doist-germany) - Alex is a senior digital Product Designer at Doist. I love his works. And this is an interview where he talks about his design journey and work.
+- 📺 [Pablo Stanley's YouTube channel](https://www.youtube.com/c/SketchTogetherTV) - I really loved the Robotos NFTs. I also loved watching how he created some of the Robotos.
+- 📺 [Climbing Mount Kilimanjaro in Record Time](https://youtu.be/daPjEeTQRdc)
 
 ##### Cool things Discovered this Week ✨
 - [Bio Link](https://bio.link/) - The one link for all your links. It is a free and elegant link-in-bio tool for creators.
