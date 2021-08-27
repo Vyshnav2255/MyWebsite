@@ -34,7 +34,8 @@ I will be updating this list regularly.
 
 - Work in a Remote Company
 - Get 100,000 blog visits, all time
-- Start a newsletter
+- ~~Start a newsletter~~([24 August 2021](/microblog/launched-my-newsletter))
+    - Gain 500 subscribers
 - Start a podcast
 - Write a book
 - Write 100 blog posts

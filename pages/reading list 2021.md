@@ -13,7 +13,7 @@ description: Books I want to read in the year 2021
 3. ~~The Obstacle Is the Way by Ryan Holiday~~ ✅
 4. ~~Atomic Habits by James Clear~~ ✅
 5. ~~Sprint by Jake Knapp~~ ✅
-6. Your Money or Your Life by Vicki Robin
+6. ~~Your Money or Your Life by Vicki Robin~~ ✅
 7. ~~The Unfair Advantage by Ash Ali & Hasan Kubba~~ ✅
 8. Essentialism by Greg McKeown
 9. Deep Work by Cal Newport
