@@ -9,6 +9,8 @@ layout: post
 
 I have been using the Mi Band 4 for almost two years. This wearable has helped me to significantly reduce smartphone usage and also helped me to keep track of all my fitness and sleep activities.
 
+❗ This article is not sponsored by anyone.
+
 This pill-like device is really powerful and has long battery life. In my daily usage, the device lasts around nine days.
 
 This band was released in 2019, and since then, Xiaomi has released Mi Band 5 and now Mi Band 6. Both are really good. But I didn't find the need to upgrade. Band 5 is just a minor update from Band 4. And Band 6 is slightly different with a bigger display and some cool new features.
