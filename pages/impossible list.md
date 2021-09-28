@@ -34,13 +34,14 @@ I will be updating this list regularly.
 
 - Work in a Remote Company
 - Get 100,000 blog visits, all time
-- ~~Start a newsletter~~([24 August 2021](/microblog/launched-my-newsletter))
+- ~~Start a newsletter~~ ([24 August 2021](/microblog/launched-my-newsletter))
     - Gain 500 subscribers
 - Start a podcast
 - Write a book
 - Write 100 blog posts
 - Gain 500 Twitter followers
-- Make $1000 from Buy me a Coffee
+- ~~Make $1000 from Buy me a Coffee~~ ([28 September 2021](/microblog/made-my-first-1000-on-the-internet))
+    - Make $2000 from Buy me a Coffee
 - Gain 500 Supporters - Buy Me a Coffee
 
 ##### Creative Goals 🎨
