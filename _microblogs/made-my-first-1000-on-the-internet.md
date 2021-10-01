@@ -8,4 +8,4 @@ description: Made my first $1000 on the internet. Thank you so much for all my s
 Made my first $1000 on the internet. This was one of the items on my [impossible list](/impossible-list). Thank you so much for all my supporters and [Buy me a Coffee](https://www.buymeacoffee.com/vyshnav) for making this possible.
 
 I'm now so close to achieving my other goal of buying an iPad.
-![BMC Goal](/Images/Microblog/28-09-2021.png)
+{% include elements/image.html url="/Images/Microblog/28-09-2021.png" name="BMC Goal" %}
