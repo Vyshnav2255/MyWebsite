@@ -9,7 +9,10 @@ image: /assets/card.png
 <div style="margin-top: 6rem;">
     {% for microblog in site.microblogs reversed %}
     <h4 class="card-title"><b>{{ microblog.title }}</b></h4>
-    <p class="text-muted" style="margin-top: -10px; font-size: 0.85rem;">{{ microblog.date | date_to_long_string }}</p>
+    <p class="text-muted" style="margin-top: -10px; font-size: 0.85rem;">{{ microblog.date | date_to_long_string }}
+        {% if microblog.category %} - {{ microblog.category }}
+        {% endif %}
+    </p>
     <div class="text-themed" style="margin-bottom: 3rem;">
         {{ microblog.content | markdownify | strip_html | truncatewords: 29 }}
     <br><a style="margin-top: 1rem;" href="{{ microblog.url }}">View</a>  

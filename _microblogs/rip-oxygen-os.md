@@ -2,6 +2,7 @@
 title: "RIP Oxygen OS\U0001F494"
 date: 2021-10-07
 layout: microblog
+category: 📝 Post
 description: Oxygen OS was one of my favourite versions of Android. I loved the clean look and cool features provided by it
 ---
 Oxygen OS was one of my favourite versions of Android. I loved the clean look and cool features provided by it. I'm still using it on my daily driver OnePlus 5T. The only reason why I bought this device was its software. But now the software is dead.
