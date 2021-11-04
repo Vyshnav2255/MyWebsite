@@ -15,7 +15,7 @@ The impossible list is not a bucket list. I got this idea from Youtuber and entr
 
 I will be updating this list regularly.
 
-##### Life Goals 😃
+##### 😃 Life Goals
 
 - Read 100 books
 - Change 1 Person’s Life For The Better
@@ -25,26 +25,26 @@ I will be updating this list regularly.
 - Give a TEDx Talk
 - Attend an Apple Event
 
-##### Fitness/Health Goals 🏋️
+##### 🏋️ Fitness/Health Goals
 
 - Do 100 push-ups in a single set
 - Do 20 pull-ups in a single set
 
-##### Professional Goals 💼
+##### 💼 Professional Goals
 
 - Work in a Remote Company
 - Get 100,000 blog visits, all time
-- ~~Start a newsletter~~ ([24 August 2021](/microblog/launched-my-newsletter))
-    - Gain 500 subscribers
+- ~~Start a newsletter~~ ([24 Aug 2021](/microblog/launched-my-newsletter))
+    - Gain 100 subscribers
 - Start a podcast
 - Write a book
 - Write 100 blog posts
 - Gain 500 Twitter followers
-- ~~Make $1000 from Buy me a Coffee~~ ([28 September 2021](/microblog/made-my-first-1000-on-the-internet))
-    - Make $2000 from Buy me a Coffee
+- ~~Make $1000 from Buy me a Coffee~~ ([28 Sept 2021](/microblog/made-my-first-1000-on-the-internet))
+    - Make $2000
 - Gain 500 Supporters - Buy Me a Coffee
 
-##### Creative Goals 🎨
+##### 🎨 Creative Goals
 
 - Write a script for a movie
 - Work in a Movie as editor
