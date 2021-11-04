@@ -9,11 +9,11 @@ description: I love listening to podcasts, and these are my favourites
 <h2 style="text-align:center;" >🎙️Podcast Recommendations</h2>
 &nbsp;
 
-##### Technology 👨🏻‍💻
+##### 👨🏻‍💻 Technology
 * [Waveform: The MKBHD Podcast](https://pca.st/MKBHD)
 * [Random but Memorable](https://pca.st/43AW)
 
-##### Self-Help 😌
+##### 😌 Self-Help
 * [The Tim Ferriss Show](https://pca.st/timferriss)
 * [The Inforium](https://pca.st/BzAM)
 * [The Ground Up Show](https://pca.st/7UxX)
@@ -23,19 +23,19 @@ description: I love listening to podcasts, and these are my favourites
 * [North Star Podcast](https://pca.st/yqqm)
 * [Naval](https://pca.st/eCK0)
 
-##### Health & Fitness 🍎
+##### 🍎 Health & Fitness
 * [The Habit Coach with Ashdin Doctor](https://pca.st/z6tF)
 * [Radio Headspace](https://pca.st/evrzvs3h)
 * [Ayurvedic Healing & Beyond](https://pca.st/z94sy07z)
 
-##### Business 💵
+##### 💵 Business
 * [The Smart Passive Income Online Business and Blogging Podcast](https://pca.st/spipod)
 * [All the Hacks](https://pca.st/8ixbo3yh)
 
-##### Productivity 🚀
+##### 🚀 Productivity
 * [Tools They Use](https://pca.st/hJ6r)
 * [The Building a Second Brain Podcast](https://pca.st/ixyh67dj)
 
-##### Design 🎨
+##### 🎨 Design
 * [Wireframe](https://pca.st/5d5H)
 * [Design Life](https://pca.st/P33l)
