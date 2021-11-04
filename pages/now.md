@@ -8,8 +8,15 @@ description:
 
 # Now🌱
 
-{% include elements/highlight.html text="This page is under construction" %}
+<div class="about-pills">
+<span class="about-pill">
+<span class="live-icon"></span> Live
+</span>
+</div>
 
 * 🎓 Studying B.Tech (Chemical engineering) from NIT Calicut
 
 * 📍 Living in Kerala, India
+
+
+{% include elements/highlight.html text="This page is under construction" %}
