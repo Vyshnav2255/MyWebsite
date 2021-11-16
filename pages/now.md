@@ -3,10 +3,10 @@ layout: page
 title: Now
 permalink: /now
 image: /assets/card.png
-description: 
+description: What I’m doing now
 ---
 
-# Now🌱
+# 🌱Now
 
 <div class="about-pills">
 <span class="about-pill">
@@ -14,9 +14,12 @@ description:
 </span>
 </div>
 
-* 🎓 Studying B.Tech (Chemical engineering) from NIT Calicut
+👨‍💻 Working on a website for my [Notion Icons 3.0](/blog/notion-icons-3-0)
 
-* 📍 Living in Kerala, India
+✍️ Writing a weekly newsletter called [Sunday Summary](https://newsletter.vyshnav.xyz/)
 
+📚 Currently reading {% for item in site.data.books | split: ", " %} <b>{{ item.name }} by {{ item.author }}</b>{% endfor %}
 
-{% include elements/highlight.html text="This page is under construction" %}
+🎓 Studying B.Tech (Chemical engineering) from NIT Calicut
+
+📍 Living in Kerala, India
