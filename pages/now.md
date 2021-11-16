@@ -3,6 +3,7 @@ layout: page
 title: Now
 permalink: /now
 image: /assets/card.png
+weight: 7
 description: What I’m doing now
 ---
 
@@ -10,7 +11,7 @@ description: What I’m doing now
 
 <div class="about-pills">
 <span class="about-pill">
-<span class="live-icon"></span> Live
+<span class="live-icon"></span> LIVE
 </span>
 </div>
 
