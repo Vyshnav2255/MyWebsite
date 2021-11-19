@@ -56,7 +56,6 @@
     }
 
     a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.video-img):not(.p-hunt)  {
-        display: inline-block;
         text-decoration: none;
         color: #003933;
         background-color: #89ffdd;
@@ -65,6 +64,7 @@
         padding-right: .125rem;
         margin-bottom: .125rem;
         margin-top: .125rem;
+        box-decoration-break: clone;
 
         &:hover { 
             background: #43d6b5;
