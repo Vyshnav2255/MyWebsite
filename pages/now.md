@@ -19,7 +19,7 @@ description: What I’m doing now
 
 ✍️ Writing a weekly newsletter called [Sunday Summary](https://newsletter.vyshnav.xyz/)
 
-📚 Currently reading {% for item in site.data.books | split: ", " %} <b>{{ item.name }} by {{ item.author }}</b>{% endfor %}
+📚 Reading {% for item in site.data.books | split: ", " %} <b>{{ item.name }} by {{ item.author }}</b>{% endfor %}
 
 🎓 Studying B.Tech (Chemical engineering) from NIT Calicut
 
