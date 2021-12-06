@@ -221,3 +221,13 @@ span.live-icon{
     background-color: rgba(red,0);
   }
 }
+
+ul.task-list {
+    list-style: none;
+    padding-left: 0px;
+  }
+
+  input.task-list-item-checkbox {
+    margin-right: 10px;
+    vertical-align: middle;
+  }
