@@ -15,7 +15,7 @@ description: What I’m doing now
 </span>
 </div>
 
-👨‍💻 Working on a website for my [Notion Icons 3.0](/blog/notion-icons-3-0)
+👨‍💻 Working on an open-source illustration pack
 
 ✍️ Writing a weekly newsletter called [Sunday Summary](https://newsletter.vyshnav.xyz/)
 
