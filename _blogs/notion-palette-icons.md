@@ -25,12 +25,12 @@ I have been using these icons for the past month, and I'm really enjoying them. 
 
 You can get this pack from my Buy Me a Coffee page or click the below button to get your copy.
 <p class="text-center">
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/50657" text="Download Here" icon="download" %}
+{% include elements/iconbtn.html link="https://shop.vyshnav.xyz/l/smSZr" text="Download Here" icon="download" %}
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
 
 And as a launch offer, you can get both Notion Palette Icons and [Month covers](/blog/notion-month-covers) for just **$6 ($2 OFF)**. Click the below button to grab the offer. Available till **20th December**.
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/50658" text="Grab Offer" icon="link" %}
+{% include elements/iconbtn.html link="https://shop.vyshnav.xyz/l/BzXgP" text="Grab Offer" icon="link" %}
 </p>
