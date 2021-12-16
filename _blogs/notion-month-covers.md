@@ -17,12 +17,12 @@ This pack contains **108 covers** in total. All covers are available in **9 colo
 Get your copy.
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://shop.vyshnav.xyz/l/amaib" text="Download Here" icon="download" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/50656" text="Download Here" icon="download" %}
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
 
 And as a launch offer, you can get both [Notion Palette Icons](/blog/notion-palette-icons) and Month covers for just **$6 ($2 OFF)**. Click the below button to grab the offer. Available till **20th December**.
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://shop.vyshnav.xyz/l/BzXgP" text="Grab Offer" icon="link" %}
+{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav/e/50658" text="Grab Offer" icon="link" %}
 </p>
