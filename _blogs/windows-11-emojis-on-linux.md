@@ -1,5 +1,5 @@
 ---
-title: Windows 11 Emojis on Linux
+title: Enable Windows 11 Emojis on Linux
 tags: [Linux]
 image: /Images/Blog/24.png
 description: Steps for enabling Windows 11 emojis on Linux
