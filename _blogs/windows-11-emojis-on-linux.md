@@ -13,7 +13,7 @@ So I thought of replacing my current Noto Emoji Font in Linux with the new windo
 
 #### Follow these steps
 
-1. First download [Segoe UI Emoji font](https://drive.google.com/file/d/1ibOFjBdqUGGV13Gie2oAGdVj43HKyomD/view?usp=sharing)
+1. First download [Segoe UI Emoji font](https://github.com/Vyshnav2255/Windows-11-Emojis-on-Linux)
 2. Copy that font and paste it in `~/.fonts` directory
 3. If you have previously installed Noto Emoji Font, uninstall it by running `sudo apt remove fonts-noto-color-emoji`
 4. Go to `~/.config` folder and create a new folder and name it `fontconfig`
