@@ -9,6 +9,7 @@ description: List of useful links and pages
 <p class="text-center" >List of useful links and pages</p>
 
 * 🎁 [Referrals](/referrals)
+* 💎 [Goals](/goals)
 * 🎯️ [My Impossible List](/impossible-list)
 * 📗 [Reading List 2021](/reading-list-2021)
 * 🎵 [Spotify Study Playlist](https://open.spotify.com/playlist/6mtQxnGRYzAzILoJBPPcey?si=9Q8hWMgVSVWNEnyordHkyQ)
