@@ -15,11 +15,11 @@ description: What I’m doing now
 </span>
 </div>
 
-👨‍💻 Working on an open-source illustration pack
+👨‍💻 Working on Lockscreen Tasks website
 
 ✍️ Writing a weekly newsletter called [Sunday Summary](https://newsletter.vyshnav.xyz/)
 
-📚 Reading {% for item in site.data.books | split: ", " %} <b>{{ item.name }} by {{ item.author }}</b>{% endfor %}
+📚 Reading {% for item in site.data.books %} <b>{{ item.name }} by {{ item.author }}</b>{% endfor %}
 
 🎓 Studying B.Tech (Chemical engineering) from NIT Calicut
 
