@@ -17,6 +17,8 @@ A finance tracker that is **simple, powerful and easy to use**. Helps you track 
 
 Also, share it with your family and friends who need help in finance tracking.
 
+> ⚠️ Check out the updated template [here](/blog/notion-finance-tracker-v2)
+
 <p class="text-center">
 {% include elements/iconbtn.html link="https://shop.vyshnav.xyz/l/iixpa" text="Duplicate Template" icon="copy"  %}
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
