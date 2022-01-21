@@ -19,7 +19,7 @@ Track all your income and expenses in a single place. This is a simple and easy-
 - 🧾 Add Bills & Receipts
 
 
-##### Advanced Version - $4
+##### Advanced Version
 - ✨ Everything in Basic Version +
 - 💱 Money Transfer
 - 🎯 Goal Tracker
