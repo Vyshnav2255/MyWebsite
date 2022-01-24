@@ -9,7 +9,7 @@ description: Books I want to read in the year 2022
 <p class="text-center" >Follow me on <a href="https://www.goodreads.com/vyshnav">Goodreads</a></p>
 
 - [x] The Minimalist Entrepreneur by Sahil Lavingia
-- [ ] Do Epic Shit by Ankur Warikoo
+- [x] Do Epic Shit by Ankur Warikoo
 - [ ] The Power of Habit by Charles Duhigg
 - [ ] Deep Work by Cal Newport
 - [ ] The Making of a Manager by Julie Zhuo 
