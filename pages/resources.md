@@ -8,6 +8,7 @@ description: List of useful links and pages
 <h1 style="text-align:center;" >🍉 Resources</h1>
 <p class="text-center" >List of useful links and pages</p>
 
+* ✏️ [Visual Ideas](/visuals)
 * 🎁 [Referrals](/referrals)
 * 💎 [Goals](/goals)
 * 🎯️ [My Impossible List](/impossible-list)

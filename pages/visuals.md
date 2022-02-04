@@ -3,7 +3,7 @@ title: Visual Ideas
 layout: default
 permalink: /visuals
 image: /assets/card.png
-description: What I’m doing now
+description: All my visuals in one place
 ---
 
 <div class="post-grid m-3 mt-5">
