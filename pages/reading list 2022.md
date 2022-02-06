@@ -4,6 +4,7 @@ permalink: /reading-list
 title: Reading List 2022
 image: /assets/card.png
 description: Books I want to read in the year 2022
+redirect_to: https://vyshnav.notion.site/Reading-List-2022-b1857378c1e946289f2df87bf0436eea
 ---
 <h2 style="text-align:center;" >📗 Reading List 2022</h2>
 <p class="text-center" >Follow me on <a href="https://www.goodreads.com/vyshnav">Goodreads</a></p>
