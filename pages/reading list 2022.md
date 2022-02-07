@@ -4,16 +4,17 @@ permalink: /reading-list
 title: Reading List 2022
 image: /assets/card.png
 description: Books I want to read in the year 2022
-redirect_to: https://vyshnav.notion.site/Reading-List-2022-b1857378c1e946289f2df87bf0436eea
+#redirect_to: https://vyshnav.notion.site/Reading-List-2022-b1857378c1e946289f2df87bf0436eea
 ---
-<h2 style="text-align:center;" >📗 Reading List 2022</h2>
+<h2 style="text-align:center;" >📗 Reading List</h2>
 <p class="text-center" >Follow me on <a href="https://www.goodreads.com/vyshnav">Goodreads</a></p>
 
 - [x] The Minimalist Entrepreneur by Sahil Lavingia
 - [x] Do Epic Shit by Ankur Warikoo
+- [x] The Making of a Manager by Julie Zhuo
+- [ ] 📖 Indistractable by Nir Eyal
 - [ ] The Power of Habit by Charles Duhigg
-- [ ] Deep Work by Cal Newport
-- [ ] The Making of a Manager by Julie Zhuo 
+- [ ] Deep Work by Cal Newport 
 - [ ] Mindset by Carol S. Dweck
 - [ ] Lives of the Stoics by Ryan Holiday
 - [ ] When by Daniel H. Pink
