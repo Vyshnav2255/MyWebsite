@@ -13,6 +13,8 @@ description: Books I want to read in the year 2022
 - [x] ~~Do Epic Shit~~
 - [x] ~~The Making of a Manager~~
 - [ ] 📖 **Indistractable**
+- [ ] 📖 **The Memoir of a Police Surgeon**
+- [ ] 🎧 **A Study in Scarlet**
 - [ ] The Power of Habit
 - [ ] Deep Work
 - [ ] Mindset
