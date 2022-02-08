@@ -9,33 +9,33 @@ description: Books I want to read in the year 2022
 <h2 style="text-align:center;" >📗 Reading List</h2>
 <p class="text-center" >Follow me on <a href="https://www.goodreads.com/vyshnav">Goodreads</a></p>
 
-- [x] ~~The Minimalist Entrepreneur by Sahil Lavingia~~
-- [x] ~~Do Epic Shit by Ankur Warikoo~~
-- [x] ~~The Making of a Manager by Julie Zhuo~~
-- [ ] 📖 **Indistractable by Nir Eyal**
-- [ ] The Power of Habit by Charles Duhigg
-- [ ] Deep Work by Cal Newport 
-- [ ] Mindset by Carol S. Dweck
-- [ ] Lives of the Stoics by Ryan Holiday
-- [ ] When by Daniel H. Pink
-- [ ] Why We Sleep by Matthew Walker
-- [ ] The Happiness Equation by Neil Pasricha
-- [ ] The Productivity Project by Chris Bailey
-- [ ] How to Win Friends and Influence People by Dale Carnegie
-- [ ] The Courage To Be Disliked by Ichiro Kishimi, Fumitake Koga
-- [ ] The Practice by Seth Godin
-- [ ] A Million Miles in a Thousand Years by Donald Miller
-- [ ] The Art of Noticing by Rob Walker
-- [ ] Creativity, Inc. by Ed Catmull, Amy Wallace
-- [ ] 100 Things by Susan M. Weinschenk
-- [ ] Daily Rituals by Mason Currey
-- [ ] Chatter by Ethan Kross
-- [ ] The Psychology of Money by Morgan Housel
-- [ ] Debt by David Graeber, Grover Gardner
-- [ ] Design as Art by Bruno Munari
-- [ ] Pocket Full of Do by Chris Do
-- [ ] Influence by Robert B. Cialdini
-- [ ] Effortless by Greg McKeown
-- [ ] Thanks for the Feedback by Douglas Stone, Sheila Heen
-- [ ] That Will Never Work by Marc Randolph
-- [ ] Work Clean by Dan Charnas
+- [x] ~~The Minimalist Entrepreneur~~
+- [x] ~~Do Epic Shit~~
+- [x] ~~The Making of a Manager~~
+- [ ] 📖 **Indistractable**
+- [ ] The Power of Habit
+- [ ] Deep Work
+- [ ] Mindset
+- [ ] Lives of the Stoics
+- [ ] When
+- [ ] Why We Sleep
+- [ ] The Happiness Equation
+- [ ] The Productivity Project
+- [ ] How to Win Friends and Influece People
+- [ ] The Courage To Be Disliked
+- [ ] The Practice
+- [ ] A Million Miles in a ThousandYears
+- [ ] The Art of Noticing
+- [ ] Creativity, Inc.
+- [ ] 100 Things
+- [ ] Daily Rituals
+- [ ] Chatter
+- [ ] The Psychology of Money
+- [ ] Debt
+- [ ] Design as Art
+- [ ] Pocket Full of Do
+- [ ] Influence
+- [ ] Effortless
+- [ ] Thanks for the Feedback
+- [ ] That Will Never Work
+- [ ] Work Clean
