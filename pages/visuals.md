@@ -1,9 +1,10 @@
 ---
-title: Visual Ideas
+title: Visuals
 layout: default
 permalink: /visuals
 image: /assets/card.png
 description: All my visuals in one place
+weight: 4
 ---
 
 <div class="post-grid m-3 mt-5">
