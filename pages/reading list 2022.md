@@ -12,9 +12,10 @@ description: Books I want to read in the year 2022
 - [x] ~~The Minimalist Entrepreneur~~
 - [x] ~~Do Epic Shit~~
 - [x] ~~The Making of a Manager~~
-- [ ] 📖 **Indistractable**
+- [x] ~~Indistractable~~
 - [ ] 📖 **The Memoir of a Police Surgeon**
 - [ ] 🎧 **A Study in Scarlet**
+- [ ] 📖 **10% Happier**
 - [ ] The Power of Habit
 - [ ] Deep Work
 - [ ] Mindset
