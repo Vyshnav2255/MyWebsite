@@ -15,6 +15,8 @@ The impossible list is not a bucket list. I got this idea from Youtuber and entr
 
 I will be updating this list regularly.
 
+---
+
 ##### 😃 Life Goals
 
 - Read 100 books
@@ -22,8 +24,12 @@ I will be updating this list regularly.
 - Buy a Kindle reader
 - Buy an iPad
 - Buy a MacBook
+- Buy an Apple Watch
+- Buy an iPhone
 - Give a TEDx Talk
 - Attend an Apple Event
+- Spent one week without phone
+- Spent one week without internet
 
 ##### 🏋️ Fitness/Health Goals
 
