@@ -10,7 +10,7 @@ layout: page
     {{ page.date | date_to_long_string }}
 
 
-  |
+    •
 
   {% if page.tags != empty %}
     Genre: 
@@ -19,10 +19,10 @@ layout: page
     {% endfor %}
   {% endif %}
 
-  | 🌟 {{ page.rating }} / 10
+  • 🌟 {{ page.rating }} / 10
 
   <br>
-  <b>
+  <b>⏳
   {% assign words = content | number_of_words %}
   {% if words < 360 %}
     less than 1 min read time
