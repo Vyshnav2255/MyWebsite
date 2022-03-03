@@ -16,6 +16,7 @@ description: Books I want to read in the year 2022
 - [ ] 📖 **The Memoir of a Police Surgeon**
 - [ ] 🎧 **A Study in Scarlet**
 - [x] ~~10% Happier~~
+- [ ] 📖 **Hyperfocus**
 - [ ] The Power of Habit
 - [ ] Deep Work
 - [ ] Mindset
@@ -25,7 +26,7 @@ description: Books I want to read in the year 2022
 - [ ] The Happiness Equation
 - [ ] The Productivity Project
 - [ ] How to Win Friends and Influece People
-- [ ] 📖 **The Courage To Be Disliked**
+- [x] ~~The Courage To Be Disliked~~
 - [ ] The Practice
 - [ ] A Million Miles in a ThousandYears
 - [ ] The Art of Noticing
