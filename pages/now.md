@@ -15,6 +15,8 @@ description: What I’m doing now
 </span>
 </div>
 
+✏️ Creating [Visuals](/visuals)
+
 👨‍💻 Working on Lockscreen Tasks website
 
 ✍️ Writing a weekly newsletter called [Sunday Summary](https://newsletter.vyshnav.xyz/)
