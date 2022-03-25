@@ -14,10 +14,10 @@ description: Books I want to read in the year 2022
 - [x] ~~The Making of a Manager~~
 - [x] ~~Indistractable~~
 - [ ] 📖 **The Memoir of a Police Surgeon**
-- [ ] 🎧 **A Study in Scarlet**
+- [ ] ~~A Study in Scarlet~~
 - [x] ~~10% Happier~~
 - [x] ~~Hyperfocus~~
-- [ ] 📖 **The One Minute Manager**
+- [x] ~~The One Minute Manager~~
 - [ ] The Power of Habit
 - [ ] Deep Work
 - [ ] Mindset
@@ -37,7 +37,7 @@ description: Books I want to read in the year 2022
 - [ ] Chatter
 - [ ] The Psychology of Money
 - [ ] Debt
-- [ ] Design as Art
+- [ ] 📖 **Design as Art**
 - [ ] Pocket Full of Do
 - [ ] Influence
 - [ ] Effortless
