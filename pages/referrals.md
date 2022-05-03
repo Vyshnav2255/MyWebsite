@@ -17,7 +17,7 @@ If you don't have an account click here.
 <p class="text-center">
 {% include elements/iconbtn.html link="https://doist.grsm.io/vyshnavgangadharan6232" text="Sign Up for Todoist" icon="link" %}
 </p>
-Enjoy **2 Months of Todoist Premium for Free**. It applies to both new customer and old customer. Click below to get automatically upgraded.
+Enjoy **2 Months of Todoist Premium for Free**. It applies to both new and old customer. Click below to get automatically upgraded.
 <p class="text-center">
 {% include elements/iconbtn.html link="https://todoist.com/r/vyshnav_gangadharan_lomwzf" text="Get 2 Months Premium" icon="link" %}
 </p>
@@ -43,6 +43,16 @@ Buy Me a Coffee makes supporting fun and easy. In just a couple of taps, your fa
 
 <p class="text-center">
 {% include elements/iconbtn.html link="https://buymeacoffee.com/?via=vyshnav" text="Get Link" icon="link" %}
+</p>
+
+---
+
+### BlackMagic.so
+
+Unlock twitter insights you never knew about. Manage engagements at scale. Understand your audience.
+
+<p class="text-center">
+{% include elements/iconbtn.html link="https://blackmagic.so/?aff=VYSHNAV_XYZ_920BF058" text="Get Link" icon="link" %}
 </p>
 
 ---
