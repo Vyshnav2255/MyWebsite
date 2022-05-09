@@ -5,12 +5,24 @@ layout: page
 <h2><b>{{ page.title }}</b></h2>
 <p class="article-metadata text-muted">
     {{ page.date | date_to_long_string }}
+    {% if page.category %} - <a class="text-decoration-none no-underline" href="{{ page.category | slugify }}">{{ page.category }}</a>
+    {% endif %}
 </p>
 
 {{ content }}
 
+<p>
+    {% if page.tags != empty %}
+    Tags: 
+    {% for tag in page.tags %}
+    <a class="text-decoration-none no-underline" href="#">
+      <span class="tag badge badge-pill">{{ tag }}</span>
+    </a>
+    {% endfor %}
+  {% endif %}
+</p>
+
 <div class="dot"></div>
-{% include follow.html %}
 {% include subscribe.html %}
 <div class="dot"></div>
 {% include feedback.html %}
