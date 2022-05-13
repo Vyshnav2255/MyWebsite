@@ -23,6 +23,4 @@ description: What I’m doing now
 
 📚 Reading {% for item in site.data.books %} <b>{{ item.name }}</b>{% endfor %}
 
-🎓 Studying B.Tech (Chemical engineering) from NIT Calicut
-
 📍 Living in Kerala, India
