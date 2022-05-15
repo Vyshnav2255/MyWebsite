@@ -19,37 +19,24 @@ I currently live in Kerala🌴, India. I enjoy reading books📗 and listing to 
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
 
-<hr>
+<div class="accordion-body">
+    <div class="accordion">
+        <div class="box active">
+            <div class="label">Programs</div>
+            <div class="content">{% include about/programs.html %}</div>
+        </div>
 
-<div class="about-sec-h text-themed">
-    🖥️ Programs
+        <div class="box">
+            <div class="label">Coding Skills</div>
+            <div class="content">{% include about/programming-skills.html %}</div>
+        </div>
+
+        <div class="box">
+            <div class="label">Other Skills</div>
+            <div class="content">{% include about/other-skills.html %}</div>
+        </div>
+    </div>
 </div>
-
-<div>
-{% include about/programs.html %}
-</div>
-
-<hr>
-
-<div class="about-sec-h text-themed">
-    💻 Programming Skills
-</div>
-
-<div>
-{% include about/programming-skills.html %}
-</div>
-
-<hr>
-
-<div class="about-sec-h text-themed">
-    🎥 Other Skills
-</div>
-
-<div>
-{% include about/other-skills.html %}
-</div>
-
-<hr>
 
 <div class="about-sec-h text-themed">💼 Work Experience</div>
 <div class="row">
@@ -62,6 +49,16 @@ I currently live in Kerala🌴, India. I enjoy reading books📗 and listing to 
 <div class="row">
     {% include about/timeline.html %}
 </div>
+
+<script>
+const accordion = document.getElementsByClassName('box');
+
+for (i=0; i<accordion.length; i++) {
+  accordion[i].addEventListener('click', function () {
+    this.classList.toggle('active')
+  })
+}
+</script>
 
 &nbsp;
 &nbsp;
