@@ -91,12 +91,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 }
 
-.about-sec-h{
-    font-weight: 600;
-    padding-top: 30px;
-    margin-bottom: 0px;
-}
-
 .about-pills{
     display: flex;
     flex-wrap: wrap;
@@ -112,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: .5rem .7rem;
     font-size: .9rem;
     border-radius: 9999999px;
-    border: 1px solid gray;
+    border: 1px solid rgb(0, 0, 0);
     margin: .4rem .6rem .4rem 0;
     transition: all .2s ease-in-out!important;
     color: var(--text-secondary);

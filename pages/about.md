@@ -35,19 +35,17 @@ I currently live in Kerala🌴, India. I enjoy reading books📗 and listing to 
             <div class="label">Other Skills</div>
             <div class="content">{% include about/other-skills.html %}</div>
         </div>
+
+        <div class="box active">
+            <div class="label">Work Experience</div>
+            <div class="content">{% include about/edu-time.html %}</div>
+        </div>
+
+        <div class="box">
+            <div class="label">Education</div>
+            <div class="content">{% include about/timeline.html %}</div>
+        </div>
     </div>
-</div>
-
-<div class="about-sec-h text-themed">💼 Work Experience</div>
-<div class="row">
-    {% include about/edu-time.html %}
-</div>
-
-<hr>
-
-<div class="about-sec-h text-themed">🎓 Education</div>
-<div class="row">
-    {% include about/timeline.html %}
 </div>
 
 <script>
