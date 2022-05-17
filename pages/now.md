@@ -17,7 +17,11 @@ description: What I’m doing now
 
 ✏️ Creating [Visuals](/visuals)
 
-👨‍💻 Working on Lockscreen Tasks website
+🧠 Learning Blender & UI/UX Design
+
+🚧 Redesigning this website
+
+👨‍💻 Working on [Lockscreen Tasks website](https://twitter.com/vyshnav_xyz/status/1479787683417366531?t=O_Ak3pqzN3FH1UJlj6L_tw&s=19)
 
 ✍️ Writing a weekly newsletter called [Sunday Summary](https://newsletter.vyshnav.xyz/)
 
