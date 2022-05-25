@@ -12,6 +12,5 @@ description: List of useful links and pages
 * 🎁 [Referrals](/referrals)
 * 💎 [Goals](/goals)
 * 🎯️ [My Impossible List](/impossible-list)
-* 📗 [Reading List 2022](/reading-list)
 * ✒️ [Microblog](/microblog/)
 * 🎙️ [Podcast Recommendations](/podcast-recommendations)
