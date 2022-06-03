@@ -112,7 +112,7 @@ $dark-900: #121212;
       background: #007367;
   }
   }
-}
+  }
 
   .social-icon{
     fill: #ebf0fbd9 !important;
@@ -122,10 +122,7 @@ $dark-900: #121212;
   }
   .icon-svg-themed{
     fill: #ffffff !important;
-}
-.book-premium{
-  color: #28bca3 !important;
-}
+  }
   .btn{
     background-color: #003933;
     border-color: #89ffdd;
@@ -155,5 +152,25 @@ $dark-900: #121212;
   .work-toggle{
     background-color: #003933;
     color: #89ffdd;
+  }
+
+  .wrapper-svg{
+    .p-fill{
+      fill: #003933;
+    }
+    .p-stroke{
+      fill: #ffffff;
+    }
+    line{
+      stroke: #ffffff;
+    }
+    rect{
+      stroke: #ffffff;
+      fill: #121212;
+    }
+    circle{
+      stroke: #ffffff;
+      fill: #121212;
+    }
   }
 }
