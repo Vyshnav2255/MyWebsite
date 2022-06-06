@@ -11,7 +11,7 @@ description: Hi I’m Vyshnav Gangadharan 👋, a 22-year-old Designer, Illustra
 Hi👋, Nice to meet you😊
 <br>I’m **{{ site.author.name }}**, a 22-year-old Designer, Illustrator & Developer . I'm a self-taught Graphics designer, UI/UX designer, Video Editor, Coder & Film Maker.
 
-I currently live in Kerala🌴, India. I enjoy reading books📗 and listing to podcasts🎙️. I love creating creative content✨, and you can find most of my works here.
+I currently live in Kerala🌴, India. I enjoy reading books📗 and listening to podcasts🎙️. I love creating creative content✨, and you can find most of my works here.
 
 <p class="text-center" style="margin-bottom: 1.5rem; margin-top: 1.5rem;">
 {% include elements/iconbtn.html link="mailto:hi@vyshnav.xyz" text="Say hello!" icon="chat" %}
