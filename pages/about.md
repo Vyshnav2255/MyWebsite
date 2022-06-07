@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: regular
 title: About
 permalink: /about/
 weight: 6
@@ -18,49 +18,30 @@ I currently live in Kerala🌴, India. I enjoy reading books📗 and listening t
 {% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
 
-<hr>
-
-<div class="about-sec-h text-themed">
-    🖥️ Programs
-</div>
+<div class="about-sec-h text-themed">Software Skills</div>
 
 <div>
 {% include about/programs.html %}
 </div>
 
-<hr>
-
-<div class="about-sec-h text-themed">
-    💻 Programming Skills
-</div>
+<div class="about-sec-h text-themed">Programming Skills</div>
 
 <div>
 {% include about/programming-skills.html %}
 </div>
 
-<hr>
-
-<div class="about-sec-h text-themed">
-    🎥 Other Skills
-</div>
+<div class="about-sec-h text-themed">Other Skills</div>
 
 <div>
 {% include about/other-skills.html %}
 </div>
 
-<hr>
-
-<div class="about-sec-h text-themed">💼 Work Experience</div>
+<div class="about-sec-h text-themed">Work Experience</div>
 <div class="row">
     {% include about/edu-time.html %}
 </div>
 
-<hr>
-
-<div class="about-sec-h text-themed">🎓 Education</div>
+<div class="about-sec-h text-themed">Education</div>
 <div class="row">
     {% include about/timeline.html %}
 </div>
-
-&nbsp;
-&nbsp;

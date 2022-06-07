@@ -1,5 +1,5 @@
 <div class="about-pills">
     {% for item in site.data.programs %}
-    <span class="about-pill"><img src="{{ item.logo }}" class="about-pill-img" alt="{{ item.alt }}">&nbsp;{{ item.name }}</span>
+    <span class="about-pill"><img src="{{ item.logo }}" alt="{{ item.alt }}">{{ item.name }}</span>
     {% endfor %}
 </div>
