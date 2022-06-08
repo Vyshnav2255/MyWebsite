@@ -56,15 +56,10 @@
     }
 
     a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.video-img):not(.p-hunt)  {
-        text-decoration: none;
-        color: #003933;
-        background-color: #89ffdd;
-        border-radius: .125rem;
-        padding-left: .125rem;
-        padding-right: .125rem;
-        margin-bottom: .125rem;
-        margin-top: .125rem;
-        box-decoration-break: clone;
+        text-decoration: underline;
+        text-decoration-thickness: 3px;
+        text-decoration-color: #43d6b5;
+        color: #000000;
 
         &:hover { 
             background: #43d6b5;
