@@ -105,11 +105,11 @@ $dark-900: #121212;
       }
 
   a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.nav-item){
-    color: #89ffdd;
-    background-color: #003933;
+    color: #ffffff;
+    text-decoration-color: #0e9a83;
 
     &:hover {
-      background: #007367;
+      background: #0e9a83;
   }
   }
   }

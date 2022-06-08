@@ -56,14 +56,12 @@
     }
 
     a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.video-img):not(.p-hunt)  {
-        text-decoration: underline;
-        text-underline-offset: 3px;
-        text-decoration-thickness: 3px;
-        text-decoration-color: #89ffdd;
+        text-decoration: none;
         color: #000000;
+        border-bottom: 2px solid black;
 
         &:hover { 
-            background: #89ffdd;
+            background: #43d6b5;
         }
     }
 
@@ -92,13 +90,18 @@
     }
 
     blockquote {
-        border-left: .25em solid #43d6b5;
-        color: #595959;
+        border: 1px solid #000;
+        color: #000000;
         font-size: 1.12rem;
         font-style: italic;
-        padding: 0 1em;
-        margin-top: 1rem !important;
-        margin-bottom: 2rem !important;
+        padding: 1rem;
+        margin-top: 1.5rem !important;
+        margin-bottom: 1.5rem !important;
+        border-radius: 4px;
+
+        p{
+            margin-bottom: 0;
+        }
     }
       
     table {
