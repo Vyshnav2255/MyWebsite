@@ -41,7 +41,8 @@ I will be updating this list regularly.
 - Work in a Remote Company
 - Get 100,000 blog visits, all time
 - ~~Start a newsletter~~ ([24 Aug 2021](/microblog/launched-my-newsletter))
-    - Gain 100 subscribers
+    - ~~Gain 100 subscribers~~ ([20 May 2022](https://twitter.com/vyshnav_xyz/status/1527575463111032832?s=20&t=vO25_QzuHjnsV5tIsUnKJQ))
+    - Gain 200 subscribers
 - Start a podcast
 - Write a book
 - Write 100 blog posts

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Failures List
-permalink: /failures-list
+permalink: /failures
 image: /assets/card.png
 description: My list of failures and rejections
 ---
