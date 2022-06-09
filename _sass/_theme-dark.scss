@@ -99,9 +99,11 @@ $dark-900: #121212;
 .nav-item{
   color: rgba(235,240,251,0.85) !important;
 }
+
 .article{
   blockquote{
-    color: #d4d4d4 !important;
+    color: #ffffff !important;
+    border-color: #ffffff;
       }
 
   a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.nav-item){
