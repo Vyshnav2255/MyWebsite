@@ -56,13 +56,12 @@
     }
 
     a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.video-img):not(.p-hunt)  {
-        text-decoration: underline;
-        text-decoration-thickness: 3px;
-        text-decoration-color: #43d6b5;
+        text-decoration: none;
         color: #000000;
+        border-bottom: 1px solid black;
 
         &:hover { 
-            background: #43d6b5;
+            background: #89ffdd;
         }
     }
 

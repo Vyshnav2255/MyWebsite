@@ -108,12 +108,12 @@ $dark-900: #121212;
 
   a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.nav-item){
     color: #ffffff;
-    text-decoration-color: #0e9a83;
+    border-color: #ffffff;
 
     &:hover {
-      background: #0e9a83;
-  }
-  }
+      background: #007367;
+      }
+    }
   }
 
   .social-icon{
@@ -127,15 +127,15 @@ $dark-900: #121212;
   }
   .btn{
     background-color: #003933;
-    border-color: #89ffdd;
-    color: #89ffdd;
+    border-color: #ffffff;
+    color: #ffffff;
     
     svg{
-      fill: #89ffdd;
+      fill: #ffffff;
     }
     }
     :hover.btn{
-        background-color: #0e9a83;
+      box-shadow: 4px 4px 0 0 white;
         }
     
   .badge {
