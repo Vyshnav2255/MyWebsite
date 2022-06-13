@@ -28,8 +28,8 @@ I will be updating this list regularly.
 - Buy an iPhone
 - Give a TEDx Talk
 - Attend an Apple Event
-- Spent one week without phone
-- Spent one week without internet
+- Spend one week without phone
+- Spend one week without internet
 
 ##### 🏋️ Fitness/Health Goals
 
@@ -48,8 +48,10 @@ I will be updating this list regularly.
 - Write 100 blog posts
 - ~~Gain 500 Twitter followers~~([07 Mar 2022](https://twitter.com/vyshnav_xyz/status/1500835594146045956?s=20&t=FnJ5ABgt-1QFaIgl42AuaA))
     - ~~Gain 1,000 followers~~([24 Apr 2022](https://twitter.com/vyshnav_xyz/status/1518463933513830401?s=20&t=o38NqSJSesag_iC3WFmy4w))
+    - Gain 2,000 followers
 - ~~Make $1000 from Buy me a Coffee~~ ([28 Sept 2021](/microblog/made-my-first-1000-on-the-internet))
     - Make $2000
+- Make $1000 from Gumroad
 - Gain 500 Supporters - Buy Me a Coffee
 
 ##### 🎨 Creative Goals
