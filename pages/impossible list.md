@@ -28,8 +28,8 @@ I will be updating this list regularly.
 - Buy an iPhone
 - Give a TEDx Talk
 - Attend an Apple Event
-- Spent one week without phone
-- Spent one week without internet
+- Spend one week without phone
+- Spend one week without internet
 
 ##### 🏋️ Fitness/Health Goals
 
