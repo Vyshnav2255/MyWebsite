@@ -58,10 +58,10 @@
     a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.video-img):not(.p-hunt)  {
         text-decoration: none;
         color: #000000;
-        border-bottom: 2px solid black;
+        border-bottom: 1px solid black;
 
         &:hover { 
-            background: #43d6b5;
+            background: #89ffdd;
         }
     }
 
@@ -126,6 +126,38 @@
 
         tr:nth-child(even) {
             background-color: $light;
+        }
+    }
+
+    .share{
+        font-size: 0; // Fix percentage issue with whitespace
+        margin: 3rem auto;
+        text-align: center;
+
+        .head{
+            margin-bottom: 1rem;
+            font-size: 14px;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-family: 'Space Grotesk', sans-serif;
+            letter-spacing: 2px;
+        }
+
+        .btn{
+            background-color: #fff;
+            border-color: #000000;
+            color: #000000;
+            cursor: pointer;
+            transition: all .14s ease-out;
+
+            svg{
+                margin-right: 0;
+            }
+
+            &:hover{
+                transform: translate(-.25rem,-.25rem);
+                background-color: #89ffdd;
+            }
         }
     }
 }

@@ -16,7 +16,7 @@ description: List of useful links and pages
 * 🎙️ [Podcast Recommendations](/podcast-recommendations)
 
 ##### Side Projects
-* 🚧 [Lockscreen Tasks](https://www.producthunt.com/products/lockscreen-tasks) (In progress)
+* 🚧 [Lockscreen Tasks](https://twitter.com/vyshnav_xyz/status/1479787683417366531?t=O_Ak3pqzN3FH1UJlj6L_tw&s=19) (In progress)
 * 🎨 [Notion Icons v5](https://notionv5.vyshnav.xyz/)
 * 🎨 [Notion Icons v3](https://notionv3.vyshnav.xyz/)
 * 🎨 [Notion Icons v2](https://notionv2.vyshnav.xyz/)
