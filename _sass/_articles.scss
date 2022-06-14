@@ -130,7 +130,7 @@
     }
 
     .share{
-        font-size: 0; // Fix percentage issue with whitespace
+        font-size: 0;
         margin: 3rem auto;
         text-align: center;
 
@@ -149,14 +149,13 @@
             cursor: pointer;
             transition: all .14s ease-out;
 
-            svg{
-                margin-right: 0;
-            }
+            svg{margin-right: 0;}
 
-            &:hover{
-                transform: translate(-.25rem,-.25rem);
-                background-color: #89ffdd;
-            }
+            &:hover{transform: translate(-.25rem,-.25rem);svg{fill: #fff;}}
+            &:hover.twitter{background-color: #1da1f2;}
+            &:hover.linkedin{background-color: #007bb5;}
+            &:hover.facebook{background-color: #1877f2;}
+            &:hover.shareurl{background-color: #666666;}
         }
     }
 }
