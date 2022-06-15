@@ -128,6 +128,33 @@
             background-color: $light;
         }
     }
+
+    .share{
+        font-size: 0;
+        margin: 3rem auto;
+        text-align: center;
+
+        .head{
+            margin-bottom: 1rem;
+            font-size: 14px;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-family: 'Space Grotesk', sans-serif;
+            letter-spacing: 2px;
+        }
+
+        .btn{
+            background-color: transparent;
+
+            svg{margin-right: 0;}
+
+            &:hover{transform: translate(-.25rem,-.25rem);svg{fill: #fff;}}
+            &:hover.twitter{background-color: #1da1f2;}
+            &:hover.linkedin{background-color: #007bb5;}
+            &:hover.facebook{background-color: #1877f2;}
+            &:hover.shareurl{background-color: #666666;}
+        }
+    }
 }
 
 ul{
