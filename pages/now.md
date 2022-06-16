@@ -23,8 +23,8 @@ description: What I’m doing now
 
 👨‍💻 Working on [Lockscreen Tasks website](https://twitter.com/vyshnav_xyz/status/1479787683417366531?t=O_Ak3pqzN3FH1UJlj6L_tw&s=19)
 
-✍️ Writing a weekly newsletter called [Sunday Summary](https://newsletter.vyshnav.xyz/)
+✍️ Writing [Sunday Summary](https://newsletter.vyshnav.xyz/) newsletter
 
-📚 Reading {% for item in site.data.books %} <b>{{ item.name }}</b>{% endfor %}
+📚 Reading {% for item in site.data.books %}[{{ item.name }}]({{ item.link }}){% endfor %}
 
 📍 Living in Kerala, India

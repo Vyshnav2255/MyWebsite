@@ -176,12 +176,7 @@ $dark-900: #121212;
     }
   }
 
-  .share{
-    .btn{
-
-      &:hover{
-        background-color: #003933;
-      }
-    }
+  li{
+    del{color: #abacae;}
   }
 }

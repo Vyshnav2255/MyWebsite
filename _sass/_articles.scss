@@ -145,9 +145,6 @@
 
         .btn{
             background-color: transparent;
-            color: #000000;
-            cursor: pointer;
-            transition: all .14s ease-out;
 
             svg{margin-right: 0;}
 
@@ -176,4 +173,8 @@ hr {
 
 mark{
     background-color: #89ffde9d;
+}
+
+li{
+    del{color: #4d4d4d;}
 }
