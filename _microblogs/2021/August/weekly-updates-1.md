@@ -2,7 +2,6 @@
 title: "Weekly Updates #1\U0001F389"
 date: 2021-08-01
 layout: microblog
-image: /assets/Weekly Updates.png
 description: Very happy to share that my website just hit 7K views this month. I'm so happy to see many people visiting my website and mailing me how they like my contents
 ---
 Hi👋

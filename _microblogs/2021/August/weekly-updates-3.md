@@ -2,7 +2,6 @@
 title: "Weekly Updates #3\U0001F347"
 date: 2021-08-15
 layout: microblog
-image: /assets/Weekly Updates.png
 description: The website which I was talking about is finally ready. I will be launching it tomorrow. Thanks to all the testers who helped me find issues and suggest features
 ---
 Hi👋

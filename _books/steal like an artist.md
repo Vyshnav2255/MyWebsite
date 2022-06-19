@@ -3,7 +3,7 @@ title: Steal Like an Artist
 tags: [Self-help]
 image: /Images/Books/SLAK.png
 author: Austin Kleon
-date: 2021-03-08
+date: 2022-06-11
 description: 10 Things Nobody Told You About Being Creative
 layout: book
 rating: 10
