@@ -2,7 +2,6 @@
 title: "Weekly Updates #2\U0001F95D"
 date: 2021-08-08
 layout: microblog
-image: /assets/Weekly Updates.png
 description: This week I was working on the web version of my Notion Icons 2.0 pack
 ---
 Hi👋

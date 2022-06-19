@@ -2,7 +2,6 @@
 title: "Weekly Updates #4\U0001F353"
 date: 2021-08-22
 layout: microblog
-image: /assets/Weekly Updates.png
 description: I'm currently working on an article about Mi Band
 ---
 Hi👋
