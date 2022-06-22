@@ -6,13 +6,23 @@ weight: 1
 image: /assets/card.png
 description: Design works which I have done till now
 ---
-&nbsp;
-&nbsp;
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin: 2rem 0;">
     <div style="display: flex; flex-direction: row;" class="work-toggle">
     <div class="work-toggle-active" style="padding: 0 20px 0 20px;">images</div>
     <div style="margin: 0 20px 0 20px;"><a style="text-decoration: none !important;" href="/works/videos">videos</a></div>
     </div>
 </div>
 
-{% include projects/index.html %}
+<div class="m-3 mt-5">
+    <ul class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-3 list-unstyled list grid">
+      {% for item in site.data.projects %}  
+      <li>
+          <div class="post-grid-item">
+            <a title="{{ item.name }}" target="_blank" rel="noopener" href="{{ item.url }}" class="project card text-dark">
+              <img id="{{ item.image }}-img" class="card-img-top" src="{{ item.image }}?compress=1&resize=800x600&vertical=top" alt="{{ item.name }}" />
+            </a>
+          </div>
+      </li>
+      {% endfor %}
+    </ul>
+</div>

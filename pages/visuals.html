@@ -1,0 +1,43 @@
+---
+title: Visuals
+layout: default
+permalink: /visuals
+image: /assets/card.png
+description: All my visuals in one place
+weight: 4
+---
+
+<!--<div class="post-grid ">
+  
+    <div class="post-grid-item">
+    <a title="{{ item.name }}" target="_blank" rel="noopener" href="{{ item.url }}" class="project card text-dark">
+        {% if item.image %}
+            <img id="{{ item.image }}-img" class="card-img-top" src="{{ item.image }}" alt="{{ item.name }}" />
+        {% endif %}
+    </a>
+    </div>
+
+</div> -->
+
+<div class="m-3 mt-5">
+  <ul class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-3 list-unstyled list grid">
+    {% for item in site.data.visuals %}
+
+    {% if visuals.external_url %}
+      {% assign visuals_url = visuals.external_url %}
+    {% else %}
+      {% assign visuals_url = visuals.url | relative_url %}
+    {% endif %}
+
+    <li class="col">
+        <div class="post-grid-item">
+          <a title="{{ item.name }}" target="_blank" rel="noopener" href="{{ item.url }}" class="project card text-dark">
+            {% if item.image %}
+                <img id="{{ item.image }}-img" class="card-img-top" src="{{ item.image }}" alt="{{ item.name }}" />
+            {% endif %}
+        </a>
+        </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
