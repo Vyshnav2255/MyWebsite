@@ -10,7 +10,7 @@ description: Notes, Highlights, and Summaries of books I have read
 <div class="post-grid mt-5">
   {% for book in site.books reversed %}
     <div class="post-grid-item">
-      <a href="{{ book_url }}" class="project card text-themed" style="text-decoration: none !important;" >
+      <a href="{{ book.url }}" class="project card text-themed" style="text-decoration: none !important;" >
         <img class="card-img-top" src="{{ book.image }}" alt="{{ book.title }}" loading="lazy"/>
         <div class="card-body">
           <h5 class="card-title text-themed"><b>{{ book.title }}</b></h5>
