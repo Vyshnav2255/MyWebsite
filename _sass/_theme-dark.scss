@@ -152,8 +152,7 @@ $dark-900: #121212;
   }
 
   .work-toggle{
-    background-color: #003933;
-    color: #89ffdd;
+    border-color: #ffffff;
   }
 
   .wrapper-svg{
@@ -174,5 +173,9 @@ $dark-900: #121212;
       stroke: #ffffff;
       fill: #121212;
     }
+  }
+
+  li{
+    del{color: #abacae;}
   }
 }
