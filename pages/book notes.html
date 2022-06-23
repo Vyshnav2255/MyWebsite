@@ -8,14 +8,7 @@ description: Notes, Highlights, and Summaries of books I have read
 ---
 
 <div class="post-grid mt-5">
-    {% for book in site.books reversed %}
-    
-        {% if book.external_url %}
-          {% assign book_url = book.external_url %}
-        {% else %}
-          {% assign book_url = book.url %}
-        {% endif %}
-    
+  {% for book in site.books reversed %}
     <div class="post-grid-item">
       <a href="{{ book_url }}" class="project card text-themed" style="text-decoration: none !important;" >
         <img class="card-img-top" src="{{ book.image }}" alt="{{ book.title }}" loading="lazy"/>
@@ -24,18 +17,10 @@ description: Notes, Highlights, and Summaries of books I have read
           <p class="card-text text-muted">by {{ book.author }}
           <br> 🌟 {{ book.rating }} / 10</p>
         </div>
-
-        {% if book.type contains "premium" %}
-        <p class="date-card book-premium" style="color: #007367;">
-          <b>Early Access 🔒</b>
-        </p>
-        {% else %}
         <p class="date-card text-muted">
           {{ book.date | date_to_long_string }}
         </p>
-        {% endif %}
       </a>
     </div>
-    
-    {% endfor %}
-    </div>
+  {% endfor %}
+</div>
