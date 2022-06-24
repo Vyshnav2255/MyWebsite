@@ -11,15 +11,24 @@ description: Notes, Highlights, and Summaries of books I have read
   {% for book in site.books reversed %}
     <div class="post-grid-item">
       <a href="{{ book.url }}" class="project card text-themed" style="text-decoration: none !important;" >
-        <img class="card-img-top" src="{{ book.image }}" alt="{{ book.title }}" loading="lazy"/>
+        <img class="thumbnail" src="{{ book.image }}" alt="{{ book.title }}" loading="lazy"/>
         <div class="card-body">
           <h5 class="card-title text-themed"><b>{{ book.title }}</b></h5>
           <p class="card-text text-muted">by {{ book.author }}
           <br> 🌟 {{ book.rating }} / 10</p>
+          <p class="date-card text-muted" style="margin: 0;">
+            <span>{{ book.date | date_to_long_string }}</span>
+            <span class="post-footer">•</span>
+            <span>
+              {% assign words = book.content | number_of_words %}
+              {% if words < 360 %}
+              1 min
+              {% else %}
+              {{ words | divided_by:180 }} mins
+              {% endif %}
+            </span>
+          </p>
         </div>
-        <p class="date-card text-muted">
-          {{ book.date | date_to_long_string }}
-        </p>
       </a>
     </div>
   {% endfor %}
