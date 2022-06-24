@@ -1,0 +1,18 @@
+---
+title: Visuals
+layout: default
+permalink: /visuals
+image: /assets/card.png
+description: All my visuals in one place
+weight: 4
+---
+
+<div class="post-grid mt-5">
+  {% for item in site.data.visuals %}
+    <div class="post-grid-item">
+      <a title="{{ item.name }}" target="_blank" rel="noopener" href="{{ item.url }}" class="project card">
+        <img id="{{ item.image }}-img" class="thumbnail" style="border-radius: .25rem; border: 0;" src="{{ item.image }}" alt="{{ item.name }}" loading="lazy"/>
+      </a>
+    </div>
+  {% endfor %}
+</div>
