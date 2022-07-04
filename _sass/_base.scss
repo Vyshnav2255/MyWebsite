@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 14px;
     font-weight: bold;
     color: #242424;
-    padding-top: 2rem;
+    margin-top: 2rem;
     margin-bottom: 0px;
     text-transform: uppercase;
     display: grid;
@@ -204,3 +204,11 @@ ul.task-list {
     list-style: none;
     padding-left: 0px;
   }
+
+.form-control{
+    border-color: #000000;
+
+    &:active{
+        color: #000000;
+    }
+}

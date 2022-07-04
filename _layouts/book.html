@@ -7,7 +7,7 @@ layout: page
 <p class="article-metadata text-muted">
     by <b>{{ page.author }}</b>
     <br>
-    {{ page.date | date_to_long_string }}
+    {{ page.date | date: "%B %d, %Y" }}
 
 
     •
@@ -22,21 +22,19 @@ layout: page
   • 🌟 {{ page.rating }} / 10
 
   <br>
-  <b>⏳
+  ⏳
   {% assign words = content | number_of_words %}
   {% if words < 360 %}
-    less than 1 min read time
+  1 min read time
   {% else %}
-    {{ words | divided_by:200 }} mins read time
+  {{ words | divided_by:180 }} mins read time
   {% endif %}
-  </b>
 
 </p>
 <hr>
 
 {{ content }}
 
-<div class="dot"></div>
 {% include share.html %}
 {% include subscribe.html %}
 <div class="dot"></div>
