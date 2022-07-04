@@ -178,4 +178,18 @@ $dark-900: #121212;
   li{
     del{color: #abacae;}
   }
+
+  .share{
+    .btn{
+      border-color: #ffffff;
+
+      &:hover{
+        box-shadow: 4px 4px 0 0 #ffffff
+      }
+
+      svg{
+        fill: #ffffff;
+      }
+    }
+  }
 }
