@@ -57,24 +57,3 @@
     font-size: 12px;
     letter-spacing: 0.06rem;
 }
-
-.work-toggle{
-    padding: 4px;
-    border-radius: 8px;
-    background-color: transparent;
-    color: #000000;
-    border: 1px #000 solid;
-
-    a { 
-        color: inherit !important;
-        margin: 0 !important;
-        padding: 0 !important;
-        background-color: inherit !important;
-    }
-
-    .work-toggle-active{
-        background-color: #43d6b5;
-        color: #000000;
-        border-radius: 4px;
-    }
-}

@@ -1,0 +1,23 @@
+---
+layout: default
+title: Works
+permalink: /works
+weight: 1
+image: /assets/card.png
+description: Design works which I have done till now
+---
+
+<div class="post-grid mt-5">
+  {% for item in site.data.works %}
+    <div class="post-grid-item">
+      <a href="{{ item.url }}" class="project card text-themed" style="text-decoration: none !important;" >
+        <img class="thumbnail" src="{{ item.image }}" alt="{{ item.title }}" loading="lazy"/>
+        <div class="card-body">
+          <span class="blog-tags text-muted">{{ item.date }}</span>
+          <h5 class="card-title text-themed"><b>{{ item.name }}</b></h5>
+          <p class="card-text text-muted">{{ item.description }}</p>
+        </div>
+      </a>
+    </div>
+  {% endfor %}
+</div>
