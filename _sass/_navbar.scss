@@ -1,29 +1,15 @@
-.link-after {
-    content: '';
-    display: block;
-    height: .15em;
-    background: #43d6b5;
-}
-
 .nav-link {
     &:hover{
-        text-decoration: underline 3px #43d6b5;
-        
-}
-    text-transform: lowercase;
+        text-decoration: underline 1px #000;
+        text-underline-offset: 4px;
+    }
+        text-transform: lowercase;
 }
 
 .nav-item.active {
-    font-weight: bold;
-    text-decoration: underline 3px #43d6b5;
-
-}
-
-.navbar-brand {
-    margin-bottom: 0px !important;
-    &::after {
-        margin-top: -.25em;
-    }
+    font-weight: 700;
+    text-decoration: underline 1px #000;
+    text-underline-offset: 4px;
 }
 
 .navbar-toggler{
