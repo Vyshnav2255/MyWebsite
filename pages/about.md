@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 weight: 6
 image: /assets/card.png
-description: Hi I’m Vyshnav Gangadharan 👋, a 22-year-old Designer, Illustrator & Developer . I'm a self-taught Graphics designer, UI/UX designer, Video Editor, Coder & Film Maker
+description: Hi I’m Vyshnav Gangadharan 👋, a 23-year-old Designer, Illustrator & Developer . I'm a self-taught Graphics designer, UI/UX designer, Video Editor, Coder & Film Maker
 ---
 
 # About Me
