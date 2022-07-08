@@ -1,6 +1,6 @@
-<figure class="figure w-100">
-  <img src="{{ include.image }}" class="figure-img img-fluid" alt="{{ include.alt | default: include.caption }}">
-  {%- if include.caption -%}
-    <figcaption class="figure-caption text-center">{{ include.caption }}</figcaption>
-  {%- endif -%}
+<figure style="margin: 2rem 0;">
+<img src="{{ include.image }}" alt="{{ include.alt | default: include.caption }}" style="margin-bottom: 1rem;">
+{%- if include.caption -%}
+<figcaption class="figure-caption text-center">{{ include.caption }}</figcaption>
+{%- endif -%}
 </figure>
