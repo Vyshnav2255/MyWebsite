@@ -46,14 +46,13 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .btn{
-    margin-left: 4px;
-    margin-right: 4px;
+    margin: 0.25rem;
     background-color: #89ffdd;
     border-color: #000000;
     color: #000000;
     cursor: pointer;
-    border-radius: 6px;
-    padding: 8px 16px 8px 16px;
+    border-radius: 0.25rem;
+    padding: 0.5rem 1rem;
     font-family: 'Space Grotesk', sans-serif;
     font-weight: 500;
     transition: all .14s ease-out;
@@ -64,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
     :hover.btn{
-        box-shadow: 4px 4px 0 0 black;
+        box-shadow: 0.25rem 0.25rem 0 0 black;
         }
 
 .navbar-light .navbar-nav .nav-link{
@@ -84,13 +83,13 @@ h1, h2, h3, h4, h5, h6 {
     content: "...";
     display: block;
     font-weight: bold;
-    letter-spacing: 16px;
+    letter-spacing: 1rem;
     text-align: center;
 }
 }
 
 .about-sec-h{
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: bold;
     color: #242424;
     margin-top: 2rem;
@@ -98,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
     display: grid;
     grid-template-columns: auto minmax(20px, 1fr);
-    gap: 12px;
+    gap: 0.75rem;
     align-items: center;
     font-family: 'Space Grotesk', sans-serif;
     letter-spacing: 2px;
@@ -120,28 +119,25 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: .5rem .75rem .5rem .75rem;
+    padding: .5rem .75rem;
     font-size: 0.875rem;
-    border-radius: 9999999px;
+    border-radius: 2rem;
     border: 1px solid gray;
     margin: .25rem .5rem .25rem 0;
     transition: all .2s ease-in-out!important;
-    color: var(--text-secondary);
 
     img{
-        width: 30px;
-        height: 30px;
+        width: 1.875rem;
+        height: 1.875rem;
         display: inline;
-        border-radius: 100px;
+        border-radius: 3rem;
         margin-right: .25rem;
-        margin-top: 0 !important;
-        margin-bottom: 0 !important;
+        margin: 0 !important;
     }
 }
 
 .col-lg-10{
-    padding-left: 10px;
-    padding-right: 10px;
+    padding: 0 0.625rem;
 }
 
 .text-center {
@@ -173,9 +169,9 @@ span.live-icon{
     display: inline-block;
     position: relative;
     background-color: red;
-    width: 10px;
-    height: 10px;
-    margin-right: 6px;
+    width: 0.625rem;
+    height: 0.625rem;
+    margin-right: 0.375rem;
     border-radius: 50%;
     z-index: 1;
     &:before{

@@ -1,7 +1,7 @@
 .nav-link {
     &:hover{
         text-decoration: underline 1px #000;
-        text-underline-offset: 4px;
+        text-underline-offset: 0.25rem;
     }
         text-transform: lowercase;
 }
@@ -9,7 +9,7 @@
 .nav-item.active {
     font-weight: 700;
     text-decoration: underline 1px #000;
-    text-underline-offset: 4px;
+    text-underline-offset: 0.25rem;
 }
 
 .navbar-toggler{

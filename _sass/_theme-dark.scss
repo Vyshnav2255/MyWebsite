@@ -129,7 +129,7 @@ $dark-900: #121212;
     }
     }
     :hover.btn{
-      box-shadow: 4px 4px 0 0 #89ffdd;
+      box-shadow: 0.25rem 0.25rem 0 0 #89ffdd;
         }
     
   .badge {
@@ -155,7 +155,7 @@ $dark-900: #121212;
     .btn{
       border-color: #ffffff;
 
-      &:hover{box-shadow: 4px 4px 0 0 #ffffff}
+      &:hover{box-shadow: 0.25rem 0.25rem 0 0 #ffffff}
       svg{fill: #ffffff;}
     }
   }
