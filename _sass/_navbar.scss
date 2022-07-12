@@ -1,9 +1,11 @@
 .nav-link {
+    text-transform: lowercase;
+    font-family: 'Space Grotesk', sans-serif;
+
     &:hover{
         text-decoration: underline 1px #000;
         text-underline-offset: 0.25rem;
-    }
-        text-transform: lowercase;
+    } 
 }
 
 .nav-item.active {
@@ -15,4 +17,8 @@
 .navbar-toggler{
     border: none;
     padding: 0;
+}
+
+.branding {
+    display: inline;
 }
