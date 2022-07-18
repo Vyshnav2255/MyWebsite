@@ -205,3 +205,15 @@ ul.task-list {
         color: #000000;
     }
 }
+
+.baseline-svg{
+    display: inline-flex;
+    align-self: center;
+    svg{
+        height: 1em;
+        width: 1em;
+        fill: currentColor;
+        top: .125em;
+        position: relative;
+    }
+}

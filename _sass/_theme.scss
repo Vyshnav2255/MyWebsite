@@ -32,6 +32,18 @@
   @include themed(background-color, $light, $dark);
 }
 
+.post-grid-item{
+  @include themed(border-color, $light, $dark);
+}
+
+.item-footer{
+  @include themed(border-color, $light, $dark);
+}
+
+.thumbnail{
+  @include themed(border-color, $light, $dark);
+}
+
 .text-muted{
   color: #575858 !important;
 }
