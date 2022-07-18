@@ -33,15 +33,15 @@
 }
 
 .post-grid-item{
-  @include themed(border-color, $light, $dark);
+  @include themed(border-color, #000, $dark);
 }
 
 .item-footer{
-  @include themed(border-color, $light, $dark);
+  @include themed(border-color, #000, $dark);
 }
 
 .thumbnail{
-  @include themed(border-color, $light, $dark);
+  @include themed(border-color, #000, $dark);
 }
 
 .text-muted{
