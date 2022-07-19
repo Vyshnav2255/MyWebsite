@@ -15,12 +15,12 @@ description: Notes, Highlights, and Summaries of books I have read
         <div class="item-body">
           <h5><b>{{ book.title }}</b></h5>
           <p>by {{ book.author }}
-          <br> {% include svg/star.html %} {{ book.rating }} / 10</p>
+          <br>{% include svg/star.html %}{{ book.rating }} / 10</p>
         </div>
         <div class="item-footer">
-          <p class="date-card" style="margin: 0;">
+          <p class="item-date" style="margin: 0;">
             <span>{{ book.date | date_to_long_string }}</span>
-            <span class="post-footer">•</span>
+            •
             <span>
               {% assign words = book.content | number_of_words %}
               {% if words < 360 %}

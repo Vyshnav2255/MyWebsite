@@ -209,11 +209,12 @@ ul.task-list {
 .baseline-svg{
     display: inline-flex;
     align-self: center;
+    margin-right: 4px;
     svg{
         height: 1em;
         width: 1em;
         fill: currentColor;
-        top: .125em;
+        top: .12em;
         position: relative;
     }
 }

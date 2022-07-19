@@ -44,6 +44,10 @@
   @include themed(border-color, #000, $dark);
 }
 
+.svg-themed{
+  @include themed(fill, #000, #fff);
+}
+
 .text-muted{
   color: #575858 !important;
 }

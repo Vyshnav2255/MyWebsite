@@ -47,10 +47,6 @@
     text-decoration: none !important;
 }
 
-.post-footer{
-    margin: 0 0.5rem;
-}
-
 .blog-tags{
     text-transform: uppercase;
     font-size: 0.75rem;
@@ -60,4 +56,10 @@
 .item-footer{
     padding: 1rem 1.5rem;
     border-top: 1px #000 solid;
+
+    .item-date{
+        display: flex;
+        flex-direction: row;
+        gap: 1rem;
+    }
 }

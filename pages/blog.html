@@ -28,9 +28,9 @@ description: I love writing articles, and you can read all of them here
           <p>{{ blog.content | markdownify | strip_html | truncatewords: 11 }}</p>
         </div>
         <div class="item-footer">
-          <p class="date-card" style="margin: 0;">
+          <p class="item-date" style="margin: 0;">
             <span>{{ blog.date | date_to_long_string }}</span>
-            <span class="post-footer">•</span>
+            •
             <span>
               {% assign words = blog.content | number_of_words %}
               {% if words < 360 %}
