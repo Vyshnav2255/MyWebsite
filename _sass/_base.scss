@@ -64,6 +64,7 @@ h1, h2, h3, h4, h5, h6 {
 }
     :hover.btn{
         box-shadow: 0.25rem 0.25rem 0 0 black;
+        &:hover{transform: translate(-.25rem,-.25rem);}
         }
 
 .ico-btn{
@@ -217,4 +218,13 @@ ul.task-list {
         top: .12em;
         position: relative;
     }
+}
+
+.section-heading{
+    margin-bottom: 1rem;
+    font-size: 0.875rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Space Grotesk', sans-serif;
+    letter-spacing: 0.25rem;
 }

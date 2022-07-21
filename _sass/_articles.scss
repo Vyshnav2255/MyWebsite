@@ -114,21 +114,12 @@
         margin: 4rem auto;
         text-align: center;
 
-        .head{
-            margin-bottom: 1rem;
-            font-size: 0.875rem;
-            font-weight: bold;
-            text-transform: uppercase;
-            font-family: 'Space Grotesk', sans-serif;
-            letter-spacing: 0.125rem;
-        }
-
         .btn{
             background-color: transparent;
 
             svg{margin-right: 0;}
 
-            &:hover{transform: translate(-.25rem,-.25rem);svg{fill: #fff;}}
+            &:hover{svg{fill: #fff;}}
             &:hover.twitter{background-color: #1da1f2;}
             &:hover.linkedin{background-color: #007bb5;}
             &:hover.facebook{background-color: #1877f2;}

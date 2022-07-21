@@ -5,15 +5,13 @@ layout: page
 <h2><b>{{ page.title }}</b></h2>
 
 <p class="article-metadata text-muted">
-  {{ page.date | date_to_long_string }} -  
-  <b>
+  {{ page.date | date_to_long_string }} -
   {% assign words = content | number_of_words %}
   {% if words < 360 %}
-    less than 1 min read time
+  1 min read
   {% else %}
     {{ words | divided_by:200 }} mins read time
   {% endif %}
-  </b>
 
   <br>
 
@@ -42,7 +40,7 @@ layout: page
 
 <div class="relatedPosts mt-5">
 
-  <h4>Related Posts</h4>
+  <div class="section-heading">Related Posts</div>
   
   {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
