@@ -56,10 +56,28 @@
 .item-footer{
     padding: 1rem 1.5rem;
     border-top: 1px #000 solid;
+}
 
-    .item-date{
-        display: flex;
-        flex-direction: row;
-        gap: 1rem;
+.item-date{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.blog{
+    .post-grid-item{
+        border: none;
+    }
+
+    .thumbnail{
+        border: 1px #000 solid;
+        border-radius: .25rem;
+        margin-bottom: 1rem;
+    }
+
+    .blog-body{
+        p{
+            margin-bottom: .5rem;
+        }
     }
 }
