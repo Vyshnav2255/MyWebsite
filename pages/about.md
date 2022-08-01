@@ -21,19 +21,19 @@ I currently live in Kerala🌴, India. I enjoy reading books📗 and listening t
 <div class="about-sec-h text-themed">Software Skills</div>
 
 <div>
-{% include about/programs.html %}
+{% include about/software-skills.html %}
 </div>
 
-<div class="about-sec-h text-themed">Programming Skills</div>
+<div class="about-sec-h text-themed">Design Skills</div>
 
 <div>
-{% include about/programming-skills.html %}
+{% include about/design-skills.html %}
 </div>
 
-<div class="about-sec-h text-themed">Other Skills</div>
+<div class="about-sec-h text-themed">Coding Skills</div>
 
 <div>
-{% include about/other-skills.html %}
+{% include about/coding-skills.html %}
 </div>
 
 <div class="about-sec-h text-themed">Work Experience</div>
