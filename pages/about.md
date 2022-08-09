@@ -38,10 +38,10 @@ I currently live in Kerala🌴, India. I enjoy reading books📗 and listening t
 
 <div class="about-sec-h text-themed">Work Experience</div>
 <div class="row">
-    {% include about/edu-time.html %}
+    {% include about/work-timeline.html %}
 </div>
 
 <div class="about-sec-h text-themed">Education</div>
 <div class="row">
-    {% include about/timeline.html %}
+    {% include about/edu-timeline.html %}
 </div>
