@@ -1,7 +1,7 @@
 $dark-100: $dark;
 $dark-300: #2c3032;
 $dark-600: #242526;
-$dark-900: #121212;
+$dark-900: #1a1a1a;
 
 [data-theme="dark"] {
   body {
@@ -41,7 +41,7 @@ $dark-900: #121212;
 
   // Cards
   .card {
-    background-color: #121212;
+    background-color: #1a1a1a;
   }
 
   .card.border {
@@ -98,13 +98,13 @@ $dark-900: #121212;
 
 .article{
   blockquote{
-    color: #ffffff !important;
-    border-color: #ffffff;
+    color: $text-white !important;
+    border-color: $text-white;
       }
 
   a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.nav-item){
-    color: #ffffff;
-    border-color: #ffffff;
+    color: $text-white;
+    border-color: $text-white;
 
     &:hover {background: #007367;}
     }
@@ -117,7 +117,7 @@ $dark-900: #121212;
   }
   }
   .icon-svg-themed{
-    fill: #ffffff !important;
+    fill: $text-white !important;
   }
   .btn{
     background-color: #003933;
@@ -143,23 +143,23 @@ $dark-900: #121212;
 
   .wrapper-svg{
     .p-fill{fill: #003933;}
-    .p-stroke{fill: #ffffff;}
-    line{stroke: #ffffff;}
-    rect{stroke: #ffffff; fill: #121212;}
-    circle{stroke: #ffffff; fill: #121212;}
+    .p-stroke{fill: $text-white;}
+    line{stroke: $text-white;}
+    rect{stroke: $text-white; fill: #1a1a1a;}
+    circle{stroke: $text-white; fill: #1a1a1a;}
   }
 
   li{del{color: #abacae;}}
 
   .share{
     .btn{
-      border-color: #ffffff;
+      border-color: $text-white;
 
-      &:hover{box-shadow: 0.25rem 0.25rem 0 0 #ffffff}
-      svg{fill: #ffffff;}
+      &:hover{box-shadow: 0.25rem 0.25rem 0 0 $text-white}
+      svg{fill: $text-white;}
     }
   }
 
-.nav-link {&:hover{text-decoration-color: #ffffff;}}
-.nav-item.active {text-decoration-color: #ffffff;}
+.nav-link {&:hover{text-decoration-color: $text-white;}}
+.nav-item.active {text-decoration-color: $text-white;}
 }

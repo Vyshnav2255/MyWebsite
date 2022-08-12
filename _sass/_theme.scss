@@ -16,11 +16,11 @@
 .navbar-themed {
   .navbar-brand,
   .navbar-nav .nav-link.active {
-    @include themed(color, #292929, #ffffff);
+    @include themed(color, #292929, $text-white);
   }
 
   .navbar-nav .nav-link {
-    @include themed(color, rgba(#292929, 0.8), rgba(#ffffff, 0.8));
+    @include themed(color, rgba(#292929, 0.8), rgba($text-white, 0.8));
   }
 }
 
@@ -45,7 +45,7 @@
 }
 
 .svg-themed{
-  @include themed(fill, #292929, #fff);
+  @include themed(fill, #292929, $text-white);
 }
 
 .text-muted{
