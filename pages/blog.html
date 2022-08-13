@@ -27,15 +27,6 @@ description: I love writing articles, and you can read all of them here
         <div>
           <p class="item-date" style="margin: 0;">
             <span>{{ blog.date | date_to_long_string }}</span>
-            •
-            <span>
-              {% assign words = blog.content | number_of_words %}
-              {% if words < 360 %}
-              1 min
-              {% else %}
-              {{ words | divided_by:180 }} mins
-              {% endif %}
-            </span>
           </p>
         </div>
       </a>
