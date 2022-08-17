@@ -2,7 +2,7 @@
 layout: page
 ---
 <article>
-<section>
+  <header>
 <h1><b>{{ page.title }}</b></h1>
 
 <p class="article-metadata text-muted">
@@ -32,11 +32,13 @@ layout: page
   {% endif %}
 
 </p>
+</header>
 <hr>
 
+<section>
 {{ content }}
-
 </section>
+
 </article>
 {% include share.html %}
 {% include subscribe.html %}
