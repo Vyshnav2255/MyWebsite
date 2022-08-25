@@ -200,11 +200,13 @@ ul.task-list {
     padding-left: 0px;
   }
 
-.form-control{
+.form-control, .input-icon{
     border-color: #292929;
 
-    &:active{
+    &:focus{
         color: #292929;
+        background-color: #fff;
+        border-color: #28bca3;
     }
 }
 

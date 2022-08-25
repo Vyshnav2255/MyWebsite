@@ -1,4 +1,4 @@
-$dark-100: $dark;
+$dark-100: #666666;
 $dark-300: #2c3032;
 $dark-600: #242526;
 $dark-900: #1a1a1a;
@@ -24,7 +24,7 @@ $dark-900: #1a1a1a;
   }
 
   // Inputs
-  input {
+  input,.input-icon{
     background-color: $dark-300;
     border-color: $dark-100;
     color: $dark-900;
@@ -34,7 +34,7 @@ $dark-900: #1a1a1a;
     }
 
     &:focus {
-      background-color: $dark-600;
+      background-color: $dark-300;
       color: $text-white;
     }
   }
