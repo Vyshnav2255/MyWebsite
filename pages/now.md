@@ -15,9 +15,11 @@ description: What I’m doing now
 </span>
 </div>
 
+🧲 [Open to Work](mailto:hi@vyshnav.xyz)
+
 ✏️ Creating [Visuals](/visuals)
 
-🧠 Learning Blender & UI/UX Design
+🧠 Learning [Blender](/3d) & UI/UX Design
 
 🚧 Redesigning [this website](https://twitter.com/vyshnav_xyz/status/1522571627137019904?s=20&t=40-J7KZrUif_am3iDnwCPw)
 
@@ -25,6 +27,6 @@ description: What I’m doing now
 
 ✍️ Writing [Sunday Summary](https://newsletter.vyshnav.xyz/) newsletter
 
-📚 Reading {% for item in site.data.books %}[{{ item.name }}]({{ item.link }}){% endfor %}
+📚 Reading User Friendly
 
 📍 Living in Kerala, India
