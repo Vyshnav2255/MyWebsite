@@ -1,7 +1,8 @@
 ---
 layout: page
 ---
-
+<article>
+  <header>
 <h2><b>{{ page.title }}</b></h2>
 
 <p class="article-metadata text-muted">
@@ -23,19 +24,15 @@ layout: page
     </a>
     {% endfor %}
   {% endif %}
-
-  <br>
-
-  {% if page.rating %}
-  ⭐ {{ page.rating }} ({{ page.review }})
-  {% endif %}
-
 </p>
+</header>
 
 <img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
 
 {{ content }}
+</section>
 
+</article>
 {% include share.html %}
 <hr>
 {% include related.html %}

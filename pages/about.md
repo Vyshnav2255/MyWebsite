@@ -14,8 +14,8 @@ Hi👋, Nice to meet you😊
 I currently live in Kerala🌴, India. I enjoy reading books📗 and listening to podcasts🎙️. I love creating creative content✨, and you can find most of my works here. See what I’m doing [now](/now).
 
 <p class="text-center" style="margin-bottom: 2rem; margin-top: 2rem;">
-{% include elements/iconbtn.html link="mailto:hi@vyshnav.xyz" text="Say hello!" icon="chat" %}
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
+{% include elements/button.html link="mailto:hi@vyshnav.xyz" text="Say hello!" icon="chat" %}
+{% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
 
 <div class="about-sec-h text-themed">Software Skills</div>

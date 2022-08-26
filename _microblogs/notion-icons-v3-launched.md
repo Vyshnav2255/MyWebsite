@@ -15,6 +15,6 @@ I highly recommend you to check out the "[Get Started](https://notionv3.vyshnav.
 If you like this icon pack, please consider supporting me on Buy Me a Coffee. Your small support can help me make such free and awesome icon packs in the future.
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://notionv3.vyshnav.xyz/" text="Go to Website" icon="link" %}
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
+{% include elements/button.html link="https://notionv3.vyshnav.xyz/" text="Go to Website" icon="link" %}
+{% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
