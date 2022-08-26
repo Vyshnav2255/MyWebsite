@@ -27,7 +27,10 @@ layout: page
 </p>
 </header>
 
+<section style="margin-top: 2rem;">
+{% if page.preview == image %}
 <img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
+{% endif %}
 
 {{ content }}
 </section>
