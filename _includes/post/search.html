@@ -1,10 +1,9 @@
-<div class="input-group" style="margin: 3rem 0 2rem 0; padding: 0 1rem;">
-  <span class="input-icon">{% include svg/search.html %}</span>
-  <input style="height: inherit; margin-right: .5rem; border-radius: 0 .25rem .25rem 0; border-left: 0;" id="search-input" type="text" class="form-control search-box" placeholder="Search posts, tags..">
-  <button class="btn" aria-label="rss" style="margin-right: 0;" onclick="location.href = '{{ '/feed.xml' | relative_url }}';">
+<span class="input-group" style="margin: 3rem 0 2rem 0; padding: 0 1rem;">
+  <input style="height: 43.3167px; margin-right: .5rem; border-radius: .25rem;" id="search-input" type="text" class="form-control search-box" placeholder="Search posts, tags..">
+  <button class="btn" aria-label="rss" style="margin: 0;" onclick="location.href = '{{ '/feed.xml' | relative_url }}';">
     {% include svg/rss.html %}
   </button>
-</div>
+</span>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script type="text/javascript">
@@ -17,13 +16,3 @@
   });
 });
 </script>
-
-<style>
-  .input-icon{
-    border: 1px solid;
-    border-right: 0;
-    border-radius: 0.25rem 0 0 0.25rem;
-    padding: 0.5rem 1rem;
-    margin-right: -1rem;
-  }
-</style>
