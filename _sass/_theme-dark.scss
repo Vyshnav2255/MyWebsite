@@ -89,11 +89,11 @@ $dark-900: #1a1a1a;
 }
 
 .text-muted{
-  color: rgba(235,240,251,0.85) !important;
+  color: #abacae !important;
 }
 
 .social{
-  color: #ebf0fbd9 !important;
+  color: #abacae !important;
 }
 
 .article{
@@ -111,14 +111,16 @@ $dark-900: #1a1a1a;
   }
 
   .social-icon{
-    fill: #ebf0fbd9 !important;
+    fill: #abacae !important;
     &:hover{
       fill: #43d6b5 !important;
   }
   }
+
   .icon-svg-themed{
     fill: $text-white !important;
   }
+
   .btn{
     background-color: #003933;
     border-color: #89ffdd;
