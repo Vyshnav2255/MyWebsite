@@ -1,17 +1,16 @@
 .timeline-body {
 	position: relative;
-	font-size: 14px;
+	font-size: 0.875rem;
     
 	.timeline-item {
         position: relative;
         
 		.content {
-			margin-left: 32px;
+			margin-left: 2rem;
+		}
 
-            .date {
-                margin-top: -5px;
-                color: #7e8087;
-            }
+		.date {
+			letter-spacing: 1px;
 		}
 	}
 }

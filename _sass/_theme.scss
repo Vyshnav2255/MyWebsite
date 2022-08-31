@@ -16,11 +16,11 @@
 .navbar-themed {
   .navbar-brand,
   .navbar-nav .nav-link.active {
-    @include themed(color, $text-black, $text-white);
+    @include themed(color, #000, #ffffff);
   }
 
   .navbar-nav .nav-link {
-    @include themed(color, rgba($text-black, 0.5), rgba($text-white, 0.5));
+    @include themed(color, rgba(#000, 0.8), rgba(#ffffff, 0.8));
   }
 }
 
@@ -32,8 +32,20 @@
   @include themed(background-color, $light, $dark);
 }
 
-.nav-item{
-  color: #4d4d4d !important;
+.post-grid-item{
+  @include themed(border-color, #000, $dark);
+}
+
+.item-footer{
+  @include themed(border-color, #000, $dark);
+}
+
+.thumbnail{
+  @include themed(border-color, #000, $dark);
+}
+
+.svg-themed{
+  @include themed(fill, #000, #fff);
 }
 
 .text-muted{

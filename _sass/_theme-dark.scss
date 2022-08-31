@@ -96,10 +96,6 @@ $dark-900: #121212;
   color: #ebf0fbd9 !important;
 }
 
-.nav-item{
-  color: rgba(235,240,251,0.85) !important;
-}
-
 .article{
   blockquote{
     color: #ffffff !important;
@@ -110,9 +106,7 @@ $dark-900: #121212;
     color: #ffffff;
     border-color: #ffffff;
 
-    &:hover {
-      background: #007367;
-      }
+    &:hover {background: #007367;}
     }
   }
 
@@ -127,55 +121,45 @@ $dark-900: #121212;
   }
   .btn{
     background-color: #003933;
-    border-color: #ffffff;
-    color: #ffffff;
+    border-color: #89ffdd;
+    color: #89ffdd;
     
     svg{
-      fill: #ffffff;
+      fill: #89ffdd;
     }
     }
     :hover.btn{
-      box-shadow: 4px 4px 0 0 white;
+      box-shadow: 0.25rem 0.25rem 0 0 #89ffdd;
         }
     
   .badge {
     background-color: #003933;
     color: #89ffdd;
 
-    &:hover{
-      background-color: #0e9a83;
-      }
+    &:hover{background-color: #0e9a83;}
     }
   
-  hr{
-    background: #666666;
-  }
-
-  .work-toggle{
-    border-color: #ffffff;
-  }
+  hr{background: #666666;}
 
   .wrapper-svg{
-    .p-fill{
-      fill: #003933;
-    }
-    .p-stroke{
-      fill: #ffffff;
-    }
-    line{
-      stroke: #ffffff;
-    }
-    rect{
-      stroke: #ffffff;
-      fill: #121212;
-    }
-    circle{
-      stroke: #ffffff;
-      fill: #121212;
+    .p-fill{fill: #003933;}
+    .p-stroke{fill: #ffffff;}
+    line{stroke: #ffffff;}
+    rect{stroke: #ffffff; fill: #121212;}
+    circle{stroke: #ffffff; fill: #121212;}
+  }
+
+  li{del{color: #abacae;}}
+
+  .share{
+    .btn{
+      border-color: #ffffff;
+
+      &:hover{box-shadow: 0.25rem 0.25rem 0 0 #ffffff}
+      svg{fill: #ffffff;}
     }
   }
 
-  li{
-    del{color: #abacae;}
-  }
+.nav-link {&:hover{text-decoration-color: #ffffff;}}
+.nav-item.active {text-decoration-color: #ffffff;}
 }
