@@ -21,11 +21,11 @@ I will be updating this list regularly.
 
 - Read 100 books
 - Change 1 Person’s Life For The Better
-- Buy a Kindle reader
-- Buy an iPad
-- Buy a MacBook
-- Buy an Apple Watch
-- Buy an iPhone
+- Own a Kindle reader
+- Own an iPad
+- Own a MacBook
+- Own an Apple Watch
+- Own an iPhone
 - Give a TEDx Talk
 - Attend an Apple Event
 - Spend one week without phone
@@ -40,18 +40,19 @@ I will be updating this list regularly.
 
 - Work in a Remote Company
 - Get 100,000 blog visits, all time
-- ~~Start a newsletter~~ ([24 Aug 2021](/microblog/launched-my-newsletter))
-    - ~~Gain 100 subscribers~~ ([20 May 2022](https://twitter.com/vyshnav_xyz/status/1527575463111032832?s=20&t=vO25_QzuHjnsV5tIsUnKJQ))
+- ~~Start a newsletter~~ ([Aug 24, 2021](/microblog/launched-my-newsletter))
+    - ~~Gain 100 subscribers~~ ([May 20, 2022](https://twitter.com/vyshnav_xyz/status/1527575463111032832))
     - Gain 200 subscribers
 - Start a podcast
 - Write a book
 - Write 100 blog posts
-- ~~Gain 500 Twitter followers~~ ([07 Mar 2022](https://twitter.com/vyshnav_xyz/status/1500835594146045956?s=20&t=FnJ5ABgt-1QFaIgl42AuaA))
-    - ~~Gain 1,000 followers~~ ([24 Apr 2022](https://twitter.com/vyshnav_xyz/status/1518463933513830401?s=20&t=o38NqSJSesag_iC3WFmy4w))
+- ~~Gain 500 Twitter followers~~ ([Mar 07, 2022](https://twitter.com/vyshnav_xyz/status/1500835594146045956))
+    - ~~Gain 1,000 followers~~ ([Apr 24, 2022](https://twitter.com/vyshnav_xyz/status/1518463933513830401))
     - Gain 2,000 followers
-- ~~Make $1000 from Buy me a Coffee~~ ([28 Sept 2021](/microblog/made-my-first-1000-on-the-internet))
+- ~~Make $1000 from Buy me a Coffee~~ ([Sept 28, 2021](/microblog/made-my-first-1000-on-the-internet))
     - Make $2000
-- Make $1000 from Gumroad
+- ~~Make $1000 from Gumroad~~ ([Aug 13, 2022](https://twitter.com/vyshnav_xyz/status/1558318494969733121))
+    - Make $10,000
 - Gain 500 Supporters - Buy Me a Coffee
 
 ##### 🎨 Creative Goals
