@@ -13,7 +13,6 @@ description: List of useful links and pages
 * 💎 [Goals](/goals)
 * 🎯️ [My Impossible List](/impossible-list)
 * ✒️ [Microblog](/microblog/)
-* 🎙️ [Podcast Recommendations](/podcast-recommendations)
 
 ##### Side Projects
 * 🚧 [Lockscreen Tasks](https://twitter.com/vyshnav_xyz/status/1479787683417366531?t=O_Ak3pqzN3FH1UJlj6L_tw&s=19) (In progress)
