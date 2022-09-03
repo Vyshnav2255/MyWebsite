@@ -39,8 +39,8 @@
 
     a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.video-img):not(.p-hunt)  {
         text-decoration: none;
-        color: #292929;
-        border-bottom: 1px solid black;
+        color: #333333;
+        border-bottom: 1px solid #333333;
 
         &:hover { 
             background: #89ffdd;
@@ -72,8 +72,8 @@
     }
 
     blockquote {
-        border: 1px solid #292929;
-        color: #292929;
+        border: 1px solid #333333;
+        color: #333333;
         font-size: 1.12rem;
         font-style: italic;
         padding: 1rem;

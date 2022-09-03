@@ -1,14 +1,13 @@
 body {
     font-family: 'DM Sans', sans-serif;
-    color: #292929;
+    color: #333333;
 }
 
 .badge {
     font-weight: 500;
     background-color: #89ffdd;
-    color: #292929;
+    color: #333333;
     font-size: 85%;
-    border: 1px #000 solid;
 }
 
 #container {
@@ -94,10 +93,10 @@ ul.task-list {
   }
 
 .form-control{
-    border-color: #292929;
+    border-color: #333333;
 
     &:focus{
-        color: #292929;
+        color: #333333;
         background-color: #fff;
         border-color: #28bca3;
     }
