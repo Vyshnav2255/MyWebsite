@@ -2,24 +2,14 @@
 layout: page
 ---
 <article>
+  {% include post-tag.html %}
   <header>
-<h1>{{ page.title }}</h1>
+<h1 style="margin-top: 1rem;">{{ page.title }}</h1>
 
 <p class="article-metadata text-muted">
     by <b>{{ page.author }}</b>
     <br>
     {{ page.date | date: "%B %d, %Y" }}
-
-
-    •
-
-  {% if page.tags != empty %}
-    Genre: 
-    {% for tag in page.tags %}
-      <span class="tag badge badge-pill">{{ tag }}</span>
-    {% endfor %}
-  {% endif %}
-
   • 🌟 {{ page.rating }} / 10
 
   <br>

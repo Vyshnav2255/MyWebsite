@@ -3,11 +3,11 @@ body {
     color: #333333;
 }
 
-.badge {
-    font-weight: 500;
-    background-color: #89ffdd;
-    color: #333333;
-    font-size: 85%;
+.post-tag {
+    color: #0e9a83;
+    &:hover {
+        color: #007367;
+    }
 }
 
 #container {
