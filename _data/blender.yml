@@ -1,6 +1,10 @@
-- name: Avengers Headquarters
+- name: Avengers Headquarters - Night
+  url: https://twitter.com/vyshnav_xyz/status/1568605865338445826
+  image: /Images/3d/Avengers Headquarters - Night.png
+
+- name: Avengers Headquarters - Day
   url: https://twitter.com/vyshnav_xyz/status/1567873189312712708
-  image: /Images/3d/Avengers Headquarters.png
+  image: /Images/3d/Avengers Headquarters - Day.png
 
 - name: Low Poly Witch's Brew
   url: https://twitter.com/vyshnav_xyz/status/1559493021372235776
