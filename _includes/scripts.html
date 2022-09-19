@@ -1,4 +1,4 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
 <script title="BMC-Widget" data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="vyshnav" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. You can now buy me a coffee!" data-color="#40DCA5" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
@@ -12,3 +12,22 @@
 
   gtag('config', 'UA-142301295-3');
 </script>
+
+<script>
+  function share() {
+  
+    if (navigator.share) {
+      navigator.share({
+        title: "{{ page.title }}",
+        text: "{{ page.description }}",
+        url: "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
+      })
+      .catch((error) => console.log("Error sharing", error));
+  
+      return false;
+    } else {
+      console.log("Sharing not supported; falling back to link");
+      return true;
+    }
+  }
+  </script>

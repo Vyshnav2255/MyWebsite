@@ -25,6 +25,6 @@ Remember, take it slowly. And never miss two days in a row. And don't feel bad a
 The template and PDF are FREE. You can get it from my Buy Me a Coffee page or click the below links to get your copy.
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://shop.vyshnav.xyz/l/cYwoB" text="Duplicate Template" icon="copy" %}
-{% include elements/iconbtn.html link="https://shop.vyshnav.xyz/l/HUJIH" text="Download PDF" icon="file" %}
+{% include elements/button.html link="https://shop.vyshnav.xyz/l/cYwoB" text="Duplicate Template" icon="copy" %}
+{% include elements/button.html link="https://shop.vyshnav.xyz/l/HUJIH" text="Download PDF" icon="file" %}
 </p>

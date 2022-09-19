@@ -1,14 +1,13 @@
 body {
-    font-family: 'DM Sans', sans-serif;
-    color: #000000;
+    font-family: 'Inter', sans-serif;
+    color: #333333;
 }
 
-.badge {
-    font-weight: 500;
-    background-color: #89ffdd;
-    color: #000000;
-    font-size: 85%;
-    border: 1px #000 solid;
+.post-tag {
+    color: #0e9a83;
+    &:hover {
+        color: #007367;
+    }
 }
 
 #container {
@@ -42,34 +41,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'DM Sans', sans-serif;
-}
-
-
-.btn{
-    margin: 0 0.25rem;
-    background-color: #89ffdd;
-    border-color: #000000;
-    color: #000000;
-    cursor: pointer;
-    border-radius: 0.25rem;
-    padding: 0.5rem 1rem;
-    font-family: 'DM Sans', sans-serif;
-    font-weight: 500;
-    transition: all .14s ease-out;
-
-    svg{
-        fill: #000000;
-        margin-right: 0.5rem;
-    }
-}
-    :hover.btn{
-        box-shadow: 0.25rem 0.25rem 0 0 black;
-        &:hover{transform: translate(-.25rem,-.25rem);}
-        }
-
-.ico-btn{
-    margin: 0.25rem;
+    font-family: 'Inter', sans-serif;
 }
 
 .dot{
@@ -84,55 +56,6 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 1rem;
     text-align: center;
 }
-}
-
-.about-sec-h{
-    font-size: 0.875rem;
-    font-weight: bold;
-    color: #242424;
-    margin-top: 2rem;
-    margin-bottom: 0px;
-    text-transform: uppercase;
-    display: grid;
-    grid-template-columns: auto minmax(20px, 1fr);
-    gap: 0.75rem;
-    align-items: center;
-    font-family: 'DM Sans', sans-serif;
-    letter-spacing: 2px;
-
-    &::after{
-        content: '';
-        border-top: 1px dashed grey;
-    }
-}
-
-.about-pills{
-    padding: 1rem 0;
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.about-pill{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    padding: .5rem .75rem;
-    font-size: 0.875rem;
-    border-radius: 2rem;
-    border: 1px solid gray;
-    margin: .25rem .5rem .25rem 0;
-    transition: all .2s ease-in-out!important;
-
-    img{
-        width: 1.875rem;
-        height: 1.875rem;
-        display: inline;
-        border-radius: 3rem;
-        margin-right: .25rem;
-        margin-top: 0 !important;
-        margin-bottom: 0 !important;
-    }
 }
 
 .col-lg-10{
@@ -164,47 +87,25 @@ small{
   box-sizing: border-box;
 }
 
-span.live-icon{
-    display: inline-block;
-    position: relative;
-    background-color: red;
-    width: 0.625rem;
-    height: 0.625rem;
-    margin-right: 0.375rem;
-    border-radius: 50%;
-    z-index: 1;
-    &:before{
-      content: '';
-      display: block;
-      position: absolute;
-      background-color: rgba(red,.6);
-      width: 100%;
-      height: 100%;
-      border-radius: 50%;
-      animation: live 2s ease-in-out infinite;
-      z-index: -1;
-    }
-  }
-@keyframes live {
-  0% {
-    transform: scale(1,1);
-  }
-  100% {
-    transform: scale(3.5,3.5);
-    background-color: rgba(red,0);
-  }
-}
-
 ul.task-list {
     list-style: none;
     padding-left: 0px;
   }
 
 .form-control{
-    border-color: #000000;
+    border-color: #333333;
 
-    &:active{
-        color: #000000;
+    &:focus{
+        color: #333333;
+        background-color: #fff;
+        border-color: #28bca3;
+    }
+}
+
+.search-bar{
+    input{
+        padding: .75rem 1rem .75rem 3rem;
+        background: url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 192 192' fill='%23292929' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M87 30C55.5198 30 30 55.5198 30 87C30 118.48 55.5198 144 87 144C118.48 144 144 118.48 144 87C144 55.5198 118.48 30 87 30ZM18 87C18 48.8924 48.8924 18 87 18C125.108 18 156 48.8924 156 87C156 103.894 149.929 119.369 139.849 131.364L172.243 163.757C174.586 166.101 174.586 169.899 172.243 172.243C169.899 174.586 166.101 174.586 163.757 172.243L131.364 139.849C119.369 149.929 103.894 156 87 156C48.8924 156 18 125.108 18 87Z'/%3E%3C/svg%3E") no-repeat 16px center;
     }
 }
 
@@ -226,6 +127,13 @@ ul.task-list {
     font-size: 0.875rem;
     font-weight: bold;
     text-transform: uppercase;
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
     letter-spacing: 0.25rem;
+}
+
+.resources{
+    ul{
+        list-style: none;
+        padding-left: 0px;
+    }
 }

@@ -1,0 +1,41 @@
+- name: Links
+  date: 2022 - Present
+  description: All your links in one place
+  image: /Images/works/links.png
+  url: https://twitter.com/vyshnav_xyz/status/1555560772884897797
+
+- name: Lockscreen Tasks
+  date: 🚧 In progress
+  description: See your tasks list on your lock screen
+  image: /Images/works/lstw.png
+  url: https://twitter.com/vyshnav_xyz/status/1479787683417366531
+
+- name: Blender Projects
+  date: 2022 - Present
+  description: All my Blender projects in one place
+  image: /Images/3d/Low Poly Treasure Chest.png
+  url: /3d
+
+- name: Notion Icons 5.0
+  date: 2022
+  description: Feather Icons for your Notion workspace
+  image: /Images/works/niv5.png
+  url: https://notionv5.vyshnav.xyz/
+
+- name: Sunday Summary
+  date: 2021 - Now
+  description: My weekly newsletter where I write about things I created, enjoyed, and discovered that week
+  image: /Images/works/ss.png
+  url: https://newsletter.vyshnav.xyz/
+
+- name: Figma Community
+  date: Present
+  description: Works published on my Figma Community page
+  image: /Images/works/fig.png
+  url: https://www.figma.com/@vyshnav
+
+- name: Dribbble Shots
+  date: Present
+  description: UI design, Illustrations, Logo Design, etc.
+  image: /Images/works/dribb.png
+  url: https://dribbble.com/vyshnav_

@@ -1,86 +1,36 @@
 ---
 layout: page
 ---
-
-<h2><b>{{ page.title }}</b></h2>
+<article>
+  {% include post-tag.html %}
+  <header>
+<h1 style="margin-top: 1rem;">{{ page.title }}</h1>
 
 <p class="article-metadata text-muted">
-  {{ page.date | date_to_long_string }} -  
-  <b>
+  {{ page.date | date_to_long_string }} -
   {% assign words = content | number_of_words %}
   {% if words < 360 %}
-    less than 1 min read time
+  1 min read
   {% else %}
     {{ words | divided_by:200 }} mins read time
   {% endif %}
-  </b>
-
-  <br>
-
-  {% if page.tags != empty %}
-    Tags: 
-    {% for tag in page.tags %}
-    <a class="text-decoration-none no-underline" href="{{ tag | slugify | prepend:'/blog/tags#' | relative_url }}">
-      <span class="tag badge badge-pill">{{ tag }}</span>
-    </a>
-    {% endfor %}
-  {% endif %}
-
-  <br>
-
-  {% if page.rating %}
-  ⭐ {{ page.rating }} ({{ page.review }})
-  {% endif %}
-
 </p>
+</header>
 
+<section style="margin-top: 2rem;">
+{% if page.preview == image %}
 <img src="{{ page.image }}" alt="{{ page.title }}" title="{{ page.title }}">
+{% endif %}
 
 {{ content }}
+</section>
 
-<div class="dot"></div>
-
-<div class="relatedPosts mt-5">
-
-  <h4>Related Posts</h4>
-  
-  {% assign maxRelated = 4 %}
-  {% assign minCommonTags =  1 %}
-  {% assign maxRelatedCounter = 0 %}
-  
-    {% for blog in site.blogs reversed %}
-  
-      {% assign sameTagCount = 0 %}
-      {% assign commonTags = '' %}
-  
-      {% for tag in blog.tags %}
-        {% if blog.url != page.url %}
-          {% if page.tags contains tag %}
-            {% assign sameTagCount = sameTagCount | plus: 1 %}
-            {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
-            {% assign commonTags = commonTags | append: tagmarkup %}
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-  
-      {% if sameTagCount >= minCommonTags %}
-        <div>
-        <li><a href="{{ blog.url }}">{{ blog.title }}</a>
-          <small class="text-muted"> - {{ blog.date | date_to_long_string }}</small></li>
-        </div>
-        {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-        {% if maxRelatedCounter >= maxRelated %}
-          {% break %}
-        {% endif %}
-      {% endif %}
-  
-    {% endfor %}
-  
-</div>
-
+</article>
 {% include share.html %}
+<hr>
+{% include related.html %}
 {% include subscribe.html %}
 
-<div class="dot"></div>
+<hr>
 
 {% include feedback.html %}

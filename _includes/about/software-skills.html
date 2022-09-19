@@ -1,0 +1,5 @@
+<div class="about-pills">
+    {% for item in site.data.software-skills %}
+    <span class="about-pill"><img src="{{ item.logo }}" alt="{{ item.name }}">{{ item.name }}</span>
+    {% endfor %}
+</div>

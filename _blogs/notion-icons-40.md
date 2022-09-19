@@ -22,6 +22,6 @@ Currently the **pack contains 272 icons**. All icons are **available in 8 differ
 
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://shop.vyshnav.xyz/l/sbnnb" text="Download Here" icon="download" %}
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
+{% include elements/button.html link="https://shop.vyshnav.xyz/l/sbnnb" text="Download Here" icon="download" %}
+{% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>

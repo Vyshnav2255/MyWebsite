@@ -23,8 +23,8 @@ And guys it also supports Notion **dark mode**.
 
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://notionv2.vyshnav.xyz/" text="Go to Website" icon="link" %}
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
+{% include elements/button.html link="https://notionv2.vyshnav.xyz/" text="Go to Website" icon="link" %}
+{% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
 
 <p class="text-center">

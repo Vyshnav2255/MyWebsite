@@ -1,8 +1,7 @@
 ### Site Settings ###
 title               : Vyshnav Gangadharan
 description         : >-                               # >- means to ignore newlines until "url:"
-                      An engineer who loves
-                      Graphics Designing, Film making, Video editing & Coding.
+                      A UI/UX designer who loves Coding, Illustrating & creating 3D stuff
 
 url                 : "https://vyshnav.xyz/"                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
@@ -15,12 +14,11 @@ author:
   Twitter           : vyshnav_xyz
   Dribbble          : vyshnav_
 #  behance           : vyshnav_g
-# email             : vyshnav003@gmail.com
   Github            : Vyshnav2255
   Figma             : vyshnav
   Linkedin          : vyshnav-gangadharan
 #  goodreads         : vyshnav
-  Bio.link          : vyshnav
+  Bio.link          : 
 
 
 ### Collections ###
@@ -73,13 +71,12 @@ plugins:
 
 sass:
     style: compressed
-
-url: "https://vyshnav.xyz" # the base hostname & protocol for your site
   
 ### Exclude from processing ###
 exclude:
-- README.md
-- CONTRIBUTING.md
-- LICENSE
-- Gemfile
-- Gemfile.lock
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor

@@ -1,0 +1,7 @@
+{% if page.tags != empty %}
+    {% for tag in page.tags %}
+    <a class="text-decoration-none no-underline section-heading post-tag" style="margin: 0;" href="{{ tag | slugify | prepend:'/blog/tags#' | relative_url }}">
+      {{ tag }}
+    </a>
+    {% endfor %}
+{% endif %}

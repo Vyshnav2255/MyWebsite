@@ -1,47 +1,35 @@
 ---
 layout: page
 ---
+<article>
+  <header>
+<h1 style="margin-top: 1rem;">{{ page.title }}</h1>
 
-<h2><b>{{ page.title }}</b></h2>
-
-<div class="article-metadata text-muted">
+<p class="article-metadata text-muted">
     by <b>{{ page.author }}</b>
     <br>
     {{ page.date | date: "%B %d, %Y" }}
+  • 🌟 {{ page.rating }} / 10
 
-  • <div class="icon-baseline">
-      <svg class="rating svg-muted" xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="#575858" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect>
-      <path d="M239.2,97.4A16.4,16.4,0,0,0,224.6,86l-59.4-4.1-22-55.5A16.4,16.4,0,0,0,128,16h0a16.4,16.4,0,0,0-15.2,10.4L90.4,82.2,31.4,86A16.5,16.5,0,0,0,16.8,97.4,16.8,16.8,0,0,0,22,115.5l45.4,38.4L53.9,207a18.5,18.5,0,0,0,7,19.6,18,18,0,0,0,20.1.6l46.9-29.7h.2l50.5,31.9a16.1,16.1,0,0,0,8.7,2.6,16.5,16.5,0,0,0,15.8-20.8l-14.3-58.1L234,115.5A16.8,16.8,0,0,0,239.2,97.4Z"></path>
-      </svg>
-    </div>
-   {{ page.rating }} 
-   
-   <span>•</span>
+  <br>
+  ⏳
+  {% assign words = content | number_of_words %}
+  {% if words < 360 %}
+  1 min read time
+  {% else %}
+  {{ words | divided_by:180 }} mins read time
+  {% endif %}
 
-{% include read-time.html %}
-
-  </div>
-
+</p>
+</header>
 <hr>
 
+<section>
 {{ content }}
+</section>
 
-
+</article>
 {% include share.html %}
 {% include subscribe.html %}
-<div class="dot"></div>
+<hr>
 {% include feedback.html %}
-
-<style>
-  .icon-baseline{
-    display: inline-flex;
-  }
-  .rating{
-    top: .125em;
-    position: relative;
-    align-self: center;
-    height: 1em;
-    width: 1em;
-    margin-right: .25rem;
-  }
-</style>

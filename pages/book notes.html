@@ -10,15 +10,17 @@ description: Notes, Highlights, and Summaries of books I have read
 <div class="post-grid mt-5">
   {% for book in site.books reversed %}
     <div class="post-grid-item">
-      <a href="{{ book.url }}" class="project card text-themed" style="text-decoration: none !important;" >
+      <a href="{{ book.url }}" class="project text-themed" >
         <img class="thumbnail" src="{{ book.image }}" alt="{{ book.title }}" loading="lazy"/>
-        <div class="card-body">
-          <h5 class="card-title text-themed"><b>{{ book.title }}</b></h5>
-          <p class="card-text text-muted">by {{ book.author }}
-          <br> 🌟 {{ book.rating }} / 10</p>
-          <p class="date-card text-muted" style="margin: 0;">
+        <div class="item-body">
+          <h5><b>{{ book.title }}</b></h5>
+          <p>by {{ book.author }}
+          <br>{% include svg/star.html %}{{ book.rating }} / 10</p>
+        </div>
+        <div class="item-footer">
+          <p class="item-date" style="margin: 0;">
             <span>{{ book.date | date_to_long_string }}</span>
-            <span class="post-footer">•</span>
+            •
             <span>
               {% assign words = book.content | number_of_words %}
               {% if words < 360 %}

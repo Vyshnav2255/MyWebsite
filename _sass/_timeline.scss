@@ -1,16 +1,13 @@
 .timeline-body {
 	position: relative;
-	font-size: 0.875rem;
     
 	.timeline-item {
         position: relative;
+		margin-bottom: .5rem;
         
 		.content {
 			margin-left: 2rem;
-		}
-
-		.date {
-			letter-spacing: 1px;
+			margin-bottom: .5rem;
 		}
 	}
 }

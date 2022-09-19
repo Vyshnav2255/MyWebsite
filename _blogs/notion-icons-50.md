@@ -15,6 +15,6 @@ The wait is finally over. My new FREE icon pack for Notion is now released. It's
 Check out the 🧭**Get started** page for using this website more efficiently.
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://notionv5.vyshnav.xyz/" text="Go to Website" icon="link" %}
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
+{% include elements/button.html link="https://notionv5.vyshnav.xyz/" text="Go to Website" icon="link" %}
+{% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>

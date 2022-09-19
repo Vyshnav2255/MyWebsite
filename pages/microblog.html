@@ -8,7 +8,7 @@ image: /assets/card.png
 <div style="margin-top: 6rem;">
     {% for microblog in site.microblogs reversed %}
     <h4 class="card-title"><b>{{ microblog.title }}</b></h4>
-    <p class="text-muted" style="margin-top: -10px; font-size: 0.85rem;">{{ microblog.date | date_to_long_string }}
+    <p class="text-muted" style="margin-top: -0.625rem; font-size: 0.85rem;">{{ microblog.date | date_to_long_string }}
         {% if microblog.category %} - {{ microblog.category }}
         {% endif %}
     </p>

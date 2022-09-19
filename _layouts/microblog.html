@@ -2,7 +2,7 @@
 layout: page
 ---
 <div class="mb-5" style="margin-top: 4rem;">
-<h2><b>{{ page.title }}</b></h2>
+<h1>{{ page.title }}</h1>
 <p class="article-metadata text-muted">
     {{ page.date | date_to_long_string }}
     {% if page.category %} - <a class="text-decoration-none no-underline" href="{{ page.category | slugify }}">{{ page.category }}</a>

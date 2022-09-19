@@ -7,7 +7,7 @@ external_url:
 date: 2020-07-01
 layout: post
 ---
-I know most of you might be facing difficulties in this lockdown period, and many are just using this time to just watch movies or play games. This is the perfect time to invest in yourself to build some good habits and to learn new skills. This article will help you to do that. And I know many of you might be depressed during this time thinking about the future and don't worry use this time efficiently by building these habits, it will help you a lot after this period.
+I know everyone faces many difficulties in this lockdown period, and many are just using this time to watch movies and play games. This is the perfect time to invest in yourself to build some good habits and to learn new skills. This article will help you to do it. And I know many of you will be profoundly depressed during this time thinking about the future and don't worry use this time efficiently by building these habits, it will help you a lot after this period.
 
 It will take 30 days to develop any habit and use the 2-day rule. It means don't skip your habits two days in a row because there is a high chance you will also skip the third day, and so on. Doing this will make creating that habit a failure, so keep this in mind. I don't want you to implement all these habits in one day. Take it slowly and be consistent.
 
@@ -27,7 +27,7 @@ Try to wake up in the morning around 6 am as it can help you to be more producti
 
 ### 2. Drink a glass of water
 
-Immediately after brushing your teeth, drink a glass of water. Drinking water first thing in the morning quickly helps you rehydrate, as you were sleeping for 6-8 hours all the water in your body is lost during this time. Try using lemon water or add some other ingredient to it. Drinking lemon water has many advantages.
+Immediately after brushing your teeth, drink a glass of water. Drinking water first thing in the morning quickly helps you rehydrate, as you are sleeping for 6-8 hours. All the water in your body is lost during this time. Try using lemon water or add some other ingredient to it. Drinking lemon water has many advantages.
 
 - Energizes your Body
 - Improves the Skin
@@ -40,7 +40,7 @@ Immediately after brushing your teeth, drink a glass of water. Drinking water fi
 
 ### 3. Workout
 
-Try to work out for 30 minutes. It will make you more energetic throughout the day. It helps you to focus on your task. It helps you lose weight. If you can't do big workouts, at least go for a walk or do cycling for 30 minutes. If you are lazy or don't have the mood to do anything, a 1-minute workout is excellent. Do some pushups or pullups.
+Try to work out for 30 minutes. It will make you more energetic throughout the day. It helps you to focus on your task. It helps you lose weight. If you can't do big workouts, at least walk or go cycling for 30 minutes. If you are lazy or don't have the mood to do anything, a 1-minute workout is excellent. Do some pushups or pullups.
 
 ![alt text](/Images/Blog/9989-3.png "4")
 

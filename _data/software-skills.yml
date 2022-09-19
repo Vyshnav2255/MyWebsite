@@ -1,0 +1,20 @@
+- name: Figma
+  logo: /Images/Skills/figma.svg
+
+- name: DaVinci Resolve
+  logo: /Images/Skills/DaVinci Resolve.png
+
+- name: Blender
+  logo: /Images/Skills/blender.png
+
+- name: Photoshop
+  logo: /Images/Skills/photoshop.svg
+
+- name: Premiere Pro
+  logo: /Images/Skills/pr.svg
+
+- name: After Effects
+  logo: /Images/Skills/aftereffects.svg
+
+- name: Final Cut Pro
+  logo: /Images/Skills/fcp.png

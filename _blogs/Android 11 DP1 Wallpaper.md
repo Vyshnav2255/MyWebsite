@@ -15,6 +15,6 @@ This pack contains 7 wallpapers.
 These wallpaper are made in 4K resolution. I have tested these wallpapers on many devices and had no issues, they work perfectly. And if any of you have any issues please comment below or DM me on any of my social media accounts.
 
 <p class="text-center">
-{% include elements/iconbtn.html link="https://drive.google.com/open?id=1W4_lNDpmWFZhIbA1Fw7aAb5UalpcHPtd" text="Download Here" icon="download" %}
-{% include elements/iconbtn.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
+{% include elements/button.html link="https://drive.google.com/open?id=1W4_lNDpmWFZhIbA1Fw7aAb5UalpcHPtd" text="Download Here" icon="download" %}
+{% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
