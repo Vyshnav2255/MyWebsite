@@ -18,30 +18,30 @@ I currently live in Kerala🌴, India. I enjoy reading books📗 and listening t
 {% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
 
-<div class="about-sec-h text-themed">Software Skills</div>
+<div class="about-sec-h text-mute">Software Skills</div>
 
 <div>
 {% include about/software-skills.html %}
 </div>
 
-<div class="about-sec-h text-themed">Design Skills</div>
+<div class="about-sec-h text-mute">Design Skills</div>
 
 <div>
 {% include about/design-skills.html %}
 </div>
 
-<div class="about-sec-h text-themed">Coding Skills</div>
+<div class="about-sec-h text-mute">Coding Skills</div>
 
 <div>
 {% include about/coding-skills.html %}
 </div>
 
-<div class="about-sec-h text-themed">Work Experience</div>
+<div class="about-sec-h text-mute">Work Experience</div>
 <div class="row">
     {% include about/work-timeline.html %}
 </div>
 
-<div class="about-sec-h text-themed">Education</div>
+<div class="about-sec-h text-mute">Education</div>
 <div class="row">
     {% include about/edu-timeline.html %}
 </div>

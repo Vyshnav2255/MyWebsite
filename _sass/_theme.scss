@@ -48,11 +48,12 @@
   @include themed(fill, #333333, $text-white);
 }
 
-.text-muted{
-  color: #575858 !important;
+.text-mute{
+  @include themed(color, #575858, #abacae);
 }
 
 .social{
+  @include themed(color, #575858, #abacae);
   svg{
     @include themed(fill, #575858, #abacae);
     &:hover{
