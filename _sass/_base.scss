@@ -35,11 +35,6 @@ body {
     object-position: center;
 }
 
-// Footer
-.social {
-    text-decoration: none !important;
-}
-
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Space Grotesk', sans-serif;
 }
@@ -64,14 +59,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .text-center {
     text-align: center !important;
-   }
-
-.social-icon{
-    fill: #575858;
-
-    &:hover{
-        fill: #43d6b5;
-    }
 }
 
 .icon-svg-themed{

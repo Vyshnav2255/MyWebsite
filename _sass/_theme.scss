@@ -53,5 +53,10 @@
 }
 
 .social{
-  color: #575858 !important;
+  svg{
+    @include themed(fill, #575858, #abacae);
+    &:hover{
+      @include themed(fill, #43d6b5, #43d6b5);
+    }
+  }
 }
