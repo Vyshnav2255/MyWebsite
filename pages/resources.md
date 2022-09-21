@@ -24,6 +24,7 @@ description: List of useful links and pages
 
 <div class="about-sec-h text-mute" style="margin-bottom: 1rem;">Blender Files</div>
 
+* 🛡 [Avengers HQ](https://shop.vyshnav.xyz/l/looen){:target="_blank" rel="noopener"}
 * 🧙 [Low Poly Witch's Brew](https://shop.vyshnav.xyz/l/ynflm){:target="_blank" rel="noopener"}
 * 🌀 [Low Poly Portal](https://shop.vyshnav.xyz/l/vusglp){:target="_blank" rel="noopener"}
 * 🪙 [Low Poly Treasure Chest](https://shop.vyshnav.xyz/l/zhuvon){:target="_blank" rel="noopener"}
@@ -38,5 +39,5 @@ description: List of useful links and pages
 
 <div class="about-sec-h text-mute" style="margin-bottom: 1rem;">Wallpapers</div>
 
-* 🛡 [Avengers HQ](https://shop.vyshnav.xyz/l/vwktj)
-* 🌊 [Waves](https://www.buymeacoffee.com/vyshnav/e/15514)
+* 🛡 [Avengers HQ](https://shop.vyshnav.xyz/l/vwktj){:target="_blank" rel="noopener"}
+* 🌊 [Waves](https://www.buymeacoffee.com/vyshnav/e/15514){:target="_blank" rel="noopener"}
