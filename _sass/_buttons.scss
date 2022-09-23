@@ -1,8 +1,8 @@
 .btn{
     margin: 0 0.25rem;
     background-color: #89ffdd;
-    border-color: #333333;
-    color: #333333;
+    border-color: $text-black;
+    color: $text-black;
     cursor: pointer;
     border-radius: 0.25rem;
     padding: 0.5rem 1rem;
@@ -11,12 +11,12 @@
     transition: all .14s ease-out;
 
     svg{
-        fill: #333333;
+        fill: $text-black;
         margin-right: 0.5rem;
     }
 }
     :hover.btn{
-        box-shadow: 0.25rem 0.25rem 0 0 #333333;
+        box-shadow: 0.25rem 0.25rem 0 0 $text-black;
         &:hover{transform: translate(-.25rem,-.25rem);}
         }
 

@@ -39,8 +39,8 @@
 
     a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.video-img):not(.p-hunt)  {
         text-decoration: none;
-        color: #333333;
-        border-bottom: 1px solid #333333;
+        color: $text-black;
+        border-bottom: 1px solid $text-black;
 
         &:hover { 
             background: #89ffdd;
@@ -72,8 +72,8 @@
     }
 
     blockquote {
-        border: 1px solid #333333;
-        color: #333333;
+        border: 1px solid $text-black;
+        color: $text-black;
         font-size: 1.12rem;
         font-style: italic;
         padding: 1rem;
@@ -139,7 +139,7 @@ ol{
 }
 
 hr {
-    background: #e4e4e4;
+    background: #d4d4d8;
   }
 
 mark{

@@ -16,11 +16,11 @@
 .navbar-themed {
   .navbar-brand,
   .navbar-nav .nav-link.active {
-    @include themed(color, #333333, $text-white);
+    @include themed(color, $text-black, $text-white);
   }
 
   .navbar-nav .nav-link {
-    @include themed(color, rgba(#333333, 0.8), rgba($text-white, 0.8));
+    @include themed(color, rgba($text-black, 0.8), rgba($text-white, 0.8));
   }
 }
 
@@ -33,29 +33,29 @@
 }
 
 .post-grid-item{
-  @include themed(border-color, #333333, $dark);
+  @include themed(border-color, $border-light, $border-dark);
 }
 
 .item-footer{
-  @include themed(border-color, #333333, $dark);
+  @include themed(border-color, $border-light, $border-dark);
 }
 
 .thumbnail{
-  @include themed(border-color, #333333, $dark);
+  @include themed(border-color, $border-light, $border-dark);
 }
 
 .svg-themed{
-  @include themed(fill, #333333, $text-white);
+  @include themed(fill, $text-black, $text-white);
 }
 
 .text-mute{
-  @include themed(color, #555761, #abacae);
+  @include themed(color, $black-muted, $white-muted);
 }
 
 .social{
-  @include themed(color, #555761, #abacae);
+  @include themed(color, $black-muted, $white-muted);
   svg{
-    @include themed(fill, #555761, #abacae);
+    @include themed(fill, $black-muted, $white-muted);
     &:hover{
       @include themed(fill, #43d6b5, #43d6b5);
     }

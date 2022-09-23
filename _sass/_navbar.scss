@@ -3,14 +3,14 @@
     font-family: 'Space Grotesk', sans-serif;
 
     &:hover{
-        text-decoration: underline 1px #333333;
+        text-decoration: underline 1px $text-black;
         text-underline-offset: 0.25rem;
     } 
 }
 
 .nav-item.active {
     font-weight: 700;
-    text-decoration: underline 1px #333333;
+    text-decoration: underline 1px $text-black;
     text-underline-offset: 0.25rem;
 }
 
@@ -22,6 +22,6 @@
 .branding {
     display: inline;
     svg{
-        fill: #333333;
+        fill: $text-black;
     }
 }

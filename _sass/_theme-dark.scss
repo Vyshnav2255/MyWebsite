@@ -136,7 +136,7 @@ $dark-900: #1a1a1a;
     circle{stroke: $text-white; fill: #1a1a1a;}
   }
 
-  li{del{color: #abacae;}}
+  li{del{color: $white-muted;}}
 
   .share{
     .btn{
