@@ -5,8 +5,11 @@ permalink: /resources/
 weight: 5
 description: List of useful links and pages
 ---
-<h1 style="text-align:center;" >🍉 Resources</h1>
-<p class="text-center" >List of useful links and pages</p>
+
+<div style="text-align:center; margin-bottom: 2rem;">
+    <h1>🍉 Resources</h1>
+    <p>List of useful links and pages</p>
+</div>
 
 * ✏️ [Visual Ideas](/visuals)
 * 🎁 [Referrals](/referrals)

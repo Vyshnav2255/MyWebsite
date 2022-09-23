@@ -5,19 +5,15 @@ image: /assets/card.png
 title: Impossible List
 description: The impossible list is not a bucket list. I got this idea from Youtuber and entrepreneur Thomas Frank
 ---
-<h1 style="text-align:center;" >🎯️ Impossible List</h1>
-
-<br>
-*Last updated **{{ site.time | date: '%B %-d, %Y' }}***
-
+<h1 style="text-align:center; margin-bottom: 2rem;" >🎯️ Impossible List</h1>
 
 The impossible list is not a bucket list. I got this idea from Youtuber and entrepreneur [Thomas Frank](https://thomasjfrank.com/). The impossible list was first created by [Joel Runyon](https://impossiblehq.com/impossible-list/).
 
-I will be updating this list regularly.
+I will be updating this list regularly. If you are someone who can help me make one of these a reality, please [get in touch](mailto:hi@vyshnav.xyz)
 
----
+Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 
-##### 😃 Life Goals
+<div class="about-sec-h text-mute" style="margin-bottom: 1rem;">😃 Life Goals</div>
 
 - Read 100 books
 - Change 1 Person’s Life For The Better
@@ -31,12 +27,12 @@ I will be updating this list regularly.
 - Spend one week without phone
 - Spend one week without internet
 
-##### 🏋️ Fitness/Health Goals
+<div class="about-sec-h text-mute" style="margin-bottom: 1rem;">🏋️ Fitness/Health Goals</div>
 
 - Do 100 push-ups in a single set
 - Do 20 pull-ups in a single set
 
-##### 💼 Professional Goals
+<div class="about-sec-h text-mute" style="margin-bottom: 1rem;">💼 Professional Goals</div>
 
 - Work in a Remote Company
 - Get 100,000 blog visits, all time
@@ -55,10 +51,8 @@ I will be updating this list regularly.
     - Make $10,000
 - Gain 500 Supporters - Buy Me a Coffee
 
-##### 🎨 Creative Goals
+<div class="about-sec-h text-mute" style="margin-bottom: 1rem;">🎨 Creative Goals</div>
 
 - Write a script for a movie
 - Work in a Movie as editor
 - Direct a Movie
-
-If you are someone who can help me make one of these a reality, please [get in touch](mailto:hi@vyshnav.xyz)
