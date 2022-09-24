@@ -1,12 +1,12 @@
 body {
-    font-family: 'Inter', sans-serif;
-    color: #333333;
+    font-family: 'DM Sans', sans-serif;
+    color: $text-black;
 }
 
 .post-tag {
-    color: #0e9a83;
+    color: #bef264;
     &:hover {
-        color: #007367;
+        color: #84cc16;
     }
 }
 
@@ -35,13 +35,8 @@ body {
     object-position: center;
 }
 
-// Footer
-.social {
-    text-decoration: none !important;
-}
-
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
 }
 
 .dot{
@@ -64,14 +59,6 @@ h1, h2, h3, h4, h5, h6 {
 
 .text-center {
     text-align: center !important;
-   }
-
-.social-icon{
-    fill: #575858;
-
-    &:hover{
-        fill: #43d6b5;
-    }
 }
 
 .icon-svg-themed{
@@ -93,12 +80,12 @@ ul.task-list {
   }
 
 .form-control{
-    border-color: #333333;
+    border-color: $border-light;
 
     &:focus{
-        color: #333333;
+        color: $text-black;
         background-color: #fff;
-        border-color: #28bca3;
+        border-color: #bef264;
     }
 }
 
@@ -127,7 +114,7 @@ ul.task-list {
     font-size: 0.875rem;
     font-weight: bold;
     text-transform: uppercase;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
     letter-spacing: 0.25rem;
 }
 

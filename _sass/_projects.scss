@@ -22,7 +22,7 @@
     -webkit-text-decoration:none;
     text-decoration:none;
     border-radius: .25rem;
-    border: 1px #333333 solid;
+    border: 1px $border-light solid;
    }
 
 .item-body{
@@ -35,7 +35,7 @@
 
 .thumbnail{
     width: 100%;
-    border-bottom: 1px #333333 solid;
+    border-bottom: 1px $border-light solid;
     border-radius: .25rem .25rem 0 0;
 }
 
@@ -55,7 +55,7 @@
 
 .item-footer{
     padding: 1rem 1.5rem;
-    border-top: 1px #333333 solid;
+    border-top: 1px $border-light solid;
 }
 
 .item-date{
@@ -69,8 +69,14 @@
         border: none;
     }
 
+    .blog-tag{
+        font-size: 0.875rem;
+        margin-bottom: .25rem;
+        letter-spacing: 1px;
+    }
+
     .thumbnail{
-        border: 1px #333333 solid;
+        border: 1px $border-light solid;
         border-radius: .25rem;
         margin-bottom: 1rem;
     }

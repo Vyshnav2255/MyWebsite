@@ -5,8 +5,11 @@ permalink: /resources/
 weight: 5
 description: List of useful links and pages
 ---
-<h1 style="text-align:center;" >🍉 Resources</h1>
-<p class="text-center" >List of useful links and pages</p>
+
+<div style="text-align:center; margin-bottom: 2rem;">
+    <h1>🍉 Resources</h1>
+    <p>List of useful links and pages</p>
+</div>
 
 * ✏️ [Visual Ideas](/visuals)
 * 🎁 [Referrals](/referrals)
@@ -14,14 +17,17 @@ description: List of useful links and pages
 * 🎯️ [My Impossible List](/impossible-list)
 * ✒️ [Microblog](/microblog/)
 
-##### Side Projects
+<div class="about-sec-h text-mute" style="margin-bottom: 1rem;">Side Projects</div>
+
 * 🔗 [Links](https://github.com/Vyshnav2255/links){:target="_blank" rel="noopener"}
 * 🚧 [Lockscreen Tasks](https://twitter.com/vyshnav_xyz/status/1479787683417366531){:target="_blank" rel="noopener"} (In progress)
 * 🎨 [Notion Icons v5](https://notionv5.vyshnav.xyz/){:target="_blank" rel="noopener"}
 * 🎨 [Notion Icons v3](https://notionv3.vyshnav.xyz/){:target="_blank" rel="noopener"}
 * 🎨 [Notion Icons v2](https://notionv2.vyshnav.xyz/){:target="_blank" rel="noopener"}
 
-##### Blender Files
+<div class="about-sec-h text-mute" style="margin-bottom: 1rem;">Blender Files</div>
+
+* 🛡 [Avengers HQ](https://shop.vyshnav.xyz/l/looen){:target="_blank" rel="noopener"}
 * 🧙 [Low Poly Witch's Brew](https://shop.vyshnav.xyz/l/ynflm){:target="_blank" rel="noopener"}
 * 🌀 [Low Poly Portal](https://shop.vyshnav.xyz/l/vusglp){:target="_blank" rel="noopener"}
 * 🪙 [Low Poly Treasure Chest](https://shop.vyshnav.xyz/l/zhuvon){:target="_blank" rel="noopener"}
@@ -34,6 +40,7 @@ description: List of useful links and pages
 * 🎅 [Santa Hat](https://shop.vyshnav.xyz/l/lwzud){:target="_blank" rel="noopener"}
 * 🍩 [Donut](https://shop.vyshnav.xyz/l/sztgx){:target="_blank" rel="noopener"}
 
-##### Wallpapers
-* 🛡 [Avengers HQ](https://shop.vyshnav.xyz/l/vwktj)
-* 🌊 [Waves](https://www.buymeacoffee.com/vyshnav/e/15514)
+<div class="about-sec-h text-mute" style="margin-bottom: 1rem;">Wallpapers</div>
+
+* 🛡 [Avengers HQ](https://shop.vyshnav.xyz/l/vwktj){:target="_blank" rel="noopener"}
+* 🌊 [Waves](https://www.buymeacoffee.com/vyshnav/e/15514){:target="_blank" rel="noopener"}

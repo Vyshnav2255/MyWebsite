@@ -21,7 +21,7 @@
         {%- assign url = blog.url | relative_url -%}
       {%- endif -%}
     <li><a href="{{ url }}">{{ blog.title }}</a>
-    <small class="text-muted"> - {{ blog.date | date_to_long_string }}</small></li>
+    <small class="text-mute"> - {{ blog.date | date_to_long_string }}</small></li>
     {%- endif -%}
   {% endfor %}
   </ol>

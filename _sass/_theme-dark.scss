@@ -1,8 +1,3 @@
-$dark-100: #666666;
-$dark-300: #2c3032;
-$dark-600: #242526;
-$dark-900: #1a1a1a;
-
 [data-theme="dark"] {
   body {
     background-color: $dark-900;
@@ -88,14 +83,6 @@ $dark-900: #1a1a1a;
     }
 }
 
-.text-muted{
-  color: #abacae !important;
-}
-
-.social{
-  color: #abacae !important;
-}
-
 .article{
   blockquote{
     color: $text-white !important;
@@ -108,13 +95,6 @@ $dark-900: #1a1a1a;
 
     &:hover {background: #007367;}
     }
-  }
-
-  .social-icon{
-    fill: #abacae !important;
-    &:hover{
-      fill: #43d6b5 !important;
-  }
   }
 
   .icon-svg-themed{
@@ -151,7 +131,7 @@ $dark-900: #1a1a1a;
     circle{stroke: $text-white; fill: #1a1a1a;}
   }
 
-  li{del{color: #abacae;}}
+  li{del{color: $white-muted;}}
 
   .share{
     .btn{
