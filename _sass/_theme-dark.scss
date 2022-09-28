@@ -102,12 +102,12 @@
   }
 
   .btn{
-    background-color: #003933;
-    border-color: #89ffdd;
-    color: #89ffdd;
+    background-color: #4ade80;
+    border-color: $text-black;
+    color: $text-black;
     
     svg{
-      fill: #89ffdd;
+      fill: $text-black;
     }
     }
     :hover.btn{
