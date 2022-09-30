@@ -1,28 +1,11 @@
 <div class="col mt-3">
   <div class="timeline-body">
-      {% for item in site.data.work-timeline %}
-        <div class="timeline-item">
-          <div style="display: flex; justify-content: space-between;">
-            <div style="display: flex; align-items: center;">
-            {% if item.date contains "Present" %}
-            <svg style="margin-right: 0.5rem;" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#3b82f6" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect><path d="M128,24A104,104,0,1,0,232,128,104.2,104.2,0,0,0,128,24Zm56,112H128a8,8,0,0,1-8-8V72a8,8,0,0,1,16,0v48h48a8,8,0,0,1,0,16Z"></path></svg>
-            {% else %}
-            <svg style="margin-right: 0.5rem;" width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill="#22c55e" viewBox="0 0 256 256"><rect width="256" height="256" fill="none"></rect>
-            <path d="M128,24A104,104,0,1,0,232,128,104.2,104.2,0,0,0,128,24Zm49.5,85.8-58.6,56a8.1,8.1,0,0,1-5.6,2.2,7.7,7.7,0,0,1-5.5-2.2l-29.3-28a8,8,0,1,1,11-11.6l23.8,22.7,53.2-50.7a8,8,0,0,1,11,11.6Z"></path>
-            </svg>
-            {% endif %}
-            {% if item.link %}
-            <span><b><a href="{{ item.link }}">{{ item.title }}{% include svg/ext-link.html %}</a></b></span>
-            {% else %}
-            <span><b>{{ item.title }}</b></span>
-            {% endif %}
-            </div>
-            <span class="text-mute">{{ item.date }}</span>
-          </div>
-          <div class="content">
-            <span>{{ item.description }}</span>
-          </div>
-        </div>
-      {% endfor %}
-    </div>
+    
+    {% for item in site.data.work-timeline %}
+
+    {% include about/timeline.html %}
+
+    {% endfor %}
+    
   </div>
+</div>
