@@ -42,5 +42,6 @@ description: List of useful links and pages
 
 <div class="about-sec-h text-mute" style="margin-bottom: 1rem;">Wallpapers</div>
 
+* 🌍 [Low Poly Planet](https://shop.vyshnav.xyz/l/piiij){:target="_blank" rel="noopener"}
 * 🛡 [Avengers HQ](https://shop.vyshnav.xyz/l/vwktj){:target="_blank" rel="noopener"}
 * 🌊 [Waves](https://www.buymeacoffee.com/vyshnav/e/15514){:target="_blank" rel="noopener"}
