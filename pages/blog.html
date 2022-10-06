@@ -21,11 +21,9 @@ description: I love writing articles, and you can read all of them here
       <a href="{{ blog_url }}" class="project text-themed">
         <img class="thumbnail" src="{{ blog.image }}" alt="{{ blog.title }}"/>
         <div class="blog-body">
-          <span class="blog-tag text-mute">
-          <span>{{ blog.tags }}</span> | <span>{{ blog.date | date: "%B %d, %Y" }}</span>
-          </span>
           <h5><b>{{ blog.title }}</b></h5>
           <p class="text-mute">{{ blog.content | markdownify | strip_html | truncate: 82 }}</p>
+          <span class="text-mute">{{ blog.date | date: "%B %d, %Y" }}</span>
         </div>
       </a>
     </div>
