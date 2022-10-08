@@ -4,6 +4,17 @@
 	.timeline-item {
         position: relative;
 		margin-bottom: .5rem;
+
+		svg{
+			margin-right: .5rem;
+		}
+
+		a{
+			border-bottom: 0 !important;
+			&:hover{
+				background: transparent !important;
+			}
+		}
         
 		.content {
 			margin-left: 2rem;

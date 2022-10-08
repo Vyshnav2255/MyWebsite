@@ -4,9 +4,9 @@ body {
 }
 
 .post-tag {
-    color: #22c55e;
+    color: #0e9a83;
     &:hover {
-        color: #16a34a;
+        color: #007367;
     }
 }
 
@@ -36,7 +36,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'DM Sans', sans-serif;
 }
 
 .dot{
@@ -85,7 +85,7 @@ ul.task-list {
     &:focus{
         color: $text-black;
         background-color: #fff;
-        border-color: #22c55e;
+        border-color: #28bca3;
     }
 }
 
@@ -114,7 +114,7 @@ ul.task-list {
     font-size: 0.875rem;
     font-weight: bold;
     text-transform: uppercase;
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'DM Sans', sans-serif;
     letter-spacing: 0.25rem;
 }
 

@@ -15,7 +15,7 @@
     }
 
     .tag:hover {
-        background-color: #bef264;
+        background-color: #43d6b5;
         color: #003933 !important;
     }
 
@@ -37,13 +37,13 @@
         width: 100%;
     }
 
-    a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.video-img):not(.p-hunt)  {
+    a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.video-img):not(.p-hunt) {
         text-decoration: none;
         color: $text-black;
         border-bottom: 1px solid $text-black;
 
         &:hover { 
-            background: #86efac;
+            background: #89ffdd;
         }
     }
 
