@@ -4,17 +4,23 @@
   image: /Images/works/links.png
   url: https://twitter.com/vyshnav_xyz/status/1555560772884897797
 
-- name: Lockscreen Tasks
-  date: 🚧 In progress
-  description: See your tasks list on your lock screen
-  image: /Images/works/lstw.png
-  url: https://twitter.com/vyshnav_xyz/status/1479787683417366531
+- name: Visuals
+  date: 2022 - Present
+  description: Converting complex ideas from books, articles & podcasts to simple illustrations
+  image: /Images/works/vis.png
+  url: /visuals
 
 - name: Blender Projects
   date: 2022 - Present
   description: All my Blender projects in one place
   image: /Images/3d/Low Poly Treasure Chest.png
   url: /3d
+
+- name: Lockscreen Tasks
+  date: 🚧 In progress
+  description: See your tasks list on your lock screen
+  image: /Images/works/lstw.png
+  url: https://twitter.com/vyshnav_xyz/status/1479787683417366531
 
 - name: Notion Icons 5.0
   date: 2022
