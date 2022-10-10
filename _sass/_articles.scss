@@ -15,8 +15,8 @@
     }
 
     .tag:hover {
-        background-color: #43d6b5;
-        color: #003933 !important;
+        background-color: $green-300;
+        color: $green-900 !important;
     }
 
     
@@ -43,7 +43,7 @@
         border-bottom: 1px solid $text-black;
 
         &:hover { 
-            background: #89ffdd;
+            color: $green-600;
         }
     }
 

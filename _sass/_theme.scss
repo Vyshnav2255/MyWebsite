@@ -66,7 +66,7 @@
   svg{
     @include themed(fill, $text-black, $text-white);
     &:hover{
-      @include themed(fill, #43d6b5, #43d6b5);
+      @include themed(fill, $green-500, $green-300);
     }
   }
 }

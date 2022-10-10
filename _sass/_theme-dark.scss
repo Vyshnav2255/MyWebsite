@@ -93,7 +93,9 @@
     color: $text-white;
     border-color: $text-white;
 
-    &:hover {background: #007367;}
+    &:hover {
+      color: $green-300;
+    }
     }
   }
 
@@ -102,16 +104,16 @@
   }
 
   .btn{
-    background-color: #003933;
-    border-color: #89ffdd;
-    color: #89ffdd;
+    background-color: $green-300;
+    border-color: $text-black;
+    color: $text-black;
     
     svg{
-      fill: #89ffdd;
+      fill: $text-black;
     }
     }
     :hover.btn{
-      box-shadow: 0.25rem 0.25rem 0 0 #89ffdd;
+      box-shadow: 0.25rem 0.25rem 0 0 $green-500;
         }
     
   .badge {
@@ -124,11 +126,11 @@
   hr{background: #666666;}
 
   .wrapper-svg{
-    .p-fill{fill: #003933;}
-    .p-stroke{fill: $text-white;}
-    line{stroke: $text-white;}
-    rect{stroke: $text-white; fill: #1a1a1a;}
-    circle{stroke: $text-white; fill: #1a1a1a;}
+    .p-fill{fill: $green-300;}
+    .p-stroke{fill: $green-500;}
+    line{stroke: $green-500;}
+    rect{stroke: $green-500; fill: $dark-900;}
+    circle{stroke: $green-500; fill: $dark-900;}
   }
 
   li{del{color: $white-muted;}}
@@ -152,7 +154,7 @@
 }
 
 .post-tag{
-  color: #43d6b5;
+  color: $green-300;
 }
 
 }

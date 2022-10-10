@@ -4,9 +4,9 @@ body {
 }
 
 .post-tag {
-    color: #0e9a83;
+    color: $green-500;
     &:hover {
-        color: #007367;
+        color: $green-700;
     }
 }
 
@@ -33,10 +33,6 @@ body {
     height: 100%;
     object-fit: cover;
     object-position: center;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'DM Sans', sans-serif;
 }
 
 .dot{
@@ -85,7 +81,7 @@ ul.task-list {
     &:focus{
         color: $text-black;
         background-color: #fff;
-        border-color: #28bca3;
+        border-color: $green-500;
     }
 }
 
@@ -114,7 +110,6 @@ ul.task-list {
     font-size: 0.875rem;
     font-weight: bold;
     text-transform: uppercase;
-    font-family: 'DM Sans', sans-serif;
     letter-spacing: 0.25rem;
 }
 
