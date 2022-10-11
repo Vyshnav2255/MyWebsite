@@ -4,10 +4,10 @@ body {
 }
 
 .post-tag {
-    color: $green-500;
-    &:hover {
-        color: $green-700;
-    }
+    padding: .25rem;
+    border-radius: .25rem;
+    font-size: 0.875rem;
+    text-transform: lowercase;
 }
 
 #container {

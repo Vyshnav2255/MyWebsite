@@ -70,3 +70,22 @@
     }
   }
 }
+
+.post-tag{
+  @include themed(color, $green-700, $green-100);
+  @include themed(background-color, $green-100, $green-800);
+  &:hover{
+    @include themed(background-color, $green-300, $green-900);
+  }
+}
+
+.btn{
+  @include themed(color, $dark-900, $dark-900);
+  @include themed(background-color, $green-400, $green-300);
+  svg{
+    @include themed(fill, $dark-900, $dark-900);
+  }
+  &:hover{
+    @include themed(background-color, $green-500, $green-400);
+  }
+}

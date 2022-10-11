@@ -14,11 +14,6 @@
         margin-top: -0.375rem;
     }
 
-    .tag:hover {
-        background-color: $green-300;
-        color: $green-900 !important;
-    }
-
     
     h1, h2 { margin-top: 2rem; }
 
@@ -116,6 +111,7 @@
 
         .btn{
             background-color: transparent;
+            border-color: $text-black;
 
             svg{margin-right: 0;}
 
