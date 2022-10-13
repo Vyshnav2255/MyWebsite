@@ -14,11 +14,6 @@
         margin-top: -0.375rem;
     }
 
-    .tag:hover {
-        background-color: #43d6b5;
-        color: #003933 !important;
-    }
-
     
     h1, h2 { margin-top: 2rem; }
 
@@ -43,7 +38,8 @@
         border-bottom: 1px solid $text-black;
 
         &:hover { 
-            background: #89ffdd;
+            color: $green-700;
+            border-color: $green-700;
         }
     }
 
@@ -116,6 +112,7 @@
 
         .btn{
             background-color: transparent;
+            border-color: $text-black;
 
             svg{margin-right: 0;}
 

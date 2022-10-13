@@ -4,10 +4,10 @@ body {
 }
 
 .post-tag {
-    color: #0e9a83;
-    &:hover {
-        color: #007367;
-    }
+    padding: .25rem;
+    border-radius: .25rem;
+    font-size: 0.875rem;
+    text-transform: lowercase;
 }
 
 #container {
@@ -81,7 +81,7 @@ ul.task-list {
     &:focus{
         color: $text-black;
         background-color: #fff;
-        border-color: #28bca3;
+        border-color: $green-500;
     }
 }
 
