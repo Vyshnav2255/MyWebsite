@@ -2,11 +2,11 @@
 layout: page
 ---
 <article>
-  {% include post-tag.html %}
+  
   <header>
 <h1 style="margin-top: 1rem;">{{ page.title }}</h1>
 
-<p class="article-metadata text-mute">
+<p class="article-metadata text-mute" style="margin-bottom: .5rem;">
   {{ page.date | date_to_long_string }} -
   {% assign words = content | number_of_words %}
   {% if words < 360 %}
@@ -15,6 +15,7 @@ layout: page
     {{ words | divided_by:200 }} mins read time
   {% endif %}
 </p>
+{% include post-tag.html %}
 </header>
 
 <section style="margin-top: 2rem;">
@@ -27,7 +28,6 @@ layout: page
 
 </article>
 {% include share.html %}
-<hr>
 {% include related.html %}
 {% include subscribe.html %}
 
