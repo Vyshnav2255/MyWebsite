@@ -25,7 +25,7 @@ description: What I’m doing now
 
 👨‍💻 Working on [Links](https://github.com/Vyshnav2255/links)
 
-✍️ Writing [Sunday Summary](https://newsletter.vyshnav.xyz/) newsletter
+✍️ Writing [Sunday Summary](https://vyshnav.substack.com/) newsletter
 
 📚 Reading Hooked
 

@@ -64,7 +64,7 @@
 
 .social{
   svg{
-    @include themed(fill, $text-black, $text-white);
+    @include themed(stroke, $text-black, $text-white);
     &:hover{
       @include themed(fill, $green-500, $green-300);
     }
