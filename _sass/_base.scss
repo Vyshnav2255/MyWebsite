@@ -1,14 +1,14 @@
 @font-face {
-    font-family: 'Hubot-Sans';
+    font-family: 'Mona-Sans';
     src:
-      url('Hubot-Sans.woff2') format('woff2 supports variations'),
-      url('Hubot-Sans.woff2') format('woff2-variations');
+      url('/Mona-Sans.woff2') format('woff2 supports variations'),
+      url('/Mona-Sans.woff2') format('woff2-variations');
     font-weight: 400 700;
     font-stretch: 100%;
   }
 
 body {
-    font-family: 'Hubot-Sans';
+    font-family: 'Mona-Sans';
     color: $text-black;
 }
 
