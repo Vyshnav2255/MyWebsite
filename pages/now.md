@@ -9,11 +9,9 @@ description: What I’m doing now
 
 # 🌱Now
 
-<div class="about-pills">
 <span class="about-pill">
 <span class="live-icon"></span> LIVE
 </span>
-</div>
 
 🧲 [Open to Work](mailto:hi@vyshnav.xyz)
 
