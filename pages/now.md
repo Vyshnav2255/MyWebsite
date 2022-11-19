@@ -17,16 +17,16 @@ description: What I’m doing now
 
 🧲 [Open to Work](mailto:hi@vyshnav.xyz)
 
-✏️ Creating [Visuals](/visuals)
-
 🧠 Learning [Blender](/3d) & UI/UX Design
 
 🚧 Redesigning [this website](https://twitter.com/vyshnav_xyz/status/1522571627137019904?s=20&t=40-J7KZrUif_am3iDnwCPw)
 
-👨‍💻 Working on [Links](https://github.com/Vyshnav2255/links)
+👨‍💻 Working on [Links](https://github.com/Vyshnav2255/links) & [Notion Icons 3D](https://notion3d.vyshnav.xyz/)
 
 ✍️ Writing [Sunday Summary](https://vyshnav.substack.com/) newsletter
 
-📚 Reading Hooked
+✏️ Creating [Visuals](/visuals)
+
+📚 Reading - The Shape of Design
 
 📍 Living in Kerala, India
