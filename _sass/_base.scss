@@ -1,15 +1,15 @@
-@font-face {
-    font-family: 'Mona-Sans';
-    src:
-      url('/Mona-Sans.woff2') format('woff2 supports variations'),
-      url('/Mona-Sans.woff2') format('woff2-variations');
-    font-weight: 400 700;
-    font-stretch: 100%;
-  }
-
 body {
-    font-family: 'Mona-Sans';
+    font-family: 'DM Sans', sans-serif;
     color: $text-black;
+}
+
+main{
+    width: 708px;
+
+    @media screen and (max-width: 768px) {
+        width: 100%;
+        padding: 0px 1rem;
+    }
 }
 
 .post-tag {
