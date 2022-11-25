@@ -19,7 +19,7 @@ description: Notes, Highlights, and Summaries of books I have read
         </div>
         <div class="item-footer">
           <p class="item-date" style="margin: 0;">
-            <span>{{ book.date | date_to_long_string }}</span>
+            <span>{{ book.date | date_to_string }}</span>
             •
             <span>
               {% assign words = book.content | number_of_words %}
