@@ -23,7 +23,7 @@ description: I love writing articles, and you can read all of them here
         <div class="blog-body">
           <h5><b>{{ blog.title }}</b></h5>
           <p class="text-mute">{{ blog.content | markdownify | strip_html | truncate: 82 }}</p>
-          <span class="text-mute">{{ blog.date | date: "%B %d, %Y" }}</span>
+          <span class="text-mute">{{ blog.date | date_to_string }}</span>
         </div>
       </a>
     </div>

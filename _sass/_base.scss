@@ -1,6 +1,7 @@
 body {
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
     color: $text-black;
+    text-rendering: optimizeLegibility;
 }
 
 main{

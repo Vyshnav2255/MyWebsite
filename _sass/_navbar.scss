@@ -10,7 +10,7 @@
 
 .navbar-toggler{
     border: none;
-    padding: 0;
+    padding: .5rem;
 }
 
 .branding {
@@ -21,9 +21,12 @@
 }
 
 .navbar{
-    padding: .5rem 0;
+    padding: .5rem 1rem;
+    background-color: $dark-100;
+    border-radius: .75rem;
+    min-height: 56px;
 }
 
 #theme-toggler:before{
-    height: 1.5rem;
+    height: 1.25rem;
 }

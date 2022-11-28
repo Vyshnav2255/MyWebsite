@@ -3,7 +3,6 @@
     grid-column-gap: 2rem;
     grid-row-gap: 2rem;
     grid-template-columns:repeat(4, 1fr);
-    padding: 0 1rem;
    }
    @media (min-width: 720px) {
     .post-grid {
@@ -27,14 +26,13 @@
 
 .item-body{
     padding: 1.5rem;
-    flex: 1 1 auto;
     p{
         margin-bottom: 0;
     }
 }
 
 .thumbnail{
-    width: 100%;
+    max-width: 100%;
     border-bottom: 1px $border-light solid;
     border-radius: .25rem .25rem 0 0;
 }
@@ -80,4 +78,23 @@
             margin-bottom: .5rem;
         }
     }
+}
+
+.book{
+    @media screen and (max-width: 719px) {
+        a{
+            display: flex;
+            flex-direction: row;
+        }
+
+        .item{
+            width: inherit;
+        }
+
+        .thumbnail{
+            max-width: 130px;
+            height: auto;
+            aspect-ratio: 1 / 1;
+        }
+}
 }
