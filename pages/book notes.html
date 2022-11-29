@@ -16,20 +16,10 @@ description: Notes, Highlights, and Summaries of books I have read
         <div class="item-body">
           <h6><b>{{ book.title }}</b></h6>
           <p>by {{ book.author }}
-          <br>{% include svg/star.html %}{{ book.rating }} / 10</p>
-        </div>
-        <div class="item-footer">
-          <p class="item-date" style="margin: 0;">
+            <br>{% include svg/star.html %}{{ book.rating }} / 10
+          </p>
+          <p class="item-date" style="margin-top: .5rem;">
             <span>{{ book.date | date_to_string }}</span>
-            •
-            <span>
-              {% assign words = book.content | number_of_words %}
-              {% if words < 360 %}
-              1 min
-              {% else %}
-              {{ words | divided_by:180 }} mins read
-              {% endif %}
-            </span>
           </p>
         </div>
       </div>

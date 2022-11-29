@@ -4,9 +4,14 @@
     grid-row-gap: 2rem;
     grid-template-columns:repeat(4, 1fr);
    }
-   @media (min-width: 720px) {
+   @media (min-width: 600px) {
     .post-grid {
      grid-template-columns:repeat(8, 1fr);
+    }
+   }
+   @media (min-width: 720px) {
+    .post-grid {
+     grid-template-columns:repeat(12, 1fr);
     }
    }
    @media (min-width: 1080px) {
@@ -21,11 +26,9 @@
     -webkit-text-decoration:none;
     text-decoration:none;
     border-radius: .25rem;
-    border: 1px $border-light solid;
    }
 
 .item-body{
-    padding: 1.5rem;
     p{
         margin-bottom: 0;
     }
@@ -33,8 +36,7 @@
 
 .thumbnail{
     max-width: 100%;
-    border-bottom: 1px $border-light solid;
-    border-radius: .25rem .25rem 0 0;
+    border-radius: .25rem;
 }
 
 .project {
@@ -42,6 +44,7 @@
     flex-direction: column;
     word-wrap: break-word;
     height: 100%;
+    gap: 1rem;
     text-decoration: none !important;
 }
 
@@ -49,17 +52,6 @@
     text-transform: uppercase;
     font-size: 0.75rem;
     letter-spacing: 0.06rem;
-}
-
-.item-footer{
-    padding: 1rem 1.5rem;
-    border-top: 1px $border-light solid;
-}
-
-.item-date{
-    display: flex;
-    flex-direction: row;
-    gap: 1rem;
 }
 
 .blog{
@@ -81,7 +73,7 @@
 }
 
 .book{
-    @media screen and (max-width: 719px) {
+    @media screen and (max-width: 600px) {
         a{
             display: flex;
             flex-direction: row;

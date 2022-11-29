@@ -9,7 +9,7 @@
         {% endif %}
 
         {% if item.link %}
-          <span><b><a title="{{ item.title }}" target="_blank" rel="noopener" href="{{ item.link }}">{{ item.title }}↗</a></b></span>
+          <span><b><a title="{{ item.title }}" target="_blank" rel="noopener" href="{{ item.link }}">{{ item.title }}{% include svg/ext-link.html %}</a></b></span>
         {% else %}
           <span><b>{{ item.title }}</b></span>
         {% endif %}

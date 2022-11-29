@@ -1,7 +1,6 @@
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'DM Sans', sans-serif;
     color: $text-black;
-    text-rendering: optimizeLegibility;
 }
 
 main{
@@ -9,7 +8,7 @@ main{
 
     @media screen and (max-width: 768px) {
         width: 100%;
-        padding: 0px 1rem;
+        padding: 0px 1.5rem;
     }
 }
 
