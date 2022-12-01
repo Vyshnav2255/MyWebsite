@@ -13,14 +13,12 @@ description: Notes, Highlights, and Summaries of books I have read
       <a href="{{ book.url }}" class="project text-themed" >
         <img class="thumbnail" src="{{ book.image }}" alt="{{ book.title }}" loading="lazy"/>
         <div class="item">
-        <div class="item-body text-mute">
+        <div class="item-body">
           <h6><b>{{ book.title }}</b></h6>
-          <p>by {{ book.author }}
+          <p class="text-mute">by {{ book.author }}
             <br>{% include svg/star.html %}{{ book.rating }} / 10
           </p>
-          <p class="item-date" style="margin-top: .5rem;">
-            <span>{{ book.date | date_to_string }}</span>
-          </p>
+          <p class="item-date text-mute" style="margin-top: .5rem;">{{ book.date | date_to_string }}</p>
         </div>
       </div>
       </a>

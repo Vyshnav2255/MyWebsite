@@ -1,5 +1,14 @@
+@font-face {
+    font-family: 'Mona-Sans';
+    src:
+      url('/Mona-Sans.woff2') format('woff2 supports variations'),
+      url('/Mona-Sans.woff2') format('woff2-variations');
+    font-weight: 500 600;
+    font-stretch: 100%;
+  }
+
 body {
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Mona-Sans';
     color: $text-black;
 }
 
