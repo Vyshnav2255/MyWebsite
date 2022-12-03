@@ -1,14 +1,14 @@
 @font-face {
-    font-family: 'Mona-Sans';
+    font-family: 'Satoshi-Variable';
     src:
-      url('/Mona-Sans.woff2') format('woff2 supports variations'),
-      url('/Mona-Sans.woff2') format('woff2-variations');
-    font-weight: 400 500 600;
-    font-stretch: 100%;
+      url('/Satoshi-Variable.woff2') format('woff2 supports variations'),
+      url('/Satoshi-Variable.woff2') format('woff2-variations');
+    font-weight: 500 600;
+    font-display: swap;
   }
 
 body {
-    font-family: 'Mona-Sans';
+    font-family: 'Satoshi-Variable';
     color: $text-black;
 }
 
