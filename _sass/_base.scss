@@ -1,14 +1,14 @@
 @font-face {
-    font-family: 'Satoshi-Variable';
+    font-family: 'ClashGrotesk-Variable';
     src:
-      url('/Satoshi-Variable.woff2') format('woff2 supports variations'),
-      url('/Satoshi-Variable.woff2') format('woff2-variations');
+      url('/ClashGrotesk-Variable.woff2') format('woff2 supports variations'),
+      url('/ClashGrotesk-Variable.woff2') format('woff2-variations');
     font-weight: 500 600;
     font-display: swap;
   }
 
 body {
-    font-family: 'Satoshi-Variable';
+    font-family: 'ClashGrotesk-Variable';
     color: $text-black;
 }
 
