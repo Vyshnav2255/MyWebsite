@@ -9,7 +9,7 @@ description: What I’m doing now
 
 # 🌱Now
 
-<div class="about-pills">
+<div class="about-pills my-3">
 <span class="about-pill">
 <span class="live-icon"></span> LIVE
 </span>
