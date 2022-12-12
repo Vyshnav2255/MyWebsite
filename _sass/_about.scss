@@ -1,7 +1,7 @@
 .about-pills{
-    padding: 1rem 0;
     display: flex;
     flex-wrap: wrap;
+    gap: .5rem;
 }
 
 .about-pill{
@@ -13,7 +13,6 @@
     font-size: 0.875rem;
     border-radius: 2rem;
     border: 1px solid;
-    margin: .25rem .5rem .25rem 0;
     transition: all .2s ease-in-out!important;
 
     img{
@@ -60,10 +59,9 @@ span.live-icon{
 
 .about-sec-h{
     font-size: 0.875rem;
-    font-weight: bold;
+    font-weight: 500;
     color: $black-muted;
-    margin-top: 2rem;
-    margin-bottom: 0px;
+    margin: 3rem 0 1rem;
     text-transform: uppercase;
     display: grid;
     grid-template-columns: auto minmax(20px, 1fr);
