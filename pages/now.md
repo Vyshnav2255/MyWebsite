@@ -9,11 +9,13 @@ description: What I’m doing now
 
 # 🌱Now
 
+<div class="about-pills my-3">
 <span class="about-pill">
 <span class="live-icon"></span> LIVE
 </span>
+</div>
 
-🧲 [Open to Work](mailto:hi@vyshnav.xyz)
+📐 Junior Designer Intern @ Compensa
 
 🧠 Learning [Blender](/3d) & UI/UX Design
 

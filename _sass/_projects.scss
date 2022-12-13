@@ -36,7 +36,7 @@
 
 .thumbnail{
     max-width: 100%;
-    border-radius: .25rem;
+    border-radius: .75rem;
 }
 
 .project {
@@ -60,7 +60,7 @@
     }
 
     .thumbnail{
-        border-radius: .25rem;
+        border-radius: .75rem;
     }
 
     .blog-body{
@@ -75,6 +75,7 @@
         a{
             display: flex;
             flex-direction: row;
+            align-items: center;
         }
 
         .item{
