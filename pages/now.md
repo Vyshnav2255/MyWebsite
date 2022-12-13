@@ -15,7 +15,7 @@ description: What I’m doing now
 </span>
 </div>
 
-🧲 [Open to Work](mailto:hi@vyshnav.xyz)
+📐 Junior Designer Intern @ Compensa
 
 🧠 Learning [Blender](/3d) & UI/UX Design
 
