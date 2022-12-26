@@ -3,6 +3,15 @@ body {
     color: $text-black;
 }
 
+main{
+    width: 708px;
+
+    @media screen and (max-width: 768px) {
+        width: 100%;
+        padding: 0px 1.5rem;
+    }
+}
+
 .post-tag {
     padding: .25rem;
     border-radius: .25rem;

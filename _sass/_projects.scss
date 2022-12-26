@@ -3,11 +3,15 @@
     grid-column-gap: 2rem;
     grid-row-gap: 2rem;
     grid-template-columns:repeat(4, 1fr);
-    padding: 0 1rem;
+   }
+   @media (min-width: 600px) {
+    .post-grid {
+     grid-template-columns:repeat(8, 1fr);
+    }
    }
    @media (min-width: 720px) {
     .post-grid {
-     grid-template-columns:repeat(8, 1fr);
+     grid-template-columns:repeat(12, 1fr);
     }
    }
    @media (min-width: 1080px) {
@@ -22,21 +26,17 @@
     -webkit-text-decoration:none;
     text-decoration:none;
     border-radius: .25rem;
-    border: 1px $border-light solid;
    }
 
 .item-body{
-    padding: 1.5rem;
-    flex: 1 1 auto;
     p{
         margin-bottom: 0;
     }
 }
 
 .thumbnail{
-    width: 100%;
-    border-bottom: 1px $border-light solid;
-    border-radius: .25rem .25rem 0 0;
+    max-width: 100%;
+    border-radius: .5rem;
 }
 
 .project {
@@ -44,6 +44,7 @@
     flex-direction: column;
     word-wrap: break-word;
     height: 100%;
+    gap: 1rem;
     text-decoration: none !important;
 }
 
@@ -53,31 +54,53 @@
     letter-spacing: 0.06rem;
 }
 
-.item-footer{
-    padding: 1rem 1.5rem;
-    border-top: 1px $border-light solid;
-}
-
-.item-date{
-    display: flex;
-    flex-direction: row;
-    gap: 1rem;
-}
-
 .blog{
+    @media (min-width: 600px) {
+        .post-grid {
+         grid-template-columns:repeat(8, 1fr);
+        }
+       }
+       @media (min-width: 720px) {
+        .post-grid {
+         grid-template-columns:repeat(8, 1fr);
+        }
+       }
+       @media (min-width: 1080px) {
+        .post-grid {
+         grid-template-columns:repeat(8, 1fr);
+        }
+       }
     .post-grid-item{
         border: none;
     }
 
     .thumbnail{
-        border: 1px $border-light solid;
-        border-radius: .25rem;
-        margin-bottom: 1rem;
+        border-radius: .5rem;
     }
 
     .blog-body{
         p{
             margin-bottom: .5rem;
+        }
+    }
+}
+
+.book{
+    @media screen and (max-width: 600px) {
+        a{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        }
+
+        .item{
+            width: inherit;
+        }
+
+        .thumbnail{
+            max-width: 130px;
+            height: auto;
+            aspect-ratio: 1 / 1;
         }
     }
 }

@@ -8,7 +8,8 @@ description: I love writing articles, and you can read all of them here
 ---
 
 {% include post/search.html %}
-<div class="post-grid blog" id="blog">
+<div class="blog">
+<div class="post-grid" id="blog">
     {% for blog in site.blogs reversed %}
     
         {% if blog.external_url %}
@@ -21,11 +22,12 @@ description: I love writing articles, and you can read all of them here
       <a href="{{ blog_url }}" class="project text-themed">
         <img class="thumbnail" src="{{ blog.image }}" alt="{{ blog.title }}"/>
         <div class="blog-body">
-          <h5><b>{{ blog.title }}</b></h5>
+          <h6><b>{{ blog.title }}</b></h6>
           <p class="text-mute">{{ blog.content | markdownify | strip_html | truncate: 82 }}</p>
           <span class="text-mute">{{ blog.date | date_to_string }}</span>
         </div>
       </a>
     </div>
   {% endfor %}
+</div>
 </div>
