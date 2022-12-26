@@ -19,7 +19,7 @@ description: What I’m doing now
 
 🧠 Learning [Blender](/3d) & UI/UX Design
 
-🚧 Redesigning [this website](https://twitter.com/vyshnav_xyz/status/1522571627137019904?s=20&t=40-J7KZrUif_am3iDnwCPw)
+🚧 Redesigning [this website](https://twitter.com/vyshnav_xyz/status/1605566892361539585)
 
 👨‍💻 Working on [Links](https://github.com/Vyshnav2255/links) & [Notion Icons 3D](https://notion3d.vyshnav.xyz/)
 
@@ -27,6 +27,6 @@ description: What I’m doing now
 
 ✏️ Creating [Visuals](/visuals)
 
-📚 Reading - The Shape of Design
+📚 Reading - Don't Make Me Think
 
 📍 Living in Kerala, India
