@@ -36,10 +36,12 @@
         text-decoration: none;
         color: $text-black;
         border-bottom: 1px solid $text-black;
+        padding: 0.125rem;
 
         &:hover { 
-            color: $green-700;
-            border-color: $green-700;
+            color: $green-900;
+            border-color: $green-900;
+            background-color: $green-100;
         }
     }
 
