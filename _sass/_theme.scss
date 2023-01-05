@@ -62,7 +62,7 @@ hr{
 
 .about-sec-h{
   &::after{
-    @include themed(border-color, $black-muted, $white-muted);
+    @include themed(border-color, $border-light, $border-dark);
   }
 }
 

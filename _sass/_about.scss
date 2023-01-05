@@ -72,6 +72,6 @@ span.live-icon{
 
     &::after{
         content: '';
-        border-top: 1px dashed $black-muted;
+        border-top: 1px dashed;
     }
 }
