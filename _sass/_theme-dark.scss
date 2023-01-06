@@ -95,8 +95,9 @@
     border-color: $text-white;
 
     &:hover {
-      color: $green-300;
-      border-color: $green-300;
+      color: $green-200;
+      border-color: $green-200;
+      background-color: $green-900;
     }
     }
   }
@@ -111,8 +112,6 @@
 
     &:hover{background-color: #0e9a83;}
     }
-  
-  hr{background: #666666;}
 
   .wrapper-svg{
     .p-fill{fill: $green-300;}

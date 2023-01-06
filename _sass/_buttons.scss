@@ -15,3 +15,22 @@
     background-color: $green-100 !important;
     border: 1px solid $green-400 !important;
 }
+
+.share{
+    margin: 4rem auto;
+    text-align: center;
+
+    .btn{
+        background-color: transparent;
+        border-color: $text-black;
+        font-size: 0;
+
+        svg{margin-right: 0;}
+
+        &:hover{svg{fill: #fff;}}
+        &:hover.twitter{background-color: #1da1f2;}
+        &:hover.linkedin{background-color: #007bb5;}
+        &:hover.facebook{background-color: #1877f2;}
+        &:hover.shareurl{background-color: #666666;}
+    }
+}

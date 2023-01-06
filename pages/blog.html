@@ -23,7 +23,7 @@ description: I love writing articles, and you can read all of them here
         <img class="thumbnail" src="{{ blog.image }}" alt="{{ blog.title }}"/>
         <div class="blog-body">
           <h6><b>{{ blog.title }}</b></h6>
-          <p class="text-mute">{{ blog.content | markdownify | strip_html | truncate: 80 }}</p>
+          <p class="text-mute">{{ blog.content | markdownify | strip_html | truncate: 82 }}</p>
           <span class="text-mute">{{ blog.date | date_to_string }}</span>
         </div>
       </a>

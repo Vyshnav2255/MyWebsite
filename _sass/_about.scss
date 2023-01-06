@@ -68,9 +68,10 @@ span.live-icon{
     gap: 0.75rem;
     align-items: center;
     letter-spacing: 2px;
+    line-height: 1.5rem;
 
     &::after{
         content: '';
-        border-top: 1px dashed $black-muted;
+        border-top: 1px dashed;
     }
 }

@@ -32,6 +32,10 @@
   @include themed(background-color, $light, $dark);
 }
 
+hr{
+  @include themed(background-color, $dark-100, $dark-700);
+}
+
 .post-grid-item{
   @include themed(border-color, $border-light, $border-dark);
 }
@@ -58,7 +62,7 @@
 
 .about-sec-h{
   &::after{
-    @include themed(border-color, $black-muted, $white-muted);
+    @include themed(border-color, $border-light, $border-dark);
   }
 }
 
