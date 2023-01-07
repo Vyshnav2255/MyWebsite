@@ -7,10 +7,15 @@ image: /assets/card.png
 description: Notes, Highlights, and Summaries of books I have read
 ---
 
-<div class="post-grid mt-5">
+<div class="page-header">
+  <h2>📚️ Book Notes</h2>
+  <p>Notes, Highlights, and Summaries of books I have read</p>
+</div>
+
+<div class="post-grid">
   {% for book in site.books reversed %}
     <div class="post-grid-item book">
-      <a href="{{ book.url }}" class="project text-themed" >
+      <a href="{{ book.url }}" class="post text-themed" >
         <img class="thumbnail" src="{{ book.image }}" alt="{{ book.title }}" loading="lazy"/>
         <div class="item">
         <div class="item-body">

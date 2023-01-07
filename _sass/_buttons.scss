@@ -12,8 +12,13 @@
 }
 
 .btn-outline{
-    background-color: $green-100 !important;
+    background-color: transparent !important;
     border: 1px solid $green-400 !important;
+    color: $green-900 !important;
+
+    svg{
+        color: $green-900;
+    }
 }
 
 .share{

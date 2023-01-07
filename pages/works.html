@@ -7,14 +7,19 @@ image: /assets/card.png
 description: Design works which I have done till now
 ---
 
-<div class="post-grid book mt-5">
+<div class="page-header">
+  <h2>🍉 Works</h2>
+  <p>List of useful links and pages</p>
+</div>
+
+<div class="post-grid book">
   {% for item in site.data.works %}
     <div class="post-grid-item">
-      <a href="{{ item.url }}" target="_blank" rel="noopener" class="project text-themed">
+      <a href="{{ item.url }}" target="_blank" rel="noopener" class="post text-themed">
         <img class="thumbnail" src="{{ item.image }}" alt="{{ item.title }}" loading="lazy"/>
         <div class="item-body">
-          <span class="blog-tags text-mute">{{ item.date }}</span>
-          <h5><b>{{ item.name }}</b></h5>
+          <h6 style="margin-bottom: .25rem;"><b>{{ item.name }}</b></h6>
+          <p class="blog-tags text-mute">{{ item.date }}</p>
           <p>{{ item.description }}</p>
         </div>
       </a>

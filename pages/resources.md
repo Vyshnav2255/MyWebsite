@@ -6,9 +6,9 @@ weight: 5
 description: List of useful links and pages
 ---
 
-<div style="text-align:center; margin-bottom: 2rem;">
-    <h1>🍉 Resources</h1>
-    <p>List of useful links and pages</p>
+<div class="page-header">
+  <h2>🍉 Resources</h2>
+  <p>List of useful links and pages</p>
 </div>
 
 * ✏️ [Visual Ideas](/visuals)
