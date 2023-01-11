@@ -94,6 +94,14 @@ hr{
   }
 }
 
+.btn-outline{
+  @include themed(color, $green-900, $green-300);
+  @include themed(border-color, $green-400, $green-500);
+  svg{
+    @include themed(color, $green-900, $green-300);
+  }
+}
+
 .navbar{
   @include themed(background-color, $dark-100, $dark-800);
 }
