@@ -41,6 +41,6 @@ This pack is my biggest release, and I think you guys will really enjoy it. Than
 You can get this icon pack from my BMC page or by clicking the below link.
 
 <p class="text-center">
-{% include elements/button.html link="https://shop.vyshnav.xyz/l/DKvBN" text="Download Here" icon="download" %}
+{% include elements/button.html link="https://vyshnav.lemonsqueezy.com/checkout/buy/b86673ae-86a9-45c2-8cdb-676753374bd8" text="Download Here" icon="download" %}
 {% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
