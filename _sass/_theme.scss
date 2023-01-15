@@ -87,7 +87,7 @@ hr{
   @include themed(color, $dark-900, $dark-900);
   @include themed(background-color, $green-400, $green-300);
   svg{
-    @include themed(fill, $dark-900, $dark-900);
+    @include themed(color, $dark-900, $dark-900);
   }
   &:hover{
     @include themed(background-color, $green-500, $green-400);
