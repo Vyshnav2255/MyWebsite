@@ -68,9 +68,9 @@ hr{
 
 .social{
   svg{
-    @include themed(fill, $text-black, $text-white);
+    @include themed(color, $text-black, $text-white);
     &:hover{
-      @include themed(fill, $green-500, $green-300);
+      @include themed(color, $green-500, $green-300);
     }
   }
 }
