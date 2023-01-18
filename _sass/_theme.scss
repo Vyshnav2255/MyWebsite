@@ -9,8 +9,11 @@
 }
 
 #theme-toggler:before {
-  @include themed(content, url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' fill='%233f3f46' viewBox='0 0 256 256'%3E%3Crect width='256' height='256' fill='none'%3E%3C/rect%3E%3Cpath d='M224.3,150.3a8.1,8.1,0,0,0-7.8-5.7l-2.2.4A84,84,0,0,1,111,41.6a5.7,5.7,0,0,0,.3-1.8A7.9,7.9,0,0,0,101,31.7,100,100,0,1,0,224.3,154.9,7.2,7.2,0,0,0,224.3,150.3Z'%3E%3C/path%3E%3C/svg%3E"), 
-  url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' fill='%23d4d4d8' viewBox='0 0 256 256'%3E%3Crect width='256' height='256' fill='none'%3E%3C/rect%3E%3Ccircle cx='128' cy='128' r='68'%3E%3C/circle%3E%3Cpath d='M128,44a8,8,0,0,0,8-8V16a8,8,0,0,0-16,0V36A8,8,0,0,0,128,44Z'%3E%3C/path%3E%3Cpath d='M57.3,68.6a8.1,8.1,0,0,0,11.3,0,8,8,0,0,0,0-11.3L54.5,43.1A8.1,8.1,0,1,0,43.1,54.5Z'%3E%3C/path%3E%3Cpath d='M44,128a8,8,0,0,0-8-8H16a8,8,0,0,0,0,16H36A8,8,0,0,0,44,128Z'%3E%3C/path%3E%3Cpath d='M57.3,187.4,43.1,201.5a8.1,8.1,0,0,0,0,11.4,8.5,8.5,0,0,0,5.7,2.3,8.3,8.3,0,0,0,5.7-2.3l14.1-14.2a8,8,0,0,0-11.3-11.3Z'%3E%3C/path%3E%3Cpath d='M128,212a8,8,0,0,0-8,8v20a8,8,0,0,0,16,0V220A8,8,0,0,0,128,212Z'%3E%3C/path%3E%3Cpath d='M198.7,187.4a8,8,0,0,0-11.3,11.3l14.1,14.2a8.3,8.3,0,0,0,5.7,2.3,8.5,8.5,0,0,0,5.7-2.3,8.1,8.1,0,0,0,0-11.4Z'%3E%3C/path%3E%3Cpath d='M240,120H220a8,8,0,0,0,0,16h20a8,8,0,0,0,0-16Z'%3E%3C/path%3E%3Cpath d='M193.1,70.9a7.8,7.8,0,0,0,5.6-2.3l14.2-14.1a8.1,8.1,0,0,0-11.4-11.4L187.4,57.3a8,8,0,0,0,0,11.3A7.8,7.8,0,0,0,193.1,70.9Z'%3E%3C/path%3E%3C/svg%3E"));
+  @include themed(content, 
+  url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 24 24' stroke-width='2' stroke='%233f3f46' fill='none' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath stroke='none' d='M0 0h24v24H0z' fill='none'/%3E%3Cpath d='M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z' /%3E%3C/svg%3E")
+  , 
+  url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 24 24' stroke-width='2' stroke='%23d4d4d8' fill='none' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath stroke='none' d='M0 0h24v24H0z' fill='none'/%3E%3Cpath d='M14.828 14.828a4 4 0 1 0 -5.656 -5.656a4 4 0 0 0 5.656 5.656z' /%3E%3Cpath d='M6.343 17.657l-1.414 1.414' /%3E%3Cpath d='M6.343 6.343l-1.414 -1.414' /%3E%3Cpath d='M17.657 6.343l1.414 -1.414' /%3E%3Cpath d='M17.657 17.657l1.414 1.414' /%3E%3Cpath d='M4 12h-2' /%3E%3Cpath d='M12 4v-2' /%3E%3Cpath d='M20 12h2' /%3E%3Cpath d='M12 20v2' /%3E%3C/svg%3E")
+  );
 }
 
 .navbar-themed {
