@@ -4,10 +4,12 @@ title: Works
 permalink: /works
 weight: 1
 image: /assets/card.png
-description: Design works which I have done till now
+description: A collection of links to my current & previous works and projects
 ---
 
-<div class="post-grid book mt-5">
+{% include elements/page-title.html title="👨‍💻 Works" %}
+
+<div class="post-grid book">
   {% for item in site.data.works %}
     <div class="post-grid-item">
       <a href="{{ item.url }}" target="_blank" rel="noopener" class="post text-themed">

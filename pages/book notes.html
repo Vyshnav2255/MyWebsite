@@ -4,17 +4,19 @@ title: Book Notes
 permalink: /book-notes/
 weight: 3
 image: /assets/card.png
-description: Notes, Highlights, and Summaries of books I have read
+description: A personal library of my key takeaways, notes, & highlights from the books I've read
 ---
 
-<div class="post-grid mt-5">
+{% include elements/page-title.html title="📚️ Book Notes" %}
+
+<div class="post-grid">
   {% for book in site.books reversed %}
     <div class="post-grid-item book">
       <a href="{{ book.url }}" class="post text-themed" >
         <img class="thumbnail" src="{{ book.image }}" alt="{{ book.title }}" loading="lazy"/>
         <div class="item">
         <div class="item-body">
-          <h6><b>{{ book.title }}</b></h6>
+          <h2 style="font-size: 1.125rem;"><b>{{ book.title }}</b></h2>
           <p class="text-mute">by {{ book.author }}
             <br>{% include svg/star.html %}{{ book.rating }} / 10
           </p>

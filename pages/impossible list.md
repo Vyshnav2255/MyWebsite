@@ -3,11 +3,10 @@ layout: page
 permalink: /impossible-list
 image: /assets/card.png
 title: Impossible List
-description: The impossible list is not a bucket list. I got this idea from Youtuber and entrepreneur Thomas Frank
+description: My personal bucket list of challenging goals and aspirations
 ---
-<h1 style="text-align:center; margin-bottom: 2rem;" >🎯️ Impossible List</h1>
 
-The impossible list is not a bucket list. I got this idea from Youtuber and entrepreneur [Thomas Frank](https://thomasjfrank.com/). The impossible list was first created by [Joel Runyon](https://impossiblehq.com/impossible-list/).
+{% include elements/page-title.html title="🎯️ Impossible List" %}
 
 I will be updating this list regularly. If you are someone who can help me make one of these a reality, please [get in touch](mailto:hi@vyshnav.xyz)
 

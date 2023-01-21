@@ -128,3 +128,14 @@ ul.task-list {
         padding-left: 0px;
     }
 }
+
+.page-header{
+    margin: 4rem auto 3rem;
+    text-align: center;
+    max-width: 360px;
+
+    h2{
+        font-weight: 700;
+        margin-bottom: 1rem;
+    }
+}

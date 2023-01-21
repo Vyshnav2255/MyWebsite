@@ -3,13 +3,10 @@ layout: regular
 title: Resources
 permalink: /resources/
 weight: 5
-description: List of useful links and pages
+description: A curated collection of valuable links and pages
 ---
 
-<div style="text-align:center; margin-bottom: 2rem;">
-    <h1>🍉 Resources</h1>
-    <p>List of useful links and pages</p>
-</div>
+{% include elements/page-title.html title="🔮 Resources" %}
 
 * ✏️ [Visual Ideas](/visuals)
 * 🎁 [Referrals](/referrals)

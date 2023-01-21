@@ -6,9 +6,7 @@ image: /assets/card.png
 description: Services & Products which I use and recommend, use these links for availing the perks
 ---
 
-<div style="text-align:center; margin-bottom: 2rem;">
-    <h1>🎁 Referrals</h1>
-</div>
+{% include elements/page-title.html title="🎁 Referrals" %}
 
 #### Todoist
 *2 Months Free*
