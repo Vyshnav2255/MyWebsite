@@ -15,7 +15,7 @@ I currently live in Kerala, India. I enjoy reading books and listening to podcas
 
 <p class="text-center" style="margin-bottom: 2rem; margin-top: 2rem;">
 {% include elements/button.html link="mailto:hi@vyshnav.xyz" text="Say hello!" icon="mail" %}
-{% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
+{% include elements/button.html style="outline" link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
 
 <div class="about-sec-h text-mute">Software Skills</div>
