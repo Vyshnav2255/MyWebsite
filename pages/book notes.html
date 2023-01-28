@@ -18,7 +18,7 @@ description: A personal library of my key takeaways, notes, & highlights from th
         <div class="item-body">
           <h2 style="font-size: 1.125rem;"><b>{{ book.title }}</b></h2>
           <p class="text-mute">by {{ book.author }}
-            <br>{% include svg/star.html %}{{ book.rating }} / 10
+            <br>{% include baseline-svg.html svg="star" %}{{ book.rating }} / 10
           </p>
           <p class="item-date text-mute" style="margin-top: .5rem;">{{ book.date | date_to_string }}</p>
         </div>
