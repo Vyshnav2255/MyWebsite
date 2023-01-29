@@ -117,3 +117,13 @@ hr{
     );
   }
 }
+
+.timeline-item{
+  .icon-tabler-clock-hour-3{
+    @include themed(color, $info, $info-light);
+  }
+
+  .icon-tabler-circle-check{
+    @include themed(color, $success, $success-light);
+  }
+}
