@@ -134,6 +134,10 @@ ul.task-list {
     text-align: center;
     max-width: 360px;
 
+    @media screen and (max-width: 768px) {
+        padding: 0 1.5rem;
+    }
+
     h2{
         font-weight: 700;
         margin-bottom: 1rem;
