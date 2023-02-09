@@ -20,7 +20,7 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 - Own an iPad
 - Own a MacBook
 - Own an Apple Watch
-- Own an iPhone
+- ~~Own an iPhone~~ (Dec 05, 2022)
 - Give a TEDx Talk
 - Attend an Apple Event
 - Spend one week without phone
