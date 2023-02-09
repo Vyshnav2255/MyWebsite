@@ -29,4 +29,6 @@ description: What I’m doing now
 
 📚 Reading - Don't Make Me Think
 
+📻 Listening - Bad Blood by John Carreyrou
+
 📍 Living in Kerala, India
