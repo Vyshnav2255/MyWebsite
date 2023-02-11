@@ -4,16 +4,10 @@ title: Now
 permalink: /now
 image: /assets/card.png
 weight: 7
-description: What I’m doing now
+description: What I’m doing now. An update on my current focus and activities
 ---
 
-# 🌱Now
-
-<div class="about-pills my-3">
-<span class="about-pill">
-<span class="live-icon"></span> LIVE
-</span>
-</div>
+{% include elements/page-title.html title="🌱 Now" %}
 
 📐 Junior Designer Intern @ Compensa
 
