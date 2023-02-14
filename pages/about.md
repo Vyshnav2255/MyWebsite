@@ -18,10 +18,10 @@ I currently live in Kerala, India. I enjoy reading books and listening to podcas
 {% include elements/button.html style="outline" link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
 
-<div class="about-sec-h text-mute">Software Skills</div>
+<div class="about-sec-h text-mute">Software Stack</div>
 
 <div>
-{% include about/software-skills.html %}
+{% include about/software-stack.html %}
 </div>
 
 <div class="about-sec-h text-mute">Design Skills</div>

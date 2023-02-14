@@ -1,6 +1,9 @@
 - name: Figma
   logo: /Images/Skills/figma.svg
 
+- name: Cron
+  logo: /Images/Skills/cron.png
+
 - name: DaVinci Resolve
   logo: /Images/Skills/DaVinci Resolve.png
 
