@@ -127,3 +127,13 @@ hr{
     @include themed(color, $success, $success-light);
   }
 }
+
+.share{
+  .btn{
+      @include themed(border-color, $dark-300, $dark-700);
+
+      svg{
+        @include themed(color, $dark-700, $dark-300);
+      }
+  }
+}

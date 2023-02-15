@@ -123,15 +123,6 @@
 
   li{del{color: $white-muted;}}
 
-  .share{
-    .btn{
-      border-color: $text-white;
-
-      &:hover{box-shadow: 0.25rem 0.25rem 0 0 $text-white}
-      svg{fill: $text-white;}
-    }
-  }
-
 .nav-link {&:hover{text-decoration-color: $text-white;}}
 .nav-item.active {text-decoration-color: $text-white;}
 
