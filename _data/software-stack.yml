@@ -1,23 +1,47 @@
 - name: Figma
-  logo: /Images/Skills/figma.svg
+  logo: /Images/Skills/figma.png
 
 - name: Cron
   logo: /Images/Skills/cron.png
 
 - name: DaVinci Resolve
-  logo: /Images/Skills/DaVinci Resolve.png
+  logo: /Images/Skills/davinci.png
 
 - name: Blender
   logo: /Images/Skills/blender.png
 
-- name: Photoshop
-  logo: /Images/Skills/photoshop.svg
+- name: Dropbox
+  logo: /Images/Skills/dropbox.png
 
-- name: Premiere Pro
-  logo: /Images/Skills/pr.svg
+- name: Forest
+  logo: /Images/Skills/forest.png
 
-- name: After Effects
-  logo: /Images/Skills/aftereffects.svg
+- name: VS Code
+  logo: /Images/Skills/vs code.png
 
-- name: Final Cut Pro
-  logo: /Images/Skills/fcp.png
+- name: Spotify
+  logo: /Images/Skills/spotify.png
+  
+- name: Endel
+  logo: /Images/Skills/endel.png
+
+- name: Pocket Casts
+  logo: /Images/Skills/pocket cast.png
+
+- name: Todoist
+  logo: /Images/Skills/todoist.png
+
+- name: Notion
+  logo: /Images/Skills/notion.png
+
+- name: OBS
+  logo: /Images/Skills/obs.png
+
+- name: Kindle
+  logo: /Images/Skills/kindle.png
+
+- name: Bitwarden
+  logo: /Images/Skills/bitwarden.png
+
+- name: Firefox
+  logo: /Images/Skills/firefox.png
