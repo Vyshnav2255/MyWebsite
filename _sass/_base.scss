@@ -1,6 +1,6 @@
 body {
     font-family: 'Hanken Grotesk', sans-serif;
-    color: $text-black;
+    color: $dark-700;
 }
 
 main{
@@ -85,10 +85,10 @@ ul.task-list {
   }
 
 .form-control{
-    border-color: $border-light;
+    border-color: $dark-300;
 
     &:focus{
-        color: $text-black;
+        color: $dark-700;
         background-color: #fff;
         border-color: $green-500;
     }

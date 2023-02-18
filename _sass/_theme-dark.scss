@@ -1,7 +1,7 @@
 [data-theme="dark"] {
   body {
     background-color: $dark-900;
-    color: $text-white;
+    color: $dark-300;
   }
 
   // Code blocks & Syntax highlighting
@@ -21,16 +21,16 @@
   // Inputs
   input{
     background-color: $dark-800;
-    border-color: $border-dark;
+    border-color: $dark-700;
     color: $dark-100;
 
     &::placeholder {
-      color: rgba($text-white, 0.64);
+      color: rgba($dark-300, 0.64);
     }
 
     &:focus {
       background-color: $dark-800;
-      color: $text-white;
+      color: $dark-300;
       border-color: $green-300;
     }
   }
@@ -60,7 +60,7 @@
   // Lists
   .list-group-item-action {
     background-color: $dark-600;
-    color: $text-white;
+    color: $dark-300;
 
     &:hover,
     &:focus {
@@ -80,19 +80,19 @@
  
 .branding{
     path{
-      fill: $text-white;
+      fill: $dark-300;
     }
 }
 
 .article{
   blockquote{
-    color: $text-white !important;
-    border-color: $text-white;
+    color: $dark-300 !important;
+    border-color: $dark-300;
       }
 
   a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.nav-item){
-    color: $text-white;
-    border-color: $text-white;
+    color: $dark-300;
+    border-color: $dark-300;
 
     &:hover {
       color: $green-200;
@@ -103,7 +103,7 @@
   }
 
   .icon-svg-themed{
-    fill: $text-white !important;
+    fill: $dark-300 !important;
   }
     
   .badge {
@@ -123,7 +123,7 @@
 
   li{del{color: $white-muted;}}
 
-.nav-link {&:hover{text-decoration-color: $text-white;}}
-.nav-item.active {text-decoration-color: $text-white;}
+.nav-link {&:hover{text-decoration-color: $dark-300;}}
+.nav-item.active {text-decoration-color: $dark-300;}
 
 }
