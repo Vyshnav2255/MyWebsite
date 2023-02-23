@@ -36,7 +36,7 @@ I currently live in Kerala, India. I enjoy reading books and listening to podcas
 {% include about/coding-skills.html %}
 </div>
 
-<div class="about-sec-h text-mute">Work Experience</div>
+<div class="about-sec-h text-mute">Work</div>
 <div class="row">
     {% include about/work-timeline.html %}
 </div>
