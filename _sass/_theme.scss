@@ -137,3 +137,7 @@ hr{
       }
   }
 }
+
+.live{
+  @include themed(border-color, $dark-300, $dark-700);
+}

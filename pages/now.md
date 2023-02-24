@@ -7,7 +7,8 @@ weight: 7
 description: What I’m doing now. An update on my current focus & activities
 ---
 
-{% include elements/page-title.html title="🌱 Now" %}
+{% include elements/page-title.html title="🌱 Now" live="true" %}
+
 
 📐 Junior Designer Intern @ Compensa
 
