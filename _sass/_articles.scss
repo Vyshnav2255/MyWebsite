@@ -46,9 +46,9 @@
     }
 
     pre {
-        background: $light;
+        background: $dark-100;
         border: 1px solid #ddd;
-        color: $dark;
+        color: $dark-700;
         font-family: monospace;
         font-size: 0.875rem;
         line-height: 1.25rem;
@@ -62,8 +62,8 @@
     }
 
     code.highlighter-rouge {
-        background-color: $light;
-        color: $dark;
+        background-color: $dark-100;
+        color: $dark-700;
         border-radius: 3px;
         margin: 0;
         padding: .2em .65em;
@@ -98,12 +98,12 @@
             padding: 0.75rem 0;
             font-weight: 500;
             text-align: left;
-            background-color: $primary;
+            background-color: $green-500;
             color: white;
         }
 
         tr:nth-child(even) {
-            background-color: $light;
+            background-color: $dark-100;
         }
     }
 }

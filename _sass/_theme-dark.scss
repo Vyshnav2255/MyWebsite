@@ -53,7 +53,7 @@
     }
 
     tr:nth-child(even) {
-      background-color: $dark;
+      background-color: $dark-700;
     }
   }
 
@@ -121,7 +121,7 @@
     circle{stroke: $green-500; fill: $dark-900;}
   }
 
-  li{del{color: $white-muted;}}
+  li{del{color: $dark-400;}}
 
 .nav-link {&:hover{text-decoration-color: $dark-300;}}
 .nav-item.active {text-decoration-color: $dark-300;}

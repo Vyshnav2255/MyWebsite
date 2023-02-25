@@ -31,10 +31,6 @@
   @include themed(color, $dark-700, $dark-300);
 }
 
-.bg-themed {
-  @include themed(background-color, $light, $dark);
-}
-
 hr{
   @include themed(background-color, $dark-100, $dark-700);
 }
@@ -56,7 +52,7 @@ hr{
 }
 
 .text-mute{
-  @include themed(color, $black-muted, $white-muted);
+  @include themed(color, $dark-500, $dark-400);
 }
 
 .about-pill{
