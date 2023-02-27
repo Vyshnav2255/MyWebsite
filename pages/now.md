@@ -10,13 +10,11 @@ description: What I’m doing now. An update on my current focus & activities
 {% include elements/page-title.html title="🌱 Now" live="true" %}
 
 
-📐 Junior Designer Intern @ Compensa
+📐 Junior Designer @ Compensa
 
 🧠 Learning [Blender](/3d) & NextJS
 
-🚧 Redesigning [this website](https://twitter.com/vyshnav_xyz/status/1605566892361539585)
-
-👨‍💻 Working on [Links](https://github.com/Vyshnav2255/links)
+👨‍💻 Redesigning [this website](https://twitter.com/vyshnav_xyz/status/1605566892361539585)
 
 ✍️ Writing [Sunday Summary](https://vyshnav.substack.com/) newsletter
 
