@@ -35,7 +35,7 @@
 
   span.live-icon{
     display: inline-block;
-    background-color: $danger;
+    @include themed(background-color, $danger, $danger-light);
     width: 0.5rem;
     height: 0.5rem;
     margin-right: 0.5rem;
@@ -44,9 +44,9 @@
     &:before{
       content: '';
       display: block;
-      background-color: rgba($danger,.6);
       height: 100%;
       border-radius: 50%;
+      @include themed(background-color, rgba($danger, .6), rgba($danger-light, .6));
       animation: live 2s ease-in-out infinite;
       z-index: -1;
     }
