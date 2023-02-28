@@ -51,10 +51,6 @@ hr{
   @include themed(color, $dark-500, $dark-400);
 }
 
-.about-pill{
-  @include themed(border-color, $dark-300, $dark-700);
-}
-
 .about-sec-h{
   &::after{
     @include themed(border-color, $dark-300, $dark-700);
