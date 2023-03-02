@@ -9,7 +9,9 @@ description: A personal library of my key takeaways, notes, & highlights from th
 
 {% include elements/page-title.html title="📚️ Book Notes" %}
 
-<div class="post-grid">
+{% include book-notes/search.html %}
+
+<div class="post-grid" id="book">
   {% for book in site.books reversed %}
     <div class="post-grid-item book">
       <a href="{{ book.url }}" class="post text-themed" >
@@ -20,6 +22,7 @@ description: A personal library of my key takeaways, notes, & highlights from th
           <p class="text-mute">by {{ book.author }}
             <br>{% include baseline-svg.html svg="star" %}{{ book.rating }} / 10
           </p>
+          <p style="display: none;">{{ book.tags }}</p>
           <p class="item-date text-mute" style="margin-top: .5rem;">{{ book.date | date_to_string }}</p>
         </div>
       </div>

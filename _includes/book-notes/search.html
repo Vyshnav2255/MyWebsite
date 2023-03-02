@@ -1,0 +1,15 @@
+<span class="input-group search-bar" style="margin: 2rem 0;">
+  <input style="height: 44px; border-radius: .5rem;" id="search-input" type="text" class="form-control search-box" placeholder="Search books by title, author, or genre">
+</span>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+  $("#search-input").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("#book div").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+</script>
