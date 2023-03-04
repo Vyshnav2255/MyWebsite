@@ -22,7 +22,7 @@ description: A collection of articles written by me on various topics
     
     <div class="post-grid-item">
       <a href="{{ blog_url }}" class="post text-themed">
-        <img class="thumbnail" src="{{ blog.image }}" alt="{{ blog.title }}"/>
+        <img src="{{ blog.image }}" alt="{{ blog.title }}"/>
         <div class="blog-body">
           <h2><b>{{ blog.title }}</b></h2>
           <p class="text-mute">{{ blog.content | markdownify | strip_html | truncate: 82 }}</p>
