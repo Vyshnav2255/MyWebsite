@@ -12,7 +12,6 @@ description: A curated collection of valuable links and pages
 * 🎁 [Referrals](/referrals)
 * 💎 [Goals](/goals)
 * 🎯️ [My Impossible List](/impossible-list)
-* ✒️ [Microblog](/microblog/)
 
 <div class="about-sec-h text-mute" style="margin-bottom: 1rem;">Side Projects</div>
 
