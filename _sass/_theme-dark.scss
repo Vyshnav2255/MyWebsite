@@ -113,14 +113,6 @@
     &:hover{background-color: #0e9a83;}
     }
 
-  .wrapper-svg{
-    .p-fill{fill: $green-300;}
-    .p-stroke{fill: $green-500;}
-    line{stroke: $green-500;}
-    rect{stroke: $green-500; fill: $dark-900;}
-    circle{stroke: $green-500; fill: $dark-900;}
-  }
-
   li{del{color: $dark-400;}}
 
 .nav-link {&:hover{text-decoration-color: $dark-300;}}
