@@ -1,2 +1,10 @@
-<a class="m-1 btn btn-{{ include.style | default: 'fill' }}" target="_blank" rel="noopener" href="{{ include.link | default: '#' }}">
+<a class="m-1 btn btn-{{ include.style | default: 'fill' }}" 
+
+    {% if include.newtab == 'false' %}
+     
+    {% else %}
+    target="_blank" rel="noopener"
+    {% endif %}
+    
+    href="{{ include.link | default: '#' }}">
 {% include svg/{{ include.icon }}.svg %}{{ include.text | default: "Button" }}</a>
