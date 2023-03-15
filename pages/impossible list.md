@@ -43,7 +43,8 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 - Write 100 blog posts
 - ~~Gain 500 Twitter followers~~ ([Mar 07, 2022](https://twitter.com/vyshnav_xyz/status/1500835594146045956))
     - ~~Gain 1,000 followers~~ ([Apr 24, 2022](https://twitter.com/vyshnav_xyz/status/1518463933513830401))
-    - Gain 2,000 followers
+    - ~~Gain 2,000 followers~~ (Feb 25, 2023)
+    - Gain 3,000 followers
 - ~~Make $1000 from Buy me a Coffee~~ ([Sept 28, 2021](/microblog/made-my-first-1000-on-the-internet))
     - Make $2000
 - ~~Make $1000 from Gumroad~~ ([Aug 13, 2022](https://twitter.com/vyshnav_xyz/status/1558318494969733121))
