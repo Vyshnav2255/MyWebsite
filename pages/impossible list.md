@@ -20,7 +20,7 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 - Own an iPad
 - Own a MacBook
 - Own an Apple Watch
-- ~~Own an iPhone~~ (Dec 05, 2022)
+- ~~Own an iPhone~~ ( Dec 05, 2022 )
 - Give a TEDx Talk
 - Attend an Apple Event
 - Spend one week without phone
@@ -43,7 +43,7 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 - Write 100 blog posts
 - ~~Gain 500 Twitter followers~~ ([Mar 07, 2022](https://twitter.com/vyshnav_xyz/status/1500835594146045956))
     - ~~Gain 1,000 followers~~ ([Apr 24, 2022](https://twitter.com/vyshnav_xyz/status/1518463933513830401))
-    - ~~Gain 2,000 followers~~ (Feb 25, 2023)
+    - ~~Gain 2,000 followers~~ ( Feb 25, 2023 )
     - Gain 3,000 followers
 - ~~Make $1000 from Buy me a Coffee~~ ([Sept 28, 2021](/microblog/made-my-first-1000-on-the-internet))
     - Make $2000
