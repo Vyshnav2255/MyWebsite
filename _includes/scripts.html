@@ -10,22 +10,3 @@
 
   gtag('config', 'UA-142301295-3');
 </script>
-
-<script>
-  function share() {
-  
-    if (navigator.share) {
-      navigator.share({
-        title: "{{ page.title }}",
-        text: "{{ page.description }}",
-        url: "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
-      })
-      .catch((error) => console.log("Error sharing", error));
-  
-      return false;
-    } else {
-      console.log("Sharing not supported; falling back to link");
-      return true;
-    }
-  }
-  </script>
