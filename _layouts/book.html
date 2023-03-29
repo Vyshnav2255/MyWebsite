@@ -9,7 +9,7 @@ layout: page
     by <b>{{ page.author }}</b>
     <br>
     {{ page.date | date: "%B %d, %Y" }}
-  • 🌟 {{ page.rating }} / 10
+  • 🌟 {{ page.rating | divided_by: 2.0 }}
 
   <br>
   ⏳
