@@ -20,10 +20,6 @@ Also, share it with your family and friends who need help in finance tracking.
 > ⚠️ Check out the updated template [here](/blog/notion-finance-tracker-v2)
 
 <p class="text-center">
-{% include elements/button.html link="https://shop.vyshnav.xyz/l/iixpa" text="Duplicate Template" icon="copy"  %}
+{% include elements/button.html link="https://vyshnav.lemonsqueezy.com/checkout/buy/42c0c31c-5786-4454-b8bf-c0cf33872992" text="Duplicate Template" icon="copy"  %}
 {% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
-</p>
-
-<p class="text-center">
-<a href="https://www.producthunt.com/posts/notion-finance-tracker-3?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-notion-finance-tracker-3" style="text-decoration: none !important; background-color: transparent;" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=302998&theme=light" alt="Notion Finance Tracker - A finance tracker that is simple, powerful and easy to use | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 </p>

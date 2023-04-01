@@ -17,6 +17,6 @@ This pack contains **108 covers** in total. All covers are available in **9 colo
 Get your copy.
 
 <p class="text-center">
-{% include elements/button.html link="https://shop.vyshnav.xyz/l/amaib" text="Download Here" icon="download" %}
+{% include elements/button.html link="https://vyshnav.lemonsqueezy.com/checkout/buy/5b85b069-bc7b-4e88-8772-e57368ced959" text="Download Here" icon="download" %}
 {% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>

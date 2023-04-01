@@ -25,6 +25,6 @@ I have been using these icons for the past month, and I'm really enjoying them. 
 
 You can get this pack from my Buy Me a Coffee page or click the below button to get your copy.
 <p class="text-center">
-{% include elements/button.html link="https://shop.vyshnav.xyz/l/smSZr" text="Download Here" icon="download" %}
+{% include elements/button.html link="https://vyshnav.lemonsqueezy.com/checkout?cart=e8f12b77-b801-47a5-9d50-a47c72dff71e" text="Download Here" icon="download" %}
 {% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
