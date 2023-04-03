@@ -10,7 +10,7 @@ description: What I’m doing now. An update on my current focus & activities
 {% include elements/page-title.html title="🌱 Now" live="true" %}
 
 
-📐 Junior Designer @ Compensa
+📐 Product Designer @ Brainfish
 
 🧠 Learning [Blender](/3d) & NextJS
 
