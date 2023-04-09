@@ -15,8 +15,9 @@ description: A curated collection of valuable links and pages
 
 <div class="about-sec-h text-mute" style="margin-bottom: 1rem;">Side Projects</div>
 
+* 🎨 [Notion Icons 3D](https://notion3d.vyshnav.xyz/){:target="_blank" rel="noopener"}
 * 🔗 [Links](https://github.com/Vyshnav2255/links){:target="_blank" rel="noopener"}
-* 🚧 [Lockscreen Tasks](https://twitter.com/vyshnav_xyz/status/1479787683417366531){:target="_blank" rel="noopener"} (In progress)
+* 🚧 [Lockscreen Tasks](https://twitter.com/vyshnav_xyz/status/1479787683417366531){:target="_blank" rel="noopener"}
 * 🎨 [Notion Icons v5](https://notionv5.vyshnav.xyz/){:target="_blank" rel="noopener"}
 * 🎨 [Notion Icons v3](https://notionv3.vyshnav.xyz/){:target="_blank" rel="noopener"}
 * 🎨 [Notion Icons v2](https://notionv2.vyshnav.xyz/){:target="_blank" rel="noopener"}
