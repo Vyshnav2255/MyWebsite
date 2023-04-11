@@ -1,0 +1,16 @@
+.desk-container{
+    position: relative;
+
+    &:hover .desk-hover{
+        opacity: 1;
+    }
+}
+.desk-setup{
+    content: url("/Images/desk.webp");
+}
+.desk-hover{
+    content: url("/Images/desk-hover.webp");
+    position: absolute;
+    opacity: 0;
+    transition: opacity .17s ease-in-out;
+}
