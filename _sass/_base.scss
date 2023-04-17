@@ -62,17 +62,8 @@ main{
     padding: 0 0.625rem;
 }
 
-.text-center {
-    text-align: center !important;
-}
-
 .icon-svg-themed{
     fill: #343a40;
-}
-
-small{
-    font-size: 80%;
-    font-weight: 400;
 }
 
 * {
@@ -111,15 +102,6 @@ ul.task-list {
         top: .12em;
         position: relative;
     }
-}
-
-.section-heading{
-    margin-bottom: 1rem;
-    font-size: 0.875rem;
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 0.25rem;
-    line-height: 1.5rem;
 }
 
 .resources{
