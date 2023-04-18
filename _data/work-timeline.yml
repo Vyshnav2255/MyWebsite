@@ -2,35 +2,42 @@
   date: Present
   description: Brainfish
   link: https://www.brainfi.sh/
+  type: Remote
 
 - title: Notion Icons 3D
   date: Present
   description: Maker
   link: https://notion3d.vyshnav.xyz/
+  type: Side project
 
 - title: Links
   date: Present
   description: Maker
   link: https://github.com/Vyshnav2255/links
+  type: Side project
 
 - title: Notion Icons v5
   date: Present
   description: Maker
   link: https://notionv5.vyshnav.xyz/
+  type: Side project
 
 - title: Visual Illustrations
   date: 2021 - 22
   description: Maker
   link: /visuals
+  type: Side project
 
 - title: Lockscreen Tasks
   date: 2022
   description: Maker
   link: https://twitter.com/vyshnav_xyz/status/1479787683417366531
+  type: Side project
 
 - title: UI/UX Designer(Intern)
   date: 2020
   description: Mirazh
+  type: Remote
 
 - title: Creative Head
   date: 2019 - 20

@@ -1,6 +1,6 @@
 <div class="timeline-item">
     <div style="display: flex; justify-content: space-between;">
-      <div style="display: flex; align-items: center;">
+      <div style="display: flex;">
 
         {% if item.date contains "Present" %}
           {% include svg/progress.svg %}
@@ -8,15 +8,24 @@
           {% include svg/check.svg %}
         {% endif %}
 
-        {% if item.link %}
-          <span><b><a title="{{ item.title }}" target="_blank" rel="noopener" href="{{ item.link }}">{{ item.title }}{% include baseline-svg.html svg="ext-link" %}</a></b></span>
-        {% else %}
-          <span><b>{{ item.title }}</b></span>
-        {% endif %}
+        <div>
+          {% if item.link %}
+            <span><b><a title="{{ item.title }}" target="_blank" rel="noopener" href="{{ item.link }}">{{ item.title }}{% include baseline-svg.html svg="ext-link" %}</a></b></span>
+          {% else %}
+            <span><b>{{ item.title }}</b></span>
+          {% endif %}
+
+          <div class="content">
+            <span>{{ item.description }}</span>
+    
+              {% if item.type %}
+                <span> ✦ {{ item.type }}</span>
+              {% endif %}
+          </div>
+
+        </div>
+        
       </div>
         <span class="text-mute">{{ item.date }}</span>
-    </div>
-    <div class="content">
-      <span>{{ item.description }}</span>
     </div>
 </div>
