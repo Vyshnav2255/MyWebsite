@@ -1,7 +1,7 @@
 .about-pills{
     display: flex;
     flex-wrap: wrap;
-    gap: .5rem;
+    gap: .75rem;
 }
 
 .about-pill{
@@ -13,7 +13,7 @@
     font-size: 0.875rem;
     border-radius: 2rem;
     border: 1px solid;
-    gap: .75rem;
+    gap: .5rem;
     @include themed(border-color, $dark-300, $dark-700);
 
     img{
