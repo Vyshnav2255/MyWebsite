@@ -13,7 +13,7 @@
     font-size: 0.875rem;
     border-radius: 2rem;
     border: 1px solid;
-    gap: .5rem;
+    gap: .75rem;
     @include themed(border-color, $dark-300, $dark-700);
 
     img{
