@@ -5,6 +5,11 @@
         position: relative;
 		margin-bottom: .75rem;
 
+		.content{
+			display: flex;
+			gap: .25rem;
+		}
+
 		svg{
 			margin-right: .5rem;
 		}
