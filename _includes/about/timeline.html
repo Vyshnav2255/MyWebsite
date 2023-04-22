@@ -2,10 +2,10 @@
     <div style="display: flex; justify-content: space-between;">
       <div style="display: flex;">
 
-        {% if item.date contains "Present" %}
-          {% include svg/progress.svg %}
-        {% else %}
+        {% if item.end != nil %}
           {% include svg/check.svg %}
+        {% else %}
+          {% include svg/progress.svg %}
         {% endif %}
 
         <div>
@@ -23,9 +23,15 @@
               {% endif %}
           </div>
 
+          <span>
+            {{ item.start | date: "%b %y" }}
+            &mdash;
+            {{ item.end | date: "%b %y" | default: "Present" }}
+          </span>
+
         </div>
         
       </div>
-        <span class="text-mute">{{ item.date }}</span>
+        <span class="text-mute">{% include date-diff.html %}</span>
     </div>
 </div>
