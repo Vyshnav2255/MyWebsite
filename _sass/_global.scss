@@ -15,3 +15,7 @@ small{
     letter-spacing: 0.25rem;
     line-height: 1.5rem;
 }
+
+.neutral-light{
+    @include themed(color, $dark-300, $dark-700);
+}

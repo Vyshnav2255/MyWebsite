@@ -5,6 +5,7 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "variables",
+        "theme",
         "global",
         "base",
         "navbar",
@@ -12,7 +13,6 @@
         "articles",
         "autumn",
         "timeline",
-        "theme",
         "native",
         "buttons",
         "about",
