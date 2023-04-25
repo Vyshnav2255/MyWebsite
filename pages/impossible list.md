@@ -25,6 +25,7 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 - Attend an Apple Event
 - Spend one week without phone
 - Spend one week without internet
+- Visit an Apple Store
 
 <div class="about-sec-h text-mute" style="margin-bottom: 1rem;">🏋️ Fitness/Health Goals</div>
 
@@ -33,7 +34,7 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 
 <div class="about-sec-h text-mute" style="margin-bottom: 1rem;">💼 Professional Goals</div>
 
-- Work in a Remote Company
+- ~~Work in a Remote Company~~ ( Dec 12, 2022 )
 - Get 100,000 blog visits, all time
 - ~~Start a newsletter~~ ([Aug 24, 2021](/microblog/launched-my-newsletter))
     - ~~Gain 100 subscribers~~ ([May 20, 2022](https://twitter.com/vyshnav_xyz/status/1527575463111032832))
@@ -48,7 +49,6 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 - ~~Make $1000 from Buy me a Coffee~~ ([Sept 28, 2021](/microblog/made-my-first-1000-on-the-internet))
     - Make $2000
 - ~~Make $1000 from Gumroad~~ ([Aug 13, 2022](https://twitter.com/vyshnav_xyz/status/1558318494969733121))
-    - Make $10,000
 - Gain 500 Supporters - Buy Me a Coffee
 
 <div class="about-sec-h text-mute" style="margin-bottom: 1rem;">🎨 Creative Goals</div>
