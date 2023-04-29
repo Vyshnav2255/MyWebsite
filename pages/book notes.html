@@ -13,10 +13,10 @@ description: A personal library of my key takeaways, notes, & highlights from th
 
 <div class="post-grid" id="book">
   {% for book in site.books reversed %}
-    <div class="post-grid-item book">
-      <a href="{{ book.url }}" class="post text-themed" >
-        <img src="{{ book.image }}" alt="{{ book.title }}" loading="lazy"/>
-        <div class="item">
+  <div class="post-grid-item book">
+    <a href="{{ book.url }}" class="post text-themed">
+      <img src="{{ book.image }}" alt="{{ book.title }}" loading="lazy" />
+      <div class="item">
         <div class="item-body">
           <h2><b>{{ book.title }}</b></h2>
           <p class="text-mute">by {{ book.author }}
@@ -26,7 +26,7 @@ description: A personal library of my key takeaways, notes, & highlights from th
           <p class="item-date text-mute" style="margin-top: .5rem;">{{ book.date | date_to_string }}</p>
         </div>
       </div>
-      </a>
-    </div>
+    </a>
+  </div>
   {% endfor %}
 </div>
