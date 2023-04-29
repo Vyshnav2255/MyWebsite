@@ -20,6 +20,6 @@ description: What I’m doing now. An update on my current focus & activities
 
 📚 Reading - Steve Jobs & Deep Work
 
-📻 Listening - Bad Blood by John Carreyrou
+📻 Listening - The Interview by C.M. Ewan
 
 📍 Living in Kerala, India
