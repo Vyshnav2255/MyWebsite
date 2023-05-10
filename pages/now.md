@@ -12,8 +12,6 @@ description: What I’m doing now. An update on my current focus & activities
 
 📐 Product Designer @ Brainfish
 
-🏖️ Chilling in Goa
-
 🧠 Learning [Blender](/3d) & NextJS
 
 👨‍💻 Redesigning [this website](https://twitter.com/vyshnav_xyz/status/1605566892361539585)
