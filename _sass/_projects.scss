@@ -52,6 +52,11 @@ img{
     height: 100%;
     gap: 1rem;
     text-decoration: none !important;
+
+    img{
+        border: 1px solid;
+        @include themed(border-color, $dark-300, $dark-700);
+    }
 }
 
 .blog-tags{
