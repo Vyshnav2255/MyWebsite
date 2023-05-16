@@ -3,6 +3,11 @@
     grid-column-gap: 2rem;
     grid-row-gap: 2rem;
     grid-template-columns:repeat(4, 1fr);
+
+    img{
+        border: 1px solid;
+        @include themed(border-color, $dark-300, $dark-700);
+    }
 }
 
 @media (min-width: 600px) {
@@ -52,11 +57,6 @@ img{
     height: 100%;
     gap: 1rem;
     text-decoration: none !important;
-
-    img{
-        border: 1px solid;
-        @include themed(border-color, $dark-300, $dark-700);
-    }
 }
 
 .blog-tags{
