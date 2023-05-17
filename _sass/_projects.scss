@@ -5,6 +5,7 @@
     grid-template-columns:repeat(4, 1fr);
 
     img{
+        border-radius: .5rem;
         border: 1px solid;
         @include themed(border-color, $dark-300, $dark-700);
     }
@@ -47,7 +48,6 @@
 
 img{
     max-width: 100%;
-    border-radius: .5rem;
 }
 
 .post {
