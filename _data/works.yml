@@ -40,6 +40,18 @@
   image: /Images/works/niv5.png
   url: https://notionv5.vyshnav.xyz/
 
+- name: Notion Icons 3.0
+  date: 2021
+  description: Create a More Minimal Notion Workspace
+  image: /Images/works/niv3.webp
+  url: https://notionv3.vyshnav.xyz/
+
+- name: Notion Icons 2.0
+  date: 2021
+  description: Create a more vibrant & modern Notion workspace
+  image: /Images/works/niv2.webp
+  url: https://notionv2.vyshnav.xyz/
+
 - name: Sunday Summary
   date: 2021 - Now
   description: Weekly newsletter featuring creations and discoveries
