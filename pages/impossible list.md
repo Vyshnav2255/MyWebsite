@@ -14,7 +14,7 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 
 <div class="about-sec-h text-mute" style="margin-bottom: 1rem;">😃 Life Goals</div>
 
-- Read 100 books
+- Read 100 books (90/100)
 - Change 1 Person’s Life For The Better
 - Own a Kindle reader
 - Own an iPad
@@ -26,6 +26,8 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 - Spend one week without phone
 - Spend one week without internet
 - Visit an Apple Store
+- Attend a Figma Event
+- Get some Figma swag
 
 <div class="about-sec-h text-mute" style="margin-bottom: 1rem;">🏋️ Fitness/Health Goals</div>
 
