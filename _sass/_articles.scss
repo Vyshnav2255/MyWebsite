@@ -113,7 +113,10 @@ mark{
     background-color: #89ffde9d;
 }
 
-li{
-    del{color: #4d4d4d;}
+li {
+    del {
+        @include themed(color, $dark-500, $dark-400);
+    }
+
     margin-bottom: .25rem;
 }
