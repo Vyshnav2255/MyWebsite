@@ -1,28 +1,27 @@
 <footer style="margin-top: auto; padding-top: 3rem; padding-bottom: 1rem; display: block; text-align: center;">
 
   <small>
-  Made with ❤️ by <strong>Vyshnav</strong> • Mark V
+    Crafted with ❤️ by <strong>Vyshnav</strong> • Mark V
   </small>
 
   <div class="container-fluid" style="margin-top: .25rem;">
 
     {% for account in site.author %}
-  
-      {% assign service_name = account[0] %}
-      {% if service_name == "name" or service_name == "image" %}
-        {% continue %}
-      {% endif %}
-  
-      {% assign service_data = site.data.social-media[service_name] %}
-      <a title="Follow me on {{ service_name }}" class="social"  href="{{ service_data.url }}{{ account[1] }}"
-        target="_blank" rel="noopener"
-        style="padding: .5rem; text-decoration: none !important;"
-         aria-label="{{ service_name }}">
-        {{ service_data.icon }}
-      </a>
-    
+
+    {% assign service_name = account[0] %}
+    {% if service_name == "name" or service_name == "image" %}
+    {% continue %}
+    {% endif %}
+
+    {% assign service_data = site.data.social-media[service_name] %}
+    <a title="Follow me on {{ service_name }}" class="social" href="{{ service_data.url }}{{ account[1] }}"
+      target="_blank" rel="noopener" style="padding: .5rem; text-decoration: none !important;"
+      aria-label="{{ service_name }}">
+      {{ service_data.icon }}
+    </a>
+
     {% endfor %}
-  
+
   </div>
 
 </footer>
