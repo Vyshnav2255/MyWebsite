@@ -3,30 +3,24 @@ layout: page
 ---
 <article>
   <header>
-<h1 style="margin-top: 1rem;">{{ page.title }}</h1>
+    <h1 style="margin-top: 1rem;">{{ page.title }}</h1>
 
-<p class="article-metadata text-mute">
-    by <b>{{ page.author }}</b>
-    <br>
-    {{ page.date | date: "%B %d, %Y" }}
-  • 🌟 {{ page.rating | divided_by: 2.0 }}
+    <p class="article-metadata text-mute">
+      by <b>{{ page.author }}</b>
+      <br>
+      {{ page.date | date: "%B %d, %Y" }}
+      • {% include baseline-svg.html svg="star" %}{{ page.rating | divided_by: 2.0 }}
 
-  <br>
-  ⏳
-  {% assign words = content | number_of_words %}
-  {% if words < 360 %}
-  1 min read time
-  {% else %}
-  {{ words | divided_by:180 }} mins read time
-  {% endif %}
+      <br>
+        {% assign words = content | number_of_words %}
+        {% include baseline-svg.html svg="clock" %}{% if words < 360 %}1 min read time {% else %}{{ words | divided_by:180 }} mins read time {% endif %}
+    </p>
+  </header>
+  <hr>
 
-</p>
-</header>
-<hr>
-
-<section>
-{{ content }}
-</section>
+  <section>
+    {{ content }}
+  </section>
 
 </article>
 {% include share.html %}
