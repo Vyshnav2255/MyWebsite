@@ -18,7 +18,7 @@ description: What I’m doing now. An update on my current focus & activities
 
 ✍️ Writing [Sunday Summary](https://vyshnav.substack.com/) newsletter
 
-📚 Reading - Steve Jobs & Deep Work
+📚 Reading - Deep Work
 
 📻 Listening - The Interview by C.M. Ewan
 
