@@ -85,10 +85,6 @@
 }
 
 .article{
-  blockquote{
-    color: $dark-300;
-    border-color: $dark-500;
-      }
 
   a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.nav-item){
     color: $dark-300;

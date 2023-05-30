@@ -61,15 +61,15 @@
     }
 
     blockquote {
-        border: 1px solid $dark-500;
-        color: $dark-700;
+        border: 1px solid;
         font-size: 1.125rem;
         font-style: italic;
         padding: 1rem;
         margin: 1.5rem 0;
-        border-radius: 0.25rem;
+        border-radius: 0.5rem;
+        @include themed(border-color, $dark-400, $dark-600);
 
-        p{
+        p {
             margin-bottom: 0;
         }
     }
