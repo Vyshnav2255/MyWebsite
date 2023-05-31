@@ -84,20 +84,6 @@
     }
 }
 
-.article{
-
-  a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.tweet-icon):not(.tweet-foot):not(.nav-item){
-    color: $dark-300;
-    border-color: $dark-300;
-
-    &:hover {
-      color: $green-200;
-      border-color: $green-200;
-      background-color: $green-900;
-    }
-    }
-  }
-
   .icon-svg-themed{
     fill: $dark-300 !important;
   }
@@ -108,6 +94,7 @@
 
     &:hover{background-color: #0e9a83;}
     }
+
 
 .nav-link {&:hover{text-decoration-color: $dark-300;}}
 .nav-item.active {text-decoration-color: $dark-300;}
