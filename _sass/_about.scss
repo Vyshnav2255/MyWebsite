@@ -31,6 +31,7 @@
   padding: 0.25rem 0.5rem;
   border-radius: 2rem;
   letter-spacing: .125rem;
+  @include themed(border-color, $dark-300, $dark-700);
 
   span.live-icon{
     display: inline-block;

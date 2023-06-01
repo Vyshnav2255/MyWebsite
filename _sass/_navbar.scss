@@ -15,8 +15,8 @@
 
 .branding {
     display: inline;
-    svg{
-        fill: $dark-700;
+    path{
+        @include themed(fill, $dark-700, $dark-300);
     }
 }
 
@@ -24,6 +24,7 @@
     padding: .5rem .5rem .5rem 1rem;
     border-radius: .75rem;
     min-height: 52px;
+    @include themed(background-color, $dark-100, $dark-800);
 }
 
 #theme-toggler:before{

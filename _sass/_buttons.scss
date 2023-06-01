@@ -6,15 +6,28 @@
     font-weight: 500;
     height: 2.75rem;
     transition: all .14s ease-out;
+    @include themed(color, $dark-900, $dark-900);
+    @include themed(background-color, $green-400, $green-300);
 
     svg{
         margin-right: 0.5rem;
+        @include themed(color, $dark-900, $dark-900);
     }
+
+    &:hover{
+        @include themed(background-color, $green-500, $green-400);
+      }
 }
 
 .btn-outline{
     background-color: transparent !important;
     border: 1px solid;
+    @include themed(color, $green-900, $green-300);
+    @include themed(border-color, $green-400, $green-500);
+
+    svg{
+      @include themed(color, $green-900, $green-300);
+    }
 }
 
 .share{
@@ -24,9 +37,11 @@
     .btn{
         background-color: transparent;
         font-size: 0;
+        @include themed(border-color, $dark-300, $dark-700);
 
         svg{
             margin-right: 0;
+            @include themed(color, $dark-700, $dark-300);
         }
 
         &:hover{svg{color: #fff;}}

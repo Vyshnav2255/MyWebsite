@@ -35,10 +35,6 @@ hr{
   @include themed(background-color, $dark-100, $dark-700);
 }
 
-.post-grid-item{
-  @include themed(border-color, $dark-300, $dark-700);
-}
-
 .item-footer{
   @include themed(border-color, $dark-300, $dark-700);
 }
@@ -66,37 +62,6 @@ hr{
   }
 }
 
-.post-tag{
-  @include themed(color, $green-900, $green-100);
-  @include themed(background-color, $green-100, $green-800);
-  &:hover{
-    @include themed(background-color, $green-300, $green-900);
-  }
-}
-
-.btn{
-  @include themed(color, $dark-900, $dark-900);
-  @include themed(background-color, $green-400, $green-300);
-  svg{
-    @include themed(color, $dark-900, $dark-900);
-  }
-  &:hover{
-    @include themed(background-color, $green-500, $green-400);
-  }
-}
-
-.btn-outline{
-  @include themed(color, $green-900, $green-300);
-  @include themed(border-color, $green-400, $green-500);
-  svg{
-    @include themed(color, $green-900, $green-300);
-  }
-}
-
-.navbar{
-  @include themed(background-color, $dark-100, $dark-800);
-}
-
 .search-bar{
   input{
     @include themed(background,
@@ -114,18 +79,4 @@ hr{
   .icon-tabler-circle-check{
     @include themed(color, $success, $success-light);
   }
-}
-
-.share{
-  .btn{
-      @include themed(border-color, $dark-300, $dark-700);
-
-      svg{
-        @include themed(color, $dark-700, $dark-300);
-      }
-  }
-}
-
-.live{
-  @include themed(border-color, $dark-300, $dark-700);
 }

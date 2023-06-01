@@ -35,17 +35,6 @@
     }
   }
 
-  // Cards
-  .card {
-    background-color: #1a1a1a;
-  }
-
-  .card.border {
-    .card-footer {
-      background-color: rgba(0, 0, 0, 0.1);
-    }
-  }
-
   // Tables
   table:not(.highlight) {
     td {
@@ -68,26 +57,6 @@
     }
   }
 
-  // Post
-  .post footer {
-    text-decoration: none;
-  }
-
-  // Timeline 
-  .timeline-body .timeline-item:after{
-    background-color: $dark-900;
-  }
- 
-.branding{
-    path{
-      fill: $dark-300;
-    }
-}
-
-  .icon-svg-themed{
-    fill: $dark-300 !important;
-  }
-    
   .badge {
     background-color: #003933;
     color: #89ffdd;
