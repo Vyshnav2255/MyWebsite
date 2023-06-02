@@ -8,25 +8,30 @@
     font-weight: 700;
 }
 
-.navbar-toggler{
+.navbar-toggler {
     border: none;
     padding: .5rem;
+
+    svg {
+        @include themed(color, $dark-700, $dark-300);
+    }
 }
 
 .branding {
     display: inline;
-    path{
+
+    path {
         @include themed(fill, $dark-700, $dark-300);
     }
 }
 
-.navbar{
+.navbar {
     padding: .5rem .5rem .5rem 1rem;
     border-radius: .75rem;
     min-height: 52px;
     @include themed(background-color, $dark-100, $dark-800);
 }
 
-#theme-toggler:before{
+#theme-toggler:before {
     height: 1.25rem;
 }

@@ -39,10 +39,6 @@ hr{
   @include themed(border-color, $dark-300, $dark-700);
 }
 
-.svg-themed{
-  @include themed(fill, $dark-700, $dark-300);
-}
-
 .text-mute{
   @include themed(color, $dark-500, $dark-400);
 }
