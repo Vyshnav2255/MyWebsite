@@ -28,9 +28,9 @@
         border-bottom: 1px solid;
         padding: 0.125rem;
         @include themed(color, $dark-700, $dark-300);
-        @include themed(border-color, $dark-700, $dark-300);
+        @include themed(border-color, $dark-300, $dark-700);
 
-        &:hover { 
+        &:hover {
             @include themed(color, $green-900, $green-200);
             @include themed(border-color, $green-900, $green-200);
             @include themed(background-color, $green-100, $green-900);
