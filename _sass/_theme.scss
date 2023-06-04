@@ -35,10 +35,6 @@ hr{
   @include themed(background-color, $dark-100, $dark-700);
 }
 
-.item-footer{
-  @include themed(border-color, $dark-300, $dark-700);
-}
-
 .text-mute{
   @include themed(color, $dark-500, $dark-400);
 }
