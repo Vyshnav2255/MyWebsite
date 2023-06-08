@@ -39,12 +39,6 @@ hr{
   @include themed(color, $dark-500, $dark-400);
 }
 
-.about-sec-h{
-  &::after{
-    @include themed(border-color, $dark-300, $dark-700);
-  }
-}
-
 .social{
   svg{
     @include themed(color, $dark-700, $dark-300);
