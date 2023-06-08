@@ -18,7 +18,7 @@ description: A personal library of my key takeaways, notes, & highlights from th
       <img src="{{ book.image }}" alt="{{ book.title }}" loading="lazy" />
       <div class="item">
         <div class="item-body">
-          <h2><b>{{ book.title }}</b></h2>
+          <h2 class="font-18"><b>{{ book.title }}</b></h2>
           <p class="text-mute">by {{ book.author }}
             <br>{% include baseline-svg.html svg="star" %}{{ book.rating | divided_by: 2.0 }}
           </p>

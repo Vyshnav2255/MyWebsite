@@ -1,0 +1,88 @@
+.font-10 {
+    font-size: 0.625rem;
+    line-height: 1rem;
+    letter-spacing: 0.01rem;
+}
+
+.font-12 {
+    font-size: 0.75rem;
+    line-height: 1rem;
+    letter-spacing: normal;
+}
+
+.font-14 {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    letter-spacing: -0.006rem;
+}
+
+.font-16 {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    letter-spacing: -0.011rem;
+}
+
+.font-18 {
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+    letter-spacing: -0.014rem;
+}
+
+.font-20 {
+    font-size: 1.25rem;
+    line-height: 2rem;
+    letter-spacing: -0.017rem;
+}
+
+.font-24 {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    letter-spacing: -0.019rem;
+}
+
+.font-28 {
+    font-size: 1.75rem;
+    line-height: 2.25rem;
+    letter-spacing: -0.021rem;
+}
+
+.font-32 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+    letter-spacing: -0.021rem;
+}
+
+.font-40 {
+    font-size: 2.5rem;
+    line-height: 3.5rem;
+    letter-spacing: -0.021rem;
+}
+
+h1 {
+    @extend .font-40;
+}
+
+h2 {
+    @extend .font-32;
+}
+
+h3 {
+    @extend .font-28;
+}
+
+h4 {
+    @extend .font-24;
+}
+
+h5 {
+    @extend .font-20;
+}
+
+h6 {
+    @extend .font-18;
+}
+
+p {
+    @extend .font-16;
+    letter-spacing: normal;
+}
