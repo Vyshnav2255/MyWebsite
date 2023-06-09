@@ -7,6 +7,10 @@ small{
     font-weight: 400;
 }
 
+img {
+    max-width: 100%;
+}
+
 .section-heading{
     @extend .font-14;
     margin-bottom: 1rem;
