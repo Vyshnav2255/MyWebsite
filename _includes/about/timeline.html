@@ -10,9 +10,9 @@
 
         <div>
           {% if item.link %}
-            <span><b><a title="{{ item.title }}" target="_blank" rel="noopener" href="{{ item.link }}">{{ item.title }}{% include baseline-svg.html svg="ext-link" %}</a></b></span>
+            <div><b><a title="{{ item.title }}" target="_blank" rel="noopener" href="{{ item.link }}">{{ item.title }}{% include baseline-svg.html svg="ext-link" %}</a></b></div>
           {% else %}
-            <span><b>{{ item.title }}</b></span>
+            <div><b>{{ item.title }}</b></div>
           {% endif %}
 
           <div class="content">
@@ -23,15 +23,15 @@
               {% endif %}
           </div>
 
-          <span>
+          <div>
             {{ item.start | date: "%b %y" }}
             &mdash;
             {{ item.end | date: "%b %y" | default: "Present" }}
-          </span>
+          </div>
 
         </div>
         
       </div>
-        <span class="text-mute">{% include date-diff.html %}</span>
+        <div class="text-mute">{% include date-diff.html %}</div>
     </div>
 </div>
