@@ -17,6 +17,7 @@ img {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.25rem;
+    @extend .text-mute;
 }
 
 .about-sec-h{
