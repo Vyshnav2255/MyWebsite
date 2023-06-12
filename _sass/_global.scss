@@ -13,18 +13,16 @@ img {
 
 .section-heading{
     @extend .font-14;
+    font-weight: 500;
     margin-bottom: 1rem;
-    font-weight: bold;
     text-transform: uppercase;
-    letter-spacing: 0.25rem;
+    letter-spacing: 0.125rem;
     @extend .text-mute;
 }
 
 .about-sec-h{
     @extend .section-heading;
-    letter-spacing: 2px;
-    font-weight: 500;
-    margin: 3rem 0 1rem;
+    margin-top: 3rem;
     display: grid;
     grid-template-columns: auto minmax(20px, 1fr);
     gap: 0.75rem;
