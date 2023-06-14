@@ -9,11 +9,12 @@
     flex-direction: row;
     align-items: center;
     padding: .5rem .75rem;
-    font-size: 0.875rem;
+    @extend .font-14;
     border-radius: 2rem;
     border: 1px solid;
     gap: .5rem;
     @include themed(border-color, $dark-300, $dark-700);
+    @include themed(background-color, $dark-100, $dark-800);
 
     img{
         width: 1.5rem;
