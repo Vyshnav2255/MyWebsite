@@ -15,7 +15,7 @@
             <div><b>{{ item.title }}</b></div>
           {% endif %}
 
-          <div class="content">
+          <div class="content text-mute">
             <span>{{ item.description }}</span>
     
               {% if item.type %}
@@ -23,15 +23,15 @@
               {% endif %}
           </div>
 
-          <div>
+          <div class="text-mute">
             {{ item.start | date: "%b %y" }}
             &mdash;
             {{ item.end | date: "%b %y" | default: "Present" }}
+            <span class="font-14">({% include date-diff.html %})</span>
           </div>
 
         </div>
         
       </div>
-        <div class="text-mute font-14">{% include date-diff.html %}</div>
     </div>
 </div>
