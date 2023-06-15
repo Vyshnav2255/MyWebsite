@@ -14,7 +14,7 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 
 <div class="about-sec-h text-mute" style="margin-bottom: 1rem;">😃 Life Goals</div>
 
-- Read 100 books (90/100)
+- Read 100 books (91/100)
 - Change 1 Person’s Life For The Better
 - Own a Kindle reader
 - Own an iPad
