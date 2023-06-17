@@ -1,6 +1,6 @@
 <div style="margin: 3rem 0;">
 
-    <div class="about-sec-h text-mute" style="margin-bottom: 1rem;">Related Posts</div>
+    <div class="about-sec-h" style="margin-bottom: 1rem;">Related Posts</div>
 
     <ul>
     
@@ -31,6 +31,11 @@
           {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
           {% if maxRelatedCounter >= maxRelated %}
             {% break %}
+          {% endif %}
+        
+        {% else %}
+          {% if forloop.last %}
+          <li>No related articles found!</li>
           {% endif %}
         {% endif %}
     
