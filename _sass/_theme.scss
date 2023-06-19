@@ -66,3 +66,19 @@ hr{
     @include themed(color, $success, $success-light);
   }
 }
+
+input {
+  @include themed(background-color, $dark-100, $dark-800);
+  @include themed(border-color, $dark-300, $dark-700);
+  @include themed(color, $dark-700, $dark-100);
+
+  &::placeholder {
+    color: rgba($dark-300, 0.64);
+  }
+
+  &:focus {
+    @include themed(background-color, $dark-100, $dark-800);
+    @include themed(color, $dark-700, $dark-300);
+    @include themed(border-color, $green-500, $green-300);
+  }
+}

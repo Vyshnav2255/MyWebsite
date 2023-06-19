@@ -18,23 +18,6 @@
     filter: invert(90%) hue-rotate(180deg);
   }
 
-  // Inputs
-  input {
-    background-color: $dark-800;
-    border-color: $dark-700;
-    color: $dark-100;
-
-    &::placeholder {
-      color: rgba($dark-300, 0.64);
-    }
-
-    &:focus {
-      background-color: $dark-800;
-      color: $dark-300;
-      border-color: $green-300;
-    }
-  }
-
   // Tables
   table:not(.highlight) {
     td {
