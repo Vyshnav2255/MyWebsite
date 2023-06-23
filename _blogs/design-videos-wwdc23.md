@@ -32,7 +32,7 @@ Explore a handpicked collection of design videos from WWDC 23, featuring innovat
 - 💹 [Design dynamic Live Activities](https://developer.apple.com/videos/play/wwdc2023/10194/){:target="_blank" rel="noopener"}
 - 🗂️ [Design widgets for the Smart Stack on Apple Watch](https://developer.apple.com/videos/play/wwdc2023/10309/){:target="_blank" rel="noopener"}
 
-<div class="section-heading" style="margin-top: 2rem;">visionOS</div>
+{% include elements/section-heading.html title="visionOS" %}
 
 - 📐 [Principles of spatial design](https://developer.apple.com/videos/play/wwdc2023/10072/){:target="_blank" rel="noopener"}
 - 🖥️ [Design for spatial UI](https://developer.apple.com/videos/play/wwdc2023/10076/){:target="_blank" rel="noopener"}
