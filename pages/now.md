@@ -9,8 +9,6 @@ description: What I’m doing now. An update on my current focus & activities
 
 {% include elements/page-title.html title="🌱 Now" live="true" %}
 
-🍿 Enjoying [Config](https://config.figma.com/) virtually
-
 📐 Product Designer @ [Brainfish](https://www.brainfi.sh/)
 
 🧠 Learning [Blender](/3d) & NextJS
