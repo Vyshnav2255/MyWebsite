@@ -9,23 +9,23 @@ layout: post
 
 Explore a handpicked collection of design videos from WWDC 23, featuring innovative concepts and insights to ignite your creative spark. Discover the latest trends and techniques shared by Apple's experts and unleash your design inspiration today.
 
-<div class="section-heading" style="margin-top: 2rem;">General</div>
+{% include elements/section-heading.html title="General" %}
 
 - 📱 [Design with SwiftUI](https://developer.apple.com/videos/play/wwdc2023/10115/){:target="_blank" rel="noopener"}
 - ➿ [Animate with springs](https://developer.apple.com/videos/play/wwdc2023/10158/){:target="_blank" rel="noopener"}
 
-<div class="section-heading" style="margin-top: 2rem;">SF Symbols</div>
+{% include elements/section-heading.html title="SF Symbols" %}
 
 - 🔣 [What’s new in SF Symbols 5](https://developer.apple.com/videos/play/wwdc2023/10197/){:target="_blank" rel="noopener"}
 - 🌀 [Create animated symbols](https://developer.apple.com/videos/play/wwdc2023/10257/){:target="_blank" rel="noopener"}
 - 🌀 [Animate symbols in your app](https://developer.apple.com/videos/play/wwdc2023/10258/){:target="_blank" rel="noopener"}
 
-<div class="section-heading" style="margin-top: 2rem;">iOS</div>
+{% include elements/section-heading.html title="iOS" %}
 
 - ♿️ [Meet Assistive Access](https://developer.apple.com/videos/play/wwdc2023/10032/){:target="_blank" rel="noopener"}
 - 🔍 [Design Shortcuts for Spotlight](https://developer.apple.com/videos/play/wwdc2023/10193/){:target="_blank" rel="noopener"}
 
-<div class="section-heading" style="margin-top: 2rem;">watchOS</div>
+{% include elements/section-heading.html title="watchOS" %}
 
 - ⌚ [Meet watchOS 10](https://developer.apple.com/videos/play/wwdc2023/10026/){:target="_blank" rel="noopener"}
 - 👨‍💻 [Design & build apps for watchOS 10](https://developer.apple.com/videos/play/wwdc2023/10138/){:target="_blank" rel="noopener"}
