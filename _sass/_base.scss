@@ -17,10 +17,10 @@ main{
     border-radius: .25rem;
     font-size: 0.875rem;
     text-transform: lowercase;
-    @include themed(color, $green-900, $green-100);
-    @include themed(background-color, $green-100, $green-800);
+    @include themed(color, $primary-900, $primary-100);
+    @include themed(background-color, $primary-100, $primary-800);
     &:hover{
-      @include themed(background-color, $green-300, $green-900);
+      @include themed(background-color, $primary-300, $primary-900);
     }
 }
 

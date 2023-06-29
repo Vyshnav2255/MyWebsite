@@ -34,9 +34,9 @@
         @include themed(border-color, $dark-300, $dark-700);
 
         &:hover {
-            @include themed(color, $green-900, $green-200);
-            @include themed(border-color, $green-900, $green-200);
-            @include themed(background-color, $green-100, $green-900);
+            @include themed(color, $primary-900, $primary-200);
+            @include themed(border-color, $primary-900, $primary-200);
+            @include themed(background-color, $primary-100, $primary-900);
         }
     }
 
@@ -93,7 +93,7 @@
             padding: 0.75rem 0;
             font-weight: 500;
             text-align: left;
-            background-color: $green-500;
+            background-color: $primary-500;
             color: white;
         }
 
