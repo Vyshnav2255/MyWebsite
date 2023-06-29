@@ -23,6 +23,10 @@
     path {
         @include themed(fill, $dark-700, $dark-300);
     }
+
+    ellipse{
+        @include themed(fill, $primary-400, $primary-300);
+    }
 }
 
 .navbar {
