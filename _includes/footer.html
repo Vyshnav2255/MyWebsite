@@ -4,7 +4,7 @@
     Crafted with ❤️ by <strong>Vyshnav</strong> • Mark V
   </small>
 
-  <div class="container-fluid" style="margin-top: .25rem;">
+  <div class="container-fluid" style="display: flex; justify-content: center;">
 
     {% for account in site.author %}
 
@@ -14,9 +14,8 @@
     {% endif %}
 
     {% assign service_data = site.data.social-media[service_name] %}
-    <a title="Follow me on {{ service_name }}" class="social" href="{{ service_data.url }}{{ account[1] }}"
-      target="_blank" rel="noopener" style="padding: .5rem; text-decoration: none !important;"
-      aria-label="{{ service_name }}">
+    <a title="Follow me on {{ service_name }}" class="social-icon" href="{{ service_data.url }}{{ account[1] }}"
+      target="_blank" rel="noopener" aria-label="{{ service_name }}">
       {{ service_data.icon }}
     </a>
 
