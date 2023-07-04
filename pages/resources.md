@@ -8,6 +8,7 @@ description: A curated collection of valuable links and pages
 
 {% include elements/page-title.html title="🔮 Resources" %}
 
+* 🍭 [Design Tips](/design-tips)
 * ✏️ [Visual Ideas](/visuals)
 * 🎁 [Referrals](/referrals)
 * 💎 [Goals](/goals)
