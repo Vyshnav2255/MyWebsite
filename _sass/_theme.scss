@@ -39,15 +39,6 @@ hr{
   @include themed(color, $dark-500, $dark-400);
 }
 
-.social{
-  svg{
-    @include themed(color, $dark-700, $dark-300);
-    &:hover{
-      @include themed(color, $primary-500, $primary-300);
-    }
-  }
-}
-
 .search-bar{
   input{
     @include themed(background,
