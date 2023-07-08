@@ -18,7 +18,7 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 - Change 1 Person’s Life For The Better
 - Own a Kindle reader
 - Own an iPad
-- Own a MacBook
+- ~~Own a MacBook~~ ([Jul 07, 2023](https://twitter.com/vyshnav_xyz/status/1677315178126274563))
 - Own an Apple Watch
 - ~~Own an iPhone~~ ( Dec 05, 2022 )
 - Give a TEDx Talk
