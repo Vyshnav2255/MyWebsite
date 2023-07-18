@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 weight: 6
 image: /assets/card.png
-description: Hi I’m Vyshnav Gangadharan 👋, a 23-year-old UI/UX Designer, Illustrator & Developer. I’m a self-taught UI/UX designer who loves Coding, Illustrating & creating 3D stuff
+description: Hi I’m Vyshnav Gangadharan 👋, a 24-year-old UI/UX Designer, Illustrator & Developer. I’m a self-taught UI/UX designer who loves Coding, Illustrating & creating 3D stuff
 ---
 
 # About Me
 Hi👋, Nice to meet you!
-<br>I’m **{{ site.author.name }}**, a 23-year-old UI/UX Designer, Illustrator & Developer. I’m a self-taught UI/UX designer who loves Coding, Illustrating & creating 3D stuff.
+<br>I’m **{{ site.author.name }}**, a 24-year-old UI/UX Designer, Illustrator & Developer. I’m a self-taught UI/UX designer who loves Coding, Illustrating & creating 3D stuff.
 
 I currently live in Kerala, India. I enjoy reading books and listening to podcasts. I love creating creative content, and you can find most of my works here. See what I’m doing [now](/now).
 
