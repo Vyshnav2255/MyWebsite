@@ -33,6 +33,7 @@ description: A curated collection of valuable links and pages
 
 <div class="about-sec-h text-mute" id="wallpapers" style="margin-bottom: 1rem;">Wallpapers</div>
 
+* 🌟 [Glow](https://vyshnav.lemonsqueezy.com/checkout/buy/2539ac65-1c7c-4947-9857-5b0b4d5723c2){:target="_blank" rel="noopener"}
 * 💜 [Monterey Remix](https://vyshnav.lemonsqueezy.com/checkout?cart=d68ded3c-20f3-448d-bf07-692730c0ffe2){:target="_blank" rel="noopener"}
 * 🌍 [Low Poly Planet](https://shop.vyshnav.xyz/l/piiij){:target="_blank" rel="noopener"}
 * 🛡 [Avengers HQ](https://shop.vyshnav.xyz/l/vwktj){:target="_blank" rel="noopener"}
