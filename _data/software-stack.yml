@@ -4,6 +4,9 @@
 - name: Cron
   logo: /Images/Skills/cron.png
 
+- name: Notes
+  logo: /Images/Skills/notes.png
+
 - name: DaVinci Resolve
   logo: /Images/Skills/davinci.png
 
@@ -33,9 +36,6 @@
 
 - name: Notion
   logo: /Images/Skills/notion.png
-
-- name: OBS
-  logo: /Images/Skills/obs.png
 
 - name: Kindle
   logo: /Images/Skills/kindle.png
