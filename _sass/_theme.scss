@@ -49,11 +49,11 @@ hr{
 }
 
 .timeline-item{
-  .icon-tabler-clock-hour-3{
+  .icon-tabler-minus{
     @include themed(color, $info, $info-light);
   }
 
-  .icon-tabler-circle-check{
+  .icon-tabler-check{
     @include themed(color, $success, $success-light);
   }
 }
