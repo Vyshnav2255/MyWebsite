@@ -4,14 +4,17 @@ title: About
 permalink: /about/
 weight: 6
 image: /assets/card.png
-description: Hi I’m Vyshnav Gangadharan 👋, a 24-year-old UI/UX Designer, Illustrator & Developer. I’m a self-taught UI/UX designer who loves Coding, Illustrating & creating 3D stuff
+description: Hi I’m Vyshnav Gangadharan 👋, a 24-year-old self-taught Product Designer, Illustrator & Developer. I'm currently working remotely as a Product Designer at Brainfish
 ---
 
 # About Me
 Hi👋, Nice to meet you!
-<br>I’m **{{ site.author.name }}**, a 24-year-old UI/UX Designer, Illustrator & Developer. I’m a self-taught UI/UX designer who loves Coding, Illustrating & creating 3D stuff.
 
-I currently live in Kerala, India. I enjoy reading books and listening to podcasts. I love creating creative content, and you can find most of my works here. See what I’m doing [now](/now).
+I'm **{{ site.author.name }}**, a 24-year-old self-taught Product Designer, Illustrator & Developer. I'm currently working remotely as a Product Designer at [Brainfish](https://brainfi.sh/).
+
+I'm a multidisciplinary designer with a primary focus on Human Interface Design. Along with that, I also love to code & create 3D stuff.
+
+I currently reside in Kerala, India. I enjoy reading books & listening to podcasts. I've a passion for creating creative content & you can find most of my work here. See what I’m doing [now](/now).
 
 <p class="text-center" style="margin-bottom: 2rem; margin-top: 2rem;">
 {% include elements/button.html link="mailto:hi@vyshnav.xyz" text="Say hello!" icon="mail" %}
