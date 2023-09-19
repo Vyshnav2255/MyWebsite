@@ -23,7 +23,7 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 - ~~Own an iPhone~~ ( Dec 05, 2022 )
 - Give a TEDx Talk
 - Attend an Apple Event
-- Spend one week without phone
+- ~~Spend 11 days without phone~~ ([Sep 11, 2023](https://x.com/vyshnav_xyz/status/1697254933857546517))
 - Spend one week without internet
 - Visit an Apple Store
 - Attend a Figma Event
@@ -48,7 +48,7 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
     - ~~Gain 1,000 followers~~ ([Apr 24, 2022](https://twitter.com/vyshnav_xyz/status/1518463933513830401))
     - ~~Gain 2,000 followers~~ ( Feb 25, 2023 )
     - Gain 3,000 followers
-- ~~Make $1000 from Buy me a Coffee~~ ([Sept 28, 2021](/microblog/made-my-first-1000-on-the-internet))
+- ~~Make $1000 from Buy me a Coffee~~ ([Sep 28, 2021](/microblog/made-my-first-1000-on-the-internet))
     - Make $2000
 - ~~Make $1000 from Gumroad~~ ([Aug 13, 2022](https://twitter.com/vyshnav_xyz/status/1558318494969733121))
 - Gain 500 Supporters - Buy Me a Coffee
