@@ -1,46 +1,47 @@
 <div style="margin: 3rem 0;">
 
-    <div class="about-sec-h" style="margin-bottom: 1rem;">Related Posts</div>
+  <div class="about-sec-h" style="margin-bottom: 1rem;">Related Posts</div>
 
-    <ul>
-    
+  <ul>
+
     {% assign maxRelated = 4 %}
-    {% assign minCommonTags =  1 %}
+    {% assign minCommonTags = 1 %}
     {% assign maxRelatedCounter = 0 %}
-    
-      {% for blog in site.blogs reversed %}
-    
-        {% assign sameTagCount = 0 %}
-        {% assign commonTags = '' %}
-    
-        {% for tag in blog.tags %}
-          {% if blog.url != page.url %}
-            {% if page.tags contains tag %}
-              {% assign sameTagCount = sameTagCount | plus: 1 %}
-              {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
-              {% assign commonTags = commonTags | append: tagmarkup %}
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-    
-        {% if sameTagCount >= minCommonTags %}
-          <div>
-            <li><a href="{{ blog.url }}">{{ blog.title }}</a>
-            <small class="text-mute"> - {{ blog.date | date_to_long_string }}</small></li>
-          </div>
-          {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-          {% if maxRelatedCounter >= maxRelated %}
-            {% break %}
-          {% endif %}
-        
-        {% else %}
-          {% if forloop.last %}
-          <li>No related articles found!</li>
-          {% endif %}
-        {% endif %}
-    
-      {% endfor %}
 
-    </ul>
-    
-  </div>
+    {% for blog in site.blogs reversed %}
+
+    {% assign sameTagCount = 0 %}
+    {% assign commonTags = '' %}
+
+    {% for tag in blog.tags %}
+    {% if blog.url != page.url %}
+    {% if page.tags contains tag %}
+    {% assign sameTagCount = sameTagCount | plus: 1 %}
+    {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+    {% assign commonTags = commonTags | append: tagmarkup %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+
+    {% if sameTagCount >= minCommonTags %}
+    <div>
+      <li><a href="{{ blog.url }}">{{ blog.title }}</a>
+        <small class="text-mute"> - {{ blog.date | date_to_long_string }}</small>
+      </li>
+    </div>
+    {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+    {% if maxRelatedCounter >= maxRelated %}
+    {% break %}
+    {% endif %}
+
+    {% else %}
+    {% if maxRelated == 0 %}
+    <li>No related articles found!</li>
+    {% endif %}
+    {% endif %}
+
+    {% endfor %}
+
+  </ul>
+
+</div>
