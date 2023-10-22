@@ -1,0 +1,36 @@
+.related-books{
+    .book-card{
+        cursor: pointer;
+        margin: .75rem 0;
+
+        &:hover{
+            .book-card-content{
+                @include themed(background-color, $dark-100, $dark-800);
+            }
+        }
+    }
+
+    .book-card-content{
+        display: flex;
+        flex-direction: row;
+        border-radius: .5rem;
+        border: 1px solid;
+        overflow: hidden;
+        @include themed(border-color, $dark-300, $dark-700);
+    }
+
+    img{
+        height: 6.75rem;
+        margin: 0;
+        border-radius: 0;
+        border-right: 1px solid;
+        @include themed(border-color, $dark-300, $dark-700);
+    }
+
+    .book-card-data{
+        padding: 1rem;
+        display: flex;
+        flex-direction: column;
+        gap: .125rem;
+    }
+}

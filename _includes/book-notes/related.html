@@ -1,47 +1,50 @@
 <div style="margin: 3rem 0;">
 
-  <div class="about-sec-h" style="margin-bottom: 1rem;">Related Books</div>
+  <div class="about-sec-h">Related Books</div>
+  <div class="related-books">
+  {% assign maxRelated = 4 %}
+  {% assign minCommonTags = 1 %}
+  {% assign maxRelatedCounter = 0 %}
 
-  <ul>
+  {% for book in site.books reversed %}
 
-    {% assign maxRelated = 4 %}
-    {% assign minCommonTags = 1 %}
-    {% assign maxRelatedCounter = 0 %}
+  {% assign sameTagCount = 0 %}
+  {% assign commonTags = '' %}
 
-    {% for book in site.books reversed %}
+  {% for tag in book.tags %}
+  {% if book.url != page.url %}
+  {% if page.tags contains tag %}
+  {% assign sameTagCount = sameTagCount | plus: 1 %}
+  {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+  {% assign commonTags = commonTags | append: tagmarkup %}
+  {% endif %}
+  {% endif %}
+  {% endfor %}
 
-    {% assign sameTagCount = 0 %}
-    {% assign commonTags = '' %}
-
-    {% for tag in book.tags %}
-    {% if book.url != page.url %}
-    {% if page.tags contains tag %}
-    {% assign sameTagCount = sameTagCount | plus: 1 %}
-    {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
-    {% assign commonTags = commonTags | append: tagmarkup %}
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-
-    {% if sameTagCount >= minCommonTags %}
-    <div>
-      <li><a href="{{ book.url }}">{{ book.title }}</a>
-        <small class="text-mute"> - {{ book.date | date_to_long_string }}</small>
-      </li>
+  {% if sameTagCount >= minCommonTags %}
+  
+    <div class="book-card" href="{{ book.url }}" onclick="window.location.href='{{ book.url }}';">
+      <div class="book-card-content">
+        <img src="{{ book.image }}" alt="{{ book.title }}">
+        <div class="book-card-data">
+          <b>{{ book.title }}</b>
+          <p style="margin-bottom: 0;">{{ book.author }}</p>
+          <p class="text-mute" style="margin-bottom: 0;">{{ book.date | date_to_long_string }}</p>
+        </div>
+      </div>
     </div>
-    {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-    {% if maxRelatedCounter >= maxRelated %}
-    {% break %}
-    {% endif %}
+  {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+  {% if maxRelatedCounter >= maxRelated %}
+  {% break %}
+  {% endif %}
 
-    {% else %}
-    {% if maxRelated == 0 %}
-    <li>No related books found!</li>
-    {% endif %}
-    {% endif %}
+  {% else %}
+  {% if maxRelated == 0 %}
+  <li>No related books found!</li>
+  {% endif %}
+  {% endif %}
 
-    {% endfor %}
-
-  </ul>
+  {% endfor %}
+  </div>
 
 </div>
