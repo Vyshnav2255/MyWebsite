@@ -27,9 +27,9 @@
       <div class="book-card-content">
         <img src="{{ book.image }}" alt="{{ book.title }}">
         <div class="book-card-data">
-          <b>{{ book.title }}</b>
+          <h3><b>{{ book.title }}</b></h3>
           <p style="margin-bottom: 0;">{{ book.author }}</p>
-          <p class="text-mute" style="margin-bottom: 0;">{{ book.date | date_to_long_string }}</p>
+          <small class="text-mute">{{ book.date | date_to_long_string }}</small>
         </div>
       </div>
     </div>
