@@ -17,8 +17,6 @@ description: What I’m doing now. An update on my current focus & activities
 
 ✍️ Writing [Sunday Summary](https://vyshnav.substack.com/) newsletter
 
-📚 Reading - The Creative Act & Solving Product Design Exercises
-
-📻 Listening - The Interview by C.M. Ewan
+📚 Reading - Jony Ive Biography
 
 📍 Living in Kerala, India
