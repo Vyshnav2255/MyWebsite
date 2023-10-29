@@ -1,11 +1,65 @@
-<div class="row" style="align-items: center; justify-content: center; padding: 1.5rem;">
-  <div class="col-md-6 text-center mt-4">
-    <div id="container" class="my-2">
-      <div id="dummy"></div>
-      <div id="element">
-        <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image">
-      </div>
+<div class="landing" style="margin: 72px 0 1.5rem;">
+  <div class="picture">
+    <img src="{{ site.author.image }}" alt="{{ site.title }}">
+  </div>
+  <div class="hero-content" style="display: flex; justify-content: center; flex-direction: column;">
+    <h2>Hi 👋</h2>
+    <p class="text-mute">I'm Vyshnav, a self-taught Product Designer, Illustrator & Developer. Currently shaping user experiences at Brainfish.</p>
+    <div>
+        {% include elements/button.html link="mailto:hi@vyshnav.xyz" text="Say hello!" icon="mail" %}
     </div>
-    <p class="text-mute">{{ site.description }}</p>
   </div>
 </div>
+
+<div>
+<div style="display: flex; gap: .5rem; align-items: flex-start;">
+  <div class="about-sec-h text-mute" style="flex: 1 0 0;">Works</div>
+  <a class="section-heading-link" style="margin: 3rem 0 1rem;" href="/works">View all</a>
+</div>
+
+<div class="post-grid book" style="margin-bottom: 1.5rem;">
+  {% for item in site.data.works limit:3 %}
+  <div class="post-grid-item">
+    <a href="{{ item.url }}" target="_blank" rel="noopener" class="post text-themed">
+      <img src="{{ item.image }}" alt="{{ item.title }}" loading="lazy" />
+      <div class="item-body">
+        <h2 class="font-18" style="margin-bottom: .25rem;"><b>{{ item.name }}</b></h2>
+        <p class="blog-tags text-mute">{{ item.date }}</p>
+        <p>{{ item.description }}</p>
+      </div>
+    </a>
+  </div>
+  {% endfor %}
+</div>
+</div>
+
+
+<div style="display: flex; gap: .5rem; align-items: flex-start;">
+  <div class="about-sec-h text-mute" style="flex: 1 0 0;">Latest blog posts</div>
+  <a class="section-heading-link" style="margin: 3rem 0 1rem;" href="/blog">View all</a>
+</div>
+
+<div class="blog" style="margin-bottom: 1.5rem;">
+  <div class="post-grid" id="blog">
+    {% assign blogs = site.blogs | reverse %}
+    {% for blog in blogs limit:2 %}
+      
+          {% if blog.external_url %}
+            {% assign blog_url = blog.external_url %}
+          {% else %}
+            {% assign blog_url = blog.url | relative_url %}
+          {% endif %}
+      
+      <div class="post-grid-item">
+        <a href="{{ blog_url }}" class="post text-themed">
+          <img src="{{ blog.image }}" alt="{{ blog.title }}"/>
+          <div class="blog-body">
+            <h2 class="font-18"><b>{{ blog.title }}</b></h2>
+            <p class="text-mute">{{ blog.content | markdownify | strip_html | truncate: 82 }}</p>
+            <span class="text-mute">{{ blog.date | date_to_string }}</span>
+          </div>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+  </div>
