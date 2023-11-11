@@ -17,6 +17,6 @@ description: What I’m doing now. An update on my current focus & activities
 
 ✍️ Writing [Sunday Summary](https://vyshnav.substack.com/) newsletter
 
-📚 Reading - Jony Ive Biography
+📚 Reading - Solving the Procrastination Puzzle
 
 📍 Living in Kerala, India
