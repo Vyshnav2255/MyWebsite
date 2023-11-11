@@ -15,7 +15,7 @@ main{
 .post-tag {
     padding: .25rem;
     border-radius: .25rem;
-    font-size: 0.875rem;
+    @extend .font-14;
     text-transform: lowercase;
     @include themed(color, $primary-900, $primary-100);
     @include themed(background-color, $primary-100, $primary-800);
@@ -113,7 +113,22 @@ ul.task-list {
 
     h2{
         font-weight: 700;
-        margin-bottom: 1rem;
+        margin: 0 !important;
+    }
+
+    p{
+        margin-top: 1rem;
+    }
+
+    .title{
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+        align-items: center;
+
+        svg{
+            @include themed(fill, $primary-500, $primary-300);
+        }
     }
 }
 
