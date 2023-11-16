@@ -23,11 +23,11 @@
               {% endif %}
           </div>
 
-          <div class="text-mute">
+          <div class="text-mute timeline-date">
             {{ item.start | date: "%b %y" }}
             &mdash;
             {{ item.end | date: "%b %y" | default: "Present" }}
-            <span class="font-14">({% include date-diff.html %})</span>
+            <span>({% include date-diff.html %})</span>
           </div>
 
         </div>

@@ -18,3 +18,14 @@
 		}
 	}
 }
+
+.timeline-date{
+	@extend .font-12;
+	padding: .25rem;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 0.09rem;
+	border-radius: 4px;
+	@include themed(background, $dark-100, $dark-800);
+	display: inline;
+}
