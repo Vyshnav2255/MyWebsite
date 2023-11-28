@@ -21,6 +21,12 @@
 
 .section-heading-link {
     @extend .font-14;
+    @include themed(color, $primary-700, $primary-300);
+
+    &:hover {
+        @include themed(color, $primary-800, $primary-200);
+        text-decoration: none;
+    }
 }
 
 @media (max-width: 600px) {
