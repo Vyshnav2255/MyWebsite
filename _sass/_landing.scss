@@ -1,21 +1,18 @@
-.landing{
+.landing {
     display: flex;
     flex-direction: row;
     gap: 1.5rem;
 
-    .picture img{
+    .picture img {
         width: 200px;
         height: auto;
         border-radius: 100%;
         object-fit: fill;
     }
 
-    .btn{
+    .btn {
         margin: 0 !important;
     }
-
-    
-
     
 }
 
@@ -30,12 +27,12 @@
 }
 
 @media (max-width: 600px) {
-    .landing{
+    .landing {
         flex-direction: column;
         align-items: center;
     }
 
-    .hero-content{
+    .hero-content {
         text-align: center;
         padding: 0 1.5rem;
     }
