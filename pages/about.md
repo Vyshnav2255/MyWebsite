@@ -46,8 +46,3 @@ I currently reside in Kerala, India. I enjoy reading books & listening to podcas
 <div class="row">
     {% include about/work-timeline.html %}
 </div>
-
-<div class="about-sec-h text-mute">Education</div>
-<div class="row">
-    {% include about/edu-timeline.html %}
-</div>
