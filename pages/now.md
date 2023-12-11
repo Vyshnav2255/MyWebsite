@@ -9,6 +9,8 @@ description: What I’m doing now. An update on my current focus & activities
 
 {% include elements/page-title.html title="🌱 Now" live="true" %}
 
+🇦🇺 Exploring [Sydney, Australia](https://x.com/vyshnav_xyz/status/1733787023293751796?s=20)
+
 📐 Product Designer @ [Brainfish](https://www.brainfi.sh/)
 
 🧠 Learning [Blender](/3d) & NextJS
