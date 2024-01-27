@@ -1,0 +1,29 @@
+<div class="impossible" style="display: flex; align-items: center; margin-bottom: .5rem; gap: .25rem;">
+
+    {%- if include.previous == 'true' -%}
+    <span style="margin-left: 1.5rem;"></span>
+    {%- endif -%}
+
+    {%- if include.check == 'true' -%}
+    {%- include svg/check.svg -%}
+    {%- else -%}
+    {%- include svg/unchecked.svg -%}
+    {%- endif -%}
+
+    <span style="margin-left: .25rem;">
+        {%- if include.link -%}
+        <a href="{{ include.link }}" target="_blank" rel="noopener noreferrer">
+            {{- include.title -}}
+        </a>
+        {%- else -%}
+        {{ include.title }}
+        {%- endif -%}
+    </span>
+
+    {%- if include.date -%}
+    <span>
+        <span class="neutral-light">✦</span>
+        <span class="small timeline-date">{{ include.date }}</span>
+    </span>
+    {%- endif -%}
+</div>
