@@ -147,6 +147,11 @@ footer{
 }
 
 .impossible{
+    display: flex;
+    align-items: center;
+    margin-bottom: .5rem;
+    gap: .25rem;
+    
     .icon-tabler-square-rounded{
         @include themed(color, $dark-300, $dark-700);
       }
