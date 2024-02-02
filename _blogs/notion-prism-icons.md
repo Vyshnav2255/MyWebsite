@@ -12,9 +12,10 @@ I'm back with another cool icon pack for you Notion users out there. Many people
 ### Specifications
 It took me a lot of time to make these icons, and I think it was worth the time. I have been using and tweaking this icon pack for the past few weeks. These are minimal icons. All icons are available in **20 different colors**.
 
-**Size** - 500x500
-
+**Size** - 500x500 px
 **Format** - PNG
+**Icons** - 61
+**Total Icons** - 1220
 
 It works perfectly in both light and dark mode. Here is a **sneak peek** at how it looks.
 
