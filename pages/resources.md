@@ -11,7 +11,6 @@ description: A curated collection of valuable links and pages
 * 🍭 [Design Tips](/design-tips)
 * ✏️ [Visual Ideas](/visuals)
 * 🎁 [Referrals](/referrals)
-* 💎 [Goals](/goals)
 * 🎯️ [My Impossible List](/impossible-list)
 
 <div class="about-sec-h text-mute" id="blender-files" style="margin-bottom: 1rem;">Blender Files</div>
