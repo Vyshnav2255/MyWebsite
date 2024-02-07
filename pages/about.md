@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 weight: 6
 image: /assets/card.png
-description: Hi I’m Vyshnav Gangadharan 👋, a 24-year-old self-taught Product Designer, Illustrator & Developer. I'm currently working remotely as a Product Designer at Brainfish
+description: Hi I’m Vyshnav Gangadharan 👋, a self-taught Product Designer, Illustrator & Developer. I'm currently working remotely as a Product Designer at Brainfish
 ---
 
 # About Me
 Hi👋, Nice to meet you!
 
-I'm **{{ site.author.name }}**, a 24-year-old self-taught Product Designer, Illustrator & Developer. I'm currently working remotely as a Product Designer at [Brainfish](https://brainfi.sh/).
+I'm **{{ site.author.name }}**, a self-taught Product Designer, Illustrator & Developer. I'm currently working remotely as a Product Designer at [Brainfish](https://brainfi.sh/).
 
 I'm a multidisciplinary designer with a primary focus on Human Interface Design. Along with that, I also love to code & create 3D stuff.
 
