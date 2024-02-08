@@ -28,12 +28,12 @@ description: A curated collection of valuable links and pages
 * 🐱 [Pokeball](https://vyshnav.lemonsqueezy.com/checkout/buy/6ce3f6b0-5cba-43c0-ac08-deb3df0e27ca){:target="_blank" rel="noopener"}
 * 🪴 [Plant](https://vyshnav.lemonsqueezy.com/checkout/buy/5a374e9a-f329-401a-a60e-63a3f06d676a){:target="_blank" rel="noopener"}
 * 🎅 [Santa Hat](https://vyshnav.lemonsqueezy.com/checkout/buy/7576a8ff-6be0-4c28-af19-1848a650a830){:target="_blank" rel="noopener"}
-* 🍩 [Donut](https://shop.vyshnav.xyz/l/sztgx){:target="_blank" rel="noopener"}
+* 🍩 [Donut](https://vyshnav.lemonsqueezy.com/checkout/buy/c6a47dbc-f37d-4243-ad20-45f976ab85a5){:target="_blank" rel="noopener"}
 
 <div class="about-sec-h text-mute" id="wallpapers" style="margin-bottom: 1rem;">Wallpapers</div>
 
 * 🌟 [Glow](https://vyshnav.lemonsqueezy.com/checkout/buy/2539ac65-1c7c-4947-9857-5b0b4d5723c2){:target="_blank" rel="noopener"}
 * 💜 [Monterey Remix](https://vyshnav.lemonsqueezy.com/checkout/buy/f3d914e0-545d-47b1-8776-f0988aa07f1d){:target="_blank" rel="noopener"}
 * 🌍 [Low Poly Planet](https://vyshnav.lemonsqueezy.com/checkout/buy/89dc3947-4e2a-4842-afac-fa68aa9cf46c){:target="_blank" rel="noopener"}
-* 🛡 [Avengers HQ](https://shop.vyshnav.xyz/l/vwktj){:target="_blank" rel="noopener"}
+* 🛡 [Avengers HQ](https://vyshnav.lemonsqueezy.com/checkout/buy/9390da2e-2b88-4bb4-b7cc-d448f09e99c5){:target="_blank" rel="noopener"}
 * 🌊 [Waves](https://www.buymeacoffee.com/vyshnav/e/15514){:target="_blank" rel="noopener"}
