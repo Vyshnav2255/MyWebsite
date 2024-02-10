@@ -1,5 +1,5 @@
 .timeline-item {
-	margin-bottom: .75rem;
+	margin-bottom: 1.25rem;
 
 	.content{
 		display: flex;
@@ -23,8 +23,8 @@
 	@extend .font-12;
 	padding: .25rem;
 	text-transform: uppercase;
-	font-weight: 600;
-	letter-spacing: 0.09rem;
+	font-weight: 500;
+	letter-spacing: 0.08rem;
 	border-radius: 4px;
 	@include themed(background, $dark-100, $dark-800);
 	display: inline;
