@@ -1,11 +1,38 @@
-<div class="col">
-  <div class="timeline-body">
-    
-    {% for item in site.data.work-timeline %}
+{% for item in site.data.work-timeline %}
 
-    {% include about/timeline.html %}
+<div class="timeline-item">
 
-    {% endfor %}
-    
+  {% if item.previous %}
+  <span style="margin-left: 2rem;"></span>
+  {% elsif item.end != nil %}
+  {% include svg/check.svg %}
+  {% else %}
+  {% include svg/minus.svg %}
+  {% endif %}
+
+  <div>
+    {% if item.link %}
+    <div><b><a title="{{ item.description }}" target="_blank" rel="noopener" href="{{ item.link }}">{{item.description }}{%include baseline-svg.html svg="ext-link" %}</a></b></div>
+    {% else %}
+    <div><b>{{ item.description }}</b></div>
+    {% endif %}
+
+    <div class="content text-mute">
+      <span>{{ item.title }}</span>
+
+      {% if item.type %}
+      <span class="neutral-light">✦</span><span>{{ item.type }}</span>
+      {% endif %}
+    </div>
+
+    <div class="text-mute timeline-date">
+      {{ item.start | date: "%b %y" }}
+      &mdash;
+      {{ item.end | date: "%b %y" | default: "Present" }}
+      <span>({%- include date-diff.html -%})</span>
+    </div>
+
   </div>
 </div>
+
+{% endfor %}
