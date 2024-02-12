@@ -30,18 +30,6 @@ I currently reside in Kerala, India. I enjoy reading books & listening to podcas
 {% include about/software-stack.html %}
 </div>
 
-<div class="about-sec-h text-mute">Design Skills</div>
-
-<div>
-{% include about/design-skills.html %}
-</div>
-
-<div class="about-sec-h text-mute">Coding Skills</div>
-
-<div>
-{% include about/coding-skills.html %}
-</div>
-
 <div class="about-sec-h text-mute">Timeline</div>
 
 <div>
