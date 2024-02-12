@@ -1,9 +1,21 @@
 - name: Figma
   logo: /Images/Skills/figma.png
 
+- name: Arc
+  logo: /Images/Skills/arc.png
+
+- name: Raycast
+  logo: /Images/Skills/raycast.png
+
 - name: Cron
   logo: /Images/Skills/cron.png
 
+- name: Spotify
+  logo: /Images/Skills/spotify.png
+
+- name: Todoist
+  logo: /Images/Skills/todoist.png
+  
 - name: Notes
   logo: /Images/Skills/notes.png
 
@@ -22,26 +34,14 @@
 - name: VS Code
   logo: /Images/Skills/vs code.png
 
-- name: Spotify
-  logo: /Images/Skills/spotify.png
-  
 - name: Endel
   logo: /Images/Skills/endel.png
 
 - name: Pocket Casts
   logo: /Images/Skills/pocket cast.png
 
-- name: Todoist
-  logo: /Images/Skills/todoist.png
-
 - name: Notion
   logo: /Images/Skills/notion.png
 
-- name: Kindle
-  logo: /Images/Skills/kindle.png
-
 - name: Bitwarden
   logo: /Images/Skills/bitwarden.png
-
-- name: Firefox
-  logo: /Images/Skills/firefox.png
