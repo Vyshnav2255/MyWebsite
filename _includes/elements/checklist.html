@@ -10,6 +10,7 @@
     {%- include svg/unchecked.svg -%}
     {%- endif -%}
 
+    <div class="impossible-list-item">
     <span style="margin-left: .25rem;">
         {%- if include.link -%}
         <a href="{{ include.link }}" target="_blank" rel="noopener noreferrer">
@@ -26,4 +27,5 @@
         <span class="small timeline-date">{{ include.date }}</span>
     </span>
     {%- endif -%}
+</div>
 </div>

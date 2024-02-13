@@ -146,17 +146,24 @@ footer{
     }
 }
 
-.impossible{
+.impossible {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     margin-bottom: .5rem;
     gap: .25rem;
     
-    .icon-tabler-square-rounded{
+    .icon-tabler-square-rounded {
         @include themed(color, $dark-300, $dark-700);
       }
     
-      .icon-tabler-check{
+    .icon-tabler-check {
         @include themed(color, $success, $success-light);
       }
+
+    .impossible-list-item{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: .25rem;
+    }
 }
