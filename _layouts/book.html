@@ -2,10 +2,11 @@
 layout: page
 ---
 <article>
-  <header>
+  <header style="display: flex; flex-direction: column; align-items: center;">
+    <img class="book-img" src="{{ page.image }}" alt="{{ page.title }}">
     <h1 style="margin-top: 1rem;">{{ page.title }}</h1>
 
-    <p class="article-metadata text-mute">
+    <p class="article-metadata text-mute text-center">
       by <b>{{ page.author }}</b>
       <br>
       {{ page.date | date: "%B %d, %Y" }}
