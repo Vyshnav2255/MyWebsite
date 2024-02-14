@@ -18,12 +18,12 @@ description: A personal library of my key takeaways, notes, & highlights from th
       <img src="{{ book.image }}" alt="{{ book.title }}" loading="lazy" />
       <div class="item">
         <div class="item-body">
-          <h2 class="font-18"><b>{{ book.title }}</b></h2>
-          <p class="text-mute">by {{ book.author }}
+          <h2 class="font-18">{{ book.title }}</h2>
+          <p class="text-mute" style="margin-bottom: .25rem;">by {{ book.author }}
             <br>{% include baseline-svg.html svg="star" %}{{ book.rating | divided_by: 2.0 }}
           </p>
           <p style="display: none;">{{ book.tags }}</p>
-          <p class="item-date text-mute" style="margin-top: .5rem;">{{ book.date | date_to_string }}</p>
+          <p class="text-mute timeline-date" style="margin-top: .5rem;">{{ book.date | date_to_string }}</p>
         </div>
       </div>
     </a>
