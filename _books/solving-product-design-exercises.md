@@ -7,6 +7,7 @@ date: '2023-11-12'
 description: Practice your product design and UX skills. Prepare for your next job interview
 layout: book
 rating: 10
+published: false
 ---
 
 - Product Design career path as described by Julie Zhuo (VP of PD at Facebook)
