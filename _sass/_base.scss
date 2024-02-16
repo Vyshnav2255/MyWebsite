@@ -120,14 +120,14 @@ ul.task-list {
         margin-top: 1rem;
     }
 
-    .title{
+    .title {
         display: flex;
         justify-content: center;
         gap: 1rem;
         align-items: center;
 
-        svg{
-            @include themed(fill, $primary-500, $primary-300);
+        svg {
+            @include themed(fill, $dark-400, $dark-600);
         }
     }
 }
