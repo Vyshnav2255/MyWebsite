@@ -13,7 +13,7 @@ description: A curated collection of valuable links and pages
 * 🎁 [Referrals](/referrals)
 * 🎯️ [My Impossible List](/impossible-list)
 
-<div class="about-sec-h text-mute" id="blender-files" style="margin-bottom: 1rem;">Blender Files</div>
+<div class="about-sec-h text-mute" id="blender-files">Blender Files</div>
 
 * 🌳 [Tree Trunk](https://vyshnav.lemonsqueezy.com/checkout/buy/163e0970-1c61-437d-a81d-d3a6049940db){:target="_blank" rel="noopener"}
 * 🎃 [Spooky House](https://vyshnav.lemonsqueezy.com/checkout/buy/b6b9e42e-e5b3-4bcc-ad30-26ebd929bd3d){:target="_blank" rel="noopener"}
@@ -30,7 +30,7 @@ description: A curated collection of valuable links and pages
 * 🎅 [Santa Hat](https://vyshnav.lemonsqueezy.com/checkout/buy/7576a8ff-6be0-4c28-af19-1848a650a830){:target="_blank" rel="noopener"}
 * 🍩 [Donut](https://vyshnav.lemonsqueezy.com/checkout/buy/c6a47dbc-f37d-4243-ad20-45f976ab85a5){:target="_blank" rel="noopener"}
 
-<div class="about-sec-h text-mute" id="wallpapers" style="margin-bottom: 1rem;">Wallpapers</div>
+<div class="about-sec-h text-mute" id="wallpapers">Wallpapers</div>
 
 * 🌟 [Glow](https://vyshnav.lemonsqueezy.com/checkout/buy/2539ac65-1c7c-4947-9857-5b0b4d5723c2){:target="_blank" rel="noopener"}
 * 💜 [Monterey Remix](https://vyshnav.lemonsqueezy.com/checkout/buy/f3d914e0-545d-47b1-8776-f0988aa07f1d){:target="_blank" rel="noopener"}
