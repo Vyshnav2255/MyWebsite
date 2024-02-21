@@ -6,3 +6,6 @@ gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
 gem 'jekyll-feed'
 gem 'jekyll-admin'
+gem "webrick", "~> 1.8"
+gem 'rack'
+gem 'rackup'
