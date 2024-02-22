@@ -65,13 +65,15 @@
     }
 
     blockquote {
-        border: 1px solid;
+        border: 1px dashed;
         font-size: 1.125rem;
         font-style: italic;
+        font-weight: 600;
         padding: 1rem;
         margin: 1.5rem 0;
         border-radius: 0.5rem;
-        @include themed(border-color, $dark-400, $dark-600);
+        @include themed(border-color, $dark-300, $dark-700);
+        @include themed(background-color, $dark-100, $dark-800);
 
         p {
             margin-bottom: 0;
