@@ -17,6 +17,8 @@ description: What I’m doing now. An update on my current focus & activities
 
 ✍️ Writing [Sunday Summary](https://vyshnav.substack.com/) newsletter
 
-📚 Reading - Feel-Good Productivity
+📚 Reading - 8 Rules of Love
+
+🎧 Listening to Will
 
 📍 Living in Kerala, India
