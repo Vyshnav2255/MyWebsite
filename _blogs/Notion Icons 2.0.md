@@ -26,7 +26,3 @@ And guys it also supports Notion **dark mode**.
 {% include elements/button.html link="https://notionv2.vyshnav.xyz/" text="Go to Website" icon="link" %}
 {% include elements/button.html link="https://www.buymeacoffee.com/vyshnav" text="Buy Me a Coffee" icon="coffee" %}
 </p>
-
-<p class="text-center">
-<a href="https://www.producthunt.com/posts/notion-icons-2-0?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-notion-icons-2-0" target="_blank" style="text-decoration: none !important; background-color: transparent;"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=297569&theme=light" alt="Notion Icons 2.0 - Create a more vibrant and modern workspace | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-</p>
