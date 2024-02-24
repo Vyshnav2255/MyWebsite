@@ -3,8 +3,13 @@ body {
     color: $dark-700;
 }
 
-main{
+main {
     width: 708px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 1.5rem;
+    flex-shrink: 0;
 
     @media screen and (max-width: 768px) {
         width: 100%;
