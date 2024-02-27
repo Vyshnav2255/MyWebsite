@@ -13,25 +13,25 @@
 </div>
 
 <div>
-<div style="display: flex; gap: .5rem; align-items: flex-start;">
-  <div class="about-sec-h text-mute" style="flex: 1 0 0;">Works</div>
+  <div style="display: flex; gap: .5rem; align-items: flex-start;">
+    <div class="about-sec-h text-mute" style="flex: 1 0 0;">Works</div>
     <a class="section-heading-link" style="margin: 4rem 0 1.5rem;" href="/works">View all</a>
-</div>
-
-<div class="post-grid book" style="margin-bottom: 1.5rem;">
-  {% for item in site.data.works limit:3 %}
-  <div class="post-grid-item">
-    <a href="{{ item.url }}" target="_blank" rel="noopener" class="post text-themed">
-      <img src="{{ item.image }}" alt="{{ item.title }}" loading="lazy" />
-      <div class="item-body">
-        <h2 class="font-18" style="margin-bottom: .25rem;"><b>{{ item.name }}</b></h2>
-        <p class="blog-tags text-mute">{{ item.date }}</p>
-        <p>{{ item.description }}</p>
-      </div>
-    </a>
   </div>
-  {% endfor %}
-</div>
+
+  <div class="post-grid book" style="margin-bottom: 1.5rem;">
+    {% for item in site.data.works limit:3 %}
+    <div class="post-grid-item">
+      <a href="{{ item.url }}" target="_blank" rel="noopener" class="post text-themed">
+        <img src="{{ item.image }}" alt="{{ item.title }}" loading="lazy" />
+        <div class="item-body">
+          <h2 class="font-18" style="margin-bottom: .25rem;"><b>{{ item.name }}</b></h2>
+          <p class="text-mute timeline-date">{{ item.date }}</p>
+          <p>{{ item.description }}</p>
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
 </div>
 
 
@@ -44,22 +44,22 @@
   <div class="post-grid" id="blog">
     {% assign blogs = site.blogs | reverse %}
     {% for blog in blogs limit:2 %}
-      
-          {% if blog.external_url %}
-            {% assign blog_url = blog.external_url %}
-          {% else %}
-            {% assign blog_url = blog.url | relative_url %}
-          {% endif %}
-      
-      <div class="post-grid-item">
-        <a href="{{ blog_url }}" class="post text-themed">
+
+    {% if blog.external_url %}
+    {% assign blog_url = blog.external_url %}
+    {% else %}
+    {% assign blog_url = blog.url | relative_url %}
+    {% endif %}
+
+    <div class="post-grid-item">
+      <a href="{{ blog_url }}" class="post text-themed">
         <img src="{{ blog.image }}" alt="{{ blog.title }}" />
-          <div class="blog-body">
+        <div class="blog-body">
           <h2 class="font-16"><b>{{ blog.title }}</b></h2>
           <span class="text-mute timeline-date">{{ blog.date | date_to_string }}</span>
-          </div>
-        </a>
-      </div>
+        </div>
+      </a>
+    </div>
     {% endfor %}
   </div>
-  </div>
+</div>
