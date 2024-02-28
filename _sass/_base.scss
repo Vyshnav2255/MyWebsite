@@ -17,6 +17,11 @@ main {
     }
 }
 
+svg{
+    overflow: hidden;
+    vertical-align: middle;
+}
+
 .post-tag {
     padding: .25rem;
     border-radius: .25rem;
