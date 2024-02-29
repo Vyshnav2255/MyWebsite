@@ -1,6 +1,7 @@
 .timeline-item {
 	margin-bottom: 1.25rem;
 	display: flex;
+	@extend .font-16;
 
 	.content{
 		display: flex;
