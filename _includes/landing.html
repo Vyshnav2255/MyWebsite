@@ -20,16 +20,7 @@
 
   <div class="post-grid book" style="margin-bottom: 1.5rem;">
     {% for item in site.data.works limit:3 %}
-    <div class="post-grid-item">
-      <a href="{{ item.url }}" target="_blank" rel="noopener" class="post text-themed">
-        <img src="{{ item.image }}" alt="{{ item.title }}" loading="lazy" />
-        <div class="item-body">
-          <h2 class="font-18" style="margin-bottom: .25rem;"><b>{{ item.name }}</b></h2>
-          <p class="text-mute timeline-date">{{ item.date }}</p>
-          <p>{{ item.description }}</p>
-        </div>
-      </a>
-    </div>
+    {% include works/card.html %}
     {% endfor %}
   </div>
 </div>
