@@ -20,16 +20,7 @@ description: A collection of articles written by me on various topics of interes
           {% assign blog_url = blog.url | relative_url %}
         {% endif %}
     
-    <div class="post-grid-item">
-      <a href="{{ blog_url }}" class="post text-themed">
-        <img src="{{ blog.image }}" alt="{{ blog.title }}"/>
-        <div class="blog-body">
-          <h2 class="font-18"><b>{{ blog.title }}</b></h2>
-          <p class="text-mute">{{ blog.content | markdownify | strip_html | truncate: 82 }}</p>
-          <span class="text-mute timeline-date">{{ blog.date | date_to_string }}</span>
-        </div>
-      </a>
-    </div>
+   {% include post/card.html %}
   {% endfor %}
 </div>
 </div>
