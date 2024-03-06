@@ -18,7 +18,7 @@
   <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
   <meta name="google-site-verification" content="HbuKJjqx6sxdf-OMJt45v1qE19vcDI_YyDOIa1SMZXw" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-
+  
   {% if page.image %}
     {% assign prefix = page.image | slice: 0, 4 %}
     {% if prefix == "http" %}
@@ -40,7 +40,6 @@
   <meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.0/css/bootstrap.min.css" integrity="sha512-P5MgMn1jBN01asBgU0z60Qk4QxiXo86+wlFahKrsQf37c9cro517WzVSPPV1tDKzhku2iJ2FVgL67wG03SGnNA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" type="text/css">
   <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
