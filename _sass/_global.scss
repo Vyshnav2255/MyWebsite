@@ -41,3 +41,8 @@ img {
 .neutral-light{
     @include themed(color, $dark-300, $dark-700);
 }
+
+.border{
+    border: 1px solid;
+    @include themed(border-color, $dark-300, $dark-700);
+}
