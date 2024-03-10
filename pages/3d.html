@@ -12,7 +12,7 @@ description: A gallery of impressive 3D projects, all created using Blender
   {% for item in site.data.blender %}
   <div class="post-grid-item">
     <a title="{{ item.name }}" target="_blank" rel="noopener" href="{{ item.url }}">
-      <img id="{{ item.image }}-img" src="{{ item.image }}" alt="{{ item.name }}"
+      <img class="border" id="{{ item.image }}-img" src="{{ item.image }}" alt="{{ item.name }}"
         loading="lazy" />
     </a>
   </div>

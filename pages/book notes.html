@@ -15,7 +15,7 @@ description: A personal library of my key takeaways, notes, & highlights from th
   {% for book in site.books reversed %}
   <div class="post-grid-item book">
     <a href="{{ book.url }}" class="post text-themed">
-      <img src="{{ book.image }}" alt="{{ book.title }}" loading="lazy" />
+      <img class="border" src="{{ book.image }}" alt="{{ book.title }}" loading="lazy" />
       <div class="item">
         <div class="item-body">
           <h2 class="font-18">{{ book.title }}</h2>

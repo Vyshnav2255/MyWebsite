@@ -6,9 +6,7 @@
 
     img{
         border-radius: .5rem;
-        border: 1px solid;
         max-width: 100%;
-        @include themed(border-color, $dark-300, $dark-700);
     }
 }
 
