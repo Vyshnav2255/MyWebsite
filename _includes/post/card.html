@@ -4,7 +4,7 @@
         <div class="blog-body">
             <h2 class="font-18"><b>{{ blog.title }}</b></h2>
             <p class="text-mute">{{ blog.content | markdownify | strip_html | truncate: 82 }}</p>
-            <span class="text-mute timeline-date">{{ blog.date | date_to_string }}</span>
+            <span class="timeline-date">{{ blog.date | date_to_string }}</span>
         </div>
     </a>
 </div>
