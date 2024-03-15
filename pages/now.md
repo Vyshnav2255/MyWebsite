@@ -11,7 +11,7 @@ description: What I’m doing now. An update on my current focus & activities
 
 📐 Product Designer @ [Brainfish](https://www.brainfi.sh/)
 
-🧠 Learning [Blender](/3d) & NextJS
+<!-- 🧠 Learning [Blender](/3d) & NextJS -->
 
 👨‍💻 Redesigning [this website](https://twitter.com/vyshnav_xyz/status/1605566892361539585)
 
