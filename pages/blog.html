@@ -20,7 +20,7 @@ description: A collection of articles written by me on various topics of interes
           {% assign blog_url = blog.url | relative_url %}
         {% endif %}
     
-   {% include post/card.html %}
+   {% include post/card.html description='true' %}
   {% endfor %}
 </div>
 </div>
