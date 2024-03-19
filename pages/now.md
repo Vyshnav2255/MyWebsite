@@ -13,11 +13,13 @@ description: What I’m doing now. An update on my current focus & activities
 
 <!-- 🧠 Learning [Blender](/3d) & NextJS -->
 
+🗣️ Improving my English speaking skills
+
 👨‍💻 Redesigning [this website](https://twitter.com/vyshnav_xyz/status/1605566892361539585)
 
 ✍️ Writing [Sunday Summary](https://vyshnav.substack.com/) newsletter
 
-📚 Reading - 8 Rules of Love
+📚 Reading - The Path to Senior Product Designer
 
 🎧 Listening to Will
 
