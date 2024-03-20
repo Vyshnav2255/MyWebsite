@@ -26,7 +26,7 @@
     {% if sameTagCount >= minCommonTags %}
     <div>
       <li><a href="{{ blog.url }}">{{ blog.title }}</a>
-        <small class="text-mute"> - {{ blog.date | date_to_long_string }}</small>
+        <small class="text-mute"> - {{ blog.date | date_to_string }}</small>
       </li>
     </div>
     {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
