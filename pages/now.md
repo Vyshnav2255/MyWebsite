@@ -21,6 +21,6 @@ description: What I’m doing now. An update on my current focus & activities
 
 📚 Reading - The Path to Senior Product Designer
 
-🎧 Listening to Will
+<!-- 🎧 Listening to Will -->
 
 📍 Living in Kerala, India
