@@ -26,14 +26,12 @@
 }
 
 .live{
-  border: 1px solid;
   font-size: .75rem;
   padding: 0.25rem 0.5rem;
   border-radius: 2rem;
   letter-spacing: .125rem;
   @include themed(color, $danger, $danger-light);
   font-weight: 600;
-  @include themed(border-color, $dark-300, $dark-700);
 
   span.live-icon{
     display: inline-block;
