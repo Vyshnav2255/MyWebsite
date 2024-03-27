@@ -535,19 +535,6 @@
     border-radius: 0.25rem;
   }
   
-  .nav-pills .nav-link.active,
-  .nav-pills .show > .nav-link {
-    color: #fff;
-    background-color: #007bff;
-  }
-  
-  .nav-fill > .nav-link,
-  .nav-fill .nav-item {
-    -ms-flex: 1 1 auto;
-    flex: 1 1 auto;
-    text-align: center;
-  }
-  
   .nav-justified > .nav-link,
   .nav-justified .nav-item {
     -ms-flex-preferred-size: 0;
@@ -555,14 +542,6 @@
     -ms-flex-positive: 1;
     flex-grow: 1;
     text-align: center;
-  }
-  
-  .tab-content > .tab-pane {
-    display: none;
-  }
-  
-  .tab-content > .active {
-    display: block;
   }
   
   .navbar {
