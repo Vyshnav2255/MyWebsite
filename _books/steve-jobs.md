@@ -1,7 +1,7 @@
 ---
 title: Steve Jobs
 tags: [Biography]
-image: "/Images/Books/SJWI.png"
+image: "/Images/Books/SJWI.webp"
 author: Walter Isaacson
 date: '2023-08-05'
 description: Walter Isaacson’s “enthralling” (The New Yorker) worldwide bestselling biography of Apple cofounder Steve Jobs

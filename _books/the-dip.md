@@ -2,7 +2,7 @@
 title: The Dip
 tags:
 - Self-help
-image: "/Images/Books/TDSG.png"
+image: "/Images/Books/TDSG.webp"
 author: Seth Godin
 date: '2021-03-18'
 description: A Little Book That Teaches You When to Quit

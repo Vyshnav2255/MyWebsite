@@ -1,7 +1,7 @@
 ---
 title: How to Not Die Alone
 tags: [Self-help]
-image: "/Images/Books/HNLU.png"
+image: "/Images/Books/HNLU.webp"
 author: Logan Ury
 date: '2022-08-04'
 description: The Surprising Science That Will Help You Find Love

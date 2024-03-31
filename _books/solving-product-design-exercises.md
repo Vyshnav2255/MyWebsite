@@ -1,7 +1,7 @@
 ---
 title: Solving Product Design Exercises
 tags: [Design]
-image: "/Images/Books/SPAD.png"
+image: "/Images/Books/SPAD.webp"
 author: Artiom Dashinsky
 date: '2023-11-12'
 description: Practice your product design and UX skills. Prepare for your next job interview

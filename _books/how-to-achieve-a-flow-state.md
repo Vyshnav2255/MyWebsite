@@ -1,7 +1,7 @@
 ---
 title: How To Achieve A Flow State
 tags: [Self-help]
-image: "/Images/Books/HAMD.png"
+image: "/Images/Books/HAMD.webp"
 author: Maxim Dsouza
 date: '2021-11-25'
 description: Work Distraction Free With High Productivity

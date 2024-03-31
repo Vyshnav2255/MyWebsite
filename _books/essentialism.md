@@ -1,7 +1,7 @@
 ---
 title: Essentialism
 tags: [Self-help]
-image: "/Images/Books/ELGM.png"
+image: "/Images/Books/ELGM.webp"
 author: Greg McKeown
 date: '2021-12-23'
 description: The Disciplined Pursuit of Less

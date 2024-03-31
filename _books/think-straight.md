@@ -1,7 +1,7 @@
 ---
 title: Think Straight
 tags: [Self-help]
-image: "/Images/Books/TSDF.png"
+image: "/Images/Books/TSDF.webp"
 author: Darius Foroux
 date: '2021-10-28'
 description: Change Your Thoughts, Change Your Life

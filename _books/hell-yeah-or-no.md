@@ -1,7 +1,7 @@
 ---
 title: Hell Yeah or No
 tags: [Self-help]
-image: "/Images/Books/HYDS.png"
+image: "/Images/Books/HYDS.webp"
 author: Derek Sivers
 date: '2021-03-30'
 description: What's worth doing

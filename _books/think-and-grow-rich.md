@@ -1,7 +1,7 @@
 ---
 title: Think and Grow Rich
 tags: [Self-help]
-image: "/Images/Books/TGNH.png"
+image: "/Images/Books/TGNH.webp"
 author: Napoleon Hill
 date: '2021-05-27'
 description: Unleash the Secret to Success

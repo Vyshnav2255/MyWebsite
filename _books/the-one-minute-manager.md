@@ -1,7 +1,7 @@
 ---
 title: The One Minute Manager
 tags: [Leadership]
-image: "/Images/Books/TOMN.png"
+image: "/Images/Books/TOMN.webp"
 author: Ken Blanchard & Spencer Johnson
 date: '2022-04-14'
 description:  Increase Productivity, Profits and Your Own Prosperity

@@ -1,7 +1,7 @@
 ---
 title: The Courage to be Disliked
 tags: [Philosophy]
-image: "/Images/Books/TCTD.png"
+image: "/Images/Books/TCTD.webp"
 author:  Ichiro Kishimi & Fumitake Koga
 date: '2022-03-17'
 description: How to Free Yourself, Change your Life and Achieve Real Happiness

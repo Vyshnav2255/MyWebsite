@@ -1,7 +1,7 @@
 ---
 title: The Anywhere Operating System
 tags: [Business]
-image: "/Images/Books/TAOS.png"
+image: "/Images/Books/TAOS.webp"
 author: Luke Thomas & Aisha Samake
 date: '2021-07-22'
 description: How to lead a team and run your business from anywhere

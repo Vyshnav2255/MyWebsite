@@ -1,7 +1,7 @@
 ---
 title: The Making of a Manager
 tags: [Leadership]
-image: "/Images/Books/TMJZ.png"
+image: "/Images/Books/TMJZ.webp"
 author: Julie Zhuo
 date: '2022-02-17'
 description: What to Do When Everyone Looks to You

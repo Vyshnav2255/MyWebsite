@@ -1,7 +1,7 @@
 ---
 title: Get Epic Shit Done
 tags: [Self-help]
-image: "/Images/Books/GSAW.png"
+image: "/Images/Books/GSAW.webp"
 author: Ankur Warikoo
 date: '2023-04-16'
 description: Answers 36 life questions that you face almost everyday, questions that you need answers to

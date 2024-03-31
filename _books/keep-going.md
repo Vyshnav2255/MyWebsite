@@ -1,7 +1,7 @@
 ---
 title: Keep Going
 tags: [Self-help]
-image: /Images/Books/KGAK.png
+image: /Images/Books/KGAK.webp
 author: Austin Kleon
 date: 2022-07-21
 description: 10 Ways to Stay Creative in Good Times and Bad

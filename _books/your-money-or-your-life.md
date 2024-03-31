@@ -1,7 +1,7 @@
 ---
 title: Your Money or Your Life
 tags: [Finance]
-image: "/Images/Books/YMYL.png"
+image: "/Images/Books/YMYL.webp"
 author: Vicki Robin
 date: '2021-09-16'
 description: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence

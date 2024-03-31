@@ -1,7 +1,7 @@
 ---
 title: Atomic Habits
 tags: [Self-help]
-image: "/Images/Books/AHJC.png"
+image: "/Images/Books/AHJC.webp"
 author: James Clear
 date: '2021-06-24'
 description: An Easy & Proven Way to Build Good Habits & Break Bad Ones

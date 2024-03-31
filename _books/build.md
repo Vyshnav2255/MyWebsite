@@ -1,7 +1,7 @@
 ---
 title: Build
 tags: [Business]
-image: "/Images/Books/BUTF.png"
+image: "/Images/Books/BUTF.webp"
 author: Tony Fadell
 date: '2022-09-15'
 description: An Unorthodox Guide to Making Things Worth Making

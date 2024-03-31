@@ -1,7 +1,7 @@
 ---
 title: Pocket Full of Do
 tags: [Self-help]
-image: "/Images/Books/PFCD.png"
+image: "/Images/Books/PFCD.webp"
 author: Chris Do
 date: '2022-11-11'
 description: One book, two decades of anecdotes, lessons, and wisdom

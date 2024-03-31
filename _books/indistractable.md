@@ -1,7 +1,7 @@
 ---
 title: Indistractable
 tags: [Self-help]
-image: "/Images/Books/INNE.png"
+image: "/Images/Books/INNE.webp"
 author: Nir Eyal
 date: '2022-03-03'
 description: How to Control Your Attention and Choose Your Life

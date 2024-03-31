@@ -1,7 +1,7 @@
 ---
 title: The Shape of Design
 tags: [Design]
-image: "/Images/Books/SDFC.png"
+image: "/Images/Books/SDFC.webp"
 author: Frank Chimero
 date: '2023-02-16'
 description: A small philosophical handbook about design and making things for people

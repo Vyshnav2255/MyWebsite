@@ -1,7 +1,7 @@
 ---
 title: Show Your Work!
 tags: [Self-help]
-image: /Images/Books/SYW.png
+image: /Images/Books/SYW.webp
 author: Austin Kleon
 date: 2022-07-07
 description: 10 Ways to Share Your Creativity and Get Discovered

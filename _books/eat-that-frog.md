@@ -1,7 +1,7 @@
 ---
 title: Eat That Frog
 tags: [Self-help]
-image: "/Images/Books/EFBT.png"
+image: "/Images/Books/EFBT.webp"
 author: Brian Tracy
 date: '2021-12-09'
 description: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time

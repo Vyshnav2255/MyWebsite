@@ -1,7 +1,7 @@
 ---
 title: The Bullet Journal Method
 tags: [Self-help]
-image: /Images/Books/TBJM.png
+image: /Images/Books/TBJM.webp
 author: Ryder Carroll
 date: 2021-02-08
 description: Track the Past, Order the Present, Design the Future

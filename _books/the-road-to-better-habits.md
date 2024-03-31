@@ -1,7 +1,7 @@
 ---
 title: The Road to Better Habits
 tags: [Self-help]
-image: "/Images/Books/BHDF.png"
+image: "/Images/Books/BHDF.webp"
 author: Darius Foroux
 date: '2022-01-06'
 description: A simple framework for transforming your habits

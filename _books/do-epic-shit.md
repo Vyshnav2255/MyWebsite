@@ -1,7 +1,7 @@
 ---
 title: Do Epic Shit
 tags: [Self-help]
-image: "/Images/Books/DSAW.png"
+image: "/Images/Books/DSAW.webp"
 author: Ankur Warikoo
 date: '2022-02-03'
 description: Ankur Warikoo is an entrepreneur and content creator whose deep, witty and brutally honest thoughts on success and failure, money and investing, self-awareness and personal relationships have made him one of India’s top personal brands

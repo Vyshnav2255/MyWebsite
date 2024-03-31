@@ -1,7 +1,7 @@
 ---
 title: The Psychology of Money
 tags: [Finance]
-image: "/Images/Books/TMMH.png"
+image: "/Images/Books/TMMH.webp"
 author: Morgan Housel
 date: '2022-05-20'
 description: Timeless Lessons on Wealth, Greed, and Happiness

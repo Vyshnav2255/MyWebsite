@@ -1,7 +1,7 @@
 ---
 title: Less Doing, More Living
 tags: [Self-help]
-image: "/Images/Books/LDML.png"
+image: "/Images/Books/LDML.webp"
 author: Ari Meisel
 date: '2021-09-30'
 description: Make Everything in Life Easier

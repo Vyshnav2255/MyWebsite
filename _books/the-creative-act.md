@@ -1,7 +1,7 @@
 ---
 title: The Creative Act
 tags: [Self-help]
-image: /Images/Books/CARR.png
+image: /Images/Books/CARR.webp
 author: Rick Rubin
 date: 2023-12-03
 description: A Way of Being

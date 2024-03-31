@@ -1,7 +1,7 @@
 ---
 title: How to Live
 tags: [Self-help]
-image: "/Images/Books/HTLD.png"
+image: "/Images/Books/HTLD.webp"
 author: Derek Sivers
 date: '2021-11-11'
 description: 27 conflicting answers and one weird conclusion

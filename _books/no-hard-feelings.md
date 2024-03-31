@@ -1,7 +1,7 @@
 ---
 title: No Hard Feelings
 tags: [Self-help]
-image: "/Images/Books/NHFL.png"
+image: "/Images/Books/NHFL.webp"
 author: Liz Fosslien & Mollie West Duffy
 date: '2021-08-19'
 description: The Secret Power of Embracing Emotions at Work

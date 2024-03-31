@@ -1,7 +1,7 @@
 ---
 title: Hooked
 tags: [Design]
-image: "/Images/Books/HONE.png"
+image: "/Images/Books/HONE.webp"
 author: Nir Eyal
 date: '2022-12-17'
 description: How to Build Habit-Forming Products

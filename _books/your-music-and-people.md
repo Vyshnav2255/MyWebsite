@@ -1,7 +1,7 @@
 ---
 title: Your Music and People
 tags: [Self-help]
-image: "/Images/Books/YMDS.png"
+image: "/Images/Books/YMDS.webp"
 author: Derek Sivers
 date: '2021-04-29'
 description: Creative and considerate fame

@@ -1,7 +1,7 @@
 ---
 title: Make Time
 tags: [Self-help]
-image: "/Images/Books/MTJJ.png"
+image: "/Images/Books/MTJJ.webp"
 author: Jake Knapp & John Zeratsky
 date: '2022-06-25'
 description: How to Focus on What Matters Every Day

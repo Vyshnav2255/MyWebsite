@@ -1,7 +1,7 @@
 ---
 title: The Art of Saying No
 tags: [Self-help]
-image: "/Images/Books/TASN.png"
+image: "/Images/Books/TASN.webp"
 author: Damon Zahariades
 date: '2022-10-29'
 description: How to Stand Your Ground, Reclaim Time and Energy, and Refuse to be Taken for Granted

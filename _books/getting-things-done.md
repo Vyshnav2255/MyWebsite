@@ -1,7 +1,7 @@
 ---
 title: Getting Things Done
 tags: [Self-help]
-image: "/Images/Books/GTDA.png"
+image: "/Images/Books/GTDA.webp"
 author: David Allen
 date: '2021-09-02'
 description: The Art of Stress-Free Productivity

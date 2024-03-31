@@ -1,7 +1,7 @@
 ---
 title: The Unfair Advantage
 tags: [Self-help]
-image: "/Images/Books/UAAH.png"
+image: "/Images/Books/UAAH.webp"
 author: Ash Ali & Hasan Kubba
 date: '2021-07-08'
 description: How You Already Have What It Takes to Succeed

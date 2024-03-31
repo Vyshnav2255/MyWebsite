@@ -1,7 +1,7 @@
 ---
 title: Hyperfocus
 tags: [Self-help]
-image: "/Images/Books/HFCB.png"
+image: "/Images/Books/HFCB.webp"
 author: Chris Bailey
 date: '2022-03-31'
 description: How to Be More Productive in a World of Distraction

@@ -1,7 +1,7 @@
 ---
 title: The Minimalist Entrepreneur
 tags: [Business]
-image: "/Images/Books/MESL.png"
+image: "/Images/Books/MESL.webp"
 author: Sahil Lavingia
 date: '2022-01-20'
 description: How Great Founders Do More with Less

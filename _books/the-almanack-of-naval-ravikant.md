@@ -1,7 +1,7 @@
 ---
 title: The Almanack of Naval Ravikant
 tags: [Self-help]
-image: "/Images/Books/TANR.png"
+image: "/Images/Books/TANR.webp"
 author: Eric Jorgenson
 date: '2021-06-10'
 description: A Guide to Wealth and Happiness

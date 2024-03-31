@@ -1,7 +1,7 @@
 ---
 title: Design As Art
 tags: [Design]
-image: "/Images/Books/DABM.png"
+image: "/Images/Books/DABM.webp"
 author: Bruno Munari
 date: '2022-05-05'
 description: An illustrated journey into the artistic possibilities of modern design, by the enfant terrible of Italian art and design for most of the twentieth century

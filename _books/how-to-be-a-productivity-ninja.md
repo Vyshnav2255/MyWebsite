@@ -1,7 +1,7 @@
 ---
 title: How to Be a Productivity Ninja
 tags: [Self-help]
-image: "/Images/Books/HPNG.png"
+image: "/Images/Books/HPNG.webp"
 author: Graham Allcott
 date: '2021-10-14'
 description: Worry Less, Achieve More and Love What You Do

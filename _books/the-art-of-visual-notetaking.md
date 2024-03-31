@@ -1,7 +1,7 @@
 ---
 title: The Art of Visual Notetaking
 tags: [Design]
-image: /Images/Books/VNEM.png
+image: /Images/Books/VNEM.webp
 author: Emily Mills
 date: 2022-08-18
 description: An Interactive Guide to Visual Communication and Sketchnoting

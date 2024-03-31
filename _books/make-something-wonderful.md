@@ -1,7 +1,7 @@
 ---
 title: Make Something Wonderful
 tags: [Biography]
-image: "/Images/Books/MWSJ.png"
+image: "/Images/Books/MWSJ.webp"
 author: Steve Jobs
 date: '2023-05-25'
 description: A curated collection of Steve’s speeches, interviews and correspondence

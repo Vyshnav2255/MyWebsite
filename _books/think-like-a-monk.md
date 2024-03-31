@@ -1,7 +1,7 @@
 ---
 title: Think Like a Monk
 tags: [Self-help]
-image: "/Images/Books/TMJS.png"
+image: "/Images/Books/TMJS.webp"
 author: Jay Shetty
 date: '2021-05-13'
 description: Train Your Mind for Peace and Purpose Every Day

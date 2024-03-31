@@ -1,7 +1,7 @@
 ---
 title: Don't Make Me Think
 tags: [Design]
-image: "/Images/Books/DTSK.png"
+image: "/Images/Books/DTSK.webp"
 author: Steve Krug
 date: '2023-03-18'
 description: A Common Sense Approach to Web Usability

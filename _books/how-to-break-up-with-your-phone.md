@@ -1,7 +1,7 @@
 ---
 title: How to Break Up with Your Phone
 tags: [Self-help]
-image: "/Images/Books/HBWP.png"
+image: "/Images/Books/HBWP.webp"
 author: Catherine Price
 date: '2021-08-05'
 description: The 30-Day Plan to Take Back Your Life
