@@ -13,8 +13,8 @@
 - name: Cron
   logo: /Images/Skills/cron.png
 
-- name: Spotify
-  logo: /Images/Skills/spotify.png
+- name: Apple Music
+  logo: /Images/Skills/music.webp
 
 - name: Todoist
   logo: /Images/Skills/todoist.png
@@ -40,8 +40,8 @@
 - name: Endel
   logo: /Images/Skills/endel.png
 
-- name: Pocket Casts
-  logo: /Images/Skills/pocket cast.png
+- name: Apple Podcasts
+  logo: /Images/Skills/podcast.webp
 
 - name: Notion
   logo: /Images/Skills/notion.png
