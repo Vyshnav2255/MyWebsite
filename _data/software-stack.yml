@@ -1,50 +1,47 @@
 - name: Figma
-  logo: /Images/Skills/figma.png
+  logo: /Images/Skills/figma.webp
 
 - name: Headspace
-  logo: /Images/Skills/headspace.png
+  logo: /Images/Skills/headspace.webp
 
 - name: Arc
-  logo: /Images/Skills/arc.png
+  logo: /Images/Skills/arc.webp
 
 - name: Raycast
-  logo: /Images/Skills/raycast.png
+  logo: /Images/Skills/raycast.webp
 
 - name: Cron
-  logo: /Images/Skills/cron.png
+  logo: /Images/Skills/cron.webp
 
-- name: Apple Music
+- name: Music
   logo: /Images/Skills/music.webp
 
 - name: Todoist
-  logo: /Images/Skills/todoist.png
+  logo: /Images/Skills/todoist.webp
   
 - name: Notes
-  logo: /Images/Skills/notes.png
+  logo: /Images/Skills/notes.webp
 
 - name: DaVinci Resolve
-  logo: /Images/Skills/davinci.png
+  logo: /Images/Skills/davinci.webp
 
 - name: Blender
-  logo: /Images/Skills/blender.png
-
-- name: Dropbox
-  logo: /Images/Skills/dropbox.png
+  logo: /Images/Skills/blender.webp
 
 - name: Forest
-  logo: /Images/Skills/forest.png
+  logo: /Images/Skills/forest.webp
 
 - name: VS Code
-  logo: /Images/Skills/vs code.png
+  logo: /Images/Skills/vs code.webp
 
 - name: Endel
-  logo: /Images/Skills/endel.png
+  logo: /Images/Skills/endel.webp
 
-- name: Apple Podcasts
+- name: Podcasts
   logo: /Images/Skills/podcast.webp
 
 - name: Notion
-  logo: /Images/Skills/notion.png
+  logo: /Images/Skills/notion.webp
 
 - name: Bitwarden
-  logo: /Images/Skills/bitwarden.png
+  logo: /Images/Skills/bitwarden.webp
