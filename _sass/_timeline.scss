@@ -31,5 +31,5 @@
 	border-radius: 4px;
 	@include themed(background, $dark-100, $dark-800);
 	display: inline;
-	@include themed(color, $dark-600, $dark-300);
+	@include themed(color, $dark-500, $dark-400);
 }
