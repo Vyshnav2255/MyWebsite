@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Book Notes
-permalink: /book-notes/
-weight: 3
+title: Book Notes(hidden)
+permalink: /hidden-notes/
 image: /assets/card.png
-description: A personal library of my key takeaways, notes, & highlights from the books I've read
+description: A personal library of my key takeaways, notes, & highlights from the books I've read (hidden)
 ---
 
 {% include elements/page-title.html title="📚️ Book Notes" %}
@@ -12,8 +11,8 @@ description: A personal library of my key takeaways, notes, & highlights from th
 {% include book-notes/search.html %}
 
 <div class="post-grid" id="book">
-  {% assign hidden_posts = site.books | where_exp: "book", "book.hide != true" %}
-  {% for book in hidden_posts reversed %}
+  {% assign hidden_posts = site.books | where: 'hide', true %}
+  {% for book in hidden_posts %}
   <div class="post-grid-item book">
     <a href="{{ book.url }}" class="post text-themed">
       <img class="border" src="{{ book.image }}" alt="{{ book.title }}" loading="lazy" />
