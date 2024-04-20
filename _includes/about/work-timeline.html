@@ -29,7 +29,6 @@
       {{ item.start | date: "%b %y" }}
       &mdash;
       {{ item.end | date: "%b %y" | default: "Present" }}
-      <span>({%- include date-diff.html -%})</span>
     </div>
 
   </div>
