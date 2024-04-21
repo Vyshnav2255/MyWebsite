@@ -33,5 +33,5 @@ I currently reside in Kerala, India. I enjoy reading books & listening to podcas
 <div class="about-sec-h text-mute">Timeline</div>
 
 <div>
-{% include about/work-timeline.html %}
+{% include about/timeline.html %}
 </div>
