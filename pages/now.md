@@ -17,9 +17,9 @@ description: What I’m doing now. An update on my current focus & activities
 
 👨‍💻 Redesigning [this website](https://twitter.com/vyshnav_xyz/status/1605566892361539585)
 
-✍️ Writing [Sunday Summary](https://vyshnav.substack.com/) newsletter
+<!-- ✍️ Writing [Sunday Summary](https://vyshnav.substack.com/) newsletter -->
 
-📚 Reading - The Path to Senior Product Designer
+📚 Reading - 8 Rules of Love
 
 <!-- 🎧 Listening to Will -->
 
