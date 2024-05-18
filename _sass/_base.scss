@@ -126,12 +126,17 @@ ul.task-list {
 }
 
 footer {
+    @include themed(background-color, $dark-100, $dark-800);
+    border-top: 1px dashed;
+    @include themed(border-color, $dark-300, $dark-700);
+    @include themed(color, $dark-500, $dark-400);
+
     .social-icon {
         display: inline-block;
         padding: .5rem .75rem;
 
         svg {
-            @include themed(color, $dark-700, $dark-300);
+            @include themed(color, $dark-500, $dark-400);
 
             &:hover {
                 @include themed(color, $primary-500, $primary-300);
