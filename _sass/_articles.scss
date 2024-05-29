@@ -25,15 +25,16 @@
 
     a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not(.no-underline):not(.account):not(.video-img):not(.p-hunt) {
         text-decoration: none;
-        border-bottom: 1px solid;
+        border-bottom: 1px dashed;
         padding: 0.125rem;
         @include themed(color, $dark-700, $dark-300);
-        @include themed(border-color, $dark-300, $dark-700);
+        @include themed(border-color, $dark-400, $dark-600);
 
         &:hover {
             @include themed(color, $primary-900, $primary-200);
             @include themed(border-color, $primary-900, $primary-200);
             @include themed(background-color, $primary-100, $primary-900);
+            border-bottom: solid;
         }
     }
 
