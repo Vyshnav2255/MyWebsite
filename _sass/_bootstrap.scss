@@ -116,14 +116,6 @@
     border-collapse: collapse;
   }
   
-  caption {
-    padding-top: 0.75rem;
-    padding-bottom: 0.75rem;
-    color: #6c757d;
-    text-align: left;
-    caption-side: bottom;
-  }
-  
   th {
     text-align: inherit;
     text-align: -webkit-match-parent;
@@ -238,11 +230,6 @@
   .mark {
     padding: 0.2em;
     background-color: #fcf8e3;
-  }
-  
-  .list-unstyled {
-    padding-left: 0;
-    list-style: none;
   }
   
   .list-inline {
@@ -497,16 +484,6 @@
     align-items: center;
     -ms-flex-pack: justify;
     justify-content: space-between;
-  }
-  
-  .navbar-brand {
-    display: inline-block;
-    padding-top: 0.3125rem;
-    padding-bottom: 0.3125rem;
-    margin-right: 1rem;
-    font-size: 1.25rem;
-    line-height: inherit;
-    white-space: nowrap;
   }
   
   .navbar-brand:hover, .navbar-brand:focus {
