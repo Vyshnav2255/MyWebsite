@@ -1,8 +1,12 @@
-<footer style="margin-top: auto; padding: 1.5rem 0 1.5rem 0; display: block; text-align: center;">
-
-  <small>
-    Crafted with ❤️ by <strong>Vyshnav</strong> • Mark {{ site.version }}
-  </small>
+<footer>
+  <span class="font-14 footer-text">
+    <span>
+      Crafted with <span id="emojiContainer">❤️</span> by <strong>Vyshnav</strong>
+    </span>
+    <span>
+      Mark {{ site.version }}
+    </span>
+  </span>
 
   <div class="container-fluid" style="display: flex; justify-content: center;">
 
@@ -24,3 +28,5 @@
   </div>
 
 </footer>
+
+<script src="{{ '/assets/js/emoji.js' | relative_url }}"></script>
