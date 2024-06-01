@@ -6,7 +6,7 @@ description         : >-                               # >- means to ignore newl
 url                 : "https://vyshnav.xyz"                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
 repository          : Vyshnav2255/MyWebsite
-version             : "IX"               # version of your site
+version             : "X"               # version of your site
 
 ### Author Info ###
 author:
