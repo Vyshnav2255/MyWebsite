@@ -8,6 +8,3 @@ vendor/
 
 # optional for macs:
 .DS_Store
-
-
-Gemfile.lock
