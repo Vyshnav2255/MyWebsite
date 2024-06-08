@@ -73,6 +73,8 @@ plugins:
 
 sass:
     style: compressed
+
+permalink: pretty
   
 ### Exclude from processing ###
 exclude:
