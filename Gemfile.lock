@@ -289,8 +289,6 @@ GEM
     uri (0.13.0)
     webrick (1.8.1)
 
-gem “ffi”, “= 1.16.3”
-
 PLATFORMS
   arm64-darwin
 
@@ -307,4 +305,4 @@ DEPENDENCIES
   webrick (~> 1.8)
 
 BUNDLED WITH
-   2.5.6
+   3.0.0
