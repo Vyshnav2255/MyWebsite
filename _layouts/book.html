@@ -14,7 +14,7 @@ layout: page
 
       <br>
         {% assign words = content | number_of_words %}
-        {% include baseline-svg.html svg="clock" %}{% if words < 360 %}1 min read time {% else %}{{ words | divided_by:180 }} mins read time {% endif %}
+        {% if words < 360 %}1 min read {% else %}{{ words | divided_by:180 }} min read {% endif %}
     </p>
   </header>
   <hr>
