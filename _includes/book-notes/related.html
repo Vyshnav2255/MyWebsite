@@ -28,8 +28,8 @@
         <img src="{{ book.image }}" alt="{{ book.title }}">
         <div class="book-card-data">
           <h3><b>{{ book.title }}</b></h3>
-          <p style="margin-bottom: 0;">{{ book.author }}</p>
-          <small class="text-mute">{{ book.date | date_to_string }}</small>
+          <span>{{ book.author }}</span>
+          <span class="text-mute">{{ book.date | date_to_string }}</span>
         </div>
       </div>
     </div>
