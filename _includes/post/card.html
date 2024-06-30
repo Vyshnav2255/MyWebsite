@@ -5,7 +5,7 @@
             <h2 class="font-18"><b>{{ blog.title }}</b></h2>
 
             {% if include.description == 'true' | default: 'true' %}
-            <p class="text-mute">{{ blog.content | markdownify | strip_html | truncate: 88 }}</p>
+            <p class="text-mute">{{ blog.content | markdownify | strip_html | truncate: 87 }}</p>
             {% endif %}
             <span class="timeline-date">{{ blog.date | date_to_string }}</span>
         </div>
