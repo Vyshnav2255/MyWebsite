@@ -10,9 +10,9 @@ layout: page
       by <b>{{ page.author }}</b>
       <br>
       {{ page.date | date: "%b %d, %Y" }}
-      • {% include baseline-svg.html svg="star" %}{{ page.rating | divided_by: 2.0 }}
+      | {% include baseline-svg.html svg="star" %}{{ page.rating | divided_by: 2.0 }}
 
-      <br>
+      | 
         {% assign words = content | number_of_words %}
         {% if words < 360 %}1 min read {% else %}{{ words | divided_by:180 }} min read {% endif %}
     </p>
