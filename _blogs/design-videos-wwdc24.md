@@ -37,14 +37,14 @@ Embark on a delightful journey through a handpicked assortment of design videos 
 {% include elements/section-heading.html title="Games" %}
 
 - 🎮 [Design advanced games for Apple platforms](https://developer.apple.com/videos/play/wwdc2024/10085/){:target="_blank" rel="noopener"}
+- 🕹️ [Explore game input in visionOS](https://developer.apple.com/videos/play/wwdc2024/10094/){:target="_blank" rel="noopener"}
+- 📱 [Bring your iOS or iPadOS game to visionOS](https://developer.apple.com/videos/play/wwdc2024/10093/){:target="_blank" rel="noopener"}
 
 {% include elements/section-heading.html title="visionOS" %}
 
 - 🎨 [Design great visionOS apps](https://developer.apple.com/videos/play/wwdc2024/10086/){:target="_blank" rel="noopener"}
 - 🤌 [Design interactive experiences for visionOS](https://developer.apple.com/videos/play/wwdc2024/10096/){:target="_blank" rel="noopener"}
 - 📦 [Dive deep into volumes and immersive spaces](https://developer.apple.com/videos/play/wwdc2024/10153/){:target="_blank" rel="noopener"}
-- 🕹️ [Explore game input in visionOS](https://developer.apple.com/videos/play/wwdc2024/10094/){:target="_blank" rel="noopener"}
-- 📱 [Bring your iOS or iPadOS game to visionOS](https://developer.apple.com/videos/play/wwdc2024/10093/){:target="_blank" rel="noopener"}
 
 {% include elements/section-heading.html title="iPadOS" %}
 
