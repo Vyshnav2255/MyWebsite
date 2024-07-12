@@ -19,7 +19,7 @@ description: What I’m doing now. An update on my current focus & activities
 
 <!-- ✍️ Writing [Sunday Summary](https://vyshnav.substack.com/) newsletter -->
 
-📚 Reading - [Solving the Procrastination Puzzle](https://www.goodreads.com/book/show/18079767-solving-the-procrastination-puzzle) & [Sneham Kamam Bhranth](https://www.goodreads.com/book/show/159298311-sneham-kamam-bhranth)
+📚 Reading - [The Visual Mba](https://www.goodreads.com/book/show/42409349-the-visual-mba) & [Sneham Kamam Bhranth](https://www.goodreads.com/book/show/159298311-sneham-kamam-bhranth)
 
 <!-- 🎧 Listening to Will -->
 
