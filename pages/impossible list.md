@@ -14,7 +14,7 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 
 <div class="about-sec-h text-mute" style="margin-bottom: 1rem;">😃 Life Goals</div>
 
-{% include elements/checklist.html title="Read 100 books (94/100)"%}
+{% include elements/checklist.html title="Read 100 books" check="true" date="Jul 11, 2024" link="https://www.goodreads.com/vyshnav"%}
 {% include elements/checklist.html title="Change 1 Person’s Life For The Better"%}
 {% include elements/checklist.html title="Own a Kindle reader" check="true" date="Oct 14, 2023" link="https://x.com/vyshnav_xyz/status/1713197121195971045"%}
 {% include elements/checklist.html title="Own an iPad"%}
@@ -53,7 +53,7 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 {% include elements/checklist.html title="Gain 500 Twitter followers" check="true" date="Mar 07, 2022" link="https://twitter.com/vyshnav_xyz/status/1500835594146045956"%}
 {% include elements/checklist.html title="Gain 1,000 followers" check="true" date="Apr 24, 2022" link="https://twitter.com/vyshnav_xyz/status/1518463933513830401" previous="true"%}
 {% include elements/checklist.html title="Gain 2,000 followers" check="true" date="Feb 25, 2023" previous="true"%}
-{% include elements/checklist.html title="Gain 3,000 followers" previous="true"%}
+{% include elements/checklist.html title="Gain 4,000 followers" previous="true"%}
 
 {% include elements/checklist.html title="Make $1000 from Buy me a Coffee" check="true" date="Sep 28, 2021" link="/microblog/made-my-first-1000-on-the-internet"%}
 {% include elements/checklist.html title="Make $2000" previous="true"%}
