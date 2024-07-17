@@ -27,7 +27,7 @@ Last updated on **{{ site.time | date: '%B %-d, %Y' }}**
 {% include elements/checklist.html title="Spend one week without internet"%}
 {% include elements/checklist.html title="Visit an Apple Store" check="true" date="Dec 11, 2023" link="https://x.com/vyshnav_xyz/status/1734178230503137582?s=20"%}
 {% include elements/checklist.html title="Attend a Figma Event"%}
-{% include elements/checklist.html title="Get some Figma swag"%}
+{% include elements/checklist.html title="Get some Figma swag" check="true" date="Jul 17, 2024" link="https://x.com/vyshnav_xyz/status/1813507931297685789"%}
 {% include elements/checklist.html title="Get on a plane" check="true" date="Dec 08, 2023" link="https://x.com/vyshnav_xyz/status/1733400303863836697?s=20"%}
 
 
