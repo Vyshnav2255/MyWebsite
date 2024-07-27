@@ -19,7 +19,7 @@ description: What I’m doing now. An update on my current focus & activities
 
 <!-- ✍️ Writing [Sunday Summary](https://vyshnav.substack.com/) newsletter -->
 
-📚 Reading - [Feel-Good Productivity](https://www.goodreads.com/book/show/142402923-feel-good-productivity) & [Sneham Kamam Bhranth](https://www.goodreads.com/book/show/159298311-sneham-kamam-bhranth)
+📚 Reading - [Feel-Good Productivity](https://www.goodreads.com/book/show/142402923-feel-good-productivity) & [Ram C/O Anandhi](https://www.goodreads.com/book/show/55923206-c-o-ram-c-o-anandhi)
 
 <!-- 🎧 Listening to Will -->
 
