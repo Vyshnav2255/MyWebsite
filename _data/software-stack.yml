@@ -28,20 +28,11 @@
 - name: Blender
   logo: /Images/Skills/blender.webp
 
-- name: Forest
-  logo: /Images/Skills/forest.webp
-
 - name: VS Code
   logo: /Images/Skills/vs code.webp
 
-- name: Endel
-  logo: /Images/Skills/endel.webp
-
 - name: Podcasts
   logo: /Images/Skills/podcast.webp
-
-- name: Notion
-  logo: /Images/Skills/notion.webp
 
 - name: Bitwarden
   logo: /Images/Skills/bitwarden.webp
