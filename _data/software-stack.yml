@@ -1,38 +1,38 @@
 - name: Figma
-  logo: /Images/Skills/figma.webp
+  logo: /Images/stack/figma.webp
 
 - name: Headspace
-  logo: /Images/Skills/headspace.webp
+  logo: /Images/stack/headspace.webp
 
 - name: Arc
-  logo: /Images/Skills/arc.webp
+  logo: /Images/stack/arc.webp
 
 - name: Raycast
-  logo: /Images/Skills/raycast.webp
+  logo: /Images/stack/raycast.webp
 
 - name: Cron
-  logo: /Images/Skills/cron.webp
+  logo: /Images/stack/cron.webp
 
 - name: Music
-  logo: /Images/Skills/music.webp
+  logo: /Images/stack/music.webp
 
 - name: Todoist
-  logo: /Images/Skills/todoist.webp
+  logo: /Images/stack/todoist.webp
   
 - name: Notes
-  logo: /Images/Skills/notes.webp
+  logo: /Images/stack/notes.webp
 
 - name: DaVinci Resolve
-  logo: /Images/Skills/davinci.webp
+  logo: /Images/stack/davinci.webp
 
 - name: Blender
-  logo: /Images/Skills/blender.webp
+  logo: /Images/stack/blender.webp
 
 - name: VS Code
-  logo: /Images/Skills/vs code.webp
+  logo: /Images/stack/vs code.webp
 
 - name: Podcasts
-  logo: /Images/Skills/podcast.webp
+  logo: /Images/stack/podcast.webp
 
 - name: Bitwarden
-  logo: /Images/Skills/bitwarden.webp
+  logo: /Images/stack/bitwarden.webp
