@@ -30,7 +30,7 @@
 }
 
 .navbar {
-    padding: .5rem .5rem .5rem 1rem;
+    padding: .5rem .5rem .5rem 1.125rem;
     border-radius: .75rem;
     min-height: 52px;
     @include themed(background-color, $dark-100, $dark-800);
