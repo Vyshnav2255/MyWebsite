@@ -2,7 +2,7 @@
     <a href="{{ blog_url }}" class="post text-themed">
         <img class="border" src="{{ blog.image }}" alt="{{ blog.title }}" />
         <div class="blog-body">
-            <h2 class="font-18"><b>{{ blog.title }}</b></h2>
+            <h2 class="font-18">{{ blog.title }}</h2>
 
             {% if include.description == 'true' | default: 'true' %}
             <p class="text-mute">{{ blog.content | markdownify | strip_html | truncate: 87 }}</p>
