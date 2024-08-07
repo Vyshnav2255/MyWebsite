@@ -15,11 +15,9 @@ description: What I’m doing now. An update on my current focus & activities
 
 🗣️ Improving my English speaking skills
 
-👨‍💻 Redesigning [this website](https://twitter.com/vyshnav_xyz/status/1605566892361539585)
-
 <!-- ✍️ Writing [Sunday Summary](https://vyshnav.substack.com/) newsletter -->
 
-📚 Reading - [Feel-Good Productivity](https://www.goodreads.com/book/show/142402923-feel-good-productivity) & [Ram C/O Anandhi](https://www.goodreads.com/book/show/55923206-c-o-ram-c-o-anandhi)
+📚 Reading - [Creative Confidence](https://www.goodreads.com/book/show/17288649-creative-confidence) & [Ram C/O Anandhi](https://www.goodreads.com/book/show/55923206-c-o-ram-c-o-anandhi)
 
 <!-- 🎧 Listening to Will -->
 
